@@ -1,0 +1,7 @@
+Anthony_Davis.txt,2.3291869163513184
+Bill_Hewitt.txt,1.1316947937011719
+Devontae_Cacok.txt,2.5011038780212402
+Greg_Foster.txt,2.3303987979888916
+Jay_Vincent.txt,2.1055104732513428
+Kermit_Washington.txt,2.1688318252563477
+Magic_Johnson.txt,2.4360461235046387

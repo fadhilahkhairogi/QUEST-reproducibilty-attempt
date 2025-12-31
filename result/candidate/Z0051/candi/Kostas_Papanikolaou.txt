@@ -1,0 +1,32 @@
+name
+Candidate Sentence: Kostas Papanikolaou Konstantinos "Kostas" Papanikolaou (Greek: Κωνσταντίνος "Κώστας" Παπανικολάου; born 31 July 1990) nicknamed "Air Pap" is a Greek professional basketball player and the team captain for Olympiacos of the Greek Basket League (GBL) and the EuroLeague. Standing at 2.04 m (6'8 1⁄2"), he plays at the small forward position
+
+
+age
+Candidate Sentence: On 13 February 2015, he took part in the Rising Stars Challenge of the NBA All-Star Game; in spite of an injury-plagued rookie season, during which he averaged 4.2 points and 2.7 rebounds per game, while coming off the bench, the Rockets decided to pick up his team option for the 2015–16 season.
+Denver Nuggets (2015–2016) On 20 July 2015, the Rockets traded Papanikolaou, Joey Dorsey, Nick Johnson, Pablo Prigioni, a 2016 first-round draft pick, and cash considerations to the Denver Nuggets, in exchange for Ty Lawson and a 2017 second-round draft pick
+Candidate Sentence: On 5 July 2018, Papanikolaou and Olympiacos officially agreed on a new three-year contract extension. He signed another three-year extension on 22 September 2020. On July 6, 2023, Papanikolaou renewed his contract with the Greek club through 2026.
+National team career Greek junior national As a member of the junior national basketball teams of Greece, Papanikolaou won the silver medal at the 2007 FIBA Europe Under-18 Championship and the gold medal at the 2008 FIBA Europe Under-18 Championship
+
+
+team
+Candidate Sentence: The contract included NBA buyout clauses in the amounts of €1.1 million for 2014, and €750,000 for 2015.
+Barcelona went on to win the 2013–14 Spanish Liga ACB championship.
+Houston Rockets (2014–2015) On 28 June 2012, Papanikolaou was selected with the 48th overall pick in the 2012 NBA draft by the New York Knicks
+Candidate Sentence: Kostas Papanikolaou Konstantinos "Kostas" Papanikolaou (Greek: Κωνσταντίνος "Κώστας" Παπανικολάου; born 31 July 1990) nicknamed "Air Pap" is a Greek professional basketball player and the team captain for Olympiacos of the Greek Basket League (GBL) and the EuroLeague. Standing at 2.04 m (6'8 1⁄2"), he plays at the small forward position
+
+
+draft_year
+Candidate Sentence: The contract included NBA buyout clauses in the amounts of €1.1 million for 2014, and €750,000 for 2015.
+Barcelona went on to win the 2013–14 Spanish Liga ACB championship.
+Houston Rockets (2014–2015) On 28 June 2012, Papanikolaou was selected with the 48th overall pick in the 2012 NBA draft by the New York Knicks
+Candidate Sentence: On July 16, 2012, his draft rights were acquired by the Portland Trail Blazers, via a trade that sent Raymond Felton to the Knicks.
+On 10 July 2013, Papanikolaou's rights were acquired by the Houston Rockets, via a trade that sent Thomas Robinson to the Trail Blazers.
+On 23 September 2014, Papanikolaou signed with the Houston Rockets
+
+
+draft_pick
+Candidate Sentence: 
+
+college
+Candidate Sentence: 

@@ -1,0 +1,17 @@
+[name]: Jim Brasco James J. Brasco  
+Key sentnce 1: Jim Brasco James J. Brasco (February 3, 1931 – March 21, 2014) was an American basketball player.
+
+[age]:  
+Key sentnce 1: Jim Brasco James J. Brasco (February 3, 1931 – March 21, 2014) was an American basketball player.
+
+[team]:  
+Key sentnce 1: During the 1952–53 NBA season, Brasco played for the Nationals for ten games before his player rights were sold to the Milwaukee Hawks, with whom he played for an additional ten games.
+
+[draft_year]: 1952  
+Key sentnce 1: He played collegiately for New York University, before being selected by the Syracuse Nationals in the 1952 NBA draft.
+
+[draft_pick]:  
+Key sentnce 1: He played collegiately for New York University, before being selected by the Syracuse Nationals in the 1952 NBA draft.
+
+[college]: New York University  
+Key sentnce 1: He played collegiately for New York University, before being selected by the Syracuse Nationals in the 1952 NBA draft.

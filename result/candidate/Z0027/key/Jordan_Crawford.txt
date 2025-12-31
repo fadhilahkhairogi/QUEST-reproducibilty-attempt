@@ -1,0 +1,11 @@
+[name]: Jordan Crawford  
+Key sentence 1: Jordan Lee Crawford (born October 23, 1988) is an American professional basketball player for the Sichuan Blue Whales of the Chinese Basketball Association (CBA).  
+
+[draft_pick]: 27  
+Key sentence 1: Crawford was selected by the New Jersey Nets with the 27th overall pick in the 2010 NBA draft.  
+
+[draft_year]: 2010  
+Key sentence 1: Crawford was selected by the New Jersey Nets with the 27th overall pick in the 2010 NBA draft.  
+
+[NBA_championships]:   
+Key sentence 1:

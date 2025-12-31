@@ -1,0 +1,8 @@
+university_name: 
+Key sentence 1: California State University--Fresno California State University--Fresno The Basics About CSU Fresno CSU Fresno is a public institution that was founded in 1911.
+
+rank: 44
+Key sentence 1: CSU Fresno's ranking in the 2011 edition of Best Colleges is Regional Universities (West), 44.
+
+year_founded: 
+Key sentence 1: CSU Fresno is a public institution that was founded in 1911.

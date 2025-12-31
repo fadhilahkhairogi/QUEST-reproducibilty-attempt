@@ -1,0 +1,27 @@
+name
+Candidate Sentence: Jamal Crawford Aaron Jamal Crawford (born March 20, 1980) is an American former professional basketball player who played in the National Basketball Association (NBA) from 2000 to 2020. Nicknamed "J-Crossover", he is regarded as one of the best ball handlers in NBA history. Crawford was named NBA Sixth Man of the Year three times, a record he shares with Lou Williams.
+Among other distinctions, Crawford was once the NBA’s all-time leader in career four-point plays
+Candidate Sentence: He also became the eighth player in NBA history to appear in a game in 20 different seasons, joining Vince Carter, Kevin Garnett, Dirk Nowitzki, Robert Parish, Kevin Willis, Kareem Abdul-Jabbar, and Kobe Bryant. He recorded five points and three assists in five minutes before leaving the game with a left hamstring injury
+
+
+team
+Candidate Sentence: He also became the eighth player in NBA history to appear in a game in 20 different seasons, joining Vince Carter, Kevin Garnett, Dirk Nowitzki, Robert Parish, Kevin Willis, Kareem Abdul-Jabbar, and Kobe Bryant. He recorded five points and three assists in five minutes before leaving the game with a left hamstring injury
+Candidate Sentence: Jamal Crawford Aaron Jamal Crawford (born March 20, 1980) is an American former professional basketball player who played in the National Basketball Association (NBA) from 2000 to 2020. Nicknamed "J-Crossover", he is regarded as one of the best ball handlers in NBA history. Crawford was named NBA Sixth Man of the Year three times, a record he shares with Lou Williams.
+Among other distinctions, Crawford was once the NBA’s all-time leader in career four-point plays
+
+
+draft_year
+Candidate Sentence: The Knicks would fall short of the playoffs.
+In his second year in New York City, the 2005–06 season, he took a reduced sixth man role under head coach Larry Brown. Though it took some time, Crawford ended up embracing the new role. He average 14.3 points, 3.1 rebounds, and 3.8 assists across 79 games (27 starting)
+
+
+draft_pick
+Candidate Sentence: The Knicks would fall short of the playoffs.
+In his second year in New York City, the 2005–06 season, he took a reduced sixth man role under head coach Larry Brown. Though it took some time, Crawford ended up embracing the new role. He average 14.3 points, 3.1 rebounds, and 3.8 assists across 79 games (27 starting)
+
+
+college
+Candidate Sentence: Crawford is the second player in NBA history to have scored 10,000+ career points off the bench. In 2021, he began providing commentary on NBA League Pass.
+High school career Growing up in South Seattle, Crawford played for Rainier Beach High, a school that has produced a number of other NBA and college players such as Doug Christie, Nate Robinson, Terrence Williams, Kevin Porter Jr., and Dejounte Murray
+Candidate Sentence: Jamal led the Vikings to capture the 1998 Washington Interscholastic Activities Association (WIAA) State Championship. In 2001, Rainier Beach retired his number 23 jersey to commemorate his impact; and in 2018, it inducted him into its Hall of Fame to honor his legacy.
+College career Having earned a scholarship to the University of Michigan, Crawford committed to play college basketball with the Wolverines under coach Brian Ellerbe

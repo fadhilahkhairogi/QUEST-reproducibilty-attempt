@@ -1,0 +1,33 @@
+name
+Candidate Sentence: NBA.com. January 3, 2017. Retrieved January 4, 2017.
+"Kings Acquire Hield, Evans, Galloway, and 2017 Draft Selections". NBA.com. February 20, 2017. Retrieved February 20, 2017.
+"Cauley-Stein scores 29, Kings beat Nuggets 116-100". ESPN.com. February 23, 2017. Retrieved February 24, 2017.
+"Dario Saric, Buddy Hield named Kia NBA Rookies of the Month". NBA.com. April 3, 2017. Retrieved April 4, 2017.
+"Hield, Lawson lead Kings past Suns, 129-104". ESPN.com. April 11, 2017
+Candidate Sentence: Chavano Rainer "Buddy" Hield (/hiːld/ HEELD; born December 17, 1992) is a Bahamian professional basketball player for the Golden State Warriors of the National Basketball Association (NBA). He played college basketball for the Oklahoma Sooners and was named the Big 12 Conference Men's Basketball Player of the Year in 2015 and 2016. In 2016, he received four major national player of the year awards: the John R. Wooden Award, the Naismith Award, Sporting News Player of the Year, and the Oscar Robertson Trophy
+
+
+team
+Candidate Sentence: NBA.com. January 3, 2017. Retrieved January 4, 2017.
+"Kings Acquire Hield, Evans, Galloway, and 2017 Draft Selections". NBA.com. February 20, 2017. Retrieved February 20, 2017.
+"Cauley-Stein scores 29, Kings beat Nuggets 116-100". ESPN.com. February 23, 2017. Retrieved February 24, 2017.
+"Dario Saric, Buddy Hield named Kia NBA Rookies of the Month". NBA.com. April 3, 2017. Retrieved April 4, 2017.
+"Hield, Lawson lead Kings past Suns, 129-104". ESPN.com. April 11, 2017
+Candidate Sentence: "New Orleans Pelicans select Buddy Hield with 6th overall pick in 2016 NBA Draft". NOLA.com. Retrieved June 23, 2016.
+"Pelicans Sign 2016 First Round Draft Pick Buddy Hield". NBA.com. July 22, 2016. Retrieved July 22, 2016.
+"Davis, Hield lift Pelicans past Pacers, 102-95". ESPN.com. December 15, 2016. Retrieved December 15, 2016.
+"Joel Embiid, Buddy Hield named Kia Rookies of the Month". NBA.com. January 3, 2017. Retrieved January 4, 2017.
+"Kings Acquire Hield, Evans, Galloway, and 2017 Draft Selections"
+
+
+NBA_championships
+Candidate Sentence: NBA.com. January 3, 2017. Retrieved January 4, 2017.
+"Kings Acquire Hield, Evans, Galloway, and 2017 Draft Selections". NBA.com. February 20, 2017. Retrieved February 20, 2017.
+"Cauley-Stein scores 29, Kings beat Nuggets 116-100". ESPN.com. February 23, 2017. Retrieved February 24, 2017.
+"Dario Saric, Buddy Hield named Kia NBA Rookies of the Month". NBA.com. April 3, 2017. Retrieved April 4, 2017.
+"Hield, Lawson lead Kings past Suns, 129-104". ESPN.com. April 11, 2017
+Candidate Sentence: ESPN.com. January 5, 2019. Retrieved January 6, 2019.
+"Hield beats buzzer, lifts Kings to 103-101 win over Pistons". ESPN.com. January 19, 2019. Retrieved January 19, 2019.
+"Hield sets franchise season record for 3s, Kings beat Suns". ESPN.com. March 23, 2019. Retrieved March 24, 2019.
+"Kings bounce back from 25-point loss to beat Cavs 117-104". ESPN.com. April 4, 2019. Retrieved April 11, 2019.
+Ham, James (April 10, 2019). "Buddy Hield breaks Damian Lillard's NBA 3-point record in Kings' finale"

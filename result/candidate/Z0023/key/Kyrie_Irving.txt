@@ -1,0 +1,8 @@
+[name]: Kyrie Irving  
+Key sentence 1: "Kyrie Andrew Irving (/ˈkaɪri/ KY-ree; Lakota: Ȟéla, lit. 'Little Mountain'; born March 23, 1992) is an American professional basketball player for the Dallas Mavericks of the National Basketball Association (NBA)."
+
+[team]: Dallas Mavericks  
+Key sentence 1: "Kyrie Andrew Irving is an American professional basketball player for the Dallas Mavericks of the National Basketball Association (NBA)."
+
+[NBA_championships]: 1  
+Key sentence 1: "Irving won an NBA championship with the Cavaliers in 2016."

@@ -1,0 +1,19 @@
+name
+Candidate Sentence: Rookie Victor Oladipo of the Magic also recorded his first career triple-double in the same game, marking the first and only time in NBA history that two rookies have recorded triple-doubles in the same game. The last time that two players had recorded their first career triple-doubles in the same game was when Detroit Pistons Donnie Butcher and Ray Scott did it on March 14, 1964 (they were not rookies)
+Candidate Sentence: The last time that two players had recorded their first career triple-doubles in the same game was when Detroit Pistons Donnie Butcher and Ray Scott did it on March 14, 1964 (they were not rookies). It was also the first time that two opponents had recorded triple-doubles in the same game since Caron Butler and Baron Davis had done so on November 23, 2007.
+Carter-Williams was named the Eastern Conference Rookie of the Month for games played in October and November 2013
+
+
+draft_pick
+Candidate Sentence: He led all rookies in scoring (17.2 ppg), assists (7.3 apg), steals (2.92 spg) and minutes (36.2 mpg) over this stretch. He was again named Eastern Conference Rookie of the Month for games of January 2014. During January he led all rookies in scoring (16.5 ppg), and ranked second in rebounding (5.6 rpg), assists (5.6 apg) and minutes (33.3 mpg)
+Candidate Sentence: He made his debut for the Bulls in their season opener on October 27, 2016, recording five points, six rebounds and three assists off the bench in a 105–99 win over the Boston Celtics. On November 1, 2016, he was ruled out for four to six weeks after he sustained a bone bruise with no ligament damage to his knee, as well as a left wrist sprain. He returned to the Bulls lineup on December 26, 2016, and finished with one point (0-for-5 from the field) in 19 minutes against the Indiana Pacers
+
+
+draft_year
+Candidate Sentence: He led all rookies in scoring (17.2 ppg), assists (7.3 apg), steals (2.92 spg) and minutes (36.2 mpg) over this stretch. He was again named Eastern Conference Rookie of the Month for games of January 2014. During January he led all rookies in scoring (16.5 ppg), and ranked second in rebounding (5.6 rpg), assists (5.6 apg) and minutes (33.3 mpg)
+Candidate Sentence: He made his debut for the Bulls in their season opener on October 27, 2016, recording five points, six rebounds and three assists off the bench in a 105–99 win over the Boston Celtics. On November 1, 2016, he was ruled out for four to six weeks after he sustained a bone bruise with no ligament damage to his knee, as well as a left wrist sprain. He returned to the Bulls lineup on December 26, 2016, and finished with one point (0-for-5 from the field) in 19 minutes against the Indiana Pacers
+
+
+NBA_championships
+Candidate Sentence: He led all rookies in scoring (17.2 ppg), assists (7.3 apg), steals (2.92 spg) and minutes (36.2 mpg) over this stretch. He was again named Eastern Conference Rookie of the Month for games of January 2014. During January he led all rookies in scoring (16.5 ppg), and ranked second in rebounding (5.6 rpg), assists (5.6 apg) and minutes (33.3 mpg)
+Candidate Sentence: Less than a week later, he had a 26-point, 10 assist performance in a 107–104 win over the Chicago Bulls. He was subsequently named the Player of the Week in only his first week in the NBA, a feat last achieved by Shaquille O'Neal in 1992

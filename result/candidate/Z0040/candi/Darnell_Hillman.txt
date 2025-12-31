@@ -1,0 +1,27 @@
+name
+Candidate Sentence: 
+
+age
+Candidate Sentence: Hillman joins Ricky Berry (#34) and Olivier Saint-Jean (#3) as the only Spartans to have their jerseys retired.
+Candidate Sentence: Hillman responded, "Put a $100 bill up there and see." The reporter, who had heard the stories of Hillman picking quarters off the top of backboards, turned down the offer.
+At the 1997 ABA reunion, Hillman won the "Biggest ABA Afro" Award.
+Currently, Hillman serves as Associate Director of Camps, Clinics & Alumni Relations for the Indiana Pacers.
+On February 4, 2012, Hillman's #45 was retired by San Jose State University
+
+
+draft_year
+Candidate Sentence: At the time of the final, Hillman's rights had been traded to the New York Nets, but he had not yet signed a contract. Since he was not officially a member of any NBA team, instead of wearing a jersey, he competed in a plain white tank top
+Candidate Sentence: While at San Jose State Hillman also branched out into track and field. In the high jump he cleared 6'11 1/2" which still ranks 10th on San Jose's all-time list.
+Hillman played six seasons for the Pacers, who joined the National Basketball Association (NBA) with the ABA–NBA merger in June 1976. Hillman earned a reputation for his stylish slam dunks and oversized afro hairstyle
+
+
+draft_pick
+Candidate Sentence: At the time of the final, Hillman's rights had been traded to the New York Nets, but he had not yet signed a contract. Since he was not officially a member of any NBA team, instead of wearing a jersey, he competed in a plain white tank top
+Candidate Sentence: While at San Jose State Hillman also branched out into track and field. In the high jump he cleared 6'11 1/2" which still ranks 10th on San Jose's all-time list.
+Hillman played six seasons for the Pacers, who joined the National Basketball Association (NBA) with the ABA–NBA merger in June 1976. Hillman earned a reputation for his stylish slam dunks and oversized afro hairstyle
+
+
+college
+Candidate Sentence: While at San Jose State Hillman also branched out into track and field. In the high jump he cleared 6'11 1/2" which still ranks 10th on San Jose's all-time list.
+Hillman played six seasons for the Pacers, who joined the National Basketball Association (NBA) with the ABA–NBA merger in June 1976. Hillman earned a reputation for his stylish slam dunks and oversized afro hairstyle
+Candidate Sentence: At the time of the final, Hillman's rights had been traded to the New York Nets, but he had not yet signed a contract. Since he was not officially a member of any NBA team, instead of wearing a jersey, he competed in a plain white tank top

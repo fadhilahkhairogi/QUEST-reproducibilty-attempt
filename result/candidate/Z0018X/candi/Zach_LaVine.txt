@@ -1,0 +1,29 @@
+name
+Candidate Sentence: NBA.com. February 4, 2017. Retrieved February 4, 2017.
+Youngblood, Kent (February 4, 2017). "Wolves Zach LaVine out for season with ACL tear in left knee". StarTribune.com. Retrieved February 4, 2017.
+"ZACH LAVINE SURGERY UPDATE". NBA.com. February 14, 2017. Retrieved February 18, 2017.
+"BULLS ACQUIRE DUNN, LAVINE AND MARKKANEN FROM MINNEOSTA". NBA.com. June 22, 2017. Retrieved June 22, 2017.
+"Bulls top Pistons 107-105 in Zach LaVine's return". ESPN.com. January 13, 2018
+Candidate Sentence: Zachary Thomas LaVine (/ləˈviːn/ lə-VEEN; born March 10, 1995) is an American professional basketball player for the Chicago Bulls of the National Basketball Association (NBA). He was selected in the first round of the 2014 NBA draft with the 13th overall pick by the Minnesota Timberwolves. A two-time Slam Dunk Contest champion, he was named an NBA All-Star in 2021 and 2022. He also won a gold medal on the 2020 U.S
+
+
+age
+Candidate Sentence: February 15, 2015. Archived from the original on February 15, 2015.
+"Dieng, LaVine, Muhammad and Wiggins to Represent Wolves in 2015 BBVA Compass Rising Stars Challenge". NBA.com. January 28, 2015. Archived from the original on January 31, 2015.
+"OFFICIAL SCORER'S REPORT" (PDF). www.statsdmz.nba.com. April 11, 2015. Retrieved August 23, 2024.
+"Zach LaVine Shines Scoring Career-High 37-Points". YouTube.com. April 11, 2015. Retrieved April 12, 2015.
+Youngblood, Kent (May 18, 2015)
+Candidate Sentence: ESPN.com. February 14, 2016. Archived from the original on February 14, 2016.
+"Timberwolves Exercise Team Options on Four Players". NBA.com. Turner Sports Interactive, Inc. October 24, 2016. Retrieved March 3, 2024.
+"Timberwolves thump Magic to earn first road win". ESPN.com. November 9, 2016. Retrieved November 10, 2016.
+"ZACH LAVINE INJURY UPDATE". NBA.com. February 4, 2017. Retrieved February 4, 2017.
+Youngblood, Kent (February 4, 2017). "Wolves Zach LaVine out for season with ACL tear in left knee"
+
+
+team
+Candidate Sentence: NBA.com. February 4, 2017. Retrieved February 4, 2017.
+Youngblood, Kent (February 4, 2017). "Wolves Zach LaVine out for season with ACL tear in left knee". StarTribune.com. Retrieved February 4, 2017.
+"ZACH LAVINE SURGERY UPDATE". NBA.com. February 14, 2017. Retrieved February 18, 2017.
+"BULLS ACQUIRE DUNN, LAVINE AND MARKKANEN FROM MINNEOSTA". NBA.com. June 22, 2017. Retrieved June 22, 2017.
+"Bulls top Pistons 107-105 in Zach LaVine's return". ESPN.com. January 13, 2018
+Candidate Sentence: Zachary Thomas LaVine (/ləˈviːn/ lə-VEEN; born March 10, 1995) is an American professional basketball player for the Chicago Bulls of the National Basketball Association (NBA). He was selected in the first round of the 2014 NBA draft with the 13th overall pick by the Minnesota Timberwolves. A two-time Slam Dunk Contest champion, he was named an NBA All-Star in 2021 and 2022. He also won a gold medal on the 2020 U.S

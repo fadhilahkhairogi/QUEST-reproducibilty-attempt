@@ -1,0 +1,24 @@
+name
+Candidate Sentence: For other people with similar names, see Isaiah Thomas (disambiguation).
+Isiah Lord Thomas III (/aɪˈzeɪ.ə/ eye-ZAY-ə; born April 30, 1961), also known as "Zeke", is an American former professional basketball player and coach who is an analyst for NBA TV.  He played his entire professional career for the Detroit Pistons of the National Basketball Association (NBA)
+Candidate Sentence: "Knicks Shatter More Than Pistons' Season : NBA playoffs: Their series-clinching 94-87 victory over Detroit may mark the end of an era". Los Angeles Times. The Washington Post. Archived from the original on July 21, 2021. Retrieved July 21, 2021.
+"Orlando Magic at Detroit Pistons Box Score, April 19, 1994". Basketball-Reference.com. Archived from the original on September 21, 2021. Retrieved March 10, 2020.
+"Sports: Basketball; Thomas Ends on Injury". The New York Times. Associated Press. April 20, 1994
+
+
+age
+Candidate Sentence: Basketball-Reference.com. Archived from the original on September 21, 2021. Retrieved March 10, 2020.
+"Sports: Basketball; Thomas Ends on Injury". The New York Times. Associated Press. April 20, 1994. Archived from the original on June 24, 2020. Retrieved March 10, 2020.
+"Isiah Thomas Bids Farewell". The New York Times. Associated Press. May 12, 1994. Archived from the original on May 21, 2020. Retrieved March 10, 2020.
+Johnson, Roy S. (June 5, 1987). "Thomas Explains Comments on Bird". The New York Times
+Candidate Sentence: "Knicks Shatter More Than Pistons' Season : NBA playoffs: Their series-clinching 94-87 victory over Detroit may mark the end of an era". Los Angeles Times. The Washington Post. Archived from the original on July 21, 2021. Retrieved July 21, 2021.
+"Orlando Magic at Detroit Pistons Box Score, April 19, 1994". Basketball-Reference.com. Archived from the original on September 21, 2021. Retrieved March 10, 2020.
+"Sports: Basketball; Thomas Ends on Injury". The New York Times. Associated Press. April 20, 1994
+
+
+team
+Candidate Sentence: For other people with similar names, see Isaiah Thomas (disambiguation).
+Isiah Lord Thomas III (/aɪˈzeɪ.ə/ eye-ZAY-ə; born April 30, 1961), also known as "Zeke", is an American former professional basketball player and coach who is an analyst for NBA TV.  He played his entire professional career for the Detroit Pistons of the National Basketball Association (NBA)
+Candidate Sentence: "Knicks Shatter More Than Pistons' Season : NBA playoffs: Their series-clinching 94-87 victory over Detroit may mark the end of an era". Los Angeles Times. The Washington Post. Archived from the original on July 21, 2021. Retrieved July 21, 2021.
+"Orlando Magic at Detroit Pistons Box Score, April 19, 1994". Basketball-Reference.com. Archived from the original on September 21, 2021. Retrieved March 10, 2020.
+"Sports: Basketball; Thomas Ends on Injury". The New York Times. Associated Press. April 20, 1994

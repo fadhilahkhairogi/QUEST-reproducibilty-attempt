@@ -1,0 +1,23 @@
+name
+Candidate Sentence: Rik Smits This article is about the basketball player. For the linguist, see Rik Smits (linguist).
+Rik Smits (born 23 August 1966), nicknamed "the Dunking Dutchman" is a Dutch former professional basketball player who spent his entire career with the Indiana Pacers of the National Basketball Association (NBA). The 7-foot-4-inch (2.24 m) center was drafted by the Pacers out of Marist College with the second overall pick in the 1988 NBA draft
+Candidate Sentence: He ended up with the fourth most votes, trailing only Reggie Miller, Mel Daniels and Jermaine O'Neal.
+National team career Smits has also played for the senior Netherlands national team. He played in the 1986 FIBA World Championship and EuroBasket 1987.
+Life after the NBA After his retirement, Smits has devoted his time to collecting and racing vintage motocross motorcycles. On 30 November 2011, Smits was featured in Yahoo! Sports, about his formal participation in competitive motocross racing
+
+
+draft_pick
+Candidate Sentence: In 1987, he led the Red Foxes to 20 wins for the first time in its Division I history and another appearance in the NCAA tournament.
+Smits briefly appeared in the 1988 film Coming to America during a scene filmed in 1987 while Marist played against St. John's at Madison Square Garden.
+Smits was drafted second overall in the 1988 NBA draft by the Indiana Pacers, becoming the first Marist player to play in the NBA
+
+
+draft_year
+Candidate Sentence: In 1987, he led the Red Foxes to 20 wins for the first time in its Division I history and another appearance in the NCAA tournament.
+Smits briefly appeared in the 1988 film Coming to America during a scene filmed in 1987 while Marist played against St. John's at Madison Square Garden.
+Smits was drafted second overall in the 1988 NBA draft by the Indiana Pacers, becoming the first Marist player to play in the NBA
+
+
+NBA_championships
+Candidate Sentence: To help recover during the off-season, he spent time relaxing at his summer retreat in Walton, New York, where he was a regular attendee of The Afton Fair
+Candidate Sentence: Smits' highest point-per-game average was in 1995–96 when he averaged 18.5 points per game. That season, on December 10, Smits scored a career-high 44 points during a  111–104 win over the Los Angeles Clippers

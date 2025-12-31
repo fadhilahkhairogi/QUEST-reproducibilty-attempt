@@ -1,0 +1,5 @@
+university_name: Barnard College  
+Key sentence 1: "Barnard College is a private institution that was founded in 1889."
+
+rank: 26  
+Key sentence 1: "Barnard College's ranking in the 2011 edition of Best Colleges is National Liberal Arts Colleges, 26."

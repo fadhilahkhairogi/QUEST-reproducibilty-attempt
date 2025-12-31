@@ -1,0 +1,8 @@
+university_name: 
+Key sentence 1: University of California--Riverside University of California--Riverside The Basics About UCR UCR is a public institution that was founded in 1954.
+
+rank: 94
+Key sentence 1: UCR's ranking in the 2011 edition of Best Colleges is National Universities, 94.
+
+year_founded: 
+Key sentence 1: University of California--Riverside University of California--Riverside The Basics About UCR UCR is a public institution that was founded in 1954.

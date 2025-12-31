@@ -1,0 +1,26 @@
+name
+Candidate Sentence: I was making a great salary in Europe. The thing about playing in the NBA was that there were so many unknowns. The NBA was more physical because the players were bigger and stronger than in Europe. I also would have had to get used to an entirely different culture.
+1990–91 season Rađa averaged 17.9 points in the Italian League in his first season with Il Messaggero (Virtus Roma enjoyed sponsorship from that popular Roman newspaper at the time)
+Candidate Sentence: Also coming in alongside Rađa and coach Subotić, was 36-year-old NBA veteran Byron Scott from the LA Lakers.
+Rađa spent two years in Athens, winning two Greek League championships, but in 1999, he returned to his native Croatia, to play for Zadar. He left Panathinaikos partly because of an encounter with the club president's son, Dimitrios Giannakopoulos, in the locker room after a game
+
+
+draft_pick
+Candidate Sentence: At KK Split, Rađa starred alongside Toni Kukoč, while both were teenagers. The duo led the team to dominance of the FIBA European Champions Cup, with repeat championship seasons in (1989 and 1990).
+On 27 June 1989, two days after winning the EuroBasket 1989 championship with Yugoslavia and making the All-Tournament Team, the 22-year-old center got drafted by the Boston Celtics in the second round as the 40th pick
+Candidate Sentence: I was making a great salary in Europe. The thing about playing in the NBA was that there were so many unknowns. The NBA was more physical because the players were bigger and stronger than in Europe. I also would have had to get used to an entirely different culture.
+1990–91 season Rađa averaged 17.9 points in the Italian League in his first season with Il Messaggero (Virtus Roma enjoyed sponsorship from that popular Roman newspaper at the time)
+
+
+draft_year
+Candidate Sentence: At KK Split, Rađa starred alongside Toni Kukoč, while both were teenagers. The duo led the team to dominance of the FIBA European Champions Cup, with repeat championship seasons in (1989 and 1990).
+On 27 June 1989, two days after winning the EuroBasket 1989 championship with Yugoslavia and making the All-Tournament Team, the 22-year-old center got drafted by the Boston Celtics in the second round as the 40th pick
+Candidate Sentence: I was making a great salary in Europe. The thing about playing in the NBA was that there were so many unknowns. The NBA was more physical because the players were bigger and stronger than in Europe. I also would have had to get used to an entirely different culture.
+1990–91 season Rađa averaged 17.9 points in the Italian League in his first season with Il Messaggero (Virtus Roma enjoyed sponsorship from that popular Roman newspaper at the time)
+
+
+NBA_championships
+Candidate Sentence: I was making a great salary in Europe. The thing about playing in the NBA was that there were so many unknowns. The NBA was more physical because the players were bigger and stronger than in Europe. I also would have had to get used to an entirely different culture.
+1990–91 season Rađa averaged 17.9 points in the Italian League in his first season with Il Messaggero (Virtus Roma enjoyed sponsorship from that popular Roman newspaper at the time)
+Candidate Sentence: With Olympiacos, on 16 October 2000, he scored his first points in the EuroLeague competition, under its new format in which it was run by Euroleague Basketball, in a match against Real Madrid.
+He returned, once again, to Croatia, joining Cibona for the 2001–02 season

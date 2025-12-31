@@ -1,0 +1,18 @@
+[name]: Nate Huffman  
+Key sentnce 1: Nate Huffman Nate Huffman Huffman in 2014.
+
+[age]:  
+Key sentnce 1: Nathaniel Thomas Huffman (April 2, 1975 – October 15, 2015) was an American professional basketball player, who played most of his career with Maccabi Tel Aviv.
+
+[team]:  
+Key sentnce 1: After college, Huffman signed as a free agent with the Los Angeles Clippers, but did not make the team.
+
+[draft_year]:  
+Key sentnce 1: After college, Huffman signed as a free agent with the Los Angeles Clippers, but did not make the team.
+
+[draft_pick]:  
+Key sentnce 1: After college, Huffman signed as a free agent with the Los Angeles Clippers, but did not make the team.
+
+[college]: Central Michigan University; Lansing Community College  
+Key sentnce 1: Huffman played for Lakeview High School and then for Lansing Community College (where in '94–'95 he averaged 29.8 points, 14.5 rebounds, and 6 blocks per game while shooting 66.8% from the field, and was named to the JUCO All America team).  
+Key sentnce 2: He then played for Central Michigan University from 1995 until 1997 (where in '96–'97 he averaged 17.2 points, 11 rebounds (leading the Mid-America Conference in rebounding), and 1.8 blocks per game, and was named to the MAC Conference 1st team).

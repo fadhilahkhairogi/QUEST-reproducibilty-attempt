@@ -1,0 +1,14 @@
+[name]: Trent Tucker  
+Key sentnce 1: Trent Tucker Kelvin Trent Tucker (born December 20, 1959) is an American former professional basketball player who played eleven seasons in the National Basketball Association (NBA).
+
+[team]:   
+Key sentnce 1: Trent Tucker Kelvin Trent Tucker (born December 20, 1959) is an American former professional basketball player who played eleven seasons in the National Basketball Association (NBA).
+
+[draft_year]: 1982  
+Key sentnce 1: He was then selected by the New York Knicks with the 6th overall pick of the 1982 NBA draft.
+
+[draft_pick]: 6th overall pick  
+Key sentnce 1: He was then selected by the New York Knicks with the 6th overall pick of the 1982 NBA draft.
+
+[college]: University of Minnesota  
+Key sentnce 1: A 6 ft 5 in (1.96 m) shooting guard, Tucker attended the University of Minnesota from 1978 to 1982, leading them to a Big Ten Conference championship in his senior year.

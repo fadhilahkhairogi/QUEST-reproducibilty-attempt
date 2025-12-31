@@ -1,0 +1,33 @@
+name
+Candidate Sentence: Anthony Davis For other people with the same name, see Anthony Davis (disambiguation).
+Anthony Marshon Davis Jr. (born March 11, 1993), nicknamed "AD", is an American professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA). He previously played for the New Orleans Pelicans. He plays the power forward and center positions. Davis is a nine-time NBA All-Star and has been named to four All-NBA First Teams and five NBA All-Defensive Teams
+Candidate Sentence: He was a first team USA Today All-USA high school basketball team selection. He was a first-team Parade All-American. He was also a first team All-American selection by SLAM Magazine (along with Gilchrist, Rivers, Beal, Quincy Miller and Marquis Teague) and Dime Magazine (along with Gilchrist, Rivers, Beal and Myles Mack). He was a first team selection to the ESPN Rise boys' high school basketball All-American team. In the statewide voting for Illinois Mr. Basketball by coaches and media, he placed fourth
+
+
+age
+Candidate Sentence: During his junior year, his family considered having him transfer to one of Chicago's basketball powerhouses, but Hyde Park Career Academy head coach Donnie Kirksey advised against it, saying "If you're good enough, they'll find you wherever you are". Perspectives finished the season 8–15
+Candidate Sentence: After the deadline passed without a trade, the team announced that Davis would play the rest of the season; they faced potential fines by the league if they held him out. On February 8, he played for first time since his trade request
+
+
+team
+Candidate Sentence: Anthony Davis For other people with the same name, see Anthony Davis (disambiguation).
+Anthony Marshon Davis Jr. (born March 11, 1993), nicknamed "AD", is an American professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA). He previously played for the New Orleans Pelicans. He plays the power forward and center positions. Davis is a nine-time NBA All-Star and has been named to four All-NBA First Teams and five NBA All-Defensive Teams
+Candidate Sentence: He was a first team selection to the ESPN Rise boys' high school basketball All-American team. In the statewide voting for Illinois Mr. Basketball by coaches and media, he placed fourth. The Chicago Sun-Times selected him as a Class 3A first team All-State selection. The Chicago Sun-Times selected him as an all-Public League selection
+
+
+draft_year
+Candidate Sentence: At the 2012 NBA Draft Combine, Davis measured at 6 feet 9.25 inches (2.06 m), 221.8 pounds (100.6 kg) and had the second-longest wingspan—7 feet 5.5 inches (2.27 m)—of any player participating. On June 28, the New Orleans Hornets selected Davis with the first overall pick. Davis became the fifth Chicago-area first overall selection following Cazzie Russell (1966), LaRue Martin (1972), Mark Aguirre (1981) and Derrick Rose (2008)
+Candidate Sentence: Davis led the NCAA in blocks and set Southeastern Conference and NCAA Division I freshman single-season blocked shots records. He led Kentucky to a national championship and was named the most outstanding player of the 2012 NCAA Division I men's basketball tournament.
+Davis left college for the NBA after one season and was drafted as the first overall pick in the 2012 NBA draft by the New Orleans Hornets, and was selected that summer to play in the 2012 Olympics
+
+
+draft_pick
+Candidate Sentence: At the 2012 NBA Draft Combine, Davis measured at 6 feet 9.25 inches (2.06 m), 221.8 pounds (100.6 kg) and had the second-longest wingspan—7 feet 5.5 inches (2.27 m)—of any player participating. On June 28, the New Orleans Hornets selected Davis with the first overall pick. Davis became the fifth Chicago-area first overall selection following Cazzie Russell (1966), LaRue Martin (1972), Mark Aguirre (1981) and Derrick Rose (2008)
+Candidate Sentence: Davis led the NCAA in blocks and set Southeastern Conference and NCAA Division I freshman single-season blocked shots records. He led Kentucky to a national championship and was named the most outstanding player of the 2012 NCAA Division I men's basketball tournament.
+Davis left college for the NBA after one season and was drafted as the first overall pick in the 2012 NBA draft by the New Orleans Hornets, and was selected that summer to play in the 2012 Olympics
+
+
+college
+Candidate Sentence: He was a first team selection to the ESPN Rise boys' high school basketball All-American team. In the statewide voting for Illinois Mr. Basketball by coaches and media, he placed fourth. The Chicago Sun-Times selected him as a Class 3A first team All-State selection. The Chicago Sun-Times selected him as an all-Public League selection
+Candidate Sentence: Davis led the NCAA in blocks and set Southeastern Conference and NCAA Division I freshman single-season blocked shots records. He led Kentucky to a national championship and was named the most outstanding player of the 2012 NCAA Division I men's basketball tournament.
+Davis left college for the NBA after one season and was drafted as the first overall pick in the 2012 NBA draft by the New Orleans Hornets, and was selected that summer to play in the 2012 Olympics

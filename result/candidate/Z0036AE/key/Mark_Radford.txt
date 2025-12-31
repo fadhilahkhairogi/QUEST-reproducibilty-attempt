@@ -1,0 +1,8 @@
+[name]: Mark Radford  
+Key sentnce 1: Mark Radford (basketball) Mark Jeffrey Radford (born July 5, 1959) is an American former National Basketball Association player who played from 1981 to 1983.  
+
+[age]:   
+Key sentnce 1:   
+
+[team]:   
+Key sentnce 1: He played in college for Oregon State University from 1977 to 1981, and was drafted in the third round (53rd overall) of the 1981 NBA draft by the Seattle SuperSonics.

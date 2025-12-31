@@ -1,0 +1,17 @@
+university_name
+Candidate Sentence: I spend most of my time underground... all the engineering labs are underground, its annoying. It's a nice, small college town. The town of claremont is really nice, even though there are a lot of old people. I don't like the administration, I don't get the feeling they care about the students, they care about the image of the school more. The profs are great though. There is a lot of school pride, but more dorm pride. Everyone feels they belong to a specific dorm
+Candidate Sentence: And that happens quite often. School is a little small sometimes... everyone knows everything about everyone and that can get annoying. People are always impressed when I tell them I go to Mudd and they have heard about the school. I recently interviewed for an internship (which I got) and the person I interviewed with was in awe of Mudd and said the smartest man he ever knew went to Mudd. I spend most of my time underground... all the engineering labs are underground, its annoying
+
+
+setting
+Candidate Sentence: Science is a immense part of our lives. Students complain about how difficult and stressful it is here. This school really humbles you, it hurts your self esteem. But I think I'll be a stronger person by the time I graduate and will be more than prepared for the reali world.
+Copyright © 2011 U.S. News & World Report, L.P. All rights reserved.
+Use of this Web site constitutes acceptance of our Terms and Conditions of Use and Privacy Policy.
+Candidate Sentence: The students are all really nice and their is not a competitive atmosphere, despite the emphasis on academics. The professors are also really amazing and really care about the students. The focus on academics is at time really intense, just this weekend I spent 14 hours in a computer lab working on a project with my team for a presentation. And that happens quite often. School is a little small sometimes... everyone knows everything about everyone and that can get annoying
+
+
+total_undergraduate_enrollment
+Candidate Sentence: Science is a immense part of our lives. Students complain about how difficult and stressful it is here. This school really humbles you, it hurts your self esteem. But I think I'll be a stronger person by the time I graduate and will be more than prepared for the reali world.
+Copyright © 2011 U.S. News & World Report, L.P. All rights reserved.
+Use of this Web site constitutes acceptance of our Terms and Conditions of Use and Privacy Policy.
+Candidate Sentence: The students are all really nice and their is not a competitive atmosphere, despite the emphasis on academics. The professors are also really amazing and really care about the students. The focus on academics is at time really intense, just this weekend I spent 14 hours in a computer lab working on a project with my team for a presentation. And that happens quite often. School is a little small sometimes... everyone knows everything about everyone and that can get annoying

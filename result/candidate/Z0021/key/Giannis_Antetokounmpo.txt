@@ -1,0 +1,8 @@
+[name]: Giannis Antetokounmpo  
+Key sentence 1: "Giannis Sina Ugo Antetokounmpo (born Adetokunbo; December 6, 1994) is a Greek and Nigerian professional basketball player for the Milwaukee Bucks of the National Basketball Association (NBA)."
+
+[age]: 29  
+Key sentence 1: "As the son of immigrants from Nigeria, Giannis Sina Ugo Adetokunbo was born in Athens, Greece, on December 6, 1994."
+
+[mvp_awards]: 2  
+Key sentence 1: "One of the most decorated players in NBA history, Antetokounmpo won consecutive NBA Most Valuable Player Awards in 2019 and 2020."

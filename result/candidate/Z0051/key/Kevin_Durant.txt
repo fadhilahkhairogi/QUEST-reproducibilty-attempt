@@ -1,0 +1,17 @@
+[name]: Kevin Wayne Durant
+Key sentnce 1: Kevin Wayne Durant (born September 29, 1988), also known by his initials KD, is an American professional basketball player for the Phoenix Suns of the National Basketball Association (NBA).
+
+[age]: 
+Key sentnce 1: 
+
+[team]: Phoenix Suns
+Key sentnce 1: Kevin Wayne Durant (born September 29, 1988), also known by his initials KD, is an American professional basketball player for the Phoenix Suns of the National Basketball Association (NBA).
+
+[draft_year]: 2007
+Key sentnce 1: Durant was selected as the second overall pick by the Seattle SuperSonics in the 2007 NBA draft.
+
+[draft_pick]: 2
+Key sentnce 1: Durant was selected as the second overall pick by the Seattle SuperSonics in the 2007 NBA draft.
+
+[college]: Texas Longhorns
+Key sentnce 1: He played one season of college basketball for the Texas Longhorns, where he won numerous year-end awards and became the first freshman to be named Naismith College Player of the Year.

@@ -1,0 +1,15 @@
+university_name
+Candidate Sentence: University of Kansas The Basics About KU KU is a public institution that was founded in 1866. It has a total undergraduate enrollment of 21,066, its setting is urban, and the campus size is 1,000 acres. It utilizes a semester-based academic calendar.  KU's ranking in the 2011 edition of Best Colleges is National Universities, 104. Its in-state tuition and fees are $8,732; out-of-state tuition and fees are $21,539.
+The best thing about KU would have to be the atmosphere
+Candidate Sentence: Otherwise, a lot of people think that it's cool that I chose to go somewhere most of my high school classmates didn't go. Most of my time on campus is in a library. Being a pre-pharmacy student requires a lot of studying! Lawrence is a great college town. The best are the Lawrence residents, who support KU and the college students and have the same spirit we do for KU. The biggest recent controversy on campus would be gay pride week. Fred Phelps decided to show his presence
+
+
+year_founded
+Candidate Sentence: University of Kansas The Basics About KU KU is a public institution that was founded in 1866. It has a total undergraduate enrollment of 21,066, its setting is urban, and the campus size is 1,000 acres. It utilizes a semester-based academic calendar.  KU's ranking in the 2011 edition of Best Colleges is National Universities, 104. Its in-state tuition and fees are $8,732; out-of-state tuition and fees are $21,539.
+The best thing about KU would have to be the atmosphere
+Candidate Sentence: Otherwise, a lot of people think that it's cool that I chose to go somewhere most of my high school classmates didn't go. Most of my time on campus is in a library. Being a pre-pharmacy student requires a lot of studying! Lawrence is a great college town. The best are the Lawrence residents, who support KU and the college students and have the same spirit we do for KU. The biggest recent controversy on campus would be gay pride week. Fred Phelps decided to show his presence
+
+
+rank
+Candidate Sentence: We have some of the best traditions that have been going on since the university was established. I can't really think of anything I would want to change at the university. The greeks are an overwhelming population, so I guess I would like to see the university advertise more ways to get involved than just by joining a sorority or fraternity. I believe KU is the right size for me, but an opinion on the size of a school depends on the individual
+Candidate Sentence: Otherwise, a lot of people think that it's cool that I chose to go somewhere most of my high school classmates didn't go. Most of my time on campus is in a library. Being a pre-pharmacy student requires a lot of studying! Lawrence is a great college town. The best are the Lawrence residents, who support KU and the college students and have the same spirit we do for KU. The biggest recent controversy on campus would be gay pride week. Fred Phelps decided to show his presence

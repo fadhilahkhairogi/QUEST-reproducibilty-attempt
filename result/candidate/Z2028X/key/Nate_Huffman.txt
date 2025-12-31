@@ -1,0 +1,11 @@
+[name]: Nate Huffman  
+Key sentence 1: Nathaniel Thomas Huffman (April 2, 1975 – October 15, 2015) was an American professional basketball player, who played most of his career with Maccabi Tel Aviv.
+
+[draft_pick]:  
+Key sentence 1: He was signed in July 2002, by the Toronto Raptors of the NBA to a 3-year, $5.2 million contract (the third year being a team option), and appeared in 7 games, averaging 3.3 points, 3.3 rebounds and 10.9 minutes.
+
+[draft_year]:  
+Key sentence 1: 
+
+[NBA_championships]: 3  
+Key sentence 1: During his time in Israel, he won three Israeli Premier League championships and Israeli State Cups, and one European FIBA SuproLeague title (2001; when he averaged 17.5 points and 9 rebounds, while playing 30 minutes per game, as the team was 21–3).

@@ -1,0 +1,26 @@
+name
+Candidate Sentence: Darnell Hillman Darnell "Dr. Dunk" Hillman (born August 29, 1949) is a former professional basketball player.
+Hillman graduated from Hiram W. Johnson High School.
+The 6 ft 9 in (2.06 m) forward played college basketball at San Jose State University. Hillman was selected in the first round of the 1971 NBA draft (the 8th pick overall) by the Golden State Warriors, but opted instead to play for the Indiana Pacers of the American Basketball Association
+
+
+team
+Candidate Sentence: At the time of the final, Hillman's rights had been traded to the New York Nets, but he had not yet signed a contract. Since he was not officially a member of any NBA team, instead of wearing a jersey, he competed in a plain white tank top
+Candidate Sentence: While at San Jose State Hillman also branched out into track and field. In the high jump he cleared 6'11 1/2" which still ranks 10th on San Jose's all-time list.
+Hillman played six seasons for the Pacers, who joined the National Basketball Association (NBA) with the ABA–NBA merger in June 1976. Hillman earned a reputation for his stylish slam dunks and oversized afro hairstyle
+
+
+draft_year
+Candidate Sentence: While at San Jose State Hillman also branched out into track and field. In the high jump he cleared 6'11 1/2" which still ranks 10th on San Jose's all-time list.
+Hillman played six seasons for the Pacers, who joined the National Basketball Association (NBA) with the ABA–NBA merger in June 1976. Hillman earned a reputation for his stylish slam dunks and oversized afro hairstyle
+Candidate Sentence: At the time of the final, Hillman's rights had been traded to the New York Nets, but he had not yet signed a contract. Since he was not officially a member of any NBA team, instead of wearing a jersey, he competed in a plain white tank top
+
+
+draft_pick
+Candidate Sentence: While at San Jose State Hillman also branched out into track and field. In the high jump he cleared 6'11 1/2" which still ranks 10th on San Jose's all-time list.
+Hillman played six seasons for the Pacers, who joined the National Basketball Association (NBA) with the ABA–NBA merger in June 1976. Hillman earned a reputation for his stylish slam dunks and oversized afro hairstyle
+Candidate Sentence: At the time of the final, Hillman's rights had been traded to the New York Nets, but he had not yet signed a contract. Since he was not officially a member of any NBA team, instead of wearing a jersey, he competed in a plain white tank top
+
+
+college
+Candidate Sentence: 

@@ -1,0 +1,8 @@
+[name]:  
+Key sentence 1: Giannis Sina Ugo Antetokounmpo[a] (born Adetokunbo;[b] December 6, 1994) is a Greek and Nigerian professional basketball player for the Milwaukee Bucks of the National Basketball Association (NBA). 
+
+[age]: 29  
+Key sentence 1: Giannis Sina Ugo Antetokounmpo[a] (born Adetokunbo;[b] December 6, 1994) is a Greek and Nigerian professional basketball player for the Milwaukee Bucks of the National Basketball Association (NBA). 
+
+[team]: Milwaukee Bucks  
+Key sentence 1: Giannis Sina Ugo Antetokounmpo[a] (born Adetokunbo;[b] December 6, 1994) is a Greek and Nigerian professional basketball player for the Milwaukee Bucks of the National Basketball Association (NBA).

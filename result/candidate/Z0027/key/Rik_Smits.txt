@@ -1,0 +1,11 @@
+[name]: Rik Smits  
+Key sentence 1: Rik Smits (born 23 August 1966), nicknamed "the Dunking Dutchman" is a Dutch former professional basketball player who spent his entire career with the Indiana Pacers of the National Basketball Association (NBA).  
+
+[draft_pick]: 2  
+Key sentence 1: Smits was drafted second overall in the 1988 NBA draft by the Indiana Pacers, becoming the first Marist player to play in the NBA.  
+
+[draft_year]: 1988  
+Key sentence 1: Smits was drafted second overall in the 1988 NBA draft by the Indiana Pacers, becoming the first Marist player to play in the NBA.  
+
+[NBA_championships]: 0  
+Key sentence 1: Smits retired at the conclusion of the Pacers' 1999–2000 season, after Indiana was defeated by the Los Angeles Lakers in the NBA Finals 4 games to 2.

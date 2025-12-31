@@ -1,0 +1,17 @@
+[name]: Brandan Wright  
+Key sentnce 1: Brandan Keith Wright (born October 5, 1987) is an American former professional basketball player.
+
+[age]:  
+Key sentnce 1: Brandan Keith Wright (born October 5, 1987) is an American former professional basketball player.
+
+[team]:  
+Key sentnce 1: Brandan Keith Wright (born October 5, 1987) is an American former professional basketball player.
+
+[draft_year]: 2007  
+Key sentnce 1: In the 2007 NBA draft, Wright was chosen eighth overall by the Charlotte Bobcats, and in a draft-night trade was dealt to the Golden State Warriors for guard Jason Richardson.
+
+[draft_pick]: 8  
+Key sentnce 1: In the 2007 NBA draft, Wright was chosen eighth overall by the Charlotte Bobcats, and in a draft-night trade was dealt to the Golden State Warriors for guard Jason Richardson.
+
+[college]: University of North Carolina at Chapel Hill  
+Key sentnce 1: After leading his high school team to four consecutive state championships, Wright was eventually recruited by the University of North Carolina at Chapel Hill's basketball team.

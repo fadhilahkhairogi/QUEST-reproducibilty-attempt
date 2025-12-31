@@ -1,0 +1,19 @@
+name
+Candidate Sentence: For one dunk he jumped over Shaquille O'Neal, and did the "honey dip" dunk popularized by Vince Carter, and displayed a Superman undershirt while hanging from the rim
+Candidate Sentence: He won bronze at the 2017 FIBA Under-19 Basketball World Cup in Egypt.
+Career statistics NBA Regular season Playoffs College career Personal life Diallo grew up in LeFrak City, Queens, New York. He attended JHS 157 Stephen A. Halsey. He is of Guinean descent; his parents, Abdoulaye and Mariama, emigrated to the U.S. from Guinea.
+
+
+draft_pick
+Candidate Sentence: He reclassified, graduating a semester early and joining the Wildcats midseason that month. He would start participating with the team in practices, but would not play a single game that year due to his late entry into the program
+Candidate Sentence: For one dunk he jumped over Shaquille O'Neal, and did the "honey dip" dunk popularized by Vince Carter, and displayed a Superman undershirt while hanging from the rim
+
+
+draft_year
+Candidate Sentence: He reclassified, graduating a semester early and joining the Wildcats midseason that month. He would start participating with the team in practices, but would not play a single game that year due to his late entry into the program
+Candidate Sentence: For one dunk he jumped over Shaquille O'Neal, and did the "honey dip" dunk popularized by Vince Carter, and displayed a Superman undershirt while hanging from the rim
+
+
+NBA_championships
+Candidate Sentence: For one dunk he jumped over Shaquille O'Neal, and did the "honey dip" dunk popularized by Vince Carter, and displayed a Superman undershirt while hanging from the rim
+Candidate Sentence: He reclassified, graduating a semester early and joining the Wildcats midseason that month. He would start participating with the team in practices, but would not play a single game that year due to his late entry into the program

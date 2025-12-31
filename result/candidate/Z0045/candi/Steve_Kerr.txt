@@ -1,0 +1,41 @@
+name
+Candidate Sentence: Steve Kerr This is the latest accepted revision, reviewed on 11 August 2024.
+For the Scottish footballer, see Steven Kerr. For the Scottish politician, see Stephen Kerr.
+Stephen Douglas Kerr (born September 27, 1965) is an American professional basketball coach and former player who is the head coach for the Golden State Warriors of the National Basketball Association (NBA) and the U.S. national team
+Candidate Sentence: During his NBA career, Kerr won five NBA championships. He retired as the league's all-time leader in single-season three-point shooting percentage (.524 in 1994–95) and career three-point shooting percentage (.454). As of 2024, Kerr is the only NBA player to win four straight NBA titles after 1969.
+Broadcaster and commentator In 2003, Kerr became a broadcast analyst for Turner Network Television (TNT), offering commentary alongside analyst Marv Albert
+
+
+age
+Candidate Sentence: Steve Kerr This is the latest accepted revision, reviewed on 11 August 2024.
+For the Scottish footballer, see Steven Kerr. For the Scottish politician, see Stephen Kerr.
+Stephen Douglas Kerr (born September 27, 1965) is an American professional basketball coach and former player who is the head coach for the Golden State Warriors of the National Basketball Association (NBA) and the U.S. national team
+Candidate Sentence: Kerr became part of Suns management, acting as a consultant. During the 2006 NBA All-Star Weekend, he was a member of the San Antonio team that won the Shooting Stars Competition.
+On June 2, 2007, Kerr announced that he would become the general manager of the Phoenix Suns beginning with the 2007–08 season. In 2008, the Suns traded forward Shawn Marion and guard Marcus Banks to the Miami Heat in exchange for Shaquille O'Neal
+
+
+team
+Candidate Sentence: He has also provided his voice as a color analyst for NBA 2K12, NBA 2K13, NBA 2K14 and NBA 2K15. Kerr remained a commentator in NBA 2K15 despite becoming the Golden State Warriors coach for the 2014–15 season several months prior to the game's release
+Candidate Sentence: He was named one of the 15 Greatest Coaches in NBA History.
+Kerr played college basketball for the Arizona Wildcats. He was a two-time first-team all-conference player in the Pac-10 (now known as the Pac-12) and earned All-American honors as a senior in 1988. In the 1987–88 season, Kerr set the NCAA single-season three-point field goal percentage record (57.3%). Selected by the Phoenix Suns in the second round of the 1988 NBA draft, Kerr played 15 seasons in the NBA
+
+
+draft_year
+Candidate Sentence: Selected by the Phoenix Suns in the second round of the 1988 NBA draft, Kerr played 15 seasons in the NBA. He won five NBA championships as a player—three with the Chicago Bulls and two with the San Antonio Spurs—and retired as the all-time NBA leader in single-season three-point shooting percentage and career three-point shooting percentage.
+Following his retirement as a player, Kerr became a minority owner of the Phoenix Suns as part of a group led by Robert Sarver that purchased the team in 2004
+Candidate Sentence: He was named one of the 15 Greatest Coaches in NBA History.
+Kerr played college basketball for the Arizona Wildcats. He was a two-time first-team all-conference player in the Pac-10 (now known as the Pac-12) and earned All-American honors as a senior in 1988. In the 1987–88 season, Kerr set the NCAA single-season three-point field goal percentage record (57.3%). Selected by the Phoenix Suns in the second round of the 1988 NBA draft, Kerr played 15 seasons in the NBA
+
+
+draft_pick
+Candidate Sentence: Selected by the Phoenix Suns in the second round of the 1988 NBA draft, Kerr played 15 seasons in the NBA. He won five NBA championships as a player—three with the Chicago Bulls and two with the San Antonio Spurs—and retired as the all-time NBA leader in single-season three-point shooting percentage and career three-point shooting percentage.
+Following his retirement as a player, Kerr became a minority owner of the Phoenix Suns as part of a group led by Robert Sarver that purchased the team in 2004
+Candidate Sentence: He was named one of the 15 Greatest Coaches in NBA History.
+Kerr played college basketball for the Arizona Wildcats. He was a two-time first-team all-conference player in the Pac-10 (now known as the Pac-12) and earned All-American honors as a senior in 1988. In the 1987–88 season, Kerr set the NCAA single-season three-point field goal percentage record (57.3%). Selected by the Phoenix Suns in the second round of the 1988 NBA draft, Kerr played 15 seasons in the NBA
+
+
+college
+Candidate Sentence: He was named one of the 15 Greatest Coaches in NBA History.
+Kerr played college basketball for the Arizona Wildcats. He was a two-time first-team all-conference player in the Pac-10 (now known as the Pac-12) and earned All-American honors as a senior in 1988. In the 1987–88 season, Kerr set the NCAA single-season three-point field goal percentage record (57.3%). Selected by the Phoenix Suns in the second round of the 1988 NBA draft, Kerr played 15 seasons in the NBA
+Candidate Sentence: national team. He is known as one of the most accurate three-point shooters in NBA history and holds the record for highest three-point percentage. Kerr is also a nine-time NBA champion, having won five titles as a player and four as head coach of the Warriors. He was named one of the 15 Greatest Coaches in NBA History.
+Kerr played college basketball for the Arizona Wildcats

@@ -1,0 +1,8 @@
+[name]: Jaden Ivey  
+Key sentence 1: "Jaden Edward Dhananjay Ivey (born February 13, 2002) is an American professional basketball player for the Detroit Pistons of the National Basketball Association (NBA)."
+
+[age]: 21  
+Key sentence 1: "Jaden Edward Dhananjay Ivey (born February 13, 2002) is an American professional basketball player for the Detroit Pistons of the National Basketball Association (NBA)."
+
+[team]: Detroit Pistons  
+Key sentence 1: "Jaden Edward Dhananjay Ivey (born February 13, 2002) is an American professional basketball player for the Detroit Pistons of the National Basketball Association (NBA)."

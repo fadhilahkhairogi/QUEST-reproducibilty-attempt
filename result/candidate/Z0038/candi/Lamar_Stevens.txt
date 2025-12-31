@@ -1,0 +1,9 @@
+name
+Candidate Sentence: 
+
+age
+Candidate Sentence: He made his NBA debut on December 28, 2020, in a 118–94 win over the Philadelphia 76ers. He scored two points and collected two rebounds in five minutes of action. On February 23, 2021, he scored eight points, including a game-winner, in a 112–111 win over the Atlanta Hawks and on April 14, he signed a multi-year contract with the Cavaliers
+Candidate Sentence: 
+
+team
+Candidate Sentence: 

@@ -1,0 +1,8 @@
+[name]: Tyler Herro  
+Key sentence 1: "Tyler Christopher Herro (/ˈhiːroʊ/ HEE-roh; born January 20, 2000) is an American professional basketball player for the Miami Heat of the National Basketball Association (NBA)."
+
+[age]: 23  
+Key sentence 1: "Tyler Christopher Herro (/ˈhiːroʊ/ HEE-roh; born January 20, 2000) is an American professional basketball player for the Miami Heat of the National Basketball Association (NBA)."
+
+[team]: Miami Heat  
+Key sentence 1: "Tyler Christopher Herro (/ˈhiːroʊ/ HEE-roh; born January 20, 2000) is an American professional basketball player for the Miami Heat of the National Basketball Association (NBA)."

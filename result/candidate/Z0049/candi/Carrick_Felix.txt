@@ -1,0 +1,24 @@
+name
+Candidate Sentences: Carrick Felix Carrick Felix (born August 17, 1990) is an American former professional basketball player. He played three years of college basketball for Arizona State before being drafted by the Cleveland Cavaliers with the 33rd overall pick in the 2013 NBA draft.
+High school career Born in Las Vegas, Nevada, Felix played high school basketball at Millennium High School in Goodyear, Arizona
+
+
+age
+Candidate Sentences: 
+
+team
+Candidate Sentences: 
+
+draft_year
+Candidate Sentences: Carrick Felix Carrick Felix (born August 17, 1990) is an American former professional basketball player. He played three years of college basketball for Arizona State before being drafted by the Cleveland Cavaliers with the 33rd overall pick in the 2013 NBA draft.
+High school career Born in Las Vegas, Nevada, Felix played high school basketball at Millennium High School in Goodyear, Arizona
+
+
+draft_pick
+Candidate Sentences: Carrick Felix Carrick Felix (born August 17, 1990) is an American former professional basketball player. He played three years of college basketball for Arizona State before being drafted by the Cleveland Cavaliers with the 33rd overall pick in the 2013 NBA draft.
+High school career Born in Las Vegas, Nevada, Felix played high school basketball at Millennium High School in Goodyear, Arizona
+
+
+college
+Candidate Sentences: Carrick Felix Carrick Felix (born August 17, 1990) is an American former professional basketball player. He played three years of college basketball for Arizona State before being drafted by the Cleveland Cavaliers with the 33rd overall pick in the 2013 NBA draft.
+High school career Born in Las Vegas, Nevada, Felix played high school basketball at Millennium High School in Goodyear, Arizona

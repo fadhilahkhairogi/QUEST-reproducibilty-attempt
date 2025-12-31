@@ -1,0 +1,8 @@
+[name]: Sid Tanenbaum  
+Key sentnce 1: Sid Tanenbaum Sidney Harold Tanenbaum (October 8, 1925 – September 4, 1986) was an American professional basketball player.
+
+[age]:   
+Key sentnce 1: Sid Tanenbaum Sidney Harold Tanenbaum (October 8, 1925 – September 4, 1986) was an American professional basketball player.
+
+[team]: New York Knicks; Baltimore Bullets  
+Key sentnce 1: He went on to play professionally for the New York Knicks and the Baltimore Bullets.

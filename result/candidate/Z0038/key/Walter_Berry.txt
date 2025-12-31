@@ -1,0 +1,8 @@
+[name]: Walter Berry  
+Key sentnce 1: Walter Berry (born May 14, 1964) is an American former professional basketball player.
+
+[age]:  
+Key sentnce 1: Walter Berry (born May 14, 1964) is an American former professional basketball player.
+
+[team]:  
+Key sentnce 1: He spent three seasons in the NBA, from 1986 to 1989, with the Trail Blazers, Spurs, New Jersey Nets, and Houston Rockets.

@@ -1,0 +1,17 @@
+name
+Candidate Sentence: Joseph Forte For the person accused of running a Ponzi scheme, see Joseph S. Forte.
+Joseph Xavier Forte (born March 23, 1981) is an American former professional basketball player. He played two seasons in the National Basketball Association (NBA) and was an All-American player at North Carolina.
+Beginnings Forte got his start at DeMatha Catholic High School in Hyattsville, Maryland. There, Forte played under the instruction of legendary high school prep coach Morgan Wootten
+
+
+draft_pick
+Candidate Sentence: 
+
+draft_year
+Candidate Sentence: 
+
+NBA_championships
+Candidate Sentence: However, Forte ultimately ended up signing with Iranian Basketball Super League team Petrochimi Bandar Imam BC for 2012.  Through his first two games in league play, Forte averaged 9.1 points, 3.0 assists, and 2.5 rebounds per game.
+Family Forte's younger brother, Jason, played college basketball for Brown University and was named Ivy League player of the year in 2004.
+Candidate Sentence: In those 25 games, Forte averaged 1.2 points and 0.7 assists per game, struggling to convert from his natural shooting guard position to point guard. His final NBA game was played on April 16, 2003 in a 84 - 70 win over the Phoenix Suns where he recorded 2 assists and no points in 5 minutes of playing time.
+After being released by the Sonics, Forte couldn't find a roster spot in the NBA and joined the Asheville Altitude of the NBA D-League

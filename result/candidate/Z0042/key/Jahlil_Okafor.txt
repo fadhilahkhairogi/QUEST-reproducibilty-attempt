@@ -1,0 +1,17 @@
+[name]: Jahlil Okafor  
+Key sentnce 1: Jahlil Okafor Jahlil Obika Okafor (/ˈdʒɑː liːl/; born December 15, 1995) is a Nigerian-American professional basketball player for the Capitanes de Arecibo of the Baloncesto Superior Nacional (BSN).
+
+[age]: 29  
+Key sentnce 1: Jahlil Okafor Jahlil Obika Okafor (/ˈdʒɑː liːl/; born December 15, 1995) is a Nigerian-American professional basketball player for the Capitanes de Arecibo of the Baloncesto Superior Nacional (BSN).
+
+[team]: Capitanes de Arecibo  
+Key sentnce 1: Jahlil Okafor Jahlil Obika Okafor (/ˈdʒɑː liːl/; born December 15, 1995) is a Nigerian-American professional basketball player for the Capitanes de Arecibo of the Baloncesto Superior Nacional (BSN).
+
+[draft_year]: 2015  
+Key sentnce 1: He was selected with the third overall pick in the 2015 NBA draft by the Philadelphia 76ers.
+
+[draft_pick]: 3  
+Key sentnce 1: He was selected with the third overall pick in the 2015 NBA draft by the Philadelphia 76ers.
+
+[college]: Duke  
+Key sentnce 1: He played his freshman season of college basketball for the 2014–15 Duke national championship team.

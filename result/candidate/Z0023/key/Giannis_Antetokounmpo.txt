@@ -1,0 +1,8 @@
+[name]: Giannis Antetokounmpo  
+Key sentence 1: "Giannis Sina Ugo Antetokounmpo (born Adetokunbo; December 6, 1994) is a Greek and Nigerian professional basketball player for the Milwaukee Bucks of the National Basketball Association (NBA)."
+
+[team]: Milwaukee Bucks  
+Key sentence 1: "Giannis Sina Ugo Antetokounmpo is a Greek and Nigerian professional basketball player for the Milwaukee Bucks of the National Basketball Association (NBA)."
+
+[NBA_championships]: 1  
+Key sentence 1: "In 2021, Antetokounmpo led the Bucks to their first NBA championship since 1971 and was named Finals MVP."

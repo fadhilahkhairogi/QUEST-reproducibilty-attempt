@@ -1,0 +1,17 @@
+[name]: Derrick Chievous  
+Key sentnce 1: Derrick Chievous Derrick Joseph Chievous (born July 3, 1967) is a retired American professional basketball player.
+
+[age]:  
+Key sentnce 1: Derrick Chievous Derrick Joseph Chievous (born July 3, 1967) is a retired American professional basketball player.
+
+[team]:  
+Key sentnce 1: Chievous played in the NBA from 1988 to 1991, with the Houston Rockets and Cleveland Cavaliers.
+
+[draft_year]: 1988  
+Key sentnce 1: Chievous played three seasons in the National Basketball Association, after being selected by the Houston Rockets, in the first round, with the 16th overall pick of the 1988 NBA draft.
+
+[draft_pick]: 16  
+Key sentnce 1: Chievous played three seasons in the National Basketball Association, after being selected by the Houston Rockets, in the first round, with the 16th overall pick of the 1988 NBA draft.
+
+[college]: University of Missouri  
+Key sentnce 1: Chievous played college basketball at University of Missouri, with the Missouri Tigers, from 1984 to 1988.

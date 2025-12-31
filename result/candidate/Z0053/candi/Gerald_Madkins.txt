@@ -1,0 +1,18 @@
+name
+Candidate Sentence: 
+
+team
+Candidate Sentence: He was named CBA Rookie of the Year with the Hoops in 1993 and selected to the All-CBA First Team with the Lightning in 1998. He also played overseas in Spain and France.
+After his retirement from basketball, he acted as an assistant coach for California State University, Stanislaus, and for his alma mater, the UCLA Bruins, In 2003 was named a player scout for the New York Knicks. During the 2007–08 season he served as Director of West Coast College Scouting for the Seattle SuperSonics
+Candidate Sentence: Gerald Madkins Gerald Madkins Jr. (born April 18, 1969) is an American professional basketball executive who is a former assistant general manager for the New York Knicks  of the National Basketball Association (NBA). He is a former professional basketball player.
+Born in Merced, California, Madkins attended University of California, Los Angeles (UCLA). He signed with the Cleveland Cavaliers of the NBA and played with them from 1993 to 1994, and was signed by the Miami Heat on January 21, 1998
+
+
+draft_year
+Candidate Sentence: 
+
+draft_pick
+Candidate Sentence: 
+
+college
+Candidate Sentence: 

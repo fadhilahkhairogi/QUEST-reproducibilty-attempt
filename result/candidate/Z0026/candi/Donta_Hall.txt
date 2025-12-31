@@ -1,0 +1,18 @@
+name
+Candidate Sentence: He entered the starting lineup for the Crimson Tide in December of his sophomore season, averaging six points, 5.5 rebounds and 1.4 blocks over 34 games (20 starts)
+
+
+draft_pick
+Candidate Sentence: He entered the starting lineup for the Crimson Tide in December of his sophomore season, averaging six points, 5.5 rebounds and 1.4 blocks over 34 games (20 starts)
+Candidate Sentence: As a senior, Hall averaged a triple-double with  22.6 points, 18.1 rebounds and almost 12 blocks per game and was named the Class 2A Player of the Year in addition to being named first team All-State.
+College career Hall with Alabama in February 2019 As a true freshman, Hall averaged 2.8 points, 4.3 rebounds and 1.7 blocks per game (6th in the Southeastern Conference)
+
+
+draft_year
+Candidate Sentence: He entered the starting lineup for the Crimson Tide in December of his sophomore season, averaging six points, 5.5 rebounds and 1.4 blocks over 34 games (20 starts)
+Candidate Sentence: As a senior, Hall averaged a triple-double with  22.6 points, 18.1 rebounds and almost 12 blocks per game and was named the Class 2A Player of the Year in addition to being named first team All-State.
+College career Hall with Alabama in February 2019 As a true freshman, Hall averaged 2.8 points, 4.3 rebounds and 1.7 blocks per game (6th in the Southeastern Conference)
+
+
+NBA_championships
+Candidate Sentence: 

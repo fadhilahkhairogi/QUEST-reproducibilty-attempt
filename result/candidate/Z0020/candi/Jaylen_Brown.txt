@@ -1,0 +1,23 @@
+name
+Candidate Sentence: This article is about the NBA player. For the WNBA player, see Jaelyn Brown. For the soccer player, see Jalen Brown.
+Jaylen Marselles Brown (born October 24, 1996) is an American professional basketball player for the Boston Celtics of the National Basketball Association (NBA)
+Candidate Sentence: For the soccer player, see Jalen Brown.
+Jaylen Marselles Brown (born October 24, 1996) is an American professional basketball player for the Boston Celtics of the National Basketball Association (NBA). He played one year of college basketball for the California Golden Bears and was named first-team all-conference and Freshman of the Year in the Pac-12 Conference.
+Declaring for the 2016 NBA draft after his freshman season, Brown was selected by the Celtics with the third overall pick
+
+
+age
+Candidate Sentence: ESPN.com. Associated Press. November 3, 2016. Archived from the original on November 29, 2020. Retrieved November 4, 2016.
+"Thomas scores 21 as Celtics rout Magic 128–98". ESPN.com. Associated Press. January 27, 2017. Archived from the original on July 3, 2018. Retrieved January 27, 2017.
+"James passes Jordan, Cavs back in Finals with 135-102 win". ESPN.com. Associated Press. May 26, 2017. Archived from the original on June 27, 2017. Retrieved May 27, 2017.
+Jakubajtys, Logan (June 11, 2017)
+Candidate Sentence: This article is about the NBA player. For the WNBA player, see Jaelyn Brown. For the soccer player, see Jalen Brown.
+Jaylen Marselles Brown (born October 24, 1996) is an American professional basketball player for the Boston Celtics of the National Basketball Association (NBA)
+
+
+team
+Candidate Sentence: This article is about the NBA player. For the WNBA player, see Jaelyn Brown. For the soccer player, see Jalen Brown.
+Jaylen Marselles Brown (born October 24, 1996) is an American professional basketball player for the Boston Celtics of the National Basketball Association (NBA)
+Candidate Sentence: For the soccer player, see Jalen Brown.
+Jaylen Marselles Brown (born October 24, 1996) is an American professional basketball player for the Boston Celtics of the National Basketball Association (NBA). He played one year of college basketball for the California Golden Bears and was named first-team all-conference and Freshman of the Year in the Pac-12 Conference.
+Declaring for the 2016 NBA draft after his freshman season, Brown was selected by the Celtics with the third overall pick

@@ -1,0 +1,17 @@
+[name]: Kostas Papanikolaou
+Key sentnce 1: Kostas Papanikolaou Konstantinos "Kostas" Papanikolaou (Greek: Κωνσταντίνος "Κώστας" Παπανικολάου; born 31 July 1990) nicknamed "Air Pap" is a Greek professional basketball player and the team captain for Olympiacos of the Greek Basket League (GBL) and the EuroLeague.
+
+[age]: 
+Key sentnce 1: Kostas Papanikolaou Konstantinos "Kostas" Papanikolaou (Greek: Κωνσταντίνος "Κώστας" Παπανικολάου; born 31 July 1990) nicknamed "Air Pap" is a Greek professional basketball player and the team captain for Olympiacos of the Greek Basket League (GBL) and the EuroLeague.
+
+[team]: 
+Key sentnce 1: Kostas Papanikolaou Konstantinos "Kostas" Papanikolaou (Greek: Κωνσταντίνος "Κώστας" Παπανικολάου; born 31 July 1990) nicknamed "Air Pap" is a Greek professional basketball player and the team captain for Olympiacos of the Greek Basket League (GBL) and the EuroLeague.
+
+[draft_year]: 2012
+Key sentnce 1: On 28 June 2012, Papanikolaou was selected with the 48th overall pick in the 2012 NBA draft by the New York Knicks.
+
+[draft_pick]: 48
+Key sentnce 1: On 28 June 2012, Papanikolaou was selected with the 48th overall pick in the 2012 NBA draft by the New York Knicks.
+
+[college]: 
+Key sentnce 1: Papanikolaou began playing basketball with the youth teams of Proteas Grevenon and Aris, and he made his pro debut in the Greek League, with Aris, during the 2008–09 season.

@@ -1,0 +1,8 @@
+[name]: Eric Johnson Jones  
+Key sentnce 1: Eric Johnson (basketball) Eric Johnson Jones (born February 7, 1966) is an American-Spanish former professional basketball player who had a brief career in the National Basketball Association (NBA) for the Utah Jazz during the 1989–90 season.
+
+[age]:   
+Key sentnce 1: 
+
+[team]:   
+Key sentnce 1:

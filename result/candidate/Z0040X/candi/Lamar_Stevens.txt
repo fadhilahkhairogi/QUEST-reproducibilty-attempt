@@ -1,0 +1,22 @@
+name
+Candidate Sentence: 
+
+age
+Candidate Sentence: He made his NBA debut on December 28, 2020, in a 118–94 win over the Philadelphia 76ers. He scored two points and collected two rebounds in five minutes of action. On February 23, 2021, he scored eight points, including a game-winner, in a 112–111 win over the Atlanta Hawks and on April 14, he signed a multi-year contract with the Cavaliers
+Candidate Sentence: 
+
+team
+Candidate Sentence: Lamar Stevens Lamar Brandon Stevens (born July 9, 1997) is an American professional basketball player who last played for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for the Penn State Nittany Lions.
+High school career Stevens attended The Haverford School in Haverford Township, Pennsylvania for his sophomore and junior years
+
+
+draft_year
+Candidate Sentence: 
+
+draft_pick
+Candidate Sentence: 
+
+college
+Candidate Sentence: He made his NBA debut on December 28, 2020, in a 118–94 win over the Philadelphia 76ers. He scored two points and collected two rebounds in five minutes of action. On February 23, 2021, he scored eight points, including a game-winner, in a 112–111 win over the Atlanta Hawks and on April 14, he signed a multi-year contract with the Cavaliers
+Candidate Sentence: He played college basketball for the Penn State Nittany Lions.
+High school career Stevens attended The Haverford School in Haverford Township, Pennsylvania for his sophomore and junior years. At Haverford, he was named to All-State and All-District teams both years, as well as leading Haverford to two straight state championship runs. During his senior season he attended Roman Catholic High School in Philadelphia where he played alongside future Penn State teammates, Tony Carr and Nazeer Bostick

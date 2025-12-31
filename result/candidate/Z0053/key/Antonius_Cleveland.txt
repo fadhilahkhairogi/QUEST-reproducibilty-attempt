@@ -1,0 +1,14 @@
+[name]: Antonius Cleveland  
+Key sentnce 1: Antonius Cleveland (born February 2, 1994) is an American professional basketball player for Lokomotiv Kuban of the VTB United League.
+
+[team]: Lokomotiv Kuban  
+Key sentnce 1: Antonius Cleveland (born February 2, 1994) is an American professional basketball player for Lokomotiv Kuban of the VTB United League.
+
+[draft_year]: 2017  
+Key sentnce 1: After going undrafted in the 2017 NBA draft, Cleveland signed with the Portland Trail Blazers to join their roster for the 2017 NBA Summer League.
+
+[draft_pick]:  
+Key sentnce 1: After going undrafted in the 2017 NBA draft, Cleveland signed with the Portland Trail Blazers to join their roster for the 2017 NBA Summer League.
+
+[college]: Southeast Missouri State University  
+Key sentnce 1: He played college basketball for Southeast Missouri State University.

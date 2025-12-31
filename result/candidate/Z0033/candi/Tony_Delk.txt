@@ -1,0 +1,30 @@
+name
+Candidate Sentence: Tony Delk Tony Lorenzo Delk (born January 28, 1974) is an American former professional basketball player and college assistant coach. He last served as an assistant coach for the New Mexico State Aggies men's basketball team. During his playing days, he was team leader of the Kentucky Wildcats team that won the 1996 NCAA Championship Game
+
+
+team
+Candidate Sentence: During his playing days, he was team leader of the Kentucky Wildcats team that won the 1996 NCAA Championship Game. After college, he played for eight National Basketball Association (NBA) teams over 10 seasons.
+High school Delk attended Haywood Junior High School and Haywood High School in Brownsville, Tennessee. During his 1992 senior year of high school, Delk was named "Mr
+Candidate Sentence: After a year with the Mavericks, Delk and Walker were again traded, in a deal for Jason Terry and Alan Henderson. Delk lasted one and a half seasons with the Hawks before being waived on February 25, 2006, signing with the Detroit Pistons on March 1, where he backed up point guard Chauncey Billups.
+Delk finished his NBA career with averages of 9.1 PPG, 2.5 RPG and 1.9 APG as he, in August 2006, signed a contract with the Greek basketball team, Panathinaikos, in Athens
+
+
+draft_pick
+Candidate Sentence: 
+
+draft_year
+Candidate Sentence: After a year with the Mavericks, Delk and Walker were again traded, in a deal for Jason Terry and Alan Henderson. Delk lasted one and a half seasons with the Hawks before being waived on February 25, 2006, signing with the Detroit Pistons on March 1, where he backed up point guard Chauncey Billups.
+Delk finished his NBA career with averages of 9.1 PPG, 2.5 RPG and 1.9 APG as he, in August 2006, signed a contract with the Greek basketball team, Panathinaikos, in Athens
+
+
+college
+Candidate Sentence: During his playing days, he was team leader of the Kentucky Wildcats team that won the 1996 NCAA Championship Game. After college, he played for eight National Basketball Association (NBA) teams over 10 seasons.
+High school Delk attended Haywood Junior High School and Haywood High School in Brownsville, Tennessee. During his 1992 senior year of high school, Delk was named "Mr
+Candidate Sentence: During his 1992 senior year of high school, Delk was named "Mr. Basketball" in the state of Tennessee (TSSAA Class 3A Mr.Basketball 1992) and also to the Parade and McDonald's All-American Teams.
+College career A jersey honoring Delk hangs in Rupp Arena. As a sophomore at Kentucky, Delk was voted All-SEC 2nd Team by the coaches and All-SEC 3rd Team by the Associated Press, while also making the All-SEC Tournament Team for his outstanding play
+
+
+age
+Candidate Sentence: He won the Greek Cup, the Greek Championship and the European Championship with Panathinaikos, but was released in May 2007, citing compatibility issues. He announced his retirement from professional basketball in November 2007. In 2008, nonetheless, he played three games for the Gigantes de Carolina in the BSN, the professional basketball league of Puerto Rico
+Candidate Sentence: The foundation is named after his daughter, who has sickle cell disease.
+Delk divorced from his former wife, Margie Delk, in 2007.

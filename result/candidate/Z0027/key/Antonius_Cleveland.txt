@@ -1,0 +1,11 @@
+[name]: Antonius Cleveland  
+Key sentence 1: Antonius Cleveland (born February 2, 1994) is an American professional basketball player for Lokomotiv Kuban of the VTB United League.  
+
+[draft_pick]:  
+Key sentence 1: After going undrafted in the 2017 NBA draft, Cleveland signed with the Portland Trail Blazers to join their roster for the 2017 NBA Summer League.  
+
+[draft_year]: 2017  
+Key sentence 1: After going undrafted in the 2017 NBA draft, Cleveland signed with the Portland Trail Blazers to join their roster for the 2017 NBA Summer League.  
+
+[NBA_championships]: 0  
+Key sentence 1: He was waived from the team a day later, with his spot on the team being replaced by Kyle Collinsworth.

@@ -1,0 +1,37 @@
+name
+Candidate Sentence: Carrick Felix Carrick Felix (born August 17, 1990) is an American former professional basketball player. He played three years of college basketball for Arizona State before being drafted by the Cleveland Cavaliers with the 33rd overall pick in the 2013 NBA draft.
+High school career Born in Las Vegas, Nevada, Felix played high school basketball at Millennium High School in Goodyear, Arizona
+Candidate Sentence: Felix was removed from Melbourne's active roster on February 16, 2018, following Prather's return from injury. He remained with the team for their championship run.
+In June 2018, Felix re-joined the Wizards for the 2018 NBA Summer League.
+NBA career statistics Regular season Personal In his two years away from the game of basketball between 2014 and 2016, Felix created a mobile app called ZGNIT, which helps holiday makers book adventure equipments such as jet skis.
+
+
+age
+Candidate Sentence: Carrick Felix Carrick Felix (born August 17, 1990) is an American former professional basketball player. He played three years of college basketball for Arizona State before being drafted by the Cleveland Cavaliers with the 33rd overall pick in the 2013 NBA draft.
+High school career Born in Las Vegas, Nevada, Felix played high school basketball at Millennium High School in Goodyear, Arizona
+Candidate Sentence: He also led the entire Pac-12 with 13 double doubles. He was named second-team All-Pac-12 and Pac-12 All-Defensive Team. He was also named the Pac-12 Scholar Athlete of the Year and earned first-team All-Pac-12 Academic Team honors.
+Professional career Felix was selected with the 33rd overall pick in the 2013 NBA draft by the Cleveland Cavaliers. On August 20, 2013, he signed with the Cavaliers
+
+
+team
+Candidate Sentence: 
+
+draft_year
+Candidate Sentence: He also led the entire Pac-12 with 13 double doubles. He was named second-team All-Pac-12 and Pac-12 All-Defensive Team. He was also named the Pac-12 Scholar Athlete of the Year and earned first-team All-Pac-12 Academic Team honors.
+Professional career Felix was selected with the 33rd overall pick in the 2013 NBA draft by the Cleveland Cavaliers. On August 20, 2013, he signed with the Cavaliers
+Candidate Sentence: On August 20, 2013, he signed with the Cavaliers. During his rookie season, he had multiple assignments to the Canton Charge of the NBA Development League.
+On July 22, 2014, Felix was traded, along with a 2015 second-round draft pick and cash considerations, to the Utah Jazz in exchange for John Lucas III, Malcolm Thomas and Erik Murphy. On October 27, 2014, he was waived by the Jazz
+
+
+draft_pick
+Candidate Sentence: He also led the entire Pac-12 with 13 double doubles. He was named second-team All-Pac-12 and Pac-12 All-Defensive Team. He was also named the Pac-12 Scholar Athlete of the Year and earned first-team All-Pac-12 Academic Team honors.
+Professional career Felix was selected with the 33rd overall pick in the 2013 NBA draft by the Cleveland Cavaliers. On August 20, 2013, he signed with the Cavaliers
+Candidate Sentence: On August 20, 2013, he signed with the Cavaliers. During his rookie season, he had multiple assignments to the Canton Charge of the NBA Development League.
+On July 22, 2014, Felix was traded, along with a 2015 second-round draft pick and cash considerations, to the Utah Jazz in exchange for John Lucas III, Malcolm Thomas and Erik Murphy. On October 27, 2014, he was waived by the Jazz
+
+
+college
+Candidate Sentence: Carrick Felix Carrick Felix (born August 17, 1990) is an American former professional basketball player. He played three years of college basketball for Arizona State before being drafted by the Cleveland Cavaliers with the 33rd overall pick in the 2013 NBA draft.
+High school career Born in Las Vegas, Nevada, Felix played high school basketball at Millennium High School in Goodyear, Arizona
+Candidate Sentence: During his senior season at Millennium, Felix led his team to a state championship and was named MVP of the state championship. As a senior in 2007–08, he averaged 19.7 points, 13.2 rebounds and 1.5 steals per game.
+College career After redshirting the 2008–09 season for medical reasons, Felix averaged 14.8 points and 4.7 rebounds in 2009–10 at College of Southern Idaho. Felix joined the Arizona State Sun Devils for his final three years of eligibility

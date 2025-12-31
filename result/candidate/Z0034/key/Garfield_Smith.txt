@@ -1,0 +1,8 @@
+[name]: Garfield Smith  
+Key sentnce 1: Garfield Smith Garfield Smith (born November 18, 1945) is an American former professional basketball player who played in the National Basketball Association (NBA) and American Basketball Association (ABA).
+
+[age]:   
+Key sentnce 1: 
+
+[team]:   
+Key sentnce 1:

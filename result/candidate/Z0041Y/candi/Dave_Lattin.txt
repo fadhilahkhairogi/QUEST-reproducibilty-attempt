@@ -1,0 +1,22 @@
+name
+Candidate Sentence: 
+
+age
+Candidate Sentence: Candidate Sentence: He went on to play with the Phoenix Suns, the Pittsburgh Condors, and the Memphis Tams, ending his professional career with the Harlem Globe Trotters from 1973 to 1976. Returning to school, Lattin earned his B.S. degree in business administration and started several successful business ventures including Your Maison Housing.
+Lattin was inducted into the Texas Black Sports Hall of Fame and the Naismith Memorial Basketball Hall of Fame in 2007
+
+
+team
+Candidate Sentence: He went on to play with the Phoenix Suns, the Pittsburgh Condors, and the Memphis Tams, ending his professional career with the Harlem Globe Trotters from 1973 to 1976. Returning to school, Lattin earned his B.S. degree in business administration and started several successful business ventures including Your Maison Housing.
+Lattin was inducted into the Texas Black Sports Hall of Fame and the Naismith Memorial Basketball Hall of Fame in 2007
+
+
+draft_year
+Candidate Sentence: 
+
+draft_pick
+Candidate Sentence: 
+
+college
+Candidate Sentence: He went on to play with the Phoenix Suns, the Pittsburgh Condors, and the Memphis Tams, ending his professional career with the Harlem Globe Trotters from 1973 to 1976. Returning to school, Lattin earned his B.S. degree in business administration and started several successful business ventures including Your Maison Housing.
+Lattin was inducted into the Texas Black Sports Hall of Fame and the Naismith Memorial Basketball Hall of Fame in 2007

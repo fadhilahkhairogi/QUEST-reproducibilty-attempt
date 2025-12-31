@@ -1,0 +1,11 @@
+[name]: Elmer H. Behnke  
+Key sentence 1: Elmer H. Behnke (February 3, 1929 – May 25, 2018) was an American basketball player.
+
+[draft_pick]: 35  
+Key sentence 1: He was selected by the Rochester Royals in the 4th round (35th pick overall) of the 1951 NBA draft.
+
+[draft_year]: 1951  
+Key sentence 1: He was selected by the Rochester Royals in the 4th round (35th pick overall) of the 1951 NBA draft.
+
+[NBA_championships]:   
+Key sentence 1:  He played for the Milwaukee Hawks (1951–52) in the NBA for four games.

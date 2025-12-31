@@ -1,0 +1,17 @@
+university_name
+Candidate Sentence: Missouri Southern State University The Basics About Missouri Southern Missouri Southern is a public institution that was founded in 1937. It has a total undergraduate enrollment of 5,639, its setting is suburban, and the campus size is 365 acres. It utilizes a semester-based academic calendar.  Missouri Southern's ranking in the 2011 edition of Best Colleges is Regional Colleges (Midwest), 71
+Candidate Sentence: Institutional goals that reflect our institutional mission:                 To provide and maintain a culture of student success throughout the university experience in an academically challenging and supportive environment with a particular focus on the first year of college as the foundation for that success.
+To implement the international mission by providing and maintaining instruction, programming, and institutional systems designed to help students succeed in the multicultural-global communities in which they will live and work.
+To provide and maintain a quality curriculum that balances the liberal arts with professional and pre-professional education to meet the needs of students and employers.
+To provide and maintain quality teaching and learning experiences enriched by scholarly and creative expression.
+To enhance access to higher education by providing and maintaining the technology and support services that advance best practices for distance learning programs.
+To respond to the needs of the Southwest Missouri region through educational and cultural programming.
+To provide for continuous improvement by implementing the full cycle assessment of academic and support programs and the ongoing evaluation of operational efficiency and effectiveness.
+To fulfill the University's Mission in an honorable manner that fosters and enhances the institutions integrity.
+Copyright © 2011 U.S
+
+
+total_undergraduate_enrollment
+Candidate Sentence: Missouri Southern State University The Basics About Missouri Southern Missouri Southern is a public institution that was founded in 1937. It has a total undergraduate enrollment of 5,639, its setting is suburban, and the campus size is 365 acres. It utilizes a semester-based academic calendar.  Missouri Southern's ranking in the 2011 edition of Best Colleges is Regional Colleges (Midwest), 71
+Candidate Sentence: It utilizes a semester-based academic calendar.  Missouri Southern's ranking in the 2011 edition of Best Colleges is Regional Colleges (Midwest), 71. Its in-state tuition and fees are $5,116; out-of-state tuition and fees are $9,406.
+The University's primary goal is to offer a baccalaureate program that fosters the total education of each student

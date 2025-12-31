@@ -1,0 +1,8 @@
+[name]: Jay Vincent
+Key sentnce 1: Jay Vincent Jay Fletcher Vincent (born June 10, 1959) is an American former professional basketball player.
+
+[age]: 
+Key sentnce 1: Jay Vincent Jay Fletcher Vincent (born June 10, 1959) is an American former professional basketball player.
+
+[team]: Los Angeles Lakers
+Key sentnce 1: He played for several NBA teams, including the Dallas Mavericks, Washington Bullets, Denver Nuggets, San Antonio Spurs, Philadelphia 76ers, and Los Angeles Lakers.

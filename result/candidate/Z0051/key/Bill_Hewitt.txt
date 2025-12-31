@@ -1,0 +1,17 @@
+[name]: William Severlyn Hewitt
+Key sentnce 1: Bill Hewitt (basketball) William Severlyn Hewitt (born August 8, 1944) is a retired American professional basketball player.
+
+[age]: 
+Key sentnce 1: Bill Hewitt (basketball) William Severlyn Hewitt (born August 8, 1944) is a retired American professional basketball player.
+
+[team]: 
+Key sentnce 1: A 6'7" forward from the University of Southern California, Hewitt played six seasons (1968–1973;1974–1975) in the National Basketball Association as a member of the Los Angeles Lakers, Detroit Pistons, Buffalo Braves, and Chicago Bulls.
+
+[draft_year]: 
+Key sentnce 1: 
+
+[draft_pick]: 
+Key sentnce 1: 
+
+[college]: University of Southern California
+Key sentnce 1: A 6'7" forward from the University of Southern California, Hewitt played six seasons (1968–1973;1974–1975) in the National Basketball Association as a member of the Los Angeles Lakers, Detroit Pistons, Buffalo Braves, and Chicago Bulls.

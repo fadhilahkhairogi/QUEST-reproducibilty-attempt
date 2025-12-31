@@ -1,0 +1,17 @@
+[name]: Earvin "Magic" Johnson Jr.
+Key sentnce 1: Earvin "Magic" Johnson Jr. (born August 14, 1959) is an American businessman and former professional basketball player.
+
+[age]: 
+Key sentnce 1: 
+
+[team]: Los Angeles Lakers
+Key sentnce 1: Often regarded as the greatest point guard of all time, Johnson spent his entire career with the Los Angeles Lakers in the National Basketball Association (NBA).
+
+[draft_year]: 1979
+Key sentnce 1: After winning a national championship with Michigan State in 1979, Johnson was selected first overall in the 1979 NBA draft by the Lakers, leading the team to five NBA championships during their "Showtime" era.
+
+[draft_pick]: 1
+Key sentnce 1: After winning a national championship with Michigan State in 1979, Johnson was selected first overall in the 1979 NBA draft by the Lakers, leading the team to five NBA championships during their "Showtime" era.
+
+[college]: Michigan State
+Key sentnce 1: He ultimately decided to attend Michigan State when coach Jud Heathcote told him he could play the point guard position.

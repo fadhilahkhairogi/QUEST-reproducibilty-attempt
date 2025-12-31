@@ -1,0 +1,18 @@
+[name]: David Lattin  
+Key sentnce 1: David Lattin (born December 23, 1943) is an American former basketball player.
+
+[team]:   
+Key sentnce 1: He went on to play with the Phoenix Suns, the Pittsburgh Condors, and the Memphis Tams, ending his professional career with the Harlem Globe Trotters from 1973 to 1976.
+
+[draft_year]: 1967  
+Key sentnce 1: In 1967, Lattin left Texas Western College after he was drafted as the number ten pick by the NBA’s San Francisco Warriors.
+
+[draft_pick]: 10  
+Key sentnce 1: In 1967, Lattin left Texas Western College after he was drafted as the number ten pick by the NBA’s San Francisco Warriors.
+
+[college]: Tennessee State; Texas Western College  
+Key sentnce 1: Lattin left Tennessee State in 1964 citing the lack of basketball competition.  
+Key sentnce 2: He returned to Houston and played the AAAU before receiving a full scholarship to attend Texas Western College in 1965 where he played with the Miners, a Division 1 team in the NCAA.
+
+[age]:   
+Key sentnce 1: David Lattin (born December 23, 1943) is an American former basketball player.

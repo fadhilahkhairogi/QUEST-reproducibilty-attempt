@@ -1,0 +1,13 @@
+name
+Candidate Sentence: 
+
+age
+Candidate Sentence: This is the second trade involving Jack where the team trading him away received the rights to Edin Bavčić in return. Hours after graduating from Georgia Tech on December 13, 2014, Jack travelled to Charlotte to join his teammates for their game against the Hornets. In 20 minutes of action off the bench, he recorded 14 points, 5 assists, and 2 rebounds to help the Nets win 114–87.
+On November 14, 2015, Jack scored a season-high 28 points in an overtime loss to the Golden State Warriors
+Candidate Sentence: On January 3, 2016, he was ruled out for the rest of the season with a torn anterior cruciate ligament and small medial meniscus tear in his right knee. He sustained the injury the previous night during the second half of the Nets' game at Boston. On June 30, 2016, Jack was waived by the Nets.
+On July 15, 2016, Jack signed with the Atlanta Hawks. However, on October 20, 2016, he was waived by the Hawks due to injury
+
+
+team
+Candidate Sentence: On April 15, 2014, he was named the recipient of the ninth annual Austin Carr Good Guy Award. The award, named after Cavaliers legend Austin Carr, is designed to recognize a Cavaliers player who is cooperative and understanding of the media.
+Brooklyn Nets (2014–2016) On July 10, 2014, the Cleveland Cavaliers traded Jack to the Brooklyn Nets in a three-team trade also involving the Boston Celtics, as they needed to clear cap space to re-sign LeBron James

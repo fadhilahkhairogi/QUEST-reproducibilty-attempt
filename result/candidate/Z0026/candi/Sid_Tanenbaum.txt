@@ -1,0 +1,20 @@
+name
+Candidate Sentence: 
+
+draft_pick
+Candidate Sentence: On February 11, 1949, the New York Knicks traded him to the Baltimore Bullets for Connie Simmons. He scored 633 points in 70 games and tallied 162 assists. He was inducted into the New York City Basketball Hall of Fame, and in 1997 into the International Jewish Sports Hall of Fame.
+Personal life After his basketball career, Tanenbaum lived in Woodmere, New York, with his wife Barbara and sons Steven and Michael (an optometrist)
+Candidate Sentence: His killer, Molly Dotsun, was sentenced to 21 years in prison.
+The basketball courts at the park in North Woodmere, New York, are named after Tanenbaum. Since 1986, they have hosted the Sid Tanenbaum Memorial Basketball Tournament that raises scholarship money for students in the Five Towns.
+
+
+draft_year
+Candidate Sentence: On February 11, 1949, the New York Knicks traded him to the Baltimore Bullets for Connie Simmons. He scored 633 points in 70 games and tallied 162 assists. He was inducted into the New York City Basketball Hall of Fame, and in 1997 into the International Jewish Sports Hall of Fame.
+Personal life After his basketball career, Tanenbaum lived in Woodmere, New York, with his wife Barbara and sons Steven and Michael (an optometrist)
+Candidate Sentence: His killer, Molly Dotsun, was sentenced to 21 years in prison.
+The basketball courts at the park in North Woodmere, New York, are named after Tanenbaum. Since 1986, they have hosted the Sid Tanenbaum Memorial Basketball Tournament that raises scholarship money for students in the Five Towns.
+
+
+NBA_championships
+Candidate Sentence: His killer, Molly Dotsun, was sentenced to 21 years in prison.
+The basketball courts at the park in North Woodmere, New York, are named after Tanenbaum. Since 1986, they have hosted the Sid Tanenbaum Memorial Basketball Tournament that raises scholarship money for students in the Five Towns.

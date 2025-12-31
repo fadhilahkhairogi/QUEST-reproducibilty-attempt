@@ -1,0 +1,30 @@
+name
+Candidate Sentence: D'Angelo Russell (born February 23, 1996), nicknamed "DLo", is an American professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA). He was selected as a McDonald's All-American in 2014 and played college basketball for the Ohio State Buckeyes. He was selected second overall in the 2015 NBA draft by the Lakers.
+Playing point guard, Russell was named to the NBA All-Rookie Second Team with the Lakers in 2016
+Candidate Sentence: ESPN.com. February 23, 2018. Retrieved February 24, 2018.
+"Nets, down 25 in 4th, storm back to shock Kings". ESPN.com. March 19, 2019. Retrieved March 20, 2019.
+"NBA scores, highlights, results: D'Angelo Russell scores 27 in fourth to lead Nets' comeback win; Warriors beat Wolves". CBSSports.com. Retrieved March 20, 2019.
+"Blazers lose Nurkic to severe leg injury, edge Nets in 2 OTs". ESPN.com. March 25, 2019. Retrieved March 26, 2019.
+"Russell, LeVert leads Nets to Game 1 stunner over 76ers". ESPN.com
+
+
+team
+Candidate Sentence: D'Angelo Russell (born February 23, 1996), nicknamed "DLo", is an American professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA). He was selected as a McDonald's All-American in 2014 and played college basketball for the Ohio State Buckeyes. He was selected second overall in the 2015 NBA draft by the Lakers.
+Playing point guard, Russell was named to the NBA All-Rookie Second Team with the Lakers in 2016
+Candidate Sentence: ESPN.com. January 31, 2017. Retrieved February 1, 2017.
+Hansford, Corey (February 2, 2017). "Magic Johnson Open To Mentoring Lakers Point Guard D'Angelo Russell". Lakers Nation. Retrieved April 15, 2020.
+"Kyrie gets 46, but Cavaliers barely beat Lakers, 125-120". ESPN.com. March 19, 2017. Retrieved March 19, 2017.
+"Brooklyn Nets Acquire D'Angelo Russell and Timofey Mozgov from L.A. Lakers". NBA.com. June 22, 2017. Retrieved June 22, 2017.
+"Revamped Pacers rely on new faces to cut down Nets 140-131"
+
+
+NBA_championships
+Candidate Sentence: ESPN.com. March 13, 2018. Retrieved March 13, 2018.
+"Lowry has triple-double as Raptors beat Nets 116-112". ESPN.com. March 23, 2018. Retrieved March 24, 2018.
+"Towns, Teague lead Wolves over Nets after LeVert injury". ESPN.com. November 12, 2018. Retrieved November 12, 2018.
+"Butler's 3-pointer caps 76ers' rally to beat Nets". ESPN.com. November 25, 2018. Retrieved November 26, 2018.
+"Nets hold off Lakers to extend winning streak to 6 games". ESPN.com. December 18, 2018
+Candidate Sentence: ESPN.com. December 10, 2023. Retrieved December 10, 2023.
+"Jazz rally past Lakers 132-123, extending winning streak to five". ESPN.com. January 13, 2024. Retrieved January 14, 2024.
+"Lakers' D'Angelo Russell fined". nba.com. Archived from the original on January 30, 2024. Retrieved January 29, 2023.
+Bhagavatula, Martand (March 8, 2024). "Lakers Highlights: D'Angelo Russell's Game Winner Lifts LeBron-Less LA Past Bucks". Sports Illustrated. Retrieved March 9, 2024.

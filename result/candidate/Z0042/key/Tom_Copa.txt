@@ -1,0 +1,17 @@
+[name]: Tom Copa Thomas James Copa  
+Key sentnce 1: Tom Copa Thomas James Copa (born October 30, 1964) is an American former professional basketball player.
+
+[age]:  
+Key sentnce 1: Tom Copa Thomas James Copa (born October 30, 1964) is an American former professional basketball player.
+
+[team]:  
+Key sentnce 1: Tom Copa Thomas James Copa (born October 30, 1964) is an American former professional basketball player.
+
+[draft_year]:  
+Key sentnce 1: Although chosen with the 44th pick in the 1987 CBA draft, Copa moved to Vail, Colorado after graduating where he worked as a shuttle-bus driver from the Stapleton Airport to Vail for the winter.
+
+[draft_pick]: 44th  
+Key sentnce 1: Although chosen with the 44th pick in the 1987 CBA draft, Copa moved to Vail, Colorado after graduating where he worked as a shuttle-bus driver from the Stapleton Airport to Vail for the winter.
+
+[college]: Marquette  
+Key sentnce 1: After graduating from Marquette he went on to play professionally in the National Basketball Association (NBA) and in Europe.

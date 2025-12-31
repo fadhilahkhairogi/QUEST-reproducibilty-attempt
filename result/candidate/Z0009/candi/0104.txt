@@ -1,0 +1,16 @@
+university_name
+Candidate Sentence: In the beginning when I told people I was enrolled at GW, then immediately thought Georgetown; however, now GW has it's own image. GW has grown a lot over the years after what SJT had done for the University, but the best way to see the progress is when GW reached a $1 billion endowment. There is a lot of red tape at GW for anything, but they have improved a lot of it when scheduling classes and selecting housing
+Candidate Sentence: GWorld is the complete lack of real-world consequenses because we keep ourselves insulated to our concept of "college life".        Karl Rove was the biggest controversy on campus lately, but this is being rivaled by the commencement speaker who is equally polarizing on the other side of the political arena.  Most people at GW are "too cool" for school pride.
+GW is proud of it's diversity, whether it's through ethnicity, religious views, or sexual preference
+
+
+setting
+Candidate Sentence: George Washington University George Washington University The Basics About George Washington University George Washington University is a private institution that was founded in 1821. It has a total undergraduate enrollment of 10,558, its setting is urban, and the campus size is 43 acres. It utilizes a semester-based academic calendar.  George Washington University's ranking in the 2011 edition of Best Colleges is National Universities, 51
+Candidate Sentence: It's all there but some choose some meals over others.
+Copyright © 2011 U.S. News & World Report, L.P. All rights reserved.
+Use of this Web site constitutes acceptance of our Terms and Conditions of Use and Privacy Policy.
+
+
+total_undergraduate_enrollment
+Candidate Sentence: George Washington University George Washington University The Basics About George Washington University George Washington University is a private institution that was founded in 1821. It has a total undergraduate enrollment of 10,558, its setting is urban, and the campus size is 43 acres. It utilizes a semester-based academic calendar.  George Washington University's ranking in the 2011 edition of Best Colleges is National Universities, 51
+Candidate Sentence: In the beginning when I told people I was enrolled at GW, then immediately thought Georgetown; however, now GW has it's own image. GW has grown a lot over the years after what SJT had done for the University, but the best way to see the progress is when GW reached a $1 billion endowment. There is a lot of red tape at GW for anything, but they have improved a lot of it when scheduling classes and selecting housing

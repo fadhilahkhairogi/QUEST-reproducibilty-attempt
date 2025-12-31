@@ -1,0 +1,8 @@
+[name]: Richard Anthony Rosenthal
+Key sentnce 1: Dick Rosenthal Richard Anthony Rosenthal (January 20, 1933 – June 11, 2024) was an American basketball player.
+
+[age]: 91
+Key sentnce 1: He died in Estero, Florida on June 11, 2024, at the age of 91.
+
+[team]: Fort Wayne Pistons
+Key sentnce 1: An National Basketball Association (NBA) forward with the Fort Wayne Pistons, he played collegiate basketball for the Notre Dame men's basketball team, where he averaged 16.4 points per game over his career.

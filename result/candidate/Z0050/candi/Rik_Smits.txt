@@ -1,0 +1,29 @@
+name
+Candidate Sentence: 
+
+age
+Candidate Sentence: To help recover during the off-season, he spent time relaxing at his summer retreat in Walton, New York, where he was a regular attendee of The Afton Fair
+Candidate Sentence: On 30 November 2011, Smits was featured in Yahoo! Sports, about his formal participation in competitive motocross racing. In 2008 Smits won the AHRMA Vintage National Premier 500 Intermediate Class riding a BSA 500.
+In 1998, near the end of his playing career, Smits bought a home in the Indianapolis suburb of Zionsville, Indiana, and continued to live in the home for nearly 20 years, expanding it in 2014 to include a regulation-size basketball half-court
+
+
+team
+Candidate Sentence: Rik Smits This article is about the basketball player. For the linguist, see Rik Smits (linguist).
+Rik Smits (born 23 August 1966), nicknamed "the Dunking Dutchman" is a Dutch former professional basketball player who spent his entire career with the Indiana Pacers of the National Basketball Association (NBA). The 7-foot-4-inch (2.24 m) center was drafted by the Pacers out of Marist College with the second overall pick in the 1988 NBA draft
+Candidate Sentence: To help recover during the off-season, he spent time relaxing at his summer retreat in Walton, New York, where he was a regular attendee of The Afton Fair
+
+
+draft_year
+Candidate Sentence: In 1987, he led the Red Foxes to 20 wins for the first time in its Division I history and another appearance in the NCAA tournament.
+Smits briefly appeared in the 1988 film Coming to America during a scene filmed in 1987 while Marist played against St. John's at Madison Square Garden.
+Smits was drafted second overall in the 1988 NBA draft by the Indiana Pacers, becoming the first Marist player to play in the NBA
+
+
+draft_pick
+Candidate Sentence: In 1987, he led the Red Foxes to 20 wins for the first time in its Division I history and another appearance in the NCAA tournament.
+Smits briefly appeared in the 1988 film Coming to America during a scene filmed in 1987 while Marist played against St. John's at Madison Square Garden.
+Smits was drafted second overall in the 1988 NBA draft by the Indiana Pacers, becoming the first Marist player to play in the NBA
+
+
+college
+Candidate Sentence: Smits used two barns on the 12.5-acre (5.1 ha) property to house his motorcycles and cars, and built a dedicated motorcycle track in the rear of the property. He and his girlfriend put the property up for sale in the summer of 2017, shortly after they moved to Arizona.

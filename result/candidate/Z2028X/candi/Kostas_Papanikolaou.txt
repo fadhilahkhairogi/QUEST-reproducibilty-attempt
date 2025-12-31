@@ -1,0 +1,13 @@
+name
+Candidate Sentence: 
+
+draft_pick
+Candidate Sentence: 
+
+draft_year
+Candidate Sentence: 
+
+NBA_championships
+Candidate Sentence: He is a very effective shooter from 3-point range, and also loves to attack close-outs and finish strong at the rim. On the other side of the ball, Papanikolaou is a excellent defender  to his long legs and elusive abilities, while helping him play left-handed, he was the 2017 Greek League Best Defender, winning the same honor in the Spanish ACB League in the 2014 season. He has also been recognized as a leader, captaining Olympiacos to the Euroleague Championship Game in 2023.
+Candidate Sentence: Papanikolaou's contract with Olympiacos had an NBA buyout clause worth €1 million.
+With Olympiacos, he won the EuroLeague and Greek League championships in 2012. Papanikolaou was voted the EuroLeague Rising Star for the EuroLeague 2012–13 season

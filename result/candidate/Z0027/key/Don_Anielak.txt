@@ -1,0 +1,11 @@
+[name]: Don Anielak  
+Key sentence 1: Donald Robert Anielak (November 1, 1930 – November 19, 1995) was an American professional basketball player and a high school coach.
+
+[draft_pick]: 26  
+Key sentence 1: Anielak was selected by the New York Knicks in the third round (26th overall) of the 1954 NBA draft.
+
+[draft_year]: 1954  
+Key sentence 1: Anielak was selected by the New York Knicks in the third round (26th overall) of the 1954 NBA draft.
+
+[NBA_championships]:   
+Key sentence 1:  He won the NAIA championship the same season and was a member of the NAIA All-Tournament team that year.

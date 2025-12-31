@@ -1,0 +1,11 @@
+[name]: Brandon Goodwin  
+Key sentence 1: Brandon Goodwin (born October 2, 1995) is an American professional basketball player for the Gigantes de Carolina of the Baloncesto Superior Nacional (BSN).  
+
+[draft_pick]:  
+Key sentence 1: After going undrafted in the 2018 NBA draft, Goodwin signed with the Memphis Grizzlies for the 2018 NBA Summer League.  
+
+[draft_year]: 2018  
+Key sentence 1: After going undrafted in the 2018 NBA draft, Goodwin signed with the Memphis Grizzlies for the 2018 NBA Summer League.  
+
+[NBA_championships]:  
+Key sentence 1: Goodwin missed the 2021 NBA playoffs due to a respiratory condition.

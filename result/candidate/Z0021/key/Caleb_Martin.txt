@@ -1,0 +1,8 @@
+[name]: Caleb Martin  
+Key sentence 1: "Caleb Martin (born September 28, 1995) is an American professional basketball player for the Philadelphia 76ers of the National Basketball Association (NBA)."
+
+[age]: 28  
+Key sentence 1: "Caleb Martin (born September 28, 1995) is an American professional basketball player for the Philadelphia 76ers of the National Basketball Association (NBA)."
+
+[mvp_awards]: 0  
+Key sentence 1: "Martin came one vote short of besting teammate Jimmy Butler for Eastern Conference Finals MVP while averaging 19.3 points and 6.4 rebounds per game, whilst shooting 60.2% from the field and 48.9% from three."

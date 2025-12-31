@@ -1,0 +1,19 @@
+university_name
+Candidate Sentence: Its tuition and fees are $41,434.
+When any student says they go to Williams, the most common reaction seems to be "Oh.... what's that?" It's tiny size and the largely rural landscape create a very different atmosphere from the town where I grew up, which was home to a mid-sized public university
+Candidate Sentence: 1) That for those who recognize the name, there is usually an affinity of gratitude and love attached to it. Those who attend Williams don't regret it. This is a place where the small size leads more easily to the formation of life long relationships and friendships that help to truly form us when we leave college.
+Copyright © 2011 U.S. News & World Report, L.P. All rights reserved.
+Use of this Web site constitutes acceptance of our Terms and Conditions of Use and Privacy Policy.
+
+
+year_founded
+Candidate Sentence: Williams College The Basics About Williams College Williams College is a private institution that was founded in 1793. It has a total undergraduate enrollment of 2,067, its setting is rural, and the campus size is 450 acres. It utilizes a 4-1-4-based academic calendar.  Williams College's ranking in the 2011 edition of Best Colleges is National Liberal Arts Colleges, 1. Its tuition and fees are $41,434.
+When any student says they go to Williams, the most common reaction seems to be "Oh...
+Candidate Sentence: On the plus side, there's lots of good hiking.   The administration keeps things running smoothly. They're good about responding to email and working with students on personal issues, but they seem to have little regard for student opinion when it comes to construction projects and the infamous cluster housing system
+
+
+setting
+Candidate Sentence: Williams College The Basics About Williams College Williams College is a private institution that was founded in 1793. It has a total undergraduate enrollment of 2,067, its setting is rural, and the campus size is 450 acres. It utilizes a 4-1-4-based academic calendar.  Williams College's ranking in the 2011 edition of Best Colleges is National Liberal Arts Colleges, 1. Its tuition and fees are $41,434.
+When any student says they go to Williams, the most common reaction seems to be "Oh...
+Candidate Sentence: Its tuition and fees are $41,434.
+When any student says they go to Williams, the most common reaction seems to be "Oh.... what's that?" It's tiny size and the largely rural landscape create a very different atmosphere from the town where I grew up, which was home to a mid-sized public university

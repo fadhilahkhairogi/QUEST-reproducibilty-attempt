@@ -1,0 +1,20 @@
+name
+Candidate Sentences: Dan Anderson (basketball, born 1951) For the American Basketball Association player, see Dan Anderson (basketball, born 1943).
+Daniel Edward Anderson (born January 1, 1951) is an American retired professional basketball player in the National Basketball Association (NBA).
+Anderson was selected with the 2nd pick of the sixth round of the 1974 NBA draft by the Portland Trail Blazers. His brief NBA career spanned from 1974 to 1976 with the Blazers, averaging 3.7 points in 95 total games
+
+
+draft_pick
+Candidate Sentences: Dan Anderson (basketball, born 1951) For the American Basketball Association player, see Dan Anderson (basketball, born 1943).
+Daniel Edward Anderson (born January 1, 1951) is an American retired professional basketball player in the National Basketball Association (NBA).
+Anderson was selected with the 2nd pick of the sixth round of the 1974 NBA draft by the Portland Trail Blazers. His brief NBA career spanned from 1974 to 1976 with the Blazers, averaging 3.7 points in 95 total games
+
+
+draft_year
+Candidate Sentences: Dan Anderson (basketball, born 1951) For the American Basketball Association player, see Dan Anderson (basketball, born 1943).
+Daniel Edward Anderson (born January 1, 1951) is an American retired professional basketball player in the National Basketball Association (NBA).
+Anderson was selected with the 2nd pick of the sixth round of the 1974 NBA draft by the Portland Trail Blazers. His brief NBA career spanned from 1974 to 1976 with the Blazers, averaging 3.7 points in 95 total games
+
+
+NBA_championships
+Candidate Sentences: 

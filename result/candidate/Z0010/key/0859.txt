@@ -1,0 +1,8 @@
+[university_name]: California State University--Fresno
+Key sentnce 1: California State University--Fresno California State University--Fresno The Basics About CSU Fresno CSU Fresno is a public institution that was founded in 1911.
+
+[year_founded]: 1911
+Key sentnce 1: California State University--Fresno California State University--Fresno The Basics About CSU Fresno CSU Fresno is a public institution that was founded in 1911.
+
+[setting]: 
+Key sentnce 1:

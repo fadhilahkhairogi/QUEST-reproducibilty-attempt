@@ -1,0 +1,5 @@
+university_name: Converse College
+Key sentence 1: Converse College's ranking in the 2011 edition of Best Colleges is Regional Universities (South), 15.
+
+rank: 
+Key sentence 1: Converse College's ranking in the 2011 edition of Best Colleges is Regional Universities (South), 15.

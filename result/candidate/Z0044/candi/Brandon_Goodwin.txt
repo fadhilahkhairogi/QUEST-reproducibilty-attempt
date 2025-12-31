@@ -1,0 +1,32 @@
+name
+Candidate Sentence: Brandon Goodwin (basketball) Brandon Goodwin (born October 2, 1995) is an American professional basketball player for the Gigantes de Carolina of the Baloncesto Superior Nacional (BSN). He played college basketball for the UCF Knights and the Florida Gulf Coast Eagles, being named the 2018 ASUN Conference Player of the Year with the latter.
+College career Goodwin, a 6’0” point guard, committed to UCF from Norcross High School. He played for the Knights in the 2013–14 and 2014–15 seasons
+Candidate Sentence: He then led the Eagles to an NCAA Tournament berth after earning Atlantic Sun tournament MVP honors.
+Following his junior season, Goodwin declared for the 2017 NBA draft without signing with an agent, ultimately deciding to return to FGCU for his senior year.
+In his senior year, Goodwin led the Eagles to a regular season Atlantic Sun championship and was named first-team All-Atlantic Sun and the Atlantic Sun Player of the Year
+
+
+age
+Candidate Sentence: On February 12, 2020, the Atlanta Hawks announced that they had re-signed Goodwin to a multi-year contract. Goodwin missed the 2021 NBA playoffs due to a respiratory condition. On October 3, 2021, with his season having ended early, Goodwin reported severe fatigue coupled with extreme back pain, and a formal diagnosis of blood clots followed
+Candidate Sentence: 
+
+team
+Candidate Sentence: Brandon Goodwin (basketball) Brandon Goodwin (born October 2, 1995) is an American professional basketball player for the Gigantes de Carolina of the Baloncesto Superior Nacional (BSN). He played college basketball for the UCF Knights and the Florida Gulf Coast Eagles, being named the 2018 ASUN Conference Player of the Year with the latter.
+College career Goodwin, a 6’0” point guard, committed to UCF from Norcross High School. He played for the Knights in the 2013–14 and 2014–15 seasons
+Candidate Sentence: He then led the Eagles to an NCAA Tournament berth after earning Atlantic Sun tournament MVP honors.
+Following his junior season, Goodwin declared for the 2017 NBA draft without signing with an agent, ultimately deciding to return to FGCU for his senior year.
+In his senior year, Goodwin led the Eagles to a regular season Atlantic Sun championship and was named first-team All-Atlantic Sun and the Atlantic Sun Player of the Year
+
+
+draft_year
+Candidate Sentence: 
+
+draft_pick
+Candidate Sentence: 
+
+college
+Candidate Sentence: He played for the Knights in the 2013–14 and 2014–15 seasons. He left UCF after being caught taking (though later returning) a bike on campus the summer after his freshman year.
+Goodwin landed at Florida Gulf Coast (FGCU) after leaving UCF. After sitting out a season as a transfer, he averaged 18.5 points, 4.5 rebounds and 4.1 assists per game and was named ASUN Conference Newcomer of the Year
+Candidate Sentence: He then led the Eagles to an NCAA Tournament berth after earning Atlantic Sun tournament MVP honors.
+Following his junior season, Goodwin declared for the 2017 NBA draft without signing with an agent, ultimately deciding to return to FGCU for his senior year.
+In his senior year, Goodwin led the Eagles to a regular season Atlantic Sun championship and was named first-team All-Atlantic Sun and the Atlantic Sun Player of the Year

@@ -1,0 +1,14 @@
+[university_name]: Freed-Hardeman University
+Key sentnce 1: Freed-Hardeman University The Basics About Freed Hardeman University Freed Hardeman University is a private institution that was founded in 1869.
+
+[academic_calendar]: semester-based
+Key sentnce 1: It utilizes a semester-based academic calendar.
+
+[rank]: 39
+Key sentnce 1: Freed Hardeman University's ranking in the 2011 edition of Best Colleges is Regional Universities (South), 39.
+
+[year_founded]: 1869
+Key sentnce 1: Freed Hardeman University is a private institution that was founded in 1869.
+
+[total_undergraduate_enrollment]: 1,496
+Key sentnce 1: It has a total undergraduate enrollment of 1,496, its setting is rural, and the campus size is 120 acres.

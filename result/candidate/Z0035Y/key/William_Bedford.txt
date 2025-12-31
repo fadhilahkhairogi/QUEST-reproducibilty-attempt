@@ -1,0 +1,8 @@
+[name]: William Bedford
+Key sentnce 1: William Bedford (basketball) William Bedford (born December 14, 1963) is an American former professional basketball player who was selected by the Phoenix Suns in the first round (6th pick overall) of the 1986 NBA draft after playing at Memphis State University (now known as the University of Memphis).
+
+[age]: 
+Key sentnce 1: William Bedford (basketball) William Bedford (born December 14, 1963) is an American former professional basketball player who was selected by the Phoenix Suns in the first round (6th pick overall) of the 1986 NBA draft after playing at Memphis State University (now known as the University of Memphis).
+
+[team]: 
+Key sentnce 1: Bedford, a 7'0" center, played for the Suns, Detroit Pistons and the San Antonio Spurs in six NBA seasons, averaging 4.1 points and 2.4 rebounds per game in his career.

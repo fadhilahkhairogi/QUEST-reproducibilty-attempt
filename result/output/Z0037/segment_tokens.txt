@@ -1,0 +1,7 @@
+Anthony_Davis.txt,17
+Bill_Hewitt.txt,17
+Jay_Vincent.txt,230
+Kermit_Washington.txt,86
+Magic_Johnson.txt,17
+Phil_Jackson.txt,162
+Shawn_Respert.txt,178

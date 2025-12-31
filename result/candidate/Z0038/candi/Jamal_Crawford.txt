@@ -1,0 +1,14 @@
+name
+Candidate Sentence: Jamal Crawford Aaron Jamal Crawford (born March 20, 1980) is an American former professional basketball player who played in the National Basketball Association (NBA) from 2000 to 2020. Nicknamed "J-Crossover", he is regarded as one of the best ball handlers in NBA history. Crawford was named NBA Sixth Man of the Year three times, a record he shares with Lou Williams.
+Among other distinctions, Crawford was once the NBA’s all-time leader in career four-point plays
+
+
+age
+Candidate Sentence: He also became the eighth player in NBA history to appear in a game in 20 different seasons, joining Vince Carter, Kevin Garnett, Dirk Nowitzki, Robert Parish, Kevin Willis, Kareem Abdul-Jabbar, and Kobe Bryant. He recorded five points and three assists in five minutes before leaving the game with a left hamstring injury
+Candidate Sentence: On April 9, 2019, in a 120–109 season finale loss to the Dallas Mavericks, Crawford made NBA history by recording 51 points in his fourth 50-point game. At 39 years old and 20 days, he thus broke two NBA records: the oldest player to tally 50+ points—held by Michael Jordan at 38 years and 315 days since December 29, 2001—as well as the most points scored by a player not in the starting lineup, held by Nick Anderson with 50 points since April 23, 1993
+
+
+team
+Candidate Sentence: Jamal Crawford Aaron Jamal Crawford (born March 20, 1980) is an American former professional basketball player who played in the National Basketball Association (NBA) from 2000 to 2020. Nicknamed "J-Crossover", he is regarded as one of the best ball handlers in NBA history. Crawford was named NBA Sixth Man of the Year three times, a record he shares with Lou Williams.
+Among other distinctions, Crawford was once the NBA’s all-time leader in career four-point plays
+Candidate Sentence: He also became the eighth player in NBA history to appear in a game in 20 different seasons, joining Vince Carter, Kevin Garnett, Dirk Nowitzki, Robert Parish, Kevin Willis, Kareem Abdul-Jabbar, and Kobe Bryant. He recorded five points and three assists in five minutes before leaving the game with a left hamstring injury

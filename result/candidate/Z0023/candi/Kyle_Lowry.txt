@@ -1,0 +1,30 @@
+name
+Candidate Sentence: Kyle Terrell Lowry (born March 25, 1986) is an American professional basketball player for the Philadelphia 76ers of the National Basketball Association (NBA). A six-time All-Star, he was named to the All-NBA Third Team in 2016 and won an NBA championship with the Toronto Raptors in 2019, their first and only title in franchise history
+Candidate Sentence: NBA.com. May 23, 2016. Archived from the original on May 23, 2016. Retrieved May 23, 2016.
+"James scores 33, Cavaliers reach second straight NBA Finals". NBA.com. May 27, 2016. Archived from the original on June 9, 2017. Retrieved May 27, 2016.
+"Kyle Lowry Named To All-NBA Third Team". NBA.com. May 26, 2016. Retrieved May 27, 2016.
+"Lowry hits all six 3s as Raptors beat Sixers again, 122-95". ESPN.com. November 28, 2016. Retrieved November 29, 2016.
+Griffin, Richard (November 28, 2016)
+
+
+team
+Candidate Sentence: Kyle Terrell Lowry (born March 25, 1986) is an American professional basketball player for the Philadelphia 76ers of the National Basketball Association (NBA). A six-time All-Star, he was named to the All-NBA Third Team in 2016 and won an NBA championship with the Toronto Raptors in 2019, their first and only title in franchise history
+Candidate Sentence: ESPN.com. March 23, 2018. Retrieved March 24, 2018.
+"DeRozan scores 37, Raptors win Game 2, beat Wizards 130-111". ESPN.com. April 17, 2018. Retrieved April 17, 2018.
+"Down at half, Lowry's 24, bench help Raps top Wiz 102-92". ESPN.com. April 27, 2018. Retrieved April 27, 2018.
+"Newcomer Kawhi Leonard scores 24 as Raptors beat Cavaliers". ESPN.com. October 17, 2018. Retrieved October 17, 2018.
+"Lowry has 20 as Raptors win 6th straight, beat Mavs 116-107". ESPN.com. October 26, 2018
+
+
+NBA_championships
+Candidate Sentence: ESPN.com. March 3, 2019. Retrieved March 4, 2019.
+"Leonard's 31 lead Raptors past Pelicans, 127-104". ESPN.com. March 8, 2019. Retrieved March 9, 2019.
+"Bucks finish with a flourish, rally to top Raptors 108-100". ESPN.com. May 15, 2019. Retrieved May 15, 2019.
+"Leonard scores 35, Raptors beat Bucks 105-99 for 3-2 lead". ESPN.com. May 23, 2019. Retrieved May 23, 2019.
+"Leonard scores 27, Raptors advance to first NBA Finals". ESPN.com. May 25, 2019
+Candidate Sentence: ESPN.com. May 23, 2019. Retrieved May 23, 2019.
+"Leonard scores 27, Raptors advance to first NBA Finals". ESPN.com. May 25, 2019. Retrieved May 26, 2019.
+"Raptors capture first NBA title, beat Warriors in Game 6". ESPN.com. June 13, 2019. Retrieved June 13, 2019.
+"Lowry's triple-double helps Heat hold off Jazz". theScore.com. Associated Press. November 7, 2021. Retrieved January 8, 2022.
+"The Whiteboard: Who could pass Kyle Lowry as King of the Charge?". September 28, 2022.
+"Heat lock up No

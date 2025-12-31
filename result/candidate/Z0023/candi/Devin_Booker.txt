@@ -1,0 +1,33 @@
+name
+Candidate Sentence: This article is about the NBA basketball player. For the basketball player in Europe, see Devin Booker (basketball, born 1991).
+Devin Armani Booker (born October 30, 1996) is an American professional basketball player for the Phoenix Suns of the National Basketball Association (NBA). He played one season of college basketball for the Kentucky Wildcats, helping lead the team to a 38–1 record and winning SEC Sixth Man of the Year
+Candidate Sentence: NBA.com. Retrieved March 25, 2017.
+Feldman, Dan (February 5, 2016). "Suns' Devin Booker – by far – youngest player in NBA 3-point contest history". Retrieved March 25, 2017.
+"Phoenix Suns' Devin Booker headed to 3-point contest". Retrieved March 25, 2017.
+"Klay Thompson downs Stephen Curry to win the Three-Point Shootout". Retrieved March 25, 2017.
+"Suns vs Heat". NBA.com. Archived from the original on July 2, 2016. Retrieved March 25, 2017.
+"Suns vs Nuggets". NBA.com
+
+
+team
+Candidate Sentence: This article is about the NBA basketball player. For the basketball player in Europe, see Devin Booker (basketball, born 1991).
+Devin Armani Booker (born October 30, 1996) is an American professional basketball player for the Phoenix Suns of the National Basketball Association (NBA). He played one season of college basketball for the Kentucky Wildcats, helping lead the team to a 38–1 record and winning SEC Sixth Man of the Year
+Candidate Sentence: NBA.com. Retrieved March 25, 2017.
+Feldman, Dan (February 5, 2016). "Suns' Devin Booker – by far – youngest player in NBA 3-point contest history". Retrieved March 25, 2017.
+"Phoenix Suns' Devin Booker headed to 3-point contest". Retrieved March 25, 2017.
+"Klay Thompson downs Stephen Curry to win the Three-Point Shootout". Retrieved March 25, 2017.
+"Suns vs Heat". NBA.com. Archived from the original on July 2, 2016. Retrieved March 25, 2017.
+"Suns vs Nuggets". NBA.com
+
+
+NBA_championships
+Candidate Sentence: CBS Sports. Retrieved June 21, 2021.
+Selbe, Nick (June 20, 2021). "Devin Booker's 40-Point Triple-Double Leads Suns Past Clippers in Game 1". Retrieved June 25, 2021.
+Harris, Beth (June 30, 2021). "Chris Paul leads Suns past Clippers 130-103, into NBA Finals". Yahoo Sports. Retrieved June 30, 2021.
+"Paul carries Suns past Giannis, Bucks in NBA Finals opener". ESPN.com. July 6, 2021. Retrieved July 6, 2021.
+McMenamin, Dave (July 8, 2021)
+Candidate Sentence: Retrieved May 24, 2021.
+"Devin Booker drops 47 points as Phoenix Suns end Lakers' reign in first round". ESPN.com. June 3, 2021. Retrieved June 3, 2021.
+Maloney, Jack (June 14, 2021). "Suns vs. Nuggets playoff preview: Devin Booker leads Phoenix against Nikola Jokic and shorthanded Denver". CBS Sports. Retrieved June 21, 2021.
+Selbe, Nick (June 20, 2021). "Devin Booker's 40-Point Triple-Double Leads Suns Past Clippers in Game 1". Retrieved June 25, 2021.
+Harris, Beth (June 30, 2021)

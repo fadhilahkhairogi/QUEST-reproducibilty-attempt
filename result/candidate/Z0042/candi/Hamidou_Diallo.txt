@@ -1,0 +1,30 @@
+name
+Candidate Sentence: For one dunk he jumped over Shaquille O'Neal, and did the "honey dip" dunk popularized by Vince Carter, and displayed a Superman undershirt while hanging from the rim
+Candidate Sentence: Hamidou Diallo Not to be confused with Amadou Diallo.
+Hamidou Diallo (born July 31, 1998) is an American professional basketball player for the Capital City Go-Go of the NBA G League. He played college basketball for the Kentucky Wildcats. He was a consensus five-star prospect, and one of the top-rated basketball players in the class of 2017. He won the 2019 Slam Dunk Contest.
+High school career Diallo attended John Bowne High School in Flushing, New York during his freshman and sophomore year
+
+
+age
+Candidate Sentence: For one dunk he jumped over Shaquille O'Neal, and did the "honey dip" dunk popularized by Vince Carter, and displayed a Superman undershirt while hanging from the rim
+Candidate Sentence: His draft rights were subsequently traded to the Charlotte Hornets, and then to the Oklahoma City Thunder. On July 28, 2018, the Thunder announced that they had signed Diallo to his rookie-scale contract. On October 16, 2018, Diallo made his debut in NBA, coming off the bench in a 100–108 loss to the Golden State Warriors with four points, a rebound, an assist and a steal
+
+
+team
+Candidate Sentence: For one dunk he jumped over Shaquille O'Neal, and did the "honey dip" dunk popularized by Vince Carter, and displayed a Superman undershirt while hanging from the rim
+Candidate Sentence: His draft rights were subsequently traded to the Charlotte Hornets, and then to the Oklahoma City Thunder. On July 28, 2018, the Thunder announced that they had signed Diallo to his rookie-scale contract. On October 16, 2018, Diallo made his debut in NBA, coming off the bench in a 100–108 loss to the Golden State Warriors with four points, a rebound, an assist and a steal
+
+
+draft_year
+Candidate Sentence: He reclassified, graduating a semester early and joining the Wildcats midseason that month. He would start participating with the team in practices, but would not play a single game that year due to his late entry into the program
+Candidate Sentence: His draft rights were subsequently traded to the Charlotte Hornets, and then to the Oklahoma City Thunder. On July 28, 2018, the Thunder announced that they had signed Diallo to his rookie-scale contract. On October 16, 2018, Diallo made his debut in NBA, coming off the bench in a 100–108 loss to the Golden State Warriors with four points, a rebound, an assist and a steal
+
+
+draft_pick
+Candidate Sentence: He reclassified, graduating a semester early and joining the Wildcats midseason that month. He would start participating with the team in practices, but would not play a single game that year due to his late entry into the program
+
+
+college
+Candidate Sentence: He reclassified, graduating a semester early and joining the Wildcats midseason that month. He would start participating with the team in practices, but would not play a single game that year due to his late entry into the program
+Candidate Sentence: He won bronze at the 2017 FIBA Under-19 Basketball World Cup in Egypt.
+Career statistics NBA Regular season Playoffs College career Personal life Diallo grew up in LeFrak City, Queens, New York. He attended JHS 157 Stephen A. Halsey. He is of Guinean descent; his parents, Abdoulaye and Mariama, emigrated to the U.S. from Guinea.

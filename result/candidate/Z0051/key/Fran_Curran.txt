@@ -1,0 +1,17 @@
+[name]: Fran Curran
+Key sentnce 1: Fran Curran Francis Hugh Curran Sr. (September 9, 1922 – September 18, 2004) was an American professional basketball player.
+
+[age]: 
+Key sentnce 1: Fran Curran Francis Hugh Curran Sr. (September 9, 1922 – September 18, 2004) was an American professional basketball player.
+
+[team]: Rochester Royals
+Key sentnce 1: He played with the Rochester Royals during the 1948–49 and 1949–50 seasons.
+
+[draft_year]: 
+Key sentnce 1: He spent one season in the Basketball Association of America (BAA) and one season in the BAA's later incarnation, the National Basketball Association (NBA).
+
+[draft_pick]: 
+Key sentnce 1: He spent one season in the Basketball Association of America (BAA) and one season in the BAA's later incarnation, the National Basketball Association (NBA).
+
+[college]: University of Notre Dame
+Key sentnce 1: He attended the University of Notre Dame.

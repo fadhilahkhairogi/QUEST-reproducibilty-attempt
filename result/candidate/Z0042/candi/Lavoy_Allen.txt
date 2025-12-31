@@ -1,0 +1,32 @@
+name
+Candidate Sentence: 
+
+age
+Candidate Sentence: On September 20, 2018, the Washington Wizards signed Allen for training camp. He was waived by the Wizards on October 14, but he was added to the roster of the Wizards’ G League affiliate, the Capital City Go-Go.
+Candidate Sentence: Lavoy Allen Lavoy Allen (born February 4, 1989) is an American former professional basketball player. He was selected in the second round, 50th overall pick in the 2011 NBA draft by the Philadelphia 76ers. Allen is the son of a truck driver, and did not play much basketball until eighth grade. He attended Pennsbury High School, where he was coached by Oliver Aaron. Rivals.com ranked him the 14th best center in his class, and Scout.com named him the 110th overall prospect
+
+
+team
+Candidate Sentence: Lavoy Allen Lavoy Allen (born February 4, 1989) is an American former professional basketball player. He was selected in the second round, 50th overall pick in the 2011 NBA draft by the Philadelphia 76ers. Allen is the son of a truck driver, and did not play much basketball until eighth grade. He attended Pennsbury High School, where he was coached by Oliver Aaron. Rivals.com ranked him the 14th best center in his class, and Scout.com named him the 110th overall prospect
+Candidate Sentence: The contract included an opt-out clause when the NBA settled its lockout, set to expire on January 30, 2012. Allen joined former Richmond foes Kevin Anderson and Justin Harper on Strasbourg IG. He made his debut on October 7, scoring 10 points and pulling down four rebounds in a 77–74 victory over Cholet Basket. The following game, against SLUC Nancy Basket, he grabbed a season-high 13 rebounds and also added 12 points
+
+
+draft_year
+Candidate Sentence: The Sixers were not overly concerned with the injury, as they drafted him in the second round with the 50th pick on June 23. Allen became the 32nd Temple product to be drafted and the first since the New York Knicks selected Mardy Collins with the 29th pick in 2006.
+Strasbourg IG (2011) On July 15, 2011, he signed a contract with Strasbourg IG of France's LNB Pro A. The contract included an opt-out clause when the NBA settled its lockout, set to expire on January 30, 2012
+Candidate Sentence: He declared for early entry in the draft, but did not hire an agent. After one workout with the Portland Trail Blazers, Allen was told to return to school to work on his offensive game. On May 8, Allen officially pulled his name out of consideration for the draft. He did so on the final day allowed by the NCAA to ensure collegiate eligibility.
+Senior Allen was named to the 20-man USA Select team, which played with and against the USA National team from July 19-24
+
+
+draft_pick
+Candidate Sentence: The Sixers were not overly concerned with the injury, as they drafted him in the second round with the 50th pick on June 23. Allen became the 32nd Temple product to be drafted and the first since the New York Knicks selected Mardy Collins with the 29th pick in 2006.
+Strasbourg IG (2011) On July 15, 2011, he signed a contract with Strasbourg IG of France's LNB Pro A. The contract included an opt-out clause when the NBA settled its lockout, set to expire on January 30, 2012
+Candidate Sentence: He declared for early entry in the draft, but did not hire an agent. After one workout with the Portland Trail Blazers, Allen was told to return to school to work on his offensive game. On May 8, Allen officially pulled his name out of consideration for the draft. He did so on the final day allowed by the NCAA to ensure collegiate eligibility.
+Senior Allen was named to the 20-man USA Select team, which played with and against the USA National team from July 19-24
+
+
+college
+Candidate Sentence: He attended Pennsbury High School, where he was coached by Oliver Aaron. Rivals.com ranked him the 14th best center in his class, and Scout.com named him the 110th overall prospect. Allen committed to Temple University and coach Fran Dunphy.
+Temple reached the NCAA tournament in all four seasons that Allen played there. He was a three-time All-Atlantic 10 Defensive Team honoree and a two-time All-Atlantic 10 First Team recipient
+Candidate Sentence: His initial motivation was how schoolchildren mocked him for his height yet not being able to dunk. "I could barely jump over the Sunday paper," he said.
+High school career He attended Pennsbury High School, where he was coached by Frank Sciolla. Former Temple player Dalton Pepper was his high school teammate. In ninth grade, Allen decided that he wanted to be great, and put in much more practice time. He became a starter on the varsity team in his sophomore year

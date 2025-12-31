@@ -1,0 +1,28 @@
+name
+Candidate Sentence: Mark Price William Mark Price (born February 15, 1964) is an American former basketball player and coach. He was most recently the head coach of the Charlotte 49ers. As a player, he played for 12 seasons in the National Basketball Association (NBA), from 1986 to 1998
+Candidate Sentence: He was most recently the head coach of the Charlotte 49ers. As a player, he played for 12 seasons in the National Basketball Association (NBA), from 1986 to 1998. Spending the majority of his career with the Cleveland Cavaliers, his last three years consisted of one season each with the Washington Bullets, Golden State Warriors, and Orlando Magic.
+College career Standing at 6 feet (183 cm) tall, Price played college basketball at Georgia Tech
+
+
+age
+Candidate Sentence: His younger brother Brent played ten seasons in the NBA. His daughter Caroline had a short stint in professional tennis after playing for the North Carolina Tar Heels. His son Josh plays college basketball for Trevecca (2021-2022), after attending and playing two years for Liberty Flames
+Candidate Sentence: 
+
+team
+Candidate Sentence: During his time playing on the Georgia Tech Yellow Jackets men's basketball team, he was a three-time All American and four-time All ACC basketball player who helped lead the Yellow Jackets to an ACC Championship his junior year by defeating North Carolina in the ACC Tournament championship game. He was named the ACC Player of the Year for the 1984–85 season and his jersey was retired. He was inducted into the school's Hall of Fame in 1991 and into the Georgia Sports Hall of Fame in 2005
+Candidate Sentence: He was most recently the head coach of the Charlotte 49ers. As a player, he played for 12 seasons in the National Basketball Association (NBA), from 1986 to 1998. Spending the majority of his career with the Cleveland Cavaliers, his last three years consisted of one season each with the Washington Bullets, Golden State Warriors, and Orlando Magic.
+College career Standing at 6 feet (183 cm) tall, Price played college basketball at Georgia Tech
+
+
+draft_year
+Candidate Sentence: During his time playing on the Georgia Tech Yellow Jackets men's basketball team, he was a three-time All American and four-time All ACC basketball player who helped lead the Yellow Jackets to an ACC Championship his junior year by defeating North Carolina in the ACC Tournament championship game. He was named the ACC Player of the Year for the 1984–85 season and his jersey was retired. He was inducted into the school's Hall of Fame in 1991 and into the Georgia Sports Hall of Fame in 2005
+
+
+draft_pick
+Candidate Sentence: During his time playing on the Georgia Tech Yellow Jackets men's basketball team, he was a three-time All American and four-time All ACC basketball player who helped lead the Yellow Jackets to an ACC Championship his junior year by defeating North Carolina in the ACC Tournament championship game. He was named the ACC Player of the Year for the 1984–85 season and his jersey was retired. He was inducted into the school's Hall of Fame in 1991 and into the Georgia Sports Hall of Fame in 2005
+
+
+college
+Candidate Sentence: During his time playing on the Georgia Tech Yellow Jackets men's basketball team, he was a three-time All American and four-time All ACC basketball player who helped lead the Yellow Jackets to an ACC Championship his junior year by defeating North Carolina in the ACC Tournament championship game. He was named the ACC Player of the Year for the 1984–85 season and his jersey was retired. He was inducted into the school's Hall of Fame in 1991 and into the Georgia Sports Hall of Fame in 2005
+Candidate Sentence: He was most recently the head coach of the Charlotte 49ers. As a player, he played for 12 seasons in the National Basketball Association (NBA), from 1986 to 1998. Spending the majority of his career with the Cleveland Cavaliers, his last three years consisted of one season each with the Washington Bullets, Golden State Warriors, and Orlando Magic.
+College career Standing at 6 feet (183 cm) tall, Price played college basketball at Georgia Tech

@@ -1,0 +1,11 @@
+[name]: Jack Parr  
+Key sentence 1: Jack Parr (March 13, 1936 – January 4, 2015) was an American professional basketball player.  
+
+[draft_pick]: 10  
+Key sentence 1: He was drafted by the Cincinnati Royals in the 10th round of the 1958 NBA draft.  
+
+[draft_year]: 1958  
+Key sentence 1: He was drafted by the Cincinnati Royals in the 10th round of the 1958 NBA draft.  
+
+[NBA_championships]:   
+Key sentence 1:  He played 66 games for the Royals in 1958–1959, averaging 4.0 points per game.

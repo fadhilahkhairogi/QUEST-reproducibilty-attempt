@@ -1,0 +1,19 @@
+name
+Candidate Sentence: 
+
+draft_pick
+Candidate Sentence: The Sixers were not overly concerned with the injury, as they drafted him in the second round with the 50th pick on June 23. Allen became the 32nd Temple product to be drafted and the first since the New York Knicks selected Mardy Collins with the 29th pick in 2006.
+Strasbourg IG (2011) On July 15, 2011, he signed a contract with Strasbourg IG of France's LNB Pro A. The contract included an opt-out clause when the NBA settled its lockout, set to expire on January 30, 2012
+Candidate Sentence: He declared for early entry in the draft, but did not hire an agent. After one workout with the Portland Trail Blazers, Allen was told to return to school to work on his offensive game. On May 8, Allen officially pulled his name out of consideration for the draft. He did so on the final day allowed by the NCAA to ensure collegiate eligibility.
+Senior Allen was named to the 20-man USA Select team, which played with and against the USA National team from July 19-24
+
+
+draft_year
+Candidate Sentence: The Sixers were not overly concerned with the injury, as they drafted him in the second round with the 50th pick on June 23. Allen became the 32nd Temple product to be drafted and the first since the New York Knicks selected Mardy Collins with the 29th pick in 2006.
+Strasbourg IG (2011) On July 15, 2011, he signed a contract with Strasbourg IG of France's LNB Pro A. The contract included an opt-out clause when the NBA settled its lockout, set to expire on January 30, 2012
+Candidate Sentence: He declared for early entry in the draft, but did not hire an agent. After one workout with the Portland Trail Blazers, Allen was told to return to school to work on his offensive game. On May 8, Allen officially pulled his name out of consideration for the draft. He did so on the final day allowed by the NCAA to ensure collegiate eligibility.
+Senior Allen was named to the 20-man USA Select team, which played with and against the USA National team from July 19-24
+
+
+NBA_championships
+Candidate Sentence: 

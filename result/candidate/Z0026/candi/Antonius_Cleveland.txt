@@ -1,0 +1,24 @@
+name
+Candidate Sentence: Antonius Cleveland Antonius Cleveland (born February 2, 1994) is an American professional basketball player for Lokomotiv Kuban of the VTB United League. He played college basketball for Southeast Missouri State University. He played in the NBA for the Dallas Mavericks and Atlanta Hawks.
+Early life and high school career Cleveland was born in Memphis, Tennessee, as the only child of mother Shonda Bowie
+Candidate Sentence: He was then assigned to the Santa Cruz Warriors NBA G League affiliate team on October 24, 2017.
+On November 17, 2017, Cleveland signed a two-way contract with the Dallas Mavericks. He made his NBA debut later that night in a 111–87 blowout loss to the Minnesota Timberwolves, recording 2 points and 2 rebounds in 6 minutes of play. Throughout his time on that two-way deal, he would split his playing time between the Mavericks and their G League affiliate, the Texas Legends
+
+
+draft_pick
+Candidate Sentence: In his senior year he was also 3rd in the conference in steals per game (1.4), and 5th in field goal percentage (.543). He was selected to the All-Ohio Valley Conference (OVC) first-team in 2017.
+Professional career Dallas Mavericks (2017) After going undrafted in the 2017 NBA draft, Cleveland signed with the Portland Trail Blazers to join their roster for the 2017 NBA Summer League. While playing for Portland, he averaged 5.8 ppg in six games coming off the bench
+Candidate Sentence: He was then assigned to the Santa Cruz Warriors NBA G League affiliate team on October 24, 2017.
+On November 17, 2017, Cleveland signed a two-way contract with the Dallas Mavericks. He made his NBA debut later that night in a 111–87 blowout loss to the Minnesota Timberwolves, recording 2 points and 2 rebounds in 6 minutes of play. Throughout his time on that two-way deal, he would split his playing time between the Mavericks and their G League affiliate, the Texas Legends
+
+
+draft_year
+Candidate Sentence: In his senior year he was also 3rd in the conference in steals per game (1.4), and 5th in field goal percentage (.543). He was selected to the All-Ohio Valley Conference (OVC) first-team in 2017.
+Professional career Dallas Mavericks (2017) After going undrafted in the 2017 NBA draft, Cleveland signed with the Portland Trail Blazers to join their roster for the 2017 NBA Summer League. While playing for Portland, he averaged 5.8 ppg in six games coming off the bench
+Candidate Sentence: He was then assigned to the Santa Cruz Warriors NBA G League affiliate team on October 24, 2017.
+On November 17, 2017, Cleveland signed a two-way contract with the Dallas Mavericks. He made his NBA debut later that night in a 111–87 blowout loss to the Minnesota Timberwolves, recording 2 points and 2 rebounds in 6 minutes of play. Throughout his time on that two-way deal, he would split his playing time between the Mavericks and their G League affiliate, the Texas Legends
+
+
+NBA_championships
+Candidate Sentence: In his junior year he was also 5th in the conference with 1.6 steals per game, 9th with 6.6 rebounds per game, and 10th with a .437 field goal percentage. In his senior year he was also 3rd in the conference in steals per game (1.4), and 5th in field goal percentage (.543)
+Candidate Sentence: He averaged 5.4 points and 1.7 rebounds per game during the 2023–24 season. On July 18, 2024, Maccabi Tel Aviv announced that Cleveland would not be returning for the 2024–25 season.

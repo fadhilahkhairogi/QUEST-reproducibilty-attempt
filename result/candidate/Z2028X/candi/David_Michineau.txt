@@ -1,0 +1,17 @@
+name
+Candidate Sentence: 
+
+draft_pick
+Candidate Sentence: He joined the Clippers for the 2016 NBA Summer League.  On February 10, 2022, Michineau's draft rights were traded to the Sacramento Kings as part of a four-team trade. On February 8, 2023, the Kings traded the draft rights to Michineau to the Brooklyn Nets in exchange for Kessler Edwards and cash considerations.
+National team career In 2012, Michineau played the Albert-Schweitzer-Tournament in Germany with the French under 18 national team.
+
+
+draft_year
+Candidate Sentence: He joined the Clippers for the 2016 NBA Summer League.  On February 10, 2022, Michineau's draft rights were traded to the Sacramento Kings as part of a four-team trade. On February 8, 2023, the Kings traded the draft rights to Michineau to the Brooklyn Nets in exchange for Kessler Edwards and cash considerations.
+National team career In 2012, Michineau played the Albert-Schweitzer-Tournament in Germany with the French under 18 national team.
+
+
+NBA_championships
+Candidate Sentence: In the 2015-16 season, Michineau helped Chalon advance to the final of the Leaders Cup and to the Final Four of the FIBA Europe Cup
+Candidate Sentence: He joined the Clippers for the 2016 NBA Summer League.  On February 10, 2022, Michineau's draft rights were traded to the Sacramento Kings as part of a four-team trade. On February 8, 2023, the Kings traded the draft rights to Michineau to the Brooklyn Nets in exchange for Kessler Edwards and cash considerations.
+National team career In 2012, Michineau played the Albert-Schweitzer-Tournament in Germany with the French under 18 national team.

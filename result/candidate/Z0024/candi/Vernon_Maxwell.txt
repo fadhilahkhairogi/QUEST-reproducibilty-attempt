@@ -1,0 +1,20 @@
+name
+Candidate Sentence: For the American football player, see Vernon Maxwell (American football).
+Vernon Maxwell (born September 12, 1965) is an American former professional basketball player. He was a shooting guard in the National Basketball Association (NBA) for thirteen seasons during the late 1980s, 1990s, and early 2000s.  Maxwell played college basketball for the University of Florida, and led the Florida Gators to their first-ever NCAA tournament appearance
+Candidate Sentence: Vernon Maxwell This article is about the American basketball player who won two NBA championships with the Houston Rockets. For the American basketball player who won two NBA championships with the Boston Celtics, see Cedric Maxwell. For the American football player, see Vernon Maxwell (American football).
+Vernon Maxwell (born September 12, 1965) is an American former professional basketball player
+
+
+draft_pick
+Candidate Sentence: Maxwell played college basketball for the University of Florida, and led the Florida Gators to their first-ever NCAA tournament appearance.  He was selected by the Denver Nuggets in the second round of the 1988 NBA draft and was immediately traded to the San Antonio Spurs. His longest and most successful NBA tenure was with the Houston Rockets
+Candidate Sentence: Shortly before the Sonics' first round series against the Utah Jazz, it was reported that he would miss the playoffs due to a knee injury, much to the delight of Utah's players.
+
+
+draft_year
+Candidate Sentence: Maxwell played college basketball for the University of Florida, and led the Florida Gators to their first-ever NCAA tournament appearance.  He was selected by the Denver Nuggets in the second round of the 1988 NBA draft and was immediately traded to the San Antonio Spurs. His longest and most successful NBA tenure was with the Houston Rockets
+Candidate Sentence: Shortly before the Sonics' first round series against the Utah Jazz, it was reported that he would miss the playoffs due to a knee injury, much to the delight of Utah's players.
+
+
+NBA_championships
+Candidate Sentence: Shortly before the Sonics' first round series against the Utah Jazz, it was reported that he would miss the playoffs due to a knee injury, much to the delight of Utah's players.
+Candidate Sentence: Two years later, his contract was sold to the Houston Rockets for $50,000, where he would become a key member of the franchise's first championship team in 1994. Known for his clutch shooting, Maxwell hit several game-winning shots throughout his career. Maxwell held the NBA's record for most 3-pointers made in a season from 1991 to 1993

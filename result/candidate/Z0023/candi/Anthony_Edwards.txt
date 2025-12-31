@@ -1,0 +1,25 @@
+name
+Candidate Sentence: Anthony Edwards (born August 5, 2001), nicknamed "Ant-Man" or simply "Ant", is an American professional basketball player for the Minnesota Timberwolves of the National Basketball Association (NBA). A shooting guard, he played college basketball for the Georgia Bulldogs and was selected with the first overall pick by the Timberwolves in the 2020 NBA draft. He was named an All-Star during the 2022–23 and 2023–24 seasons. Edwards also won a gold medal on the 2024 U.S
+Candidate Sentence: NBA. Retrieved March 24, 2020.
+"SEC announces 2020 Men's Basketball Awards" (Press release). Southeastern Conference. March 10, 2020. Retrieved March 10, 2020.
+Jackson, Jordan (March 10, 2020). "Anthony Edwards Named SEC Freshman of the Year". Sports Illustrated. Retrieved March 24, 2020.
+"Georgia's Edwards finalist for Jerry West Shooting Guard award". The Atlanta Journal-Constitution. March 3, 2020. Retrieved March 24, 2020.
+"No. 1 prospect Anthony Edwards of Georgia declares for NBA draft". ESPN
+
+
+team
+Candidate Sentence: Anthony Edwards (born August 5, 2001), nicknamed "Ant-Man" or simply "Ant", is an American professional basketball player for the Minnesota Timberwolves of the National Basketball Association (NBA). A shooting guard, he played college basketball for the Georgia Bulldogs and was selected with the first overall pick by the Timberwolves in the 2020 NBA draft. He was named an All-Star during the 2022–23 and 2023–24 seasons. Edwards also won a gold medal on the 2024 U.S
+Candidate Sentence: NBA. Retrieved March 24, 2020.
+"SEC announces 2020 Men's Basketball Awards" (Press release). Southeastern Conference. March 10, 2020. Retrieved March 10, 2020.
+Jackson, Jordan (March 10, 2020). "Anthony Edwards Named SEC Freshman of the Year". Sports Illustrated. Retrieved March 24, 2020.
+"Georgia's Edwards finalist for Jerry West Shooting Guard award". The Atlanta Journal-Constitution. March 3, 2020. Retrieved March 24, 2020.
+"No. 1 prospect Anthony Edwards of Georgia declares for NBA draft". ESPN
+
+
+NBA_championships
+Candidate Sentence: On February 10, 2023, he was named an All-Star for the first time in his career as a reserve. Edwards and De'Aaron Fox were announced as injury replacements for injured stars Stephen Curry and Zion Williamson
+Candidate Sentence: ClutchPoints. Retrieved April 7, 2022.
+"Anthony Edwards, Karl-Anthony Towns come up big for Timberwolves in Game 1 win over Memphis". The Star Tribune. Retrieved April 16, 2022.
+"Grizzlies finish Wolves in Game 6, advance to West semifinals". NBA.com. Retrieved April 30, 2022.
+"Edwards scores 44; Wolves hand Rockets 13th straight loss". ESPN.com. January 21, 2023. Retrieved January 21, 2023.
+"Anthony Edwards, De'Aaron Fox and Pascal Siakam named as injury replacements for 2023 All-Star Game". NBA.com

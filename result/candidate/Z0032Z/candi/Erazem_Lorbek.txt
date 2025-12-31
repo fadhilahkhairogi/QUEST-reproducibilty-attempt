@@ -1,0 +1,16 @@
+name
+Candidate Sentence: 
+
+age
+Candidate Sentence: Candidate Sentence: Over 21 Euroleague games, he averaged 12 points and 5 rebounds per game.
+FC Barcelona (2009–14) On August 18, 2009, he was transferred to the Spanish club FC Barcelona, for an undisclosed fee. He signed a three-year contract, with the possibility to leave and join the NBA, after the second year of the contract.
+On June 22, 2013, he underwent arthroscopic surgery on his knee, which caused him problems during the 2012–13 season
+
+
+team
+Candidate Sentence: On September 11, 2017, he left Sassari, without having played with the team in any games.
+On January 19, 2018, Lorbek signed with the Slovenian club Petrol Olimpija. He played a single game for Olimpija in the Sloveninan League and recorded 12 points and 6 rebounds, only to retire from playing professional basketball shortly after.
+NBA draft rights Lorbek was drafted in the 2nd round of the 2005 NBA draft, by the Indiana Pacers. But the Pacers did not sign him, and Lorbek continued to play in Europe
+Candidate Sentence: Over 21 Euroleague games, he averaged 12 points and 5 rebounds per game.
+FC Barcelona (2009–14) On August 18, 2009, he was transferred to the Spanish club FC Barcelona, for an undisclosed fee. He signed a three-year contract, with the possibility to leave and join the NBA, after the second year of the contract.
+On June 22, 2013, he underwent arthroscopic surgery on his knee, which caused him problems during the 2012–13 season

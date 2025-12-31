@@ -1,0 +1,36 @@
+name
+Candidate Sentence: Anthony Davis For other people with the same name, see Anthony Davis (disambiguation).
+Anthony Marshon Davis Jr. (born March 11, 1993), nicknamed "AD", is an American professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA). He previously played for the New Orleans Pelicans. He plays the power forward and center positions. Davis is a nine-time NBA All-Star and has been named to four All-NBA First Teams and five NBA All-Defensive Teams
+Candidate Sentence: He needed to develop his isolation and post-up skills. His rookie skill set was said to resemble a young Lamar Odom, but he added over 10 pounds (4.5 kg) following his rookie season.
+After the 2012–13 season, the Hornets renamed themselves the Pelicans. Davis donated $65,000 toward the construction of a basketball court at his alma mater, Perspectives
+
+
+age
+Candidate Sentence: He missed 17 games before returning in late January, and for the first time since 2013 was not selected for the 2022 NBA All-Star Game. On February 16, 2022, in a 106–101 win against the Utah Jazz, Davis injured his right ankle and missed 18 games
+Candidate Sentence: The report was initially released on Wednesday August 4, 2010 by Sun-Times reporter Michael O'Brien
+
+
+team
+Candidate Sentence: He was a 2013 NBA All-Rookie First Team selection, and finished second in NBA Rookie of the Year voting (with 306 points) to Damian Lillard (605). His 20 double-doubles was the most in his rookie class.
+As a rookie, he proved to be mostly a pick-and-roll threat on offense, but was effective in fast break transition and on the offensive boards. He needed to develop his isolation and post-up skills
+Candidate Sentence: Anthony Davis For other people with the same name, see Anthony Davis (disambiguation).
+Anthony Marshon Davis Jr. (born March 11, 1993), nicknamed "AD", is an American professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA). He previously played for the New Orleans Pelicans. He plays the power forward and center positions. Davis is a nine-time NBA All-Star and has been named to four All-NBA First Teams and five NBA All-Defensive Teams
+
+
+draft_year
+Candidate Sentence: At the 2012 NBA Draft Combine, Davis measured at 6 feet 9.25 inches (2.06 m), 221.8 pounds (100.6 kg) and had the second-longest wingspan—7 feet 5.5 inches (2.27 m)—of any player participating. On June 28, the New Orleans Hornets selected Davis with the first overall pick. Davis became the fifth Chicago-area first overall selection following Cazzie Russell (1966), LaRue Martin (1972), Mark Aguirre (1981) and Derrick Rose (2008)
+Candidate Sentence: Davis led the NCAA in blocks and set Southeastern Conference and NCAA Division I freshman single-season blocked shots records. He led Kentucky to a national championship and was named the most outstanding player of the 2012 NCAA Division I men's basketball tournament.
+Davis left college for the NBA after one season and was drafted as the first overall pick in the 2012 NBA draft by the New Orleans Hornets, and was selected that summer to play in the 2012 Olympics
+
+
+draft_pick
+Candidate Sentence: At the 2012 NBA Draft Combine, Davis measured at 6 feet 9.25 inches (2.06 m), 221.8 pounds (100.6 kg) and had the second-longest wingspan—7 feet 5.5 inches (2.27 m)—of any player participating. On June 28, the New Orleans Hornets selected Davis with the first overall pick. Davis became the fifth Chicago-area first overall selection following Cazzie Russell (1966), LaRue Martin (1972), Mark Aguirre (1981) and Derrick Rose (2008)
+Candidate Sentence: Davis led the NCAA in blocks and set Southeastern Conference and NCAA Division I freshman single-season blocked shots records. He led Kentucky to a national championship and was named the most outstanding player of the 2012 NCAA Division I men's basketball tournament.
+Davis left college for the NBA after one season and was drafted as the first overall pick in the 2012 NBA draft by the New Orleans Hornets, and was selected that summer to play in the 2012 Olympics
+
+
+college
+Candidate Sentence: He needed to develop his isolation and post-up skills. His rookie skill set was said to resemble a young Lamar Odom, but he added over 10 pounds (4.5 kg) following his rookie season.
+After the 2012–13 season, the Hornets renamed themselves the Pelicans. Davis donated $65,000 toward the construction of a basketball court at his alma mater, Perspectives
+Candidate Sentence: He was a 2013 NBA All-Rookie First Team selection, and finished second in NBA Rookie of the Year voting (with 306 points) to Damian Lillard (605). His 20 double-doubles was the most in his rookie class.
+As a rookie, he proved to be mostly a pick-and-roll threat on offense, but was effective in fast break transition and on the offensive boards. He needed to develop his isolation and post-up skills

@@ -1,0 +1,14 @@
+[university_name]: Converse College
+Key sentnce 1: Converse College Converse College The Basics About Converse College Converse College is a private institution that was founded in 1889.
+
+[academic_calendar]: 4-1-4-based
+Key sentnce 1: It utilizes a 4-1-4-based academic calendar.
+
+[rank]: 15
+Key sentnce 1: Converse College's ranking in the 2011 edition of Best Colleges is Regional Universities (South), 15.
+
+[year_founded]: 1889
+Key sentnce 1: Converse College is a private institution that was founded in 1889.
+
+[total_undergraduate_enrollment]: 729
+Key sentnce 1: It has a total undergraduate enrollment of 729, its setting is urban, and the campus size is 70 acres.

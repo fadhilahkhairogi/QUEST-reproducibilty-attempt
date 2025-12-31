@@ -1,0 +1,9 @@
+[university_name]: Hamline University
+Key sentnce 1: Hamline University Hamline University The Basics About Hamline University Hamline University is a private institution that was founded in 1854.
+
+[year_founded]: 1854
+Key sentnce 1: Hamline University Hamline University The Basics About Hamline University Hamline University is a private institution that was founded in 1854.
+Key sentnce 2: Founded in 1854, Hamline also is Minnesota's first university and among the first coeducational institutions in the nation.
+
+[rank]: 
+Key sentnce 1: Hamline University's ranking in the 2011 edition of Best Colleges is Regional Universities (Midwest), 9.

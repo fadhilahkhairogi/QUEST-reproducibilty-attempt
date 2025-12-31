@@ -1,0 +1,8 @@
+[name]: Gene Dyker  
+Key sentnce 1: Gene Dyker Eugene Walter Dyker (February 17, 1930 – January 24, 1966) was an American basketball forward in the National Basketball Association.
+
+[age]:   
+Key sentnce 1: 
+
+[team]:   
+Key sentnce 1:

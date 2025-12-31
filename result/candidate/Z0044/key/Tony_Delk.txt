@@ -1,0 +1,17 @@
+[name]: Tony Delk  
+Key sentnce 1: Tony Delk Tony Lorenzo Delk (born January 28, 1974) is an American former professional basketball player and college assistant coach.
+
+[age]:  
+Key sentnce 1: Tony Delk Tony Lorenzo Delk (born January 28, 1974) is an American former professional basketball player and college assistant coach.
+
+[team]:  
+Key sentnce 1: Tony Delk Tony Lorenzo Delk (born January 28, 1974) is an American former professional basketball player and college assistant coach.
+
+[draft_year]: 1996  
+Key sentnce 1: Tony Delk was picked 16th overall in the 1996 NBA draft by the Charlotte Hornets.
+
+[draft_pick]: 16  
+Key sentnce 1: Tony Delk was picked 16th overall in the 1996 NBA draft by the Charlotte Hornets.
+
+[college]: University of Kentucky  
+Key sentnce 1: On April 16, 2009 it was announced that Delk would be returning to his alma mater along with his former college teammate Scott Padgett to serve on coach John Calipari's staff at the University of Kentucky.

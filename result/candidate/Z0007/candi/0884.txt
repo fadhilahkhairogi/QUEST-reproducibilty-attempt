@@ -1,0 +1,12 @@
+university_name
+Candidate Sentence: Williams College The Basics About Williams College Williams College is a private institution that was founded in 1793. It has a total undergraduate enrollment of 2,067, its setting is rural, and the campus size is 450 acres. It utilizes a 4-1-4-based academic calendar.  Williams College's ranking in the 2011 edition of Best Colleges is National Liberal Arts Colleges, 1. Its tuition and fees are $41,434.
+When any student says they go to Williams, the most common reaction seems to be "Oh...
+Candidate Sentence: Its tuition and fees are $41,434.
+When any student says they go to Williams, the most common reaction seems to be "Oh.... what's that?" It's tiny size and the largely rural landscape create a very different atmosphere from the town where I grew up, which was home to a mid-sized public university
+
+
+total_undergraduate_enrollment
+Candidate Sentence: Williams College The Basics About Williams College Williams College is a private institution that was founded in 1793. It has a total undergraduate enrollment of 2,067, its setting is rural, and the campus size is 450 acres. It utilizes a 4-1-4-based academic calendar.  Williams College's ranking in the 2011 edition of Best Colleges is National Liberal Arts Colleges, 1. Its tuition and fees are $41,434.
+When any student says they go to Williams, the most common reaction seems to be "Oh...
+Candidate Sentence: Its tuition and fees are $41,434.
+When any student says they go to Williams, the most common reaction seems to be "Oh.... what's that?" It's tiny size and the largely rural landscape create a very different atmosphere from the town where I grew up, which was home to a mid-sized public university

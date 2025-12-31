@@ -1,0 +1,8 @@
+[university_name]: University of California--Riverside
+Key sentnce 1: University of California--Riverside University of California--Riverside The Basics About UCR UCR is a public institution that was founded in 1954.
+
+[setting]: urban
+Key sentnce 1: It has a total undergraduate enrollment of 16,996, its setting is urban, and the campus size is 1,200 acres.
+
+[total_undergraduate_enrollment]: 
+Key sentnce 1:

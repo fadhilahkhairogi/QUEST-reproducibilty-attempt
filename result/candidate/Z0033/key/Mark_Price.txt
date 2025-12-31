@@ -1,0 +1,17 @@
+name: Mark Price
+Key sentnce 1: Mark Price William Mark Price (born February 15, 1964) is an American former basketball player and coach.
+
+team: 
+Key sentnce 1: 
+
+draft_year: 1986
+Key sentnce 1: Selected first in the second round (25th overall) by the Dallas Mavericks in the 1986 NBA draft, he was acquired by the Cleveland Cavaliers in a draft day trade that helped turn the team into an Eastern Conference powerhouse.
+
+draft_pick: 25
+Key sentnce 1: Selected first in the second round (25th overall) by the Dallas Mavericks in the 1986 NBA draft, he was acquired by the Cleveland Cavaliers in a draft day trade that helped turn the team into an Eastern Conference powerhouse.
+
+college: Georgia Tech
+Key sentnce 1: Standing at 6 feet (183 cm) tall, Price played college basketball at Georgia Tech.
+
+age: 
+Key sentnce 1:

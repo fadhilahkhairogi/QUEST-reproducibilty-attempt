@@ -1,0 +1,28 @@
+name
+Candidate Sentence: For one dunk he jumped over Shaquille O'Neal, and did the "honey dip" dunk popularized by Vince Carter, and displayed a Superman undershirt while hanging from the rim
+
+
+age
+Candidate Sentence: He reclassified, graduating a semester early and joining the Wildcats midseason that month. He would start participating with the team in practices, but would not play a single game that year due to his late entry into the program
+
+
+team
+Candidate Sentence: For one dunk he jumped over Shaquille O'Neal, and did the "honey dip" dunk popularized by Vince Carter, and displayed a Superman undershirt while hanging from the rim
+Candidate Sentence: He won the 2019 Slam Dunk Contest.
+High school career Diallo attended John Bowne High School in Flushing, New York during his freshman and sophomore year. He also attended Putnam Science Academy. As a sophomore, he averaged 17.1 points, 6.6 rebounds per game, and 2.7 assists. During the 2015 summer, Diallo competed on the Under Armour Association Circuit (UAA) for the AAU team, New York Jayhawks, where he averaged 22.5 points and 5.0 rebounds per game
+
+
+draft_year
+Candidate Sentence: He reclassified, graduating a semester early and joining the Wildcats midseason that month. He would start participating with the team in practices, but would not play a single game that year due to his late entry into the program
+Candidate Sentence: For one dunk he jumped over Shaquille O'Neal, and did the "honey dip" dunk popularized by Vince Carter, and displayed a Superman undershirt while hanging from the rim
+
+
+draft_pick
+Candidate Sentence: He reclassified, graduating a semester early and joining the Wildcats midseason that month. He would start participating with the team in practices, but would not play a single game that year due to his late entry into the program
+Candidate Sentence: For one dunk he jumped over Shaquille O'Neal, and did the "honey dip" dunk popularized by Vince Carter, and displayed a Superman undershirt while hanging from the rim
+
+
+college
+Candidate Sentence: He reclassified, graduating a semester early and joining the Wildcats midseason that month. He would start participating with the team in practices, but would not play a single game that year due to his late entry into the program
+Candidate Sentence: He won bronze at the 2017 FIBA Under-19 Basketball World Cup in Egypt.
+Career statistics NBA Regular season Playoffs College career Personal life Diallo grew up in LeFrak City, Queens, New York. He attended JHS 157 Stephen A. Halsey. He is of Guinean descent; his parents, Abdoulaye and Mariama, emigrated to the U.S. from Guinea.

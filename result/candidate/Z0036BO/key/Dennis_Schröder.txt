@@ -1,0 +1,8 @@
+[name]: 
+Key sentnce 1: Dennis Schröder Dennis Schröder (German pronunciation: [ˈdɛnɪs ˈʃʁøːdɐ]; born 15 September 1993) is a German professional basketball player for the Brooklyn Nets of the National Basketball Association (NBA).
+
+[age]: 
+Key sentnce 1: Dennis Schröder Dennis Schröder (German pronunciation: [ˈdɛnɪs ˈʃʁøːdɐ]; born 15 September 1993) is a German professional basketball player for the Brooklyn Nets of the National Basketball Association (NBA).
+
+[team]: 
+Key sentnce 1: Los Angeles Lakers (2020–2021) On 18 November 2020, Schröder was traded to the Los Angeles Lakers in exchange for Danny Green and the draft rights to first-round pick Jaden McDaniels.

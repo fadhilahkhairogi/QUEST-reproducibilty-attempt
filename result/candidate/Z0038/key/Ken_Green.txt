@@ -1,0 +1,8 @@
+[name]: Kenneth "Apple" Green  
+Key sentnce 1: Kenneth "Apple" Green (born September 19, 1959) is an American former National Basketball Association (NBA) player for the New York Knicks.
+
+[age]:  
+Key sentnce 1: Kenneth "Apple" Green (born September 19, 1959) is an American former National Basketball Association (NBA) player for the New York Knicks.
+
+[team]: New York Knicks  
+Key sentnce 1: Kenneth "Apple" Green (born September 19, 1959) is an American former National Basketball Association (NBA) player for the New York Knicks.

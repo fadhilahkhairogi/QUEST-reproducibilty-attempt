@@ -1,0 +1,23 @@
+name
+Candidate Sentence: Lavoy Allen Lavoy Allen (born February 4, 1989) is an American former professional basketball player. He was selected in the second round, 50th overall pick in the 2011 NBA draft by the Philadelphia 76ers. Allen is the son of a truck driver, and did not play much basketball until eighth grade. He attended Pennsbury High School, where he was coached by Oliver Aaron. Rivals.com ranked him the 14th best center in his class, and Scout.com named him the 110th overall prospect
+Candidate Sentence: He was a three-time All-Atlantic 10 Defensive Team honoree and a two-time All-Atlantic 10 First Team recipient. In his junior year, he became the first Temple player to average a double-double since Ollie Johnson accomplished the feat in 1970–71. Allen declared for early entry in the 2010 NBA draft, but withdrew prior to the May 8 deadline. As a senior, Allen surpassed Johnny Baum as the all-time leading rebounder in Temple history. He was the recipient of the Robert V
+
+
+draft_pick
+Candidate Sentence: The Sixers were not overly concerned with the injury, as they drafted him in the second round with the 50th pick on June 23. Allen became the 32nd Temple product to be drafted and the first since the New York Knicks selected Mardy Collins with the 29th pick in 2006.
+Strasbourg IG (2011) On July 15, 2011, he signed a contract with Strasbourg IG of France's LNB Pro A. The contract included an opt-out clause when the NBA settled its lockout, set to expire on January 30, 2012
+Candidate Sentence: He declared for early entry in the draft, but did not hire an agent. After one workout with the Portland Trail Blazers, Allen was told to return to school to work on his offensive game. On May 8, Allen officially pulled his name out of consideration for the draft. He did so on the final day allowed by the NCAA to ensure collegiate eligibility.
+Senior Allen was named to the 20-man USA Select team, which played with and against the USA National team from July 19-24
+
+
+draft_year
+Candidate Sentence: The Sixers were not overly concerned with the injury, as they drafted him in the second round with the 50th pick on June 23. Allen became the 32nd Temple product to be drafted and the first since the New York Knicks selected Mardy Collins with the 29th pick in 2006.
+Strasbourg IG (2011) On July 15, 2011, he signed a contract with Strasbourg IG of France's LNB Pro A. The contract included an opt-out clause when the NBA settled its lockout, set to expire on January 30, 2012
+Candidate Sentence: He declared for early entry in the draft, but did not hire an agent. After one workout with the Portland Trail Blazers, Allen was told to return to school to work on his offensive game. On May 8, Allen officially pulled his name out of consideration for the draft. He did so on the final day allowed by the NCAA to ensure collegiate eligibility.
+Senior Allen was named to the 20-man USA Select team, which played with and against the USA National team from July 19-24
+
+
+NBA_championships
+Candidate Sentence: On September 20, 2018, the Washington Wizards signed Allen for training camp. He was waived by the Wizards on October 14, but he was added to the roster of the Wizards’ G League affiliate, the Capital City Go-Go.
+Candidate Sentence: In June 2017, the Pacers declined the $3.5 million team option for Allen, which made him an unrestricted free agent.
+Northern Arizona Suns (2018) Allen signed with the Zhejiang Golden Bulls in China in November 2017 but never joined the team. In February 2018 he was picked up by the Northern Arizona Suns of the NBA G League. In his second game on February 11, Allen had 14 points and 12 rebounds. He followed up this performance with 12 points and 12 rebounds the next game

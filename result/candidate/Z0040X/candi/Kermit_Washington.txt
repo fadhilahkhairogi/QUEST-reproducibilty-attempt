@@ -1,0 +1,28 @@
+name
+Candidate Sentence: Kermit Washington Kermit Alan Washington (born September 17, 1951) is an American former professional basketball player. Washington is best remembered for punching opposing player Rudy Tomjanovich during an on-court fight in 1977.  Washington was not a highly coveted player coming out of high school. He averaged four points per game during his senior season at Coolidge Senior High School
+Candidate Sentence: He still played a somewhat unaggressive or "soft" brand of basketball, and it was hurting his chances of being drafted by a professional team. Between his sophomore and junior years he began lifting weights with Trey Coleman, a former football player from the University of Nebraska who was studying as an undergrad at American. Coleman encouraged him to be more aggressive on the court, and Washington told him that it was not in his nature
+
+
+age
+Candidate Sentence: When he was three years old, his parents had a fight in which his uncle was violently attacked with an iron. His parents soon divorced, with his father awarded custody of the children. His mother, who suffered from bipolar disorder, then took him and his older brother Eric from their father on an ill-advised sojourn for which they were poorly prepared. Struggling to find money to feed the children, she eventually called their father, who came and took them back
+Candidate Sentence: area, and had been a longtime fan of Washington's. His wife, Pat, stayed behind as the couple had two young children, and Washington would be staying in a hotel. While he waited for his reinstatement, which he thought would not occur until the next season, he became depressed and fell out of shape
+
+
+team
+Candidate Sentence: He was drafted after his junior season by the New York Nets of the American Basketball Association (ABA) and offered a four-year contract for $100,000 a year, which astonished him. He decided to stay at American with coach Young for his senior season because he felt he owed the school which had given him a chance when he was coming out of a difficult period in high school
+Candidate Sentence: Washington showed up without complaint and Newell put him through intense training sessions. Newell is often seen as a kind, gentlemanly person, who is considered one of the most important figures in the history of the game of basketball
+
+
+draft_year
+Candidate Sentence: He was drafted after his junior season by the New York Nets of the American Basketball Association (ABA) and offered a four-year contract for $100,000 a year, which astonished him. He decided to stay at American with coach Young for his senior season because he felt he owed the school which had given him a chance when he was coming out of a difficult period in high school
+Candidate Sentence: Washington was named an academic All-American his junior year. He averaged 21.0 points on 54.4 percent shooting and an NCAA-leading 19.8 rebounds in his junior season. He was drafted after his junior season by the New York Nets of the American Basketball Association (ABA) and offered a four-year contract for $100,000 a year, which astonished him
+
+
+draft_pick
+Candidate Sentence: He was drafted after his junior season by the New York Nets of the American Basketball Association (ABA) and offered a four-year contract for $100,000 a year, which astonished him. He decided to stay at American with coach Young for his senior season because he felt he owed the school which had given him a chance when he was coming out of a difficult period in high school
+Candidate Sentence: He averaged 9.2 points and 8.3 rebounds per game in ten National Basketball Association (NBA) seasons and played in the All-Star Game once. Washington was drafted by the Los Angeles Lakers with the fifth overall pick in the 1973 NBA draft. He played sparingly his first three seasons, and sought the help of retired basketball coach Pete Newell before his fourth season. Under Newell's tutelage, Washington's game rapidly improved and he became a starter for several teams
+
+
+college
+Candidate Sentence: He came off the bench to average four points per game (ppg). His stepmother informed him that when he graduated from high school he would be thrown out of the house. He trained for three hours a day toward the end of his senior season, and showed up uninvited at a playground game featuring top high school players from Washington and Pennsylvania, where he talked his way into the game
+Candidate Sentence: He still played a somewhat unaggressive or "soft" brand of basketball, and it was hurting his chances of being drafted by a professional team. Between his sophomore and junior years he began lifting weights with Trey Coleman, a former football player from the University of Nebraska who was studying as an undergrad at American. Coleman encouraged him to be more aggressive on the court, and Washington told him that it was not in his nature

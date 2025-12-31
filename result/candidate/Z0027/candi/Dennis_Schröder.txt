@@ -1,0 +1,18 @@
+name
+Candidate Sentence: 
+
+draft_pick
+Candidate Sentence: In his first season with SUM Baskets Braunschweig, he averaged 7.8 points, 2.1 assists and 1.6 rebounds per game in a 2nd-tier German League. In the 2011–12 season he made a breakthrough, averaging 17.8 points and 6.7 assists over 23 regular season games. His team went in the playoffs where he averaged 18.8 points and 5.1 assists over 4 games
+Candidate Sentence: Before officially playing at the Nike Hoop Summit, Schröder decided to declare for the 2013 NBA draft.[citation needed] On 20 April 2013, Schröder led his team to a 112–98 win. He finished with 18 points, 6 assists and 2 rebounds in 29 minutes.
+Atlanta Hawks (2013–2018) Schröder with the Hawks in 2015 On 27 June 2013, Schröder was selected by the Atlanta Hawks with the 17th overall pick in the 2013 NBA draft. On 11 July 2013, he signed with the Hawks
+
+
+draft_year
+Candidate Sentence: In his first season with SUM Baskets Braunschweig, he averaged 7.8 points, 2.1 assists and 1.6 rebounds per game in a 2nd-tier German League. In the 2011–12 season he made a breakthrough, averaging 17.8 points and 6.7 assists over 23 regular season games. His team went in the playoffs where he averaged 18.8 points and 5.1 assists over 4 games
+Candidate Sentence: Before officially playing at the Nike Hoop Summit, Schröder decided to declare for the 2013 NBA draft.[citation needed] On 20 April 2013, Schröder led his team to a 112–98 win. He finished with 18 points, 6 assists and 2 rebounds in 29 minutes.
+Atlanta Hawks (2013–2018) Schröder with the Hawks in 2015 On 27 June 2013, Schröder was selected by the Atlanta Hawks with the 17th overall pick in the 2013 NBA draft. On 11 July 2013, he signed with the Hawks
+
+
+NBA_championships
+Candidate Sentence: He averaged 11.0 points and 4.4 assists in 20.3 minutes per game, shooting 42% from the field and 32% from 3-point range, leading to defenders often daring him to shoot the three. On 20 February 2016, he recorded 25 points and 10 assists in a 117–109 overtime loss to the Milwaukee Bucks
+Candidate Sentence: On 22 December 2020, Schröder made his Lakers debut, putting up 14 points, 12 rebounds, and eight assists, in a 116–109 loss to the Los Angeles Clippers. At the end of March 2021, there were rumors that he rejected the Lakers' contract extension offer of four-years, $84 million to pursue a larger deal in the off-season as an unrestricted free agent which he later clarified that it was not true

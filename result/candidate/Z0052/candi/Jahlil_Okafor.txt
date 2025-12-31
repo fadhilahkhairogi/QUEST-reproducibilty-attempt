@@ -1,0 +1,31 @@
+name
+Candidate Sentence: Jahlil Okafor Jahlil Obika Okafor (/ˈdʒɑː liːl/; born December 15, 1995) is a Nigerian-American professional basketball player for the Capitanes de Arecibo of the Baloncesto Superior Nacional (BSN). He played his freshman season of college basketball for the 2014–15 Duke national championship team. He was selected with the third overall pick in the 2015 NBA draft by the Philadelphia 76ers.
+Okafor had been heavily recruited before high school and was at the top of the recruiting rankings for several years
+Candidate Sentence: He was the first freshman to win ACC Player of the Year. He was also a first team All-ACC selection and among the first trio to be selected to the All-ACC Freshman first team (along with Jones and Winslow). He was named USBWA National Freshman of the Year and the 2015 USBWA Freshman All-America Team by the United States Basketball Writers Association (USBWA)
+
+
+age
+Candidate Sentence: Jahlil Okafor Jahlil Obika Okafor (/ˈdʒɑː liːl/; born December 15, 1995) is a Nigerian-American professional basketball player for the Capitanes de Arecibo of the Baloncesto Superior Nacional (BSN). He played his freshman season of college basketball for the 2014–15 Duke national championship team. He was selected with the third overall pick in the 2015 NBA draft by the Philadelphia 76ers.
+Okafor had been heavily recruited before high school and was at the top of the recruiting rankings for several years
+Candidate Sentence: He was the first freshman to win ACC Player of the Year. He was also a first team All-ACC selection and among the first trio to be selected to the All-ACC Freshman first team (along with Jones and Winslow). He was named USBWA National Freshman of the Year and the 2015 USBWA Freshman All-America Team by the United States Basketball Writers Association (USBWA)
+
+
+team
+Candidate Sentence: He was the first freshman to win ACC Player of the Year. He was also a first team All-ACC selection and among the first trio to be selected to the All-ACC Freshman first team (along with Jones and Winslow). He was named USBWA National Freshman of the Year and the 2015 USBWA Freshman All-America Team by the United States Basketball Writers Association (USBWA)
+Candidate Sentence: Jahlil Okafor Jahlil Obika Okafor (/ˈdʒɑː liːl/; born December 15, 1995) is a Nigerian-American professional basketball player for the Capitanes de Arecibo of the Baloncesto Superior Nacional (BSN). He played his freshman season of college basketball for the 2014–15 Duke national championship team. He was selected with the third overall pick in the 2015 NBA draft by the Philadelphia 76ers.
+Okafor had been heavily recruited before high school and was at the top of the recruiting rankings for several years
+
+
+draft_year
+Candidate Sentence: By the end of his sophomore season, he started appearing on ballots from ESPN HS's 10-person panel for the Mr. Basketball USA award as the best high school basketball player in the country
+Candidate Sentence: He was the first freshman to win ACC Player of the Year. He was also a first team All-ACC selection and among the first trio to be selected to the All-ACC Freshman first team (along with Jones and Winslow). He was named USBWA National Freshman of the Year and the 2015 USBWA Freshman All-America Team by the United States Basketball Writers Association (USBWA)
+
+
+draft_pick
+Candidate Sentence: He was the first freshman to win ACC Player of the Year. He was also a first team All-ACC selection and among the first trio to be selected to the All-ACC Freshman first team (along with Jones and Winslow). He was named USBWA National Freshman of the Year and the 2015 USBWA Freshman All-America Team by the United States Basketball Writers Association (USBWA)
+Candidate Sentence: By the end of his sophomore season, he started appearing on ballots from ESPN HS's 10-person panel for the Mr. Basketball USA award as the best high school basketball player in the country
+
+
+college
+Candidate Sentence: By the end of his sophomore season, he started appearing on ballots from ESPN HS's 10-person panel for the Mr. Basketball USA award as the best high school basketball player in the country
+Candidate Sentence: He played high school basketball in Chicago, Illinois for Whitney M. Young Magnet High School, where he earned high school national player of the year awards from McDonald's, USA Today and Parade. Okafor signed with Duke as a package with Tyus Jones, with widespread recognition as the preseason Collegiate National Player of the Year

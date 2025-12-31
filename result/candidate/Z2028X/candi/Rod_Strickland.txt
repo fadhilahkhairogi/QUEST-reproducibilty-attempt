@@ -1,0 +1,20 @@
+name
+Candidate Sentence: Rod Strickland Rodney Strickland (born July 11, 1966) is an American basketball coach and former professional basketball player. He is currently the head coach at Long Island University. Prior to LIU, he served as the program manager for the NBA G League's professional path. Strickland played college basketball at DePaul University, where he was awarded All-American honors. He had a long career in the National Basketball Association (NBA), playing from 1988 to 2005
+Candidate Sentence: He finished his playing career with the Miami Heat, Minnesota Timberwolves, Orlando Magic, Toronto Raptors, and the Houston Rockets. He played in 1,094 games (740 starts) and scored over 14,000 points and tallied nearly 8,000 assists
+
+
+draft_pick
+Candidate Sentence: He ranks among the program's career leaders in scoring average (8th; 16.6 ppg), assists (3rd; 557) and steals (2nd; 204). He also averaged 3.4 rebounds while shooting 53.4% during his college career.
+NBA career New York Knicks (1988–1990) He was selected in the first round of the 1988 NBA draft by his hometown New York Knicks, where he backed up point guard Mark Jackson, the 1988 NBA Rookie of the Year. Nevertheless, Jackson and Strickland shared time that season
+Candidate Sentence: He finally signed on December 23, then started 54 of 57 games and averaged 13.8 points, 8.6 assists, 4.6 rebounds, and 2.07 steals in 36.0 minutes per game. He scored in double figures 48 times and scored 20 or more points on eight occasions. He notched a then career-high 28 points against the Indiana Pacers on February 6 and made a career-high 19 assists versus the Minnesota Timberwolves on March 3
+
+
+draft_year
+Candidate Sentence: He finally signed on December 23, then started 54 of 57 games and averaged 13.8 points, 8.6 assists, 4.6 rebounds, and 2.07 steals in 36.0 minutes per game. He scored in double figures 48 times and scored 20 or more points on eight occasions. He notched a then career-high 28 points against the Indiana Pacers on February 6 and made a career-high 19 assists versus the Minnesota Timberwolves on March 3
+Candidate Sentence: He ranks among the program's career leaders in scoring average (8th; 16.6 ppg), assists (3rd; 557) and steals (2nd; 204). He also averaged 3.4 rebounds while shooting 53.4% during his college career.
+NBA career New York Knicks (1988–1990) He was selected in the first round of the 1988 NBA draft by his hometown New York Knicks, where he backed up point guard Mark Jackson, the 1988 NBA Rookie of the Year. Nevertheless, Jackson and Strickland shared time that season
+
+
+NBA_championships
+Candidate Sentence: He finally signed on December 23, then started 54 of 57 games and averaged 13.8 points, 8.6 assists, 4.6 rebounds, and 2.07 steals in 36.0 minutes per game. He scored in double figures 48 times and scored 20 or more points on eight occasions. He notched a then career-high 28 points against the Indiana Pacers on February 6 and made a career-high 19 assists versus the Minnesota Timberwolves on March 3
+Candidate Sentence: He finished his playing career with the Miami Heat, Minnesota Timberwolves, Orlando Magic, Toronto Raptors, and the Houston Rockets. He played in 1,094 games (740 starts) and scored over 14,000 points and tallied nearly 8,000 assists

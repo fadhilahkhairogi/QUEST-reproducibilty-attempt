@@ -1,0 +1,15 @@
+[name]: Donald Robert Anielak
+Key sentnce 1: Don Anielak Donald Robert Anielak (November 1, 1930 – November 19, 1995) was an American professional basketball player and a high school coach.
+
+[team]: New York Knicks
+Key sentnce 1: He starred at Southwest Missouri State University before playing professionally for the New York Knicks in 1954.
+
+[draft_year]: 1954
+Key sentnce 1: Professional career After college, Anielak was selected by the New York Knicks in the third round (26th overall) of the 1954 NBA draft and signed with the team in August 1954.
+
+[draft_pick]: 26th overall
+Key sentnce 1: Professional career After college, Anielak was selected by the New York Knicks in the third round (26th overall) of the 1954 NBA draft and signed with the team in August 1954.
+
+[college]: Moberly Junior College; Southwest Missouri State University; Bradley
+Key sentnce 1: Anielak played collegiately for two seasons at Moberly Junior College before transferring to Southwest Missouri State University where he played from 1952 to 1954.
+Key sentnce 2: He originally signed on to play with Bradley, but left the school shortly before the first game of the 1951 season.

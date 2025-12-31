@@ -1,0 +1,29 @@
+name
+Candidate Sentence: Greg Foster (basketball) Gregory Clinton Foster (born October 3, 1968) is an American professional basketball coach and former player who last served as assistant coach for the Indiana Pacers of the National Basketball Association (NBA).
+College years Foster was born in Oakland, California and attended Skyline High School where he played alongside future NBA point guard Gary Payton
+Candidate Sentence: He spent 13 seasons (1990–2003) in the NBA as a member of the Washington Bullets, Atlanta Hawks, Milwaukee Bucks, Chicago Bulls, Minnesota Timberwolves, Utah Jazz, Seattle SuperSonics, Los Angeles Lakers, and Toronto Raptors
+
+
+age
+Candidate Sentence: He spent 13 seasons (1990–2003) in the NBA as a member of the Washington Bullets, Atlanta Hawks, Milwaukee Bucks, Chicago Bulls, Minnesota Timberwolves, Utah Jazz, Seattle SuperSonics, Los Angeles Lakers, and Toronto Raptors
+Candidate Sentence: While in high school, he had the name "Bowie" tattooed on his left shoulder as his friends felt he resembled former NBA center Sam Bowie, who was then playing for the Portland Trail Blazers.
+
+
+team
+Candidate Sentence: He spent 13 seasons (1990–2003) in the NBA as a member of the Washington Bullets, Atlanta Hawks, Milwaukee Bucks, Chicago Bulls, Minnesota Timberwolves, Utah Jazz, Seattle SuperSonics, Los Angeles Lakers, and Toronto Raptors
+Candidate Sentence: He began his collegiate basketball career at UCLA, playing for the Bruins his freshman and sophomore years before transferring to UTEP. As a junior in 1988–89, he played alongside future NBA stars Tim Hardaway and Antonio Davis
+
+
+draft_year
+Candidate Sentence: He began his collegiate basketball career at UCLA, playing for the Bruins his freshman and sophomore years before transferring to UTEP. As a junior in 1988–89, he played alongside future NBA stars Tim Hardaway and Antonio Davis
+Candidate Sentence: While in high school, he had the name "Bowie" tattooed on his left shoulder as his friends felt he resembled former NBA center Sam Bowie, who was then playing for the Portland Trail Blazers.
+
+
+draft_pick
+Candidate Sentence: He began his collegiate basketball career at UCLA, playing for the Bruins his freshman and sophomore years before transferring to UTEP. As a junior in 1988–89, he played alongside future NBA stars Tim Hardaway and Antonio Davis
+Candidate Sentence: While in high school, he had the name "Bowie" tattooed on his left shoulder as his friends felt he resembled former NBA center Sam Bowie, who was then playing for the Portland Trail Blazers.
+
+
+college
+Candidate Sentence: He began his collegiate basketball career at UCLA, playing for the Bruins his freshman and sophomore years before transferring to UTEP. As a junior in 1988–89, he played alongside future NBA stars Tim Hardaway and Antonio Davis
+Candidate Sentence: While in high school, he had the name "Bowie" tattooed on his left shoulder as his friends felt he resembled former NBA center Sam Bowie, who was then playing for the Portland Trail Blazers.

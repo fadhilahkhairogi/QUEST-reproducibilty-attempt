@@ -1,0 +1,32 @@
+name
+Candidate Sentence: I was making a great salary in Europe. The thing about playing in the NBA was that there were so many unknowns. The NBA was more physical because the players were bigger and stronger than in Europe. I also would have had to get used to an entirely different culture.
+1990–91 season Rađa averaged 17.9 points in the Italian League in his first season with Il Messaggero (Virtus Roma enjoyed sponsorship from that popular Roman newspaper at the time)
+Candidate Sentence: Also coming in alongside Rađa and coach Subotić, was 36-year-old NBA veteran Byron Scott from the LA Lakers.
+Rađa spent two years in Athens, winning two Greek League championships, but in 1999, he returned to his native Croatia, to play for Zadar. He left Panathinaikos partly because of an encounter with the club president's son, Dimitrios Giannakopoulos, in the locker room after a game
+
+
+age
+Candidate Sentence: Some two and a half weeks later, the team went through a shocking incident when the Celtics' leading scorer, small forward Reggie Lewis, died on the basketball court at the team's Brandeis University practice facility after suffering sudden cardiac death from a heart defect.
+Playing alongside Dee Brown, 40-year-old veteran Robert Parish, and Rick Fox, twenty-six-year-old Rađa averaged 15.1 points and 7.2 rebounds in his debut season during which he made $1.5 million in salary
+Candidate Sentence: I loved playing for Boston and just wanted to find out if there was any possibility I might be traded, because I had heard some rumours. Pitino looked me right in the eyes and said, "Dino, don't worry. You're going to be a big part of our offense. When we run a set play, the ball is going to go through you.' I left the meeting feeling great. Five days later, I found out I was being traded to Philadelphia. I can't tell you how much I felt betrayed
+
+
+team
+Candidate Sentence: Rađa was reportedly on a vacation in Bologna, Italy with his girlfriend while the Celtics were drafting him in New York City's Felt Forum
+Candidate Sentence: He had a change of heart once Virtus, an ambitious and financially stable club bankrolled by the Gruppo Ferruzzi [it] food company and sponsored by the Il Messaggero daily broadsheet, made him an offer reportedly in the US$15–18 million range for a 5-year contract
+
+
+draft_year
+Candidate Sentence: Rađa was reportedly on a vacation in Bologna, Italy with his girlfriend while the Celtics were drafting him in New York City's Felt Forum
+Candidate Sentence: I loved playing for Boston and just wanted to find out if there was any possibility I might be traded, because I had heard some rumours. Pitino looked me right in the eyes and said, "Dino, don't worry. You're going to be a big part of our offense. When we run a set play, the ball is going to go through you.' I left the meeting feeling great. Five days later, I found out I was being traded to Philadelphia. I can't tell you how much I felt betrayed
+
+
+draft_pick
+Candidate Sentence: Rađa was reportedly on a vacation in Bologna, Italy with his girlfriend while the Celtics were drafting him in New York City's Felt Forum
+Candidate Sentence: I loved playing for Boston and just wanted to find out if there was any possibility I might be traded, because I had heard some rumours. Pitino looked me right in the eyes and said, "Dino, don't worry. You're going to be a big part of our offense. When we run a set play, the ball is going to go through you.' I left the meeting feeling great. Five days later, I found out I was being traded to Philadelphia. I can't tell you how much I felt betrayed
+
+
+college
+Candidate Sentence: I was making a great salary in Europe. The thing about playing in the NBA was that there were so many unknowns. The NBA was more physical because the players were bigger and stronger than in Europe. I also would have had to get used to an entirely different culture.
+1990–91 season Rađa averaged 17.9 points in the Italian League in his first season with Il Messaggero (Virtus Roma enjoyed sponsorship from that popular Roman newspaper at the time)
+Candidate Sentence: Rađa was reportedly on a vacation in Bologna, Italy with his girlfriend while the Celtics were drafting him in New York City's Felt Forum

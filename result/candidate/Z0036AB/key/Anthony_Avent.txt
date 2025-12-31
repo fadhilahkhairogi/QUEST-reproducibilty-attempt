@@ -1,0 +1,8 @@
+[name]: Anthony Avent  
+Key sentnce 1: Anthony Avent Anthony Avent (born October 18, 1969) is an American former professional basketball player who was selected by the Atlanta Hawks in the first round (15th pick overall) of the 1991 NBA draft.
+
+[age]:   
+Key sentnce 1:  
+
+[team]:   
+Key sentnce 1:

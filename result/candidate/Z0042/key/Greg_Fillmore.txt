@@ -1,0 +1,17 @@
+[name]: Greg Fillmore
+Key sentnce 1: Greg Fillmore Gregory Paul Fillmore (born March 7, 1947, in Philadelphia, Pennsylvania) is a retired professional basketball center who played two seasons in the National Basketball Association (NBA) as a member of the New York Knicks (1972).
+
+[age]: 
+Key sentnce 1: Greg Fillmore Gregory Paul Fillmore (born March 7, 1947, in Philadelphia, Pennsylvania) is a retired professional basketball center who played two seasons in the National Basketball Association (NBA) as a member of the New York Knicks (1972).
+
+[team]: New York Knicks
+Key sentnce 1: Greg Fillmore Gregory Paul Fillmore (born March 7, 1947, in Philadelphia, Pennsylvania) is a retired professional basketball center who played two seasons in the National Basketball Association (NBA) as a member of the New York Knicks (1972).
+
+[draft_year]: 1970
+Key sentnce 1: He attended Cheyney University of Pennsylvania where he was drafted by the Knicks during the eighth round of the 1970 NBA draft.
+
+[draft_pick]: 
+Key sentnce 1: He attended Cheyney University of Pennsylvania where he was drafted by the Knicks during the eighth round of the 1970 NBA draft.
+
+[college]: Cheyney University of Pennsylvania
+Key sentnce 1: He attended Cheyney University of Pennsylvania where he was drafted by the Knicks during the eighth round of the 1970 NBA draft.

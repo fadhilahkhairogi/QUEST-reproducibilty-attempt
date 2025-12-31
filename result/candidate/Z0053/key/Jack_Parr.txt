@@ -1,0 +1,14 @@
+[name]: Jack Parr  
+Key sentnce 1: Jack Parr (March 13, 1936 – January 4, 2015) was an American professional basketball player.
+
+[team]: Cincinnati Royals  
+Key sentnce 1: He played 66 games for the Royals in 1958–1959, averaging 4.0 points per game.
+
+[draft_year]: 1958  
+Key sentnce 1: He was drafted by the Cincinnati Royals in the 10th round of the 1958 NBA draft.
+
+[draft_pick]:  
+Key sentnce 1: He was drafted by the Cincinnati Royals in the 10th round of the 1958 NBA draft.
+
+[college]: Kansas State University  
+Key sentnce 1: He played college basketball at Kansas State University.

@@ -1,0 +1,8 @@
+name: Dino Rađa
+Key sentnce 1: Dino Rađa (Anglicized: Dino Radja, Croatian pronunciation: [ˌdǐːno ˈrâd͜ʑa]; born 24 April 1967) is a Croatian former professional basketball player.
+
+age: 
+Key sentnce 1: 
+
+team: 
+Key sentnce 1:

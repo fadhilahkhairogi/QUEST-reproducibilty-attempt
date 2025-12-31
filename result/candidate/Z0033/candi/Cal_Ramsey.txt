@@ -1,0 +1,33 @@
+name
+Candidate Sentence: 
+
+team
+Candidate Sentence: The following season, he played in two games with the Syracuse Nationals. After his NBA career, Ramsey played semi-pro basketball for one season before injuries forced him to retire.
+After his playing days ended, Ramsey charged that a quota system in basketball limited the number of black players in the league at that time
+Candidate Sentence: in his senior year, 1958, Ramsey was named as an All-American. When he died, he still held the school record for rebounds in a game, with 34 against Boston College. As of 2018, he was 11th on NYU's all-time scoring list.
+After graduating from NYU with a degree in business, Ramsey entered the 1959 NBA draft where the St. Louis Hawks selected him with the 13th overall pick
+
+
+draft_pick
+Candidate Sentence: 
+
+draft_year
+Candidate Sentence: The following season, he played in two games with the Syracuse Nationals. After his NBA career, Ramsey played semi-pro basketball for one season before injuries forced him to retire.
+After his playing days ended, Ramsey charged that a quota system in basketball limited the number of black players in the league at that time
+Candidate Sentence: Louis Hawks selected him with the 13th overall pick. At a height of 6’4”, Ramsey was short to play the forward position during that era, but was not a strong enough ball handler to play guard. This limited his career, and he only played 11 games in his rookie season with the Hawks (he also played for the New York Knicks). The following season, he played in two games with the Syracuse Nationals
+
+
+college
+Candidate Sentence: The following season, he played in two games with the Syracuse Nationals. After his NBA career, Ramsey played semi-pro basketball for one season before injuries forced him to retire.
+After his playing days ended, Ramsey charged that a quota system in basketball limited the number of black players in the league at that time
+Candidate Sentence: in his senior year, 1958, Ramsey was named as an All-American. When he died, he still held the school record for rebounds in a game, with 34 against Boston College. As of 2018, he was 11th on NYU's all-time scoring list.
+After graduating from NYU with a degree in business, Ramsey entered the 1959 NBA draft where the St. Louis Hawks selected him with the 13th overall pick
+
+
+age
+Candidate Sentence: He continued attending Knicks games until his health began to fail in 2018.
+On March 25, 2019, Ramsey died from cardiac arrest at a rehabilitation facility. Ramsey had suffered from diabetes for a number of years.
+Ramsey was inducted into the NYU Athletics Hall of Fame in 1978 and the New York City Basketball Hall of Fame in 1994.
+Candidate Sentence: His former teammate at NYU, Mike Muzio, was appointed as the head coach. He continued in that role for the remainder of his life.
+Later life In 1991, the Knicks hired him as a community ambassador where he worked with schools and youth programs. He continued attending Knicks games until his health began to fail in 2018.
+On March 25, 2019, Ramsey died from cardiac arrest at a rehabilitation facility

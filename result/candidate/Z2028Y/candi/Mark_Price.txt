@@ -1,0 +1,5 @@
+name
+Candidate Sentence: Mark Price William Mark Price (born February 15, 1964) is an American former basketball player and coach. He was most recently the head coach of the Charlotte 49ers. As a player, he played for 12 seasons in the National Basketball Association (NBA), from 1986 to 1998
+Candidate Sentence: He spent one season with the Magic before being waived on June 30, 1998, effectively ending his career.
+National team career During his career Price represented the United States national team. He played for them in the 1983 Pan American Games where the team won gold medals, and also represented the national team in the 1994 FIBA World Championship, where they were known as Dream Team II, and won gold medals.
+Legacy Not long after retirement, Price's number, 25, was retired by the Cleveland Cavaliers

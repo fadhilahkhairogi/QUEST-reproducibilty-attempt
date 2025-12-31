@@ -1,0 +1,10 @@
+[name]: Ausar Thompson  
+Key sentence 1: "Ausar XLNC Thompson (/əˈsɑːr ˈɛksələns ˈtɒmsən/ ə-SAR EK-sə-lənss TOM-sən; born January 30, 2003) is an American professional basketball player for the Detroit Pistons of the National Basketball Association (NBA)."
+
+[age]: 20  
+Key sentence 1: "Thompson also became the youngest player in NBA history to put up at least five blocks in an NBA debut, at 20 years old and 269 days."
+
+[mvp_awards]: 3  
+Key sentence 1: "He won two straight OTE titles, earning Finals Most Valuable Player (MVP) twice, and was named league MVP in 2023."  
+Key sentence 2: "At the end of the regular season, he was named OTE MVP and made the All-OTE First Team, with averages of 16.3 points, 7.1 rebounds, 6.1 assists and 2.4 steals per game."  
+Key sentence 3: "Thompson led the Reapers to the league title in a 3–0 sweep of the YNG Dreamerz, repeating as Finals MVP."

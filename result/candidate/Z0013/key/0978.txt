@@ -1,0 +1,14 @@
+[university_name]: Cornell College
+Key sentnce 1: Cornell College The Basics About Cornell College Cornell College is a private institution that was founded in 1853.
+
+[academic_calendar]: other-based
+Key sentnce 1: It utilizes a other-based academic calendar.
+
+[rank]: 81
+Key sentnce 1: Cornell College's ranking in the 2011 edition of Best Colleges is National Liberal Arts Colleges, 81.
+
+[year_founded]: 1853
+Key sentnce 1: Cornell College The Basics About Cornell College Cornell College is a private institution that was founded in 1853.
+
+[total_undergraduate_enrollment]: 1,133
+Key sentnce 1: It has a total undergraduate enrollment of 1,133, its setting is rural, and the campus size is 129 acres.

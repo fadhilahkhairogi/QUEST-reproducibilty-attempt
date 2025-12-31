@@ -1,0 +1,17 @@
+name
+Candidate Sentence: 
+
+age
+Candidate Sentence: He continued attending Knicks games until his health began to fail in 2018.
+On March 25, 2019, Ramsey died from cardiac arrest at a rehabilitation facility. Ramsey had suffered from diabetes for a number of years.
+Ramsey was inducted into the NYU Athletics Hall of Fame in 1978 and the New York City Basketball Hall of Fame in 1994.
+Candidate Sentence: His former teammate at NYU, Mike Muzio, was appointed as the head coach. He continued in that role for the remainder of his life.
+Later life In 1991, the Knicks hired him as a community ambassador where he worked with schools and youth programs. He continued attending Knicks games until his health began to fail in 2018.
+On March 25, 2019, Ramsey died from cardiac arrest at a rehabilitation facility
+
+
+team
+Candidate Sentence: Fellow broadcaster Marv Albert agreed, saying “If you didn’t start as a black player, you wouldn’t be with the team.” Out of basketball, Ramsey became a teacher for several years.
+Broadcaster and coach In 1972, he joined the Knicks broadcasting team, a position he held until 1982. He called the Knicks win over the Los Angeles Lakers in the 1973 NBA Finals and, over his tenure, worked with Dick Stockton for one season, and Marv Albert, who joined the television crew in 1979
+Candidate Sentence: He called the Knicks win over the Los Angeles Lakers in the 1973 NBA Finals and, over his tenure, worked with Dick Stockton for one season, and Marv Albert, who joined the television crew in 1979. In 1982, the Knicks retired Ramsey from the broadcast booth and replaced him with former NBA player Butch Beard.
+After leaving the Knicks, he joined the coaching staff of NYU in 1983, which restored its basketball program after a 12-year hiatus

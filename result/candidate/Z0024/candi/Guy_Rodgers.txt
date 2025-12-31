@@ -1,0 +1,29 @@
+name
+Candidate Sentence: Guy Rodgers Guy William Rodgers (September 1, 1935 – February 19, 2001) was an American professional basketball player born in Philadelphia. He spent twelve years (1958–1970) in the NBA, and was one of the league's best playmakers in the early to mid-1960s.  Rodgers led the NBA in assists twice, and placed second six times. Rodgers was inducted into Naismith Memorial Basketball Hall of Fame in 2014.
+Amateur career Rodgers attended Northeast High School in Philadelphia, Pennsylvania, graduating in 1954
+Candidate Sentence: He became the school's leading career scorer with 1,767 points (19.6 points per game). Rodgers remains the third leading scorer in Temple history The 1958 AP First Team All-American team consisted of four Naismith Basketball Hall of Fame inductees: Rodgers at Temple, Elgin Baylor of Seattle, fellow Philadelphia native Wilt Chamberlain of Kansas, and Oscar Robertson of Cincinnati
+
+
+draft_pick
+Candidate Sentence: The other was Don Hennon of Pittsburgh.
+NBA Warriors Rodgers was a territorial pick of the Philadelphia Warriors in the 1958 NBA draft.
+Rodgers played alongside Chamberlain with the Warriors from 1959 through 1964, and parts of the 1964–65 season. In Chamberlain's famous 100-point game, Rodgers recorded 20 assists.
+In the 1962–63 season, Rodgers led the NBA in assists with 10.4 per game, playing in his first NBA All-Star game
+Candidate Sentence: He barely missed out on winning a title, however: before the following season, Rodgers retired, yet the Bucks would acquire his former teammate Oscar Robertson, and win their first NBA Championship. Rodgers remains one of the few players in NBA history to have played for at least two expansion teams during their inaugural season.
+NBA career statistics Regular season Playoffs Personal life Rodgers died on February 19, 2001, at age 65 after a heart attack
+
+
+draft_year
+Candidate Sentence: The other was Don Hennon of Pittsburgh.
+NBA Warriors Rodgers was a territorial pick of the Philadelphia Warriors in the 1958 NBA draft.
+Rodgers played alongside Chamberlain with the Warriors from 1959 through 1964, and parts of the 1964–65 season. In Chamberlain's famous 100-point game, Rodgers recorded 20 assists.
+In the 1962–63 season, Rodgers led the NBA in assists with 10.4 per game, playing in his first NBA All-Star game
+Candidate Sentence: He barely missed out on winning a title, however: before the following season, Rodgers retired, yet the Bucks would acquire his former teammate Oscar Robertson, and win their first NBA Championship. Rodgers remains one of the few players in NBA history to have played for at least two expansion teams during their inaugural season.
+NBA career statistics Regular season Playoffs Personal life Rodgers died on February 19, 2001, at age 65 after a heart attack
+
+
+NBA_championships
+Candidate Sentence: He barely missed out on winning a title, however: before the following season, Rodgers retired, yet the Bucks would acquire his former teammate Oscar Robertson, and win their first NBA Championship. Rodgers remains one of the few players in NBA history to have played for at least two expansion teams during their inaugural season.
+NBA career statistics Regular season Playoffs Personal life Rodgers died on February 19, 2001, at age 65 after a heart attack
+Candidate Sentence: He was survived by sons Tony and Mark, and daughter Nicole.
+"Without question Guy Rodgers was the best passer I ever played with or against. Pete Maravich was close, but Guy was better. He made every play exciting", said basketball TV analyst Jon McGlocklin, who was a teammate of Rodgers in Milwaukee.

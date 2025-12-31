@@ -1,0 +1,9 @@
+[name]: [Steve Kerr]
+Key sentnce 1: Steve Kerr This is the latest accepted revision, reviewed on 11 August 2024.
+Key sentnce 2: Stephen Douglas Kerr (born September 27, 1965) is an American professional basketball coach and former player who is the head coach for the Golden State Warriors of the National Basketball Association (NBA) and the U.S. national team.
+
+[age]: []
+Key sentnce 1: 
+
+[team]: []
+Key sentnce 1:

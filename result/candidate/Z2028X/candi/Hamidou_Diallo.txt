@@ -1,0 +1,19 @@
+name
+Candidate Sentence: For one dunk he jumped over Shaquille O'Neal, and did the "honey dip" dunk popularized by Vince Carter, and displayed a Superman undershirt while hanging from the rim
+Candidate Sentence: On October 30, he joined the Capital City Go-Go.
+On January 9, 2024, Diallo signed a 10-day contract with the Wizards. On January 19, he returned to Capital City.
+National team career Diallo competed for the under-18 United States national basketball team that captured gold in the FIBA Americas Under-18 Championship game in 2016
+
+
+draft_pick
+Candidate Sentence: He reclassified, graduating a semester early and joining the Wildcats midseason that month. He would start participating with the team in practices, but would not play a single game that year due to his late entry into the program
+
+
+draft_year
+Candidate Sentence: He reclassified, graduating a semester early and joining the Wildcats midseason that month. He would start participating with the team in practices, but would not play a single game that year due to his late entry into the program
+
+
+NBA_championships
+Candidate Sentence: On October 16, 2018, Diallo made his debut in NBA, coming off the bench in a 100–108 loss to the Golden State Warriors with four points, a rebound, an assist and a steal. On November 19, 2018, Diallo scored a career-high 18 points with two steals, a rebound, and an assist in a 113–117 loss to the Sacramento Kings.
+On February 16, 2019, Diallo won the NBA Slam Dunk Contest, becoming the first Oklahoma City Thunder player ever to win it
+Candidate Sentence: For one dunk he jumped over Shaquille O'Neal, and did the "honey dip" dunk popularized by Vince Carter, and displayed a Superman undershirt while hanging from the rim

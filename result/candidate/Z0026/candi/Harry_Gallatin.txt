@@ -1,0 +1,16 @@
+name
+Candidate Sentence: Harry Gallatin Harry Junior "The Horse" Gallatin (April 26, 1927 – October 7, 2015) was an American professional basketball player and coach. Gallatin played nine seasons for the New York Knicks in the National Basketball Association (NBA) from 1948 to 1957, as well as one season with the Detroit Pistons in the 1957–58 season. Gallatin led the NBA in rebounding and was named to the All-NBA First Team in 1954. The following year, he was named to the All-NBA Second Team
+
+
+draft_pick
+Candidate Sentence: It was in the NBA where he earned the nickname "The Horse". He played his entire career as an undersized center at 6'6" and 215 lbs., but made up for it with tremendous physical strength. He played nine seasons for the New York Knicks, from 1948 to 1957. His best statistical year was in 1954, when he led the NBA in rebounding, averaging 15.3 rebounds per game. That same year, he was also named to the All-NBA First Team
+Candidate Sentence: "It was a dream come true. I really didn't know what to expect; it was my first plane ride, from St. Louis to New York. Here I am a boy from Wood River, a country boy, and going to the Big Apple", Gallatin explained. "All I knew was that I loved to play basketball, and the Knicks had taken me with their number one choice
+
+
+draft_year
+Candidate Sentence: It was in the NBA where he earned the nickname "The Horse". He played his entire career as an undersized center at 6'6" and 215 lbs., but made up for it with tremendous physical strength. He played nine seasons for the New York Knicks, from 1948 to 1957. His best statistical year was in 1954, when he led the NBA in rebounding, averaging 15.3 rebounds per game. That same year, he was also named to the All-NBA First Team
+Candidate Sentence: "It was a dream come true. I really didn't know what to expect; it was my first plane ride, from St. Louis to New York. Here I am a boy from Wood River, a country boy, and going to the Big Apple", Gallatin explained. "All I knew was that I loved to play basketball, and the Knicks had taken me with their number one choice
+
+
+NBA_championships
+Candidate Sentence: The following year, however, Roxana got its own high school. He graduated from Roxana High School in 1944, and was granted a basketball scholarship by Northeast Missouri State Teachers' College (now known as Truman State University)

@@ -1,0 +1,17 @@
+[name]: Nikola Radičević  
+Key sentnce 1: Nikola Radičević Nikola Radičević (Serbian: Никола Радичевић; born 25 April 1994) is a Serbian professional basketball player for Cedevita Olimpija of the Adriatic League and the Slovenian Basketball League.
+
+[age]:  
+Key sentnce 1: Nikola Radičević Nikola Radičević (Serbian: Никола Радичевић; born 25 April 1994) is a Serbian professional basketball player for Cedevita Olimpija of the Adriatic League and the Slovenian Basketball League.
+
+[team]:  
+Key sentnce 1: Nikola Radičević Nikola Radičević (Serbian: Никола Радичевић; born 25 April 1994) is a Serbian professional basketball player for Cedevita Olimpija of the Adriatic League and the Slovenian Basketball League.
+
+[draft_year]: 2015  
+Key sentnce 1: On 25 June 2015, Radičević was drafted with the 57th overall pick of the 2015 NBA draft by the Denver Nuggets.
+
+[draft_pick]: 57  
+Key sentnce 1: On 25 June 2015, Radičević was drafted with the 57th overall pick of the 2015 NBA draft by the Denver Nuggets.
+
+[college]:  
+Key sentnce 1: Early career Born in Čačak, Radičević began his playing career with Belgrade-based Partizan's youth system.

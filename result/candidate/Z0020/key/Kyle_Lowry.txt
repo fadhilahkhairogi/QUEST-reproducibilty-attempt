@@ -1,0 +1,8 @@
+[name]: Kyle Lowry  
+Key sentence 1: "Kyle Terrell Lowry (born March 25, 1986) is an American professional basketball player for the Philadelphia 76ers of the National Basketball Association (NBA)."
+
+[age]: 37  
+Key sentence 1: "Kyle Terrell Lowry (born March 25, 1986) is an American professional basketball player for the Philadelphia 76ers of the National Basketball Association (NBA)."
+
+[team]:  
+Key sentence 1: "Kyle Terrell Lowry (born March 25, 1986) is an American professional basketball player for the Philadelphia 76ers of the National Basketball Association (NBA)."

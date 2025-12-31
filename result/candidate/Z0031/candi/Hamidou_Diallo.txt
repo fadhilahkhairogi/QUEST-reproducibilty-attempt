@@ -1,0 +1,12 @@
+name
+Candidate Sentence: For one dunk he jumped over Shaquille O'Neal, and did the "honey dip" dunk popularized by Vince Carter, and displayed a Superman undershirt while hanging from the rim
+
+
+age
+Candidate Sentence: For one dunk he jumped over Shaquille O'Neal, and did the "honey dip" dunk popularized by Vince Carter, and displayed a Superman undershirt while hanging from the rim
+Candidate Sentence: On March 6, 2023, during a 110–104 loss to the Portland Trail Blazers, he suffered a right ankle injury. The next day, the Pistons announced that Diallo had suffered a grade 2 sprain in his right ankle and would be re-evaluated in three to four weeks
+
+
+team
+Candidate Sentence: For one dunk he jumped over Shaquille O'Neal, and did the "honey dip" dunk popularized by Vince Carter, and displayed a Superman undershirt while hanging from the rim
+Candidate Sentence: He reclassified, graduating a semester early and joining the Wildcats midseason that month. He would start participating with the team in practices, but would not play a single game that year due to his late entry into the program

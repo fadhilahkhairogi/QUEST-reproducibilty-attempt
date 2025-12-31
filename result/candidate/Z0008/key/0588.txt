@@ -1,0 +1,8 @@
+[university_name]: Briar Cliff University
+Key sentnce 1: Briar Cliff University The Basics About Briar Cliff University Briar Cliff University is a private institution that was founded in 1930.
+
+[year_founded]: 1930
+Key sentnce 1: Briar Cliff University The Basics About Briar Cliff University Briar Cliff University is a private institution that was founded in 1930.
+
+[rank]: 29
+Key sentnce 1: Briar Cliff University's ranking in the 2011 edition of Best Colleges is Regional Colleges (Midwest), 29.

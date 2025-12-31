@@ -1,0 +1,18 @@
+university_name
+Candidate Sentence: Macalester College Macalester College The Basics About Macalester College Macalester College is a private institution that was founded in 1874. It has a total undergraduate enrollment of 1,996, its setting is urban, and the campus size is 53 acres. It utilizes a semester-based academic calendar.  Macalester College's ranking in the 2011 edition of Best Colleges is National Liberal Arts Colleges, 26
+Candidate Sentence: You really do experience a connection between the person you want to be and the person people recognize in you, as recognition has a way of coming easily.  That's a great feeling, and that's the advantage of a small school, and perhaps this one specifically, though again, I have very little comparative basis.
+Copyright © 2011 U.S. News & World Report, L.P. All rights reserved.
+Use of this Web site constitutes acceptance of our Terms and Conditions of Use and Privacy Policy.
+
+
+year_founded
+Candidate Sentence: Macalester College Macalester College The Basics About Macalester College Macalester College is a private institution that was founded in 1874. It has a total undergraduate enrollment of 1,996, its setting is urban, and the campus size is 53 acres. It utilizes a semester-based academic calendar.  Macalester College's ranking in the 2011 edition of Best Colleges is National Liberal Arts Colleges, 26
+Candidate Sentence: You really do experience a connection between the person you want to be and the person people recognize in you, as recognition has a way of coming easily.  That's a great feeling, and that's the advantage of a small school, and perhaps this one specifically, though again, I have very little comparative basis.
+Copyright © 2011 U.S. News & World Report, L.P. All rights reserved.
+Use of this Web site constitutes acceptance of our Terms and Conditions of Use and Privacy Policy.
+
+
+rank
+Candidate Sentence: It utilizes a semester-based academic calendar.  Macalester College's ranking in the 2011 edition of Best Colleges is National Liberal Arts Colleges, 26. Its tuition and fees are $40,046.
+The college provides a comprehensive approach to educating students to be vital citizens of the world.  Macalester does this in an atmosphere that fosters collaboration and success.  It inspires ambitious, committed and talented young people who have the potential to change the world and prepares them to do just that
+Candidate Sentence: I feel like the student body and the climate are the main difference between any given small liberal arts college. Coming to Mac I might have had some preconceived notions about what kind of kids I would encounter, but I mostly expected it to be more cool people and less stupid idiots (than high school). For the most part that's true, because you don't get in unless you have some kind of brain, and that generally entails some kind of social skills

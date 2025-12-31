@@ -1,0 +1,28 @@
+name
+Candidate Sentence: Isiah Thomas For other people with similar names, see Isaiah Thomas (disambiguation).
+Isiah Lord Thomas III (/aɪˈzeɪ.ə/ eye-ZAY-ə; born April 30, 1961), also known as "Zeke", is an American former professional basketball player and coach who is an analyst for NBA TV.  He played his entire professional career for the Detroit Pistons of the National Basketball Association (NBA)
+Candidate Sentence: He traded away several future draft picks to Chicago in a deal for Eddy Curry including what turned out to be two lottery picks in talent-rich drafts, LaMarcus Aldridge, and Joakim Noah.
+In January 2006, Anucha Browne Sanders, a female former executive with the New York Knicks, filed an employment and harassment lawsuit against The Madison Square Garden Company, alleging in part that Thomas had sexually harassed her in the workplace and that she had been fired in retaliation for complaining about the harassment
+
+
+draft_pick
+Candidate Sentence: He was taken as the second overall pick by the Pistons in the 1981 NBA draft, and played for them his entire career, while leading the "Bad Boys" to the 1988–89 and 1989–90 NBA championships.
+Following his playing career, Thomas was an executive with the Toronto Raptors, a television commentator, the owner of the Continental Basketball Association, the head coach of the Indiana Pacers, and an executive and head coach for the New York Knicks
+Candidate Sentence: He traded away several future draft picks to Chicago in a deal for Eddy Curry including what turned out to be two lottery picks in talent-rich drafts, LaMarcus Aldridge, and Joakim Noah.
+In January 2006, Anucha Browne Sanders, a female former executive with the New York Knicks, filed an employment and harassment lawsuit against The Madison Square Garden Company, alleging in part that Thomas had sexually harassed her in the workplace and that she had been fired in retaliation for complaining about the harassment
+
+
+draft_year
+Candidate Sentence: He was taken as the second overall pick by the Pistons in the 1981 NBA draft, and played for them his entire career, while leading the "Bad Boys" to the 1988–89 and 1989–90 NBA championships.
+Following his playing career, Thomas was an executive with the Toronto Raptors, a television commentator, the owner of the Continental Basketball Association, the head coach of the Indiana Pacers, and an executive and head coach for the New York Knicks
+Candidate Sentence: He traded away several future draft picks to Chicago in a deal for Eddy Curry including what turned out to be two lottery picks in talent-rich drafts, LaMarcus Aldridge, and Joakim Noah.
+In January 2006, Anucha Browne Sanders, a female former executive with the New York Knicks, filed an employment and harassment lawsuit against The Madison Square Garden Company, alleging in part that Thomas had sexually harassed her in the workplace and that she had been fired in retaliation for complaining about the harassment
+
+
+NBA_championships
+Candidate Sentence: 11.
+In 1996, Thomas was named to the 50 Greatest Players in NBA History, selected upon the 50th anniversary of the founding of the NBA. In 2021, he was elected to the NBA 75th Anniversary Team.
+Michael Jordan called Thomas the second greatest point guard ever, only behind Magic Johnson. Thomas was inducted into the American Basketball Hall of Fame in 2023.
+Candidate Sentence: He also worked a three-man booth with Costas and Doug Collins.
+CBA Thomas purchased the Continental Basketball Association (CBA) for $10 million in 1999.
+When at the CBA, Thomas launched partnerships with Enlighten Sports and the University of Colorado and the CBA. The new websites allowed fans to watch live game webcasts, use live shot charts, chat with players and more

@@ -1,0 +1,11 @@
+name
+Candidate Sentences: 
+
+draft_pick
+Candidate Sentences: 
+
+draft_year
+Candidate Sentences: 
+
+NBA_championships
+Candidate Sentences: 

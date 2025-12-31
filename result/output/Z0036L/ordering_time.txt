@@ -1,0 +1,2 @@
+Dave_Lattin.txt,0.000010300
+Dwayne_Schintzius.txt,0.000006700

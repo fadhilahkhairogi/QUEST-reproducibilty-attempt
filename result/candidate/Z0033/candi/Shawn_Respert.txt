@@ -1,0 +1,27 @@
+name
+Candidate Sentence: 
+
+team
+Candidate Sentence: He left East Lansing as the Spartans all-time leading scorer and began the tradition of out-going seniors kissing the logo at center court during their final home game.
+College statistics Professional career Respert was selected by the Portland Trail Blazers in the 1st round, with the 8th overall pick, of the 1995 NBA draft. The Blazers traded his NBA rights to the Milwaukee Bucks for the rights to Gary Trent and a first-round pick
+Candidate Sentence: He capped a brilliant career by being named a unanimous first team All-American and Big Ten Player of the Year and Sporting News and NABC National Player of the Year with a 25.6 scoring average during his 1994–95 senior season
+
+
+draft_pick
+Candidate Sentence: 
+
+draft_year
+Candidate Sentence: He left East Lansing as the Spartans all-time leading scorer and began the tradition of out-going seniors kissing the logo at center court during their final home game.
+College statistics Professional career Respert was selected by the Portland Trail Blazers in the 1st round, with the 8th overall pick, of the 1995 NBA draft. The Blazers traded his NBA rights to the Milwaukee Bucks for the rights to Gary Trent and a first-round pick
+Candidate Sentence: He capped a brilliant career by being named a unanimous first team All-American and Big Ten Player of the Year and Sporting News and NABC National Player of the Year with a 25.6 scoring average during his 1994–95 senior season
+
+
+college
+Candidate Sentence: He is being inducted into the Michigan Sports Hall of Fame in October 2024.
+College career Respert was a standout at Michigan State. He and point guard Eric Snow combined to form one of the nation's most prolific backcourt tandems for head coach Jud Heathcote's Spartans
+Candidate Sentence: Respert was diagnosed with cancer after undergoing a series of tests at Milwaukee's St. Joseph Regional Medical Center in May 1996. After confirmation through a second opinion, he underwent daily radiation therapy for three consecutive months, losing twenty pounds in the process. The only people who knew about this treatment were the Bucks' trainers, doctors, his coach Mike Dunleavy, Sr. and Michigan State backcourt partner Eric Snow
+
+
+age
+Candidate Sentence: He capped a brilliant career by being named a unanimous first team All-American and Big Ten Player of the Year and Sporting News and NABC National Player of the Year with a 25.6 scoring average during his 1994–95 senior season
+Candidate Sentence: Respert was diagnosed with cancer after undergoing a series of tests at Milwaukee's St. Joseph Regional Medical Center in May 1996. After confirmation through a second opinion, he underwent daily radiation therapy for three consecutive months, losing twenty pounds in the process. The only people who knew about this treatment were the Bucks' trainers, doctors, his coach Mike Dunleavy, Sr. and Michigan State backcourt partner Eric Snow

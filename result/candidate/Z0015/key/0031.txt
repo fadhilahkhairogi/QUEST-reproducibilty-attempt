@@ -1,0 +1,5 @@
+university_name: Auburn University--Montgomery  
+Key sentnce 1: "Auburn University--Montgomery The Basics About Auburn Montgomery"
+
+rank: 74  
+Key sentnce 1: "Auburn Montgomery's ranking in the 2011 edition of Best Colleges is Regional Universities (South), 74."

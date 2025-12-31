@@ -1,0 +1,19 @@
+university_name
+Candidate Sentence: It utilizes a trimester-based academic calendar.  University of Science and Arts's ranking in the 2011 edition of Best Colleges is Regional Colleges (West), 14. Its in-state tuition and fees are $3,552; out-of-state tuition and fees are $8,448.
+Copyright © 2011 U.S. News & World Report, L.P. All rights reserved.
+Use of this Web site constitutes acceptance of our Terms and Conditions of Use and Privacy Policy.
+Candidate Sentence: University of Science and Arts of Oklahoma The Basics About University of Science and Arts University of Science and Arts is a public institution that was founded in 1908. It has a total undergraduate enrollment of 1,087, its setting is rural, and the campus size is 75 acres. It utilizes a trimester-based academic calendar.  University of Science and Arts's ranking in the 2011 edition of Best Colleges is Regional Colleges (West), 14
+
+
+rank
+Candidate Sentence: It utilizes a trimester-based academic calendar.  University of Science and Arts's ranking in the 2011 edition of Best Colleges is Regional Colleges (West), 14. Its in-state tuition and fees are $3,552; out-of-state tuition and fees are $8,448.
+Copyright © 2011 U.S. News & World Report, L.P. All rights reserved.
+Use of this Web site constitutes acceptance of our Terms and Conditions of Use and Privacy Policy.
+Candidate Sentence: University of Science and Arts of Oklahoma The Basics About University of Science and Arts University of Science and Arts is a public institution that was founded in 1908. It has a total undergraduate enrollment of 1,087, its setting is rural, and the campus size is 75 acres. It utilizes a trimester-based academic calendar.  University of Science and Arts's ranking in the 2011 edition of Best Colleges is Regional Colleges (West), 14
+
+
+year_founded
+Candidate Sentence: University of Science and Arts of Oklahoma The Basics About University of Science and Arts University of Science and Arts is a public institution that was founded in 1908. It has a total undergraduate enrollment of 1,087, its setting is rural, and the campus size is 75 acres. It utilizes a trimester-based academic calendar.  University of Science and Arts's ranking in the 2011 edition of Best Colleges is Regional Colleges (West), 14
+Candidate Sentence: It utilizes a trimester-based academic calendar.  University of Science and Arts's ranking in the 2011 edition of Best Colleges is Regional Colleges (West), 14. Its in-state tuition and fees are $3,552; out-of-state tuition and fees are $8,448.
+Copyright © 2011 U.S. News & World Report, L.P. All rights reserved.
+Use of this Web site constitutes acceptance of our Terms and Conditions of Use and Privacy Policy.

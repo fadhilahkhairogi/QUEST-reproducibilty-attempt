@@ -1,0 +1,8 @@
+[university_name]: University of California--Riverside
+Key sentnce 1: University of California--Riverside University of California--Riverside The Basics About UCR
+
+[year_founded]: 1954
+Key sentnce 1: UCR is a public institution that was founded in 1954.
+
+[setting]: 
+Key sentnce 1:

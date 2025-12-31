@@ -1,0 +1,8 @@
+[name]: John Harding Lucas II
+Key sentnce 1: John Lucas II John Harding Lucas II (born October 31, 1953) is an American professional basketball coach and former player who most recently served as an assistant coach for the Houston Rockets of the National Basketball Association (NBA).
+
+[age]: 
+Key sentnce 1: 
+
+[team]: 
+Key sentnce 1:

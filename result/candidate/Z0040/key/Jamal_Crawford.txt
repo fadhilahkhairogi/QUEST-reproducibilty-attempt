@@ -1,0 +1,17 @@
+[name]: Jamal Crawford  
+Key sentnce 1: Jamal Crawford Aaron Jamal Crawford (born March 20, 1980) is an American former professional basketball player who played in the National Basketball Association (NBA) from 2000 to 2020.
+
+[team]:   
+Key sentnce 1: 
+
+[draft_year]: 2000  
+Key sentnce 1: Following his freshman campaign, he declared for the 2000 NBA draft.
+
+[draft_pick]: 8  
+Key sentnce 1: Crawford was selected 8th overall in the 2000 NBA draft by the Cleveland Cavaliers but was then traded to the Chicago Bulls in a draft-day deal that included the rights to Chris Mihm.
+
+[college]: University of Michigan  
+Key sentnce 1: Having earned a scholarship to the University of Michigan, Crawford committed to play college basketball with the Wolverines under coach Brian Ellerbe.
+
+[age]:   
+Key sentnce 1: Jamal Crawford Aaron Jamal Crawford (born March 20, 1980) is an American former professional basketball player who played in the National Basketball Association (NBA) from 2000 to 2020.

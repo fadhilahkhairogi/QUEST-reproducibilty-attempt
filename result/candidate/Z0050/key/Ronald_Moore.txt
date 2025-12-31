@@ -1,0 +1,17 @@
+[name]: Ronald Moore  
+Key sentnce 1: Ronald Moore (born July 14, 1988) is an American professional basketball player for Debreceni EAC of the Hungarian Basketball League.
+
+[age]:  
+Key sentnce 1: Ronald Moore (born July 14, 1988) is an American professional basketball player for Debreceni EAC of the Hungarian Basketball League.
+
+[team]:  
+Key sentnce 1: Ronald Moore (born July 14, 1988) is an American professional basketball player for Debreceni EAC of the Hungarian Basketball League.
+
+[draft_year]: 2010  
+Key sentnce 1: Going undrafted in the 2010 NBA draft, Moore signed his first professional contract for Slovak Extraliga side Edymax SPU Nitra over the summer, averaging 17 points and 7 assists during the 2010–11 season.
+
+[draft_pick]:  
+Key sentnce 1: Going undrafted in the 2010 NBA draft, Moore signed his first professional contract for Slovak Extraliga side Edymax SPU Nitra over the summer, averaging 17 points and 7 assists during the 2010–11 season.
+
+[college]: Siena  
+Key sentnce 1: Whilst playing collegiately for Siena, he led the NCAA Division I in assists during his senior season (2009–10).

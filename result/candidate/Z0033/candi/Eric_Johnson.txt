@@ -1,0 +1,19 @@
+name
+Candidate Sentence: 
+
+team
+Candidate Sentence: By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+draft_pick
+Candidate Sentence: 
+
+draft_year
+Candidate Sentence: By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+college
+Candidate Sentence: 
+
+age
+Candidate Sentence: By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.

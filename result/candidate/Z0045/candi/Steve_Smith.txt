@@ -1,0 +1,33 @@
+name
+Candidate Sentence: Steve Smith (basketball) For other basketball people with similar names, see Steven Smith § Basketball.
+Steven Delano Smith (born March 31, 1969) is an American former professional basketball player who is a basketball analyst for Turner Sports
+Candidate Sentence: After a collegiate career with Michigan State, he played with several teams in his 14-season National Basketball Association career, including the Miami Heat, the Portland Trail Blazers and the San Antonio Spurs, but is perhaps best known for his five-year stint with the Atlanta Hawks which included an All-Star Game appearance in 1998. He won a championship with the Spurs in 2003
+
+
+age
+Candidate Sentence: Steve Smith (basketball) For other basketball people with similar names, see Steven Smith § Basketball.
+Steven Delano Smith (born March 31, 1969) is an American former professional basketball player who is a basketball analyst for Turner Sports
+Candidate Sentence: For the 2008 season, Smith took a position at NBA TV, and was replaced for Hawks broadcasts by Dominique Wilkins. During the 2011 NBA All-Star Weekend, he was a member of the Atlanta team that won the Shooting Stars Competition.
+Charitable work Smith is well known for his charitable pursuits, including a US$2.5 million gift in 1997 to his alma mater, Michigan State University, where he was a star guard under coach Jud Heathcote
+
+
+team
+Candidate Sentence: After a collegiate career with Michigan State, he played with several teams in his 14-season National Basketball Association career, including the Miami Heat, the Portland Trail Blazers and the San Antonio Spurs, but is perhaps best known for his five-year stint with the Atlanta Hawks which included an All-Star Game appearance in 1998. He won a championship with the Spurs in 2003
+
+
+draft_year
+Candidate Sentence: He was inducted into Michigan State University Athletics Hall of Fame in 2001.
+NBA career Miami Heat Smith was selected fifth overall in the 1991 NBA draft by the Miami Heat, a young expansion team which featured other young players such as Glen Rice, Rony Seikaly and Brian Shaw. Smith played in 61 games in his rookie season, starting in 59 with averages of 12 points a game and 4.6 assists
+Candidate Sentence: After a collegiate career with Michigan State, he played with several teams in his 14-season National Basketball Association career, including the Miami Heat, the Portland Trail Blazers and the San Antonio Spurs, but is perhaps best known for his five-year stint with the Atlanta Hawks which included an All-Star Game appearance in 1998. He won a championship with the Spurs in 2003
+
+
+draft_pick
+Candidate Sentence: He was inducted into Michigan State University Athletics Hall of Fame in 2001.
+NBA career Miami Heat Smith was selected fifth overall in the 1991 NBA draft by the Miami Heat, a young expansion team which featured other young players such as Glen Rice, Rony Seikaly and Brian Shaw. Smith played in 61 games in his rookie season, starting in 59 with averages of 12 points a game and 4.6 assists
+Candidate Sentence: After a collegiate career with Michigan State, he played with several teams in his 14-season National Basketball Association career, including the Miami Heat, the Portland Trail Blazers and the San Antonio Spurs, but is perhaps best known for his five-year stint with the Atlanta Hawks which included an All-Star Game appearance in 1998. He won a championship with the Spurs in 2003
+
+
+college
+Candidate Sentence: After a collegiate career with Michigan State, he played with several teams in his 14-season National Basketball Association career, including the Miami Heat, the Portland Trail Blazers and the San Antonio Spurs, but is perhaps best known for his five-year stint with the Atlanta Hawks which included an All-Star Game appearance in 1998. He won a championship with the Spurs in 2003
+Candidate Sentence: For the 2008 season, Smith took a position at NBA TV, and was replaced for Hawks broadcasts by Dominique Wilkins. During the 2011 NBA All-Star Weekend, he was a member of the Atlanta team that won the Shooting Stars Competition.
+Charitable work Smith is well known for his charitable pursuits, including a US$2.5 million gift in 1997 to his alma mater, Michigan State University, where he was a star guard under coach Jud Heathcote

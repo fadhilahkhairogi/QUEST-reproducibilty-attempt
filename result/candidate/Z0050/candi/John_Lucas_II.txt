@@ -1,0 +1,39 @@
+name
+Candidate Sentence: He was serving as head coach of the Miami Tropics in the United States Basketball League (USBL) at the time and appeared to help his player, Roy Tarpley, who was scared about making his debut after leaving a drug treatment facility.
+After successfully undergoing drug rehabilitation and starting programs of his own to help other athletes rehabilitate, Lucas returned to the NBA as a coach, eventually becoming a head coach.
+Lucas runs a wellness and aftercare substance-abuse recovery program for athletes
+
+
+age
+Candidate Sentence: His younger son, Jai, is currently an assistant coach at Duke University and also played college basketball at the University of Texas.
+Candidate Sentence: He was also drafted by the New York Nets of the American Basketball Association.
+Lucas played in the NBA for fourteen years. Lucas initially played for the Rockets for two years before NBA commissioner Larry O'Brien awarded him to the Golden State Warriors as compensation for the Rockets signing Rick Barry as a free agent. While a member of the Golden State Warriors, on October 20, 1978, Lucas scored a career best 35 points during a 111–108 win over the Trail Blazers
+
+
+team
+Candidate Sentence: He was serving as head coach of the Miami Tropics in the United States Basketball League (USBL) at the time and appeared to help his player, Roy Tarpley, who was scared about making his debut after leaving a drug treatment facility.
+After successfully undergoing drug rehabilitation and starting programs of his own to help other athletes rehabilitate, Lucas returned to the NBA as a coach, eventually becoming a head coach.
+Lucas runs a wellness and aftercare substance-abuse recovery program for athletes
+Candidate Sentence: His younger son, Jai, is currently an assistant coach at Duke University and also played college basketball at the University of Texas.
+
+
+draft_year
+Candidate Sentence: The Terrapins recorded a 22–6 regular season record, 7–5 in the ACC, but they lost out in the ACC Tournament and did not make the NCAA Tournament.
+Professional career Lucas was the first overall pick of the 1976 NBA draft, selected by the Houston Rockets.  He was also drafted by the New York Nets of the American Basketball Association.
+Lucas played in the NBA for fourteen years
+Candidate Sentence: He was serving as head coach of the Miami Tropics in the United States Basketball League (USBL) at the time and appeared to help his player, Roy Tarpley, who was scared about making his debut after leaving a drug treatment facility.
+After successfully undergoing drug rehabilitation and starting programs of his own to help other athletes rehabilitate, Lucas returned to the NBA as a coach, eventually becoming a head coach.
+Lucas runs a wellness and aftercare substance-abuse recovery program for athletes
+
+
+draft_pick
+Candidate Sentence: The Terrapins recorded a 22–6 regular season record, 7–5 in the ACC, but they lost out in the ACC Tournament and did not make the NCAA Tournament.
+Professional career Lucas was the first overall pick of the 1976 NBA draft, selected by the Houston Rockets.  He was also drafted by the New York Nets of the American Basketball Association.
+Lucas played in the NBA for fourteen years
+
+
+college
+Candidate Sentence: His younger son, Jai, is currently an assistant coach at Duke University and also played college basketball at the University of Texas.
+Candidate Sentence: He was serving as head coach of the Miami Tropics in the United States Basketball League (USBL) at the time and appeared to help his player, Roy Tarpley, who was scared about making his debut after leaving a drug treatment facility.
+After successfully undergoing drug rehabilitation and starting programs of his own to help other athletes rehabilitate, Lucas returned to the NBA as a coach, eventually becoming a head coach.
+Lucas runs a wellness and aftercare substance-abuse recovery program for athletes

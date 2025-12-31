@@ -1,0 +1,13 @@
+name
+Candidate Sentence: Brandan Wright Contents Brandan Keith Wright (born October 5, 1987) is an American former professional basketball player. Growing up in Tennessee, Wright fast became a standout at his high school Brentwood Academy, earning three "Mr. Basketball" titles, a feat no player at any level had ever done in Tennessee. After leading his high school team to four consecutive state championships, Wright was eventually recruited by the University of North Carolina at Chapel Hill's basketball team
+
+
+draft_pick
+Candidate Sentence: 
+
+draft_year
+Candidate Sentence: 
+
+NBA_championships
+Candidate Sentence: Wright was named to the NCAA All-East Regional Team after averaging 12.8 points and 7.0 rebounds in four Tournament contests. Eventually, Wright was named MVP of the ACC Tournament, becoming just the fifth freshman in conference history to win the award
+Candidate Sentence: Wright averaged 6.9 points, 3.6 rebounds and 1.3 blocks in 16.1 minutes per game in the 2011–12 NBA season. Wright scored in double figures 13 times and shot a team-high 61.8 percent from the field. Wright made his NBA Playoff debut in Game 1 at Oklahoma City on April 28

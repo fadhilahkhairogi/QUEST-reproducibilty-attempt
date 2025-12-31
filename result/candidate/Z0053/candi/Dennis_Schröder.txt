@@ -1,0 +1,19 @@
+name
+Candidate Sentence: He averaged 11.0 points and 4.4 assists in 20.3 minutes per game, shooting 42% from the field and 32% from 3-point range, leading to defenders often daring him to shoot the three. On 20 February 2016, he recorded 25 points and 10 assists in a 117–109 overtime loss to the Milwaukee Bucks
+
+
+team
+Candidate Sentence: He averaged 11.0 points and 4.4 assists in 20.3 minutes per game, shooting 42% from the field and 32% from 3-point range, leading to defenders often daring him to shoot the three. On 20 February 2016, he recorded 25 points and 10 assists in a 117–109 overtime loss to the Milwaukee Bucks
+Candidate Sentence: On 11 July 2013, he signed with the Hawks. Schröder's minutes were cut due to frequent turnovers early in the season, with Shelvin Mack taking over the second-string point guard. He spent time in the NBA Development League in December, with the Bakersfield Jam, and finished his rookie season playing in just 49 games for the Hawks, with 3.7 points in 13.1 minutes per game.
+On 22 December 2014, Schröder scored a career-high 22 points in a 105–102 win over the Dallas Mavericks
+
+
+draft_year
+Candidate Sentence: 
+
+draft_pick
+Candidate Sentence: He averaged 11.0 points and 4.4 assists in 20.3 minutes per game, shooting 42% from the field and 32% from 3-point range, leading to defenders often daring him to shoot the three. On 20 February 2016, he recorded 25 points and 10 assists in a 117–109 overtime loss to the Milwaukee Bucks
+
+
+college
+Candidate Sentence: 

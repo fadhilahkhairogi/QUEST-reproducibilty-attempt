@@ -1,0 +1,8 @@
+name: Kevon Looney  
+Key sentence 1: "Kevon Grant Looney (/kəˈvɒn/ kə-VON; born February 6, 1996) is an American professional basketball player for the Golden State Warriors of the National Basketball Association (NBA)."
+
+age: 27  
+Key sentence 1: "Kevon Grant Looney (/kəˈvɒn/ kə-VON; born February 6, 1996) is an American professional basketball player for the Golden State Warriors of the National Basketball Association (NBA)."
+
+team: Golden State Warriors  
+Key sentence 1: "Kevon Grant Looney (/kəˈvɒn/ kə-VON; born February 6, 1996) is an American professional basketball player for the Golden State Warriors of the National Basketball Association (NBA)."

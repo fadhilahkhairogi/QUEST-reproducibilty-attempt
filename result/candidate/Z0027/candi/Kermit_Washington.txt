@@ -1,0 +1,19 @@
+name
+Candidate Sentence: He came off the bench to average four points per game (ppg). His stepmother informed him that when he graduated from high school he would be thrown out of the house. He trained for three hours a day toward the end of his senior season, and showed up uninvited at a playground game featuring top high school players from Washington and Pennsylvania, where he talked his way into the game
+Candidate Sentence: He was drafted after his junior season by the New York Nets of the American Basketball Association (ABA) and offered a four-year contract for $100,000 a year, which astonished him. He decided to stay at American with coach Young for his senior season because he felt he owed the school which had given him a chance when he was coming out of a difficult period in high school
+
+
+draft_pick
+Candidate Sentence: He was drafted after his junior season by the New York Nets of the American Basketball Association (ABA) and offered a four-year contract for $100,000 a year, which astonished him. He decided to stay at American with coach Young for his senior season because he felt he owed the school which had given him a chance when he was coming out of a difficult period in high school
+Candidate Sentence: Washington was named an academic All-American his junior year. He averaged 21.0 points on 54.4 percent shooting and an NCAA-leading 19.8 rebounds in his junior season. He was drafted after his junior season by the New York Nets of the American Basketball Association (ABA) and offered a four-year contract for $100,000 a year, which astonished him
+
+
+draft_year
+Candidate Sentence: He was drafted after his junior season by the New York Nets of the American Basketball Association (ABA) and offered a four-year contract for $100,000 a year, which astonished him. He decided to stay at American with coach Young for his senior season because he felt he owed the school which had given him a chance when he was coming out of a difficult period in high school
+Candidate Sentence: Washington was named an academic All-American his junior year. He averaged 21.0 points on 54.4 percent shooting and an NCAA-leading 19.8 rebounds in his junior season. He was drafted after his junior season by the New York Nets of the American Basketball Association (ABA) and offered a four-year contract for $100,000 a year, which astonished him
+
+
+NBA_championships
+Candidate Sentence: He came off the bench to average four points per game (ppg). His stepmother informed him that when he graduated from high school he would be thrown out of the house. He trained for three hours a day toward the end of his senior season, and showed up uninvited at a playground game featuring top high school players from Washington and Pennsylvania, where he talked his way into the game
+Candidate Sentence: Washington finally tore the patella tendon in a late season game against Denver. "I could feel it tearing inside. I looked down, and my kneecap was hanging on the side of my leg." Doctors covered his entire leg in a cast and told him his basketball career was most likely over.
+Newell was the person to bring Washington out of the despair Kermit felt when he heard his playing career was probably over

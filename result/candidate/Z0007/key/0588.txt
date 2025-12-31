@@ -1,0 +1,5 @@
+[university_name]: Briar Cliff University
+Key sentnce 1: Briar Cliff University The Basics About Briar Cliff University Briar Cliff University is a private institution that was founded in 1930.
+
+[total_undergraduate_enrollment]: 1,079
+Key sentnce 1: It has a total undergraduate enrollment of 1,079, its setting is urban, and the campus size is 70 acres.

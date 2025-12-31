@@ -1,0 +1,12 @@
+name
+Candidate Sentence: 
+
+age
+Candidate Sentence: national team, ruling him out of the World Championship that started a week later
+Candidate Sentence: The case ended up before the United States district court for the District of Massachusetts. Following a hearing on 26 September 1989, Judge Douglas Woodlock ruled in Jugoplastika's favor two days later thus preventing Rađa from staying with the Celtics. Since the player was physically already in Boston, bringing him back to Yugoslavia required some kind of an agreement
+
+
+team
+Candidate Sentence: I loved playing for Boston and just wanted to find out if there was any possibility I might be traded, because I had heard some rumours. Pitino looked me right in the eyes and said, "Dino, don't worry. You're going to be a big part of our offense. When we run a set play, the ball is going to go through you.' I left the meeting feeling great. Five days later, I found out I was being traded to Philadelphia. I can't tell you how much I felt betrayed
+Candidate Sentence: A special officer of the court had heard the case and ruled in Rađa's favour, against the Celtics.
+Simultaneous to the legal battle his agent was waging over the future of his club career, Rađa had been spending the summer of 1990 with the Yugoslav national team in a four-month 1990 FIBA World Championship training camp that included an appearance at the 1990 Goodwill Games in Seattle where the 23-year-old suffered a leg fracture in the final game against the U.S

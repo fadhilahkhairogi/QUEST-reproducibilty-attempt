@@ -1,0 +1,2 @@
+Fred_Boyd.txt,0.000009500
+Rick_Hughes.txt,0.000007500

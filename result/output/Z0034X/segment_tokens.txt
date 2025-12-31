@@ -1,0 +1,3 @@
+Anthony_Davis.txt,17
+Greg_Foster.txt,113
+Kermit_Washington.txt,17

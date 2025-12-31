@@ -1,0 +1,11 @@
+name
+Candidate Sentence: 
+
+age
+Candidate Sentence: During his career, he played in ten of the league's All-Star games and ended his 20-year career having scored 208 goals, 750 assists and 958 regular-season points as well as 144 points in 227 playoff games, a remarkable achievement for a defenceman
+Candidate Sentence: He played 17 seasons for the Montreal Canadiens and another three seasons for the Los Angeles Kings, until his retirement after the 1991–92 season. He won the James Norris Memorial Trophy twice (1976–77 and 1979–80) as the league's most outstanding defenceman and won the Conn Smythe Trophy as the most valuable player of the 1978 playoffs. He was named to the league's first and second all-star teams three times each
+
+
+team
+Candidate Sentence: He was named to the league's first and second all-star teams three times each.  His peak years were 1976–77 to 1980–81, although he had a strong comeback season at age 34 in 1985–86 when he was again named to the second all-star team and scored 82 points, just three shy of his career high of 85 (1976–77)
+Candidate Sentence: He played 17 seasons for the Montreal Canadiens and another three seasons for the Los Angeles Kings, until his retirement after the 1991–92 season. He won the James Norris Memorial Trophy twice (1976–77 and 1979–80) as the league's most outstanding defenceman and won the Conn Smythe Trophy as the most valuable player of the 1978 playoffs. He was named to the league's first and second all-star teams three times each

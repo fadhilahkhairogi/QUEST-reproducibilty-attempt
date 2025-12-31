@@ -1,0 +1,8 @@
+[name]: Jack Parr  
+Key sentnce 1: Jack Parr (March 13, 1936 – January 4, 2015) was an American professional basketball player.  
+
+[age]:   
+Key sentnce 1: Jack Parr (March 13, 1936 – January 4, 2015) was an American professional basketball player.  
+
+[team]:   
+Key sentnce 1: He played 66 games for the Royals in 1958–1959, averaging 4.0 points per game.

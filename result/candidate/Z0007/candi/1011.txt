@@ -1,0 +1,10 @@
+university_name
+Candidate Sentence: Drake University The Basics About Drake University Drake University is a private institution that was founded in 1881. It has a total undergraduate enrollment of 3,548, its setting is urban, and the campus size is 150 acres. It utilizes a semester-based academic calendar.  Drake University's ranking in the 2011 edition of Best Colleges is Regional Universities (Midwest), 3
+Candidate Sentence: In fact, most students who plan properly complete their degrees in just four years and begin working in their chosen profession after graduation.  Drake alumni go on to discover comets, win Pulitzer Prizes, make Hollywood blockbusters, found and operate Fortune 500 companies and make the world a better place in ways large and small.
+Copyright © 2011 U.S. News & World Report, L.P. All rights reserved.
+Use of this Web site constitutes acceptance of our Terms and Conditions of Use and Privacy Policy.
+
+
+total_undergraduate_enrollment
+Candidate Sentence: Drake University The Basics About Drake University Drake University is a private institution that was founded in 1881. It has a total undergraduate enrollment of 3,548, its setting is urban, and the campus size is 150 acres. It utilizes a semester-based academic calendar.  Drake University's ranking in the 2011 edition of Best Colleges is Regional Universities (Midwest), 3
+Candidate Sentence: Drake's size allows Faculty and staff to foster close relationships with students that help them meet educational, professional and personal goals.  Drake's diverse student body comes from 42 states and 43 countries. Drake graduates currently reside in all 50 states and more than 60 countries around the world. Undergraduate students choose from more than 70 programs of study, can design a personal academic plan, combine majors or create their own major

@@ -1,0 +1,12 @@
+university_name
+Candidate Sentence: University of Kansas The Basics About KU KU is a public institution that was founded in 1866. It has a total undergraduate enrollment of 21,066, its setting is urban, and the campus size is 1,000 acres. It utilizes a semester-based academic calendar.  KU's ranking in the 2011 edition of Best Colleges is National Universities, 104. Its in-state tuition and fees are $8,732; out-of-state tuition and fees are $21,539.
+The best thing about KU would have to be the atmosphere
+Candidate Sentence: Otherwise, a lot of people think that it's cool that I chose to go somewhere most of my high school classmates didn't go. Most of my time on campus is in a library. Being a pre-pharmacy student requires a lot of studying! Lawrence is a great college town. The best are the Lawrence residents, who support KU and the college students and have the same spirit we do for KU. The biggest recent controversy on campus would be gay pride week. Fred Phelps decided to show his presence
+
+
+rank
+Candidate Sentence: University of Kansas The Basics About KU KU is a public institution that was founded in 1866. It has a total undergraduate enrollment of 21,066, its setting is urban, and the campus size is 1,000 acres. It utilizes a semester-based academic calendar.  KU's ranking in the 2011 edition of Best Colleges is National Universities, 104. Its in-state tuition and fees are $8,732; out-of-state tuition and fees are $21,539.
+The best thing about KU would have to be the atmosphere
+Candidate Sentence: KU has many excellent staff members and professors famous for their work in their fields. There is a LOT of school pride, demonstrated after we became basketball champions! The only big complaints I hear are about the ridiculously strict parking rules and the difficulty of working with the bureaucracy.
+Copyright © 2011 U.S. News & World Report, L.P. All rights reserved.
+Use of this Web site constitutes acceptance of our Terms and Conditions of Use and Privacy Policy.

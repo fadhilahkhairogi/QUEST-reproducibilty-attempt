@@ -1,0 +1,8 @@
+[name]:  
+Key sentence 1: Jayson Christopher Tatum (/ˈteɪtəm/ TAY-təm; born March 3, 1998) is an American professional basketball player for the Boston Celtics of the National Basketball Association (NBA).
+
+[age]: 25  
+Key sentence 1: Tatum became the youngest Celtic to reach 10,000 career points at 25 years and 246 days of age.
+
+[team]: Boston Celtics  
+Key sentence 1: Jayson Christopher Tatum (/ˈteɪtəm/ TAY-təm; born March 3, 1998) is an American professional basketball player for the Boston Celtics of the National Basketball Association (NBA).

@@ -1,0 +1,8 @@
+[name]: Edrice Femi "Bam" Adebayo  
+Key sentence 1: Edrice Femi "Bam" Adebayo (/ˌɑːdəˈbaɪoʊ/ AH-də-BY-oh; born July 18, 1997) is an American professional basketball player for the Miami Heat of the National Basketball Association (NBA).
+
+[team]: Miami Heat  
+Key sentence 1: Edrice Femi "Bam" Adebayo (/ˌɑːdəˈbaɪoʊ/ AH-də-BY-oh; born July 18, 1997) is an American professional basketball player for the Miami Heat of the National Basketball Association (NBA).
+
+[NBA_championships]: 0  
+Key sentence 1: After Adebayo suffered an injury in game 1 of the 2020 NBA Finals, the Heat went on to lose to the Los Angeles Lakers in 6 games.

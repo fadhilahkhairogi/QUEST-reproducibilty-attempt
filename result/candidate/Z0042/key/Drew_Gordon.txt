@@ -1,0 +1,18 @@
+[name]: Drew Gordon  
+Key sentnce 1: Drew Edward Gordon (July 12, 1990 – May 30, 2024) was an American professional basketball player who was a power forward for the Philadelphia 76ers of the National Basketball Association (NBA).
+
+[age]: 33  
+Key sentnce 1: Gordon died in a traffic collision in an unincorporated area of Clackamas County, Oregon, on May 30, 2024, at the age of 33.
+
+[team]: Philadelphia 76ers  
+Key sentnce 1: Drew Edward Gordon (July 12, 1990 – May 30, 2024) was an American professional basketball player who was a power forward for the Philadelphia 76ers of the National Basketball Association (NBA).
+
+[draft_year]: 2012  
+Key sentnce 1: Projected as a second-round pick, Gordon was undrafted in the 2012 NBA draft.
+
+[draft_pick]:   
+Key sentnce 1: Projected as a second-round pick, Gordon was undrafted in the 2012 NBA draft.
+
+[college]: UCLA Bruins; University of New Mexico  
+Key sentnce 1: Gordon began his college basketball career with the UCLA Bruins, then transferred during his sophomore year to the New Mexico Lobos.  
+Key sentnce 2: After parting ways with UCLA, Gordon quickly enrolled at the University of New Mexico, choosing the Lobos over Notre Dame, San Diego State, and UNLV.

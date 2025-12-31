@@ -1,0 +1,23 @@
+name
+Candidate Sentence: Magic Johnson For the Red Hot Chili Peppers song, see Mother's Milk (album). For the Nas song, see Magic 2.
+"Earvin Johnson" redirects here. For the NBA center, see Ervin Johnson.
+Earvin "Magic" Johnson Jr. (born August 14, 1959) is an American businessman and former professional basketball player. Often regarded as the greatest point guard of all time, Johnson spent his entire career with the Los Angeles Lakers in the National Basketball Association (NBA)
+Candidate Sentence: After practicing and playing in several pre-season games, he retired again before the start of the regular season, citing controversy over his return sparked by opposition from several active players
+
+
+draft_pick
+Candidate Sentence: In what was the most-watched college basketball game ever, Michigan State defeated Indiana State 75–64, and Johnson was voted Most Outstanding Player of the Final Four. He was selected to the 1978–79 All-American team for his performance that season. After two years in college, during which he averaged 17.1 points, 7.6 rebounds, and 7.9 assists per game, Johnson entered the 1979 NBA draft
+Candidate Sentence: After leaving the NBA in 1991, he formed the Magic Johnson All-Stars, a barnstorming team that traveled around the world playing exhibition games.
+Johnson was honored as one of the 50 Greatest Players in NBA History in 1996 and selected to the NBA 75th Anniversary Team in 2021, and became a two-time inductee into the Naismith Memorial Basketball Hall of Fame—being enshrined in 2002 for his individual career, and again in 2010 as a member of the "Dream Team"
+
+
+draft_year
+Candidate Sentence: In what was the most-watched college basketball game ever, Michigan State defeated Indiana State 75–64, and Johnson was voted Most Outstanding Player of the Final Four. He was selected to the 1978–79 All-American team for his performance that season. After two years in college, during which he averaged 17.1 points, 7.6 rebounds, and 7.9 assists per game, Johnson entered the 1979 NBA draft
+Candidate Sentence: After leaving the NBA in 1991, he formed the Magic Johnson All-Stars, a barnstorming team that traveled around the world playing exhibition games.
+Johnson was honored as one of the 50 Greatest Players in NBA History in 1996 and selected to the NBA 75th Anniversary Team in 2021, and became a two-time inductee into the Naismith Memorial Basketball Hall of Fame—being enshrined in 2002 for his individual career, and again in 2010 as a member of the "Dream Team"
+
+
+NBA_championships
+Candidate Sentence: His career achievements include three NBA Most Valuable Player Awards, three NBA Finals MVPs, nine All-NBA First Team designations, and twelve All-Star games selections. He led the league in regular season assists four times, and is the NBA's all-time leader in average assists per game in both the regular season (11.19 assists per game) and the playoffs (12.35 assists per game). He also holds the records for most career playoff assists and most career playoff triple-doubles
+Candidate Sentence: His friendship and rivalry with Boston Celtics star Larry Bird, whom he faced in the 1979 NCAA finals and three NBA championship series, are well documented.
+Since his retirement, Johnson has been an advocate for HIV/AIDS prevention and safe sex, as well as an entrepreneur, philanthropist, broadcaster and motivational speaker. Johnson is a former part-owner of the Lakers and was the team's president of basketball operations in the late 2010s

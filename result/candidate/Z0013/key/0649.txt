@@ -1,0 +1,14 @@
+[university_name]: University of California--Riverside
+Key sentnce 1: University of California--Riverside University of California--Riverside The Basics About UCR
+
+[academic_calendar]: quarter-based
+Key sentnce 1: It utilizes a quarter-based academic calendar.
+
+[rank]: 94
+Key sentnce 1: UCR's ranking in the 2011 edition of Best Colleges is National Universities, 94.
+
+[year_founded]: 1954
+Key sentnce 1: UCR is a public institution that was founded in 1954.
+
+[total_undergraduate_enrollment]: 16,996
+Key sentnce 1: It has a total undergraduate enrollment of 16,996, its setting is urban, and the campus size is 1,200 acres.

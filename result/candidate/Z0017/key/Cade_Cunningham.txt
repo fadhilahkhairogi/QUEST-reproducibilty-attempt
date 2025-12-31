@@ -1,0 +1,8 @@
+[name]: Cade Parker Cunningham  
+Key sentence 1: "Cade Parker Cunningham (born September 25, 2001) is an American professional basketball player for the Detroit Pistons of the National Basketball Association (NBA)."
+
+[age]: 22  
+Key sentence 1: "Cade Parker Cunningham (born September 25, 2001) is an American professional basketball player for the Detroit Pistons of the National Basketball Association (NBA)."
+
+[team]: Detroit Pistons  
+Key sentence 1: "Cade Parker Cunningham (born September 25, 2001) is an American professional basketball player for the Detroit Pistons of the National Basketball Association (NBA)."

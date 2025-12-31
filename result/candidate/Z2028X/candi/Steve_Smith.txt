@@ -1,0 +1,16 @@
+name
+Candidate Sentence: Steve Smith (basketball) For other basketball people with similar names, see Steven Smith § Basketball.
+Steven Delano Smith (born March 31, 1969) is an American former professional basketball player who is a basketball analyst for Turner Sports
+Candidate Sentence: After a collegiate career with Michigan State, he played with several teams in his 14-season National Basketball Association career, including the Miami Heat, the Portland Trail Blazers and the San Antonio Spurs, but is perhaps best known for his five-year stint with the Atlanta Hawks which included an All-Star Game appearance in 1998. He won a championship with the Spurs in 2003
+
+
+draft_pick
+Candidate Sentence: 
+
+draft_year
+Candidate Sentence: 
+
+NBA_championships
+Candidate Sentence: He won a championship with the Spurs in 2003. Smith was widely regarded as an excellent three-point shooter, and is one of three players to make seven 3-pointers in a quarter.
+He joined the USA men's national basketball team in the 1994 FIBA World Championship winning the gold medal
+Candidate Sentence: As a result, Smith averaged 6.8 points a game, and would be used sparingly in the Spurs' playoff run, in which the team eliminated the Phoenix Suns, the three-time champion Lakers and the Dallas Mavericks before defeating the New Jersey Nets in six games to win the NBA title, Smith's first and only championship

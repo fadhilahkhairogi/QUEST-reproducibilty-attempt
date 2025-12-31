@@ -1,0 +1,8 @@
+[university_name]: Converse College
+Key sentnce 1: Converse College Converse College The Basics About Converse College Converse College is a private institution that was founded in 1889.
+
+[setting]: urban
+Key sentnce 1: It has a total undergraduate enrollment of 729, its setting is urban, and the campus size is 70 acres.
+
+[total_undergraduate_enrollment]: 729
+Key sentnce 1: It has a total undergraduate enrollment of 729, its setting is urban, and the campus size is 70 acres.

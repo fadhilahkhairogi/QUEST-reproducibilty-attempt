@@ -1,0 +1,8 @@
+[name]: Rik Smits  
+Key sentnce 1: Rik Smits (born 23 August 1966), nicknamed "the Dunking Dutchman" is a Dutch former professional basketball player who spent his entire career with the Indiana Pacers of the National Basketball Association (NBA).
+
+[age]:   
+Key sentnce 1: 
+
+[team]:   
+Key sentnce 1:

@@ -1,0 +1,17 @@
+[name]: Cal Ramsey
+Key sentnce 1: Cal Ramsey Calvin Ramsey (July 13, 1937 – March 25, 2019) was an American professional basketball player and broadcaster.
+
+[age]: 
+Key sentnce 1: 
+
+[team]: 
+Key sentnce 1: 
+
+[draft_year]: 1959
+Key sentnce 1: After graduating from NYU with a degree in business, Ramsey entered the 1959 NBA draft where the St. Louis Hawks selected him with the 13th overall pick.
+
+[draft_pick]: 13
+Key sentnce 1: After graduating from NYU with a degree in business, Ramsey entered the 1959 NBA draft where the St. Louis Hawks selected him with the 13th overall pick.
+
+[college]: NYU
+Key sentnce 1: After graduating from High School of Commerce, he joined the NYU Violets as a forward in 1956.

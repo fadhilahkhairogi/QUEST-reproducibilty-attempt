@@ -1,0 +1,21 @@
+name
+Candidate Sentence: For other people named Paul George, see Paul George (disambiguation).
+Paul Clifton Anthony George (born May 2, 1990) is an American professional basketball player for the Philadelphia 76ers of the National Basketball Association (NBA)
+Candidate Sentence: He missed most of the 2014–15 season, but recovered to become an All-Star again in 2016, when he also won an Olympic gold medal. He was traded to the Oklahoma City Thunder in 2017, and played two seasons for the Thunder before he was traded to the Los Angeles Clippers in 2019
+
+
+team
+Candidate Sentence: For other people named Paul George, see Paul George (disambiguation).
+Paul Clifton Anthony George (born May 2, 1990) is an American professional basketball player for the Philadelphia 76ers of the National Basketball Association (NBA)
+Candidate Sentence: He missed most of the 2014–15 season, but recovered to become an All-Star again in 2016, when he also won an Olympic gold medal. He was traded to the Oklahoma City Thunder in 2017, and played two seasons for the Thunder before he was traded to the Los Angeles Clippers in 2019
+
+
+NBA_championships
+Candidate Sentence: www.nba.com. January 27, 2018. Archived from the original on September 17, 2020. Retrieved January 28, 2018.
+"Harris hits 3 at buzzer, Nuggets beat Thunder 127–124". ESPN.com. February 1, 2018. Archived from the original on February 2, 2018. Retrieved February 2, 2018.
+"George, Westbrook lead Thunder past Grizzlies 137–123". ESPN.com. April 11, 2018. Archived from the original on April 12, 2018. Retrieved April 11, 2018.
+"George scores 36, leads Thunder to 116–108 win over Jazz". ESPN.com. April 15, 2018
+Candidate Sentence: Retrieved March 22, 2023.
+"Clarkson's late 3 gives Jazz 120-118 win over the Clippers". ESPN.com. October 28, 2023. Archived from the original on December 18, 2023. Retrieved December 18, 2023.
+"Clippers rally from 22 down to beat Warriors on Paul George's three-pointer". Los Angeles Times. December 2, 2023. Archived from the original on February 4, 2024. Retrieved February 4, 2024.
+"George scores season-high 37 points, Leonard adds 22 as Clippers defeat Grizzlies 128-119". ESPN.com. January 12, 2024

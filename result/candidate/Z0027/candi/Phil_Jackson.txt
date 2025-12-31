@@ -1,0 +1,22 @@
+name
+Candidate Sentence: Bryant managed to test Jackson's patience enough that the "Zen Master" even demanded that Bryant be traded, although Lakers management rejected the request.
+Prior to the 2003–04 season, the Lakers signed NBA star veterans Karl Malone and Gary Payton, who had been franchise players for the Utah Jazz and the Seattle SuperSonics, respectively, leading to predictions by some that the team would finish with the best record in NBA history
+
+
+draft_pick
+Candidate Sentence: In return, the Knicks received Shane Larkin, José Calderón, Samuel Dalembert, and Wayne Ellington along with two picks for the following day's draft. The trade was the first one that he executed as a front office executive. On June 26, as part of the 2014 NBA draft, the Knicks selected Cleanthony Early as the 34th overall pick and Thanasis Antetokounmpo as the 51st overall pick, using the draft picks received in the trade from the Mavericks
+Candidate Sentence: Both years, they were beaten by the Southern Illinois Salukis. Jackson's future Knicks teammate Walt Frazier was the Salukis' biggest star, but the two only faced off in 1965, as Frazier was academically ineligible in 1966.
+Professional career New York Knicks (1967–1978) Jackson circa 1968 In 1967, Jackson was drafted in the second round by the New York Knicks
+
+
+draft_year
+Candidate Sentence: In return, the Knicks received Shane Larkin, José Calderón, Samuel Dalembert, and Wayne Ellington along with two picks for the following day's draft. The trade was the first one that he executed as a front office executive. On June 26, as part of the 2014 NBA draft, the Knicks selected Cleanthony Early as the 34th overall pick and Thanasis Antetokounmpo as the 51st overall pick, using the draft picks received in the trade from the Mavericks
+Candidate Sentence: Both years, they were beaten by the Southern Illinois Salukis. Jackson's future Knicks teammate Walt Frazier was the Salukis' biggest star, but the two only faced off in 1965, as Frazier was academically ineligible in 1966.
+Professional career New York Knicks (1967–1978) Jackson circa 1968 In 1967, Jackson was drafted in the second round by the New York Knicks
+
+
+NBA_championships
+Candidate Sentence: He was the fastest to win 1,000 games, surpassing Pat Riley, who had taken 11 more games than Jackson.
+Jackson again coached the Lakers to the NBA Finals in 2009, defeating the Utah Jazz, Houston Rockets, and Denver Nuggets in the process
+Candidate Sentence: On December 27, 2016, they announced the termination of their engagement in a joint statement on Twitter.
+While he was the coach of the Chicago Bulls, he lived in Bannockburn, Illinois. He lived in Playa del Rey, Los Angeles when he was the coach of the Los Angeles Lakers. While he was the president of basketball operations of the New York Knicks, he lived in Midtown Manhattan, New York City

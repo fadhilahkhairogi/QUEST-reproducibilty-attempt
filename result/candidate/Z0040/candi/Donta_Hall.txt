@@ -1,0 +1,22 @@
+name
+Candidate Sentence: He entered the starting lineup for the Crimson Tide in December of his sophomore season, averaging six points, 5.5 rebounds and 1.4 blocks over 34 games (20 starts)
+
+
+age
+Candidate Sentence: He entered the starting lineup for the Crimson Tide in December of his sophomore season, averaging six points, 5.5 rebounds and 1.4 blocks over 34 games (20 starts)
+Candidate Sentence: 
+
+draft_year
+Candidate Sentence: He entered the starting lineup for the Crimson Tide in December of his sophomore season, averaging six points, 5.5 rebounds and 1.4 blocks over 34 games (20 starts)
+Candidate Sentence: Hall's father Donald suffered a fatal heart attack at one of his junior varsity games. He was named first team Class 2A All-State after averaging 11.7 points, 10.1 rebounds and 6.7 blocks per game during his junior season as he led Luverne to a 24–2 record and the State final. Hall was rated the 81st best player in his class by ESPN and committed to play college basketball at Alabama at the end of his junior year over offers from UAB, Mississippi State and Troy
+
+
+draft_pick
+Candidate Sentence: He entered the starting lineup for the Crimson Tide in December of his sophomore season, averaging six points, 5.5 rebounds and 1.4 blocks over 34 games (20 starts)
+Candidate Sentence: Hall's father Donald suffered a fatal heart attack at one of his junior varsity games. He was named first team Class 2A All-State after averaging 11.7 points, 10.1 rebounds and 6.7 blocks per game during his junior season as he led Luverne to a 24–2 record and the State final. Hall was rated the 81st best player in his class by ESPN and committed to play college basketball at Alabama at the end of his junior year over offers from UAB, Mississippi State and Troy
+
+
+college
+Candidate Sentence: He entered the starting lineup for the Crimson Tide in December of his sophomore season, averaging six points, 5.5 rebounds and 1.4 blocks over 34 games (20 starts)
+Candidate Sentence: As a senior, Hall averaged a triple-double with  22.6 points, 18.1 rebounds and almost 12 blocks per game and was named the Class 2A Player of the Year in addition to being named first team All-State.
+College career Hall with Alabama in February 2019 As a true freshman, Hall averaged 2.8 points, 4.3 rebounds and 1.7 blocks per game (6th in the Southeastern Conference)

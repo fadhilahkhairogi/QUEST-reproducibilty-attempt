@@ -1,0 +1,29 @@
+name
+Candidate Sentence: 
+
+team
+Candidate Sentence: The contract included NBA buyout clauses in the amounts of €1.1 million for 2014, and €750,000 for 2015.
+Barcelona went on to win the 2013–14 Spanish Liga ACB championship.
+Houston Rockets (2014–2015) On 28 June 2012, Papanikolaou was selected with the 48th overall pick in the 2012 NBA draft by the New York Knicks
+Candidate Sentence: He was named the MVP of the Greek Youth All-Star Game in 2009. He was also named the Greek League's Best Young Player in 2009.
+Olympiacos (2009–2013) On 14 September 2009, Papanikolaou signed a five-year, €1.3 million net income deal with Olympiacos, after Olympiacos paid a €950,000 buyout fee to Aris, to secure his player rights. Papanikolaou's contract with Olympiacos had an NBA buyout clause worth €1 million.
+With Olympiacos, he won the EuroLeague and Greek League championships in 2012
+
+
+draft_pick
+Candidate Sentence: 
+
+draft_year
+Candidate Sentence: The contract included NBA buyout clauses in the amounts of €1.1 million for 2014, and €750,000 for 2015.
+Barcelona went on to win the 2013–14 Spanish Liga ACB championship.
+Houston Rockets (2014–2015) On 28 June 2012, Papanikolaou was selected with the 48th overall pick in the 2012 NBA draft by the New York Knicks
+Candidate Sentence: On July 16, 2012, his draft rights were acquired by the Portland Trail Blazers, via a trade that sent Raymond Felton to the Knicks.
+On 10 July 2013, Papanikolaou's rights were acquired by the Houston Rockets, via a trade that sent Thomas Robinson to the Trail Blazers.
+On 23 September 2014, Papanikolaou signed with the Houston Rockets
+
+
+college
+Candidate Sentence: 
+
+age
+Candidate Sentence: 

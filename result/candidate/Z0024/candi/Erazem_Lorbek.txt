@@ -1,0 +1,31 @@
+name
+Candidate Sentence: But the Pacers did not sign him, and Lorbek continued to play in Europe. During the 2011 NBA draft, the Pacers traded the draft rights to Lorbek, to the San Antonio Spurs, as part of their trade for George Hill.
+In 2016, Lorbek joined the San Antonio Spurs' 2016 NBA Summer League roster.
+National team career Lorbek was also a member of the senior men's Slovenian national basketball team. With Slovenia's senior national team, he played at the 2005, 2007, 2009, and 2011 editions of the FIBA EuroBasket
+Candidate Sentence: Erazem Lorbek Erazem Lorbek	Lorbek with FC Barcelona in 2013.
+Erazem Lorbek (born February 21, 1984) is a Slovenian former professional basketball player. At a height of 6 ft 10+3⁄4 in (2.10 m) tall, he primarily played at the power forward position, but he was also capable of playing at the center position. A three-time All-EuroLeague Team member, he won the EuroLeague title with FC Barcelona in 2010.
+Lorbek was also a regular member of the senior Slovenian national basketball team
+
+
+draft_pick
+Candidate Sentence: On September 11, 2017, he left Sassari, without having played with the team in any games.
+On January 19, 2018, Lorbek signed with the Slovenian club Petrol Olimpija. He played a single game for Olimpija in the Sloveninan League and recorded 12 points and 6 rebounds, only to retire from playing professional basketball shortly after.
+NBA draft rights Lorbek was drafted in the 2nd round of the 2005 NBA draft, by the Indiana Pacers. But the Pacers did not sign him, and Lorbek continued to play in Europe
+Candidate Sentence: But the Pacers did not sign him, and Lorbek continued to play in Europe. During the 2011 NBA draft, the Pacers traded the draft rights to Lorbek, to the San Antonio Spurs, as part of their trade for George Hill.
+In 2016, Lorbek joined the San Antonio Spurs' 2016 NBA Summer League roster.
+National team career Lorbek was also a member of the senior men's Slovenian national basketball team. With Slovenia's senior national team, he played at the 2005, 2007, 2009, and 2011 editions of the FIBA EuroBasket
+
+
+draft_year
+Candidate Sentence: On September 11, 2017, he left Sassari, without having played with the team in any games.
+On January 19, 2018, Lorbek signed with the Slovenian club Petrol Olimpija. He played a single game for Olimpija in the Sloveninan League and recorded 12 points and 6 rebounds, only to retire from playing professional basketball shortly after.
+NBA draft rights Lorbek was drafted in the 2nd round of the 2005 NBA draft, by the Indiana Pacers. But the Pacers did not sign him, and Lorbek continued to play in Europe
+Candidate Sentence: But the Pacers did not sign him, and Lorbek continued to play in Europe. During the 2011 NBA draft, the Pacers traded the draft rights to Lorbek, to the San Antonio Spurs, as part of their trade for George Hill.
+In 2016, Lorbek joined the San Antonio Spurs' 2016 NBA Summer League roster.
+National team career Lorbek was also a member of the senior men's Slovenian national basketball team. With Slovenia's senior national team, he played at the 2005, 2007, 2009, and 2011 editions of the FIBA EuroBasket
+
+
+NBA_championships
+Candidate Sentence: In 2011, Lorbek said that he didn't want to play for the Slovenian national team at EuroBasket 2011, just 15 minutes before Slovenia's training camp started. Two days later, he changed his mind, and decided instead to represent Slovenia at the tournament, which was held in Lithuania.
+Personal life Lorbek is the older brother of Domen Lorbek and Klemen Lorbek, who were also professionals basketball players.
+Candidate Sentence: With Slovenia's senior national team, he played at the 2005, 2007, 2009, and 2011 editions of the FIBA EuroBasket. He was one of the top players of the 2009 tournament, and earned the power forward position in the All-Tournament Team. In 2011, Lorbek said that he didn't want to play for the Slovenian national team at EuroBasket 2011, just 15 minutes before Slovenia's training camp started

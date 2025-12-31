@@ -1,0 +1,34 @@
+name
+Candidate Sentence: This article is about the NBA basketball player. For the basketball player in Europe, see Devin Booker (basketball, born 1991).
+Devin Armani Booker (born October 30, 1996) is an American professional basketball player for the Phoenix Suns of the National Basketball Association (NBA). He played one season of college basketball for the Kentucky Wildcats, helping lead the team to a 38–1 record and winning SEC Sixth Man of the Year
+Candidate Sentence: NBA.com. Retrieved March 25, 2017.
+Feldman, Dan (February 5, 2016). "Suns' Devin Booker – by far – youngest player in NBA 3-point contest history". Retrieved March 25, 2017.
+"Phoenix Suns' Devin Booker headed to 3-point contest". Retrieved March 25, 2017.
+"Klay Thompson downs Stephen Curry to win the Three-Point Shootout". Retrieved March 25, 2017.
+"Suns vs Heat". NBA.com. Archived from the original on July 2, 2016. Retrieved March 25, 2017.
+"Suns vs Nuggets". NBA.com
+
+
+age
+Candidate Sentence: NBA.com. Retrieved March 25, 2017.
+"Suns vs Kings". NBA.com. Archived from the original on January 24, 2016. Retrieved March 25, 2017.
+"USA vs World". NBA.com. February 12, 2016. Archived from the original on February 9, 2016. Retrieved February 12, 2016.
+"Booker Soaks in All-Star Weekend – Phoenix Suns". NBA.com. Retrieved March 25, 2017.
+Feldman, Dan (February 5, 2016). "Suns' Devin Booker – by far – youngest player in NBA 3-point contest history"
+Candidate Sentence: NBA.com. Retrieved March 25, 2017.
+Feldman, Dan (February 5, 2016). "Suns' Devin Booker – by far – youngest player in NBA 3-point contest history". Retrieved March 25, 2017.
+"Phoenix Suns' Devin Booker headed to 3-point contest". Retrieved March 25, 2017.
+"Klay Thompson downs Stephen Curry to win the Three-Point Shootout". Retrieved March 25, 2017.
+"Suns vs Heat". NBA.com. Archived from the original on July 2, 2016. Retrieved March 25, 2017.
+"Suns vs Nuggets". NBA.com
+
+
+team
+Candidate Sentence: This article is about the NBA basketball player. For the basketball player in Europe, see Devin Booker (basketball, born 1991).
+Devin Armani Booker (born October 30, 1996) is an American professional basketball player for the Phoenix Suns of the National Basketball Association (NBA). He played one season of college basketball for the Kentucky Wildcats, helping lead the team to a 38–1 record and winning SEC Sixth Man of the Year
+Candidate Sentence: NBA.com. Retrieved March 25, 2017.
+Feldman, Dan (February 5, 2016). "Suns' Devin Booker – by far – youngest player in NBA 3-point contest history". Retrieved March 25, 2017.
+"Phoenix Suns' Devin Booker headed to 3-point contest". Retrieved March 25, 2017.
+"Klay Thompson downs Stephen Curry to win the Three-Point Shootout". Retrieved March 25, 2017.
+"Suns vs Heat". NBA.com. Archived from the original on July 2, 2016. Retrieved March 25, 2017.
+"Suns vs Nuggets". NBA.com

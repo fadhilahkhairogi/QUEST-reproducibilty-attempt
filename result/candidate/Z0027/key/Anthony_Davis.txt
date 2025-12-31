@@ -1,0 +1,11 @@
+[name]: Anthony Davis  
+Key sentence 1: Anthony Marshon Davis Jr. (born March 11, 1993), nicknamed "AD", is an American professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA).  
+
+[draft_pick]: 1  
+Key sentence 1: Davis was drafted as the first overall pick in the 2012 NBA draft by the New Orleans Hornets.  
+
+[draft_year]: 2012  
+Key sentence 1: Davis was drafted as the first overall pick in the 2012 NBA draft by the New Orleans Hornets.  
+
+[NBA_championships]: 1  
+Key sentence 1: In his first season with the Lakers, he won the 2020 NBA Finals.

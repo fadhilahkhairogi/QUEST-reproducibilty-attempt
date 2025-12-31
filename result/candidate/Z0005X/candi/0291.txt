@@ -1,0 +1,11 @@
+university_name
+Candidate Sentence: Monmouth University The Basics About Monmouth University Monmouth University is a private institution that was founded in 1933. It has a total undergraduate enrollment of 4,681, its setting is suburban, and the campus size is 156 acres. It utilizes a semester-based academic calendar.  Monmouth University's ranking in the 2011 edition of Best Colleges is Regional Universities (North), 40
+Candidate Sentence: It utilizes a semester-based academic calendar.  Monmouth University's ranking in the 2011 edition of Best Colleges is Regional Universities (North), 40. Its tuition and fees are $26,356.
+62%         	selective         	2010-2011 Tuition and Fees: $26,356  The University, which was founded in 1933, is a private, moderate-sized, coeducational, comprehensive institution that offers undergraduate and graduate degrees in more than fifty majors and concentrations
+
+
+rank
+Candidate Sentence: It utilizes a semester-based academic calendar.  Monmouth University's ranking in the 2011 edition of Best Colleges is Regional Universities (North), 40. Its tuition and fees are $26,356.
+62%         	selective         	2010-2011 Tuition and Fees: $26,356  The University, which was founded in 1933, is a private, moderate-sized, coeducational, comprehensive institution that offers undergraduate and graduate degrees in more than fifty majors and concentrations
+Candidate Sentence: The University also provides a safe and secure environment for all students.  With a modern, community-oriented police department staffed by highly experienced and educated professionals, the campus is equipped with up-to-date technology, including emergency telephones throughout campus and a cell phone message service that sends out immediate alerts regarding emergency situations.
+Monmouth is a place where you create many chapters in your life. Each year as a student represents a chapter

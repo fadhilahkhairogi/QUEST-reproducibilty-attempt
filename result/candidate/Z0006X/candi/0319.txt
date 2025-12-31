@@ -1,0 +1,22 @@
+university_name
+Candidate Sentence: Bethel University The Basics About Bethel St Paul Bethel St Paul is a private institution that was founded in 1871. It has a total undergraduate enrollment of 3,421, its setting is suburban, and the campus size is 247 acres. It utilizes a 4-1-4-based academic calendar.  Bethel St Paul's ranking in the 2011 edition of Best Colleges is Regional Universities (Midwest), 17. Its tuition and fees are $28,080.
+Copyright © 2011 U.S. News & World Report, L.P
+Candidate Sentence: Bethel St Paul's ranking in the 2011 edition of Best Colleges is Regional Universities (Midwest), 17. Its tuition and fees are $28,080.
+Copyright © 2011 U.S. News & World Report, L.P. All rights reserved.
+Use of this Web site constitutes acceptance of our Terms and Conditions of Use and Privacy Policy.
+
+
+rank
+Candidate Sentence: Bethel St Paul's ranking in the 2011 edition of Best Colleges is Regional Universities (Midwest), 17. Its tuition and fees are $28,080.
+Copyright © 2011 U.S. News & World Report, L.P. All rights reserved.
+Use of this Web site constitutes acceptance of our Terms and Conditions of Use and Privacy Policy.
+Candidate Sentence: Bethel University The Basics About Bethel St Paul Bethel St Paul is a private institution that was founded in 1871. It has a total undergraduate enrollment of 3,421, its setting is suburban, and the campus size is 247 acres. It utilizes a 4-1-4-based academic calendar.  Bethel St Paul's ranking in the 2011 edition of Best Colleges is Regional Universities (Midwest), 17. Its tuition and fees are $28,080.
+Copyright © 2011 U.S. News & World Report, L.P
+
+
+year_founded
+Candidate Sentence: Bethel University The Basics About Bethel St Paul Bethel St Paul is a private institution that was founded in 1871. It has a total undergraduate enrollment of 3,421, its setting is suburban, and the campus size is 247 acres. It utilizes a 4-1-4-based academic calendar.  Bethel St Paul's ranking in the 2011 edition of Best Colleges is Regional Universities (Midwest), 17. Its tuition and fees are $28,080.
+Copyright © 2011 U.S. News & World Report, L.P
+Candidate Sentence: Bethel St Paul's ranking in the 2011 edition of Best Colleges is Regional Universities (Midwest), 17. Its tuition and fees are $28,080.
+Copyright © 2011 U.S. News & World Report, L.P. All rights reserved.
+Use of this Web site constitutes acceptance of our Terms and Conditions of Use and Privacy Policy.

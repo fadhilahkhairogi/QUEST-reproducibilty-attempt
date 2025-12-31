@@ -1,0 +1,22 @@
+name
+Candidate Sentence: Kevin Durant Not to be confused with Kevin Durand.
+Washington, D.C., U.S. (Fort Washington, Maryland) (Mouth of Wilson, Virginia) (Rockville, Maryland) Kevin Wayne Durant (born September 29, 1988), also known by his initials KD, is an American professional basketball player for the Phoenix Suns of the National Basketball Association (NBA)
+Candidate Sentence: After sustaining an Achilles injury in the 2019 NBA Finals, Durant joined the Brooklyn Nets as a free agent that summer. Following disagreements with the Nets' front office, he requested a trade during the 2022 offseason and was traded to the Suns the following year.
+Off the court, Durant is one of the highest-earning basketball players in the world, due in part to endorsement deals with companies such as Foot Locker and Nike
+
+
+draft_pick
+Candidate Sentence: He also won gold at the 2010 FIBA World Championship.
+Durant was a heavily recruited high school prospect widely regarded as the second-best player in his class. He played one season of college basketball for the Texas Longhorns, where he won numerous year-end awards and became the first freshman to be named Naismith College Player of the Year. Durant was selected as the second overall pick by the Seattle SuperSonics in the 2007 NBA draft
+Candidate Sentence: Durant was selected as the second overall pick by the Seattle SuperSonics in the 2007 NBA draft. He played nine seasons with the franchise (which became the Oklahoma City Thunder in 2008) and led them to a Finals appearance in 2012. He later signed with the Golden State Warriors in 2016, who won a record 73 regular season games the previous year. Durant won consecutive NBA championships and NBA Finals MVP Awards in 2017 and 2018
+
+
+draft_year
+Candidate Sentence: Durant was selected as the second overall pick by the Seattle SuperSonics in the 2007 NBA draft. He played nine seasons with the franchise (which became the Oklahoma City Thunder in 2008) and led them to a Finals appearance in 2012. He later signed with the Golden State Warriors in 2016, who won a record 73 regular season games the previous year. Durant won consecutive NBA championships and NBA Finals MVP Awards in 2017 and 2018
+Candidate Sentence: This made Durant the first freshman to win any of the national player of the year awards. Following the season, he declared for the NBA draft. Durant's No. 35 jersey was later retired by the Longhorns.
+Professional career Seattle SuperSonics / Oklahoma City Thunder (2007–2016) Rookie of the Year (2007–2008) Durant in 2008 Durant was selected as the second overall pick in the 2007 NBA draft by the Seattle SuperSonics, after Greg Oden was selected by the Portland Trail Blazers with the first pick of the draft
+
+
+NBA_championships
+Candidate Sentence: Durant has endorsement deals with Nike, Sprint, Gatorade, Panini, General Electric, and 2K Sports. In 2012, he tried his hand at acting, appearing in the children's film Thunderstruck. In 2013, Durant earned $35 million, making him the fourth-highest-earning basketball player that year
+Candidate Sentence: With a scoring average of 30.1 points per game, Durant became the youngest NBA scoring champion and was selected to his first All-NBA team. In his playoff debut, Durant scored 24 points in a Game 1 loss to the Los Angeles Lakers

@@ -1,0 +1,8 @@
+[name]: Guy Rodgers  
+Key sentnce 1: Guy Rodgers Guy William Rodgers (September 1, 1935 – February 19, 2001) was an American professional basketball player born in Philadelphia.  
+
+[age]:   
+Key sentnce 1:   
+
+[team]:   
+Key sentnce 1:

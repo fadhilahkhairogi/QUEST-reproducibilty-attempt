@@ -1,0 +1,19 @@
+name
+Candidate Sentence: Brandan Wright Contents Brandan Keith Wright (born October 5, 1987) is an American former professional basketball player. Growing up in Tennessee, Wright fast became a standout at his high school Brentwood Academy, earning three "Mr. Basketball" titles, a feat no player at any level had ever done in Tennessee. After leading his high school team to four consecutive state championships, Wright was eventually recruited by the University of North Carolina at Chapel Hill's basketball team
+Candidate Sentence: In high school, Wright became a two-time first-team Parade All-American selection at Brentwood Academy. As a senior, Wright averaged 22.4 points, 9.4 rebounds, and 5.1 blocks per contest, and also recorded four triple-doubles (points, rebounds, assists). Wright earned Tennessee's Division II Mr. Basketball title in 2004, 2005, and 2006, becoming the first player ever to win the award three times at any level of Tennessee high school basketball
+
+
+draft_pick
+Candidate Sentence: In the draft, Wright was selected by the Charlotte Bobcats with the eighth overall pick. Wright was then acquired by the Golden State Warriors in a draft-night trade in exchange for shooting guard Jason Richardson and the draft rights to Jermareo Davidson, whom Golden State chose with the 36th overall pick. Due to an injured hip flexor, Wright was unable to participate in summer league play during his rookie season. Of the thirty-eight games Wright played during his rookie season, he started in six
+Candidate Sentence: In his lone season as a Tar Heel, Wright was named the Atlantic Coast Conference Rookie of the Year, and earned All-ACC Second Team honors. In the 2007 NBA draft, Wright was chosen eighth overall by the Charlotte Bobcats, and in a draft-night trade was dealt to the Golden State Warriors for guard Jason Richardson.
+Early years Wright was born and raised in Nashville, Tennessee. In high school, Wright became a two-time first-team Parade All-American selection at Brentwood Academy
+
+
+draft_year
+Candidate Sentence: In the draft, Wright was selected by the Charlotte Bobcats with the eighth overall pick. Wright was then acquired by the Golden State Warriors in a draft-night trade in exchange for shooting guard Jason Richardson and the draft rights to Jermareo Davidson, whom Golden State chose with the 36th overall pick. Due to an injured hip flexor, Wright was unable to participate in summer league play during his rookie season. Of the thirty-eight games Wright played during his rookie season, he started in six
+Candidate Sentence: In his lone season as a Tar Heel, Wright was named the Atlantic Coast Conference Rookie of the Year, and earned All-ACC Second Team honors. In the 2007 NBA draft, Wright was chosen eighth overall by the Charlotte Bobcats, and in a draft-night trade was dealt to the Golden State Warriors for guard Jason Richardson.
+Early years Wright was born and raised in Nashville, Tennessee. In high school, Wright became a two-time first-team Parade All-American selection at Brentwood Academy
+
+
+NBA_championships
+Candidate Sentence: Brandan Wright Contents Brandan Keith Wright (born October 5, 1987) is an American former professional basketball player. Growing up in Tennessee, Wright fast became a standout at his high school Brentwood Academy, earning three "Mr. Basketball" titles, a feat no player at any level had ever done in Tennessee. After leading his high school team to four consecutive state championships, Wright was eventually recruited by the University of North Carolina at Chapel Hill's basketball team

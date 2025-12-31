@@ -1,0 +1,9 @@
+name
+Candidate Sentence: 
+
+age
+Candidate Sentence: Candidate Sentence: He made this decision after failing to reach a satisfactory contract with the Bucks.  After one season in Italy, Avent signed a four-year deal with the Bucks, beginning with a $500,000 installment in his first season and increasing in $150,000 increments in each of the succeeding three seasons. Thus, Avent would make $950,000 in the fourth year of his contract
+
+
+team
+Candidate Sentence: 

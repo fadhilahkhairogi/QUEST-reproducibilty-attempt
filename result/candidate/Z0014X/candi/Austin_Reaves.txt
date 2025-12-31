@@ -1,0 +1,25 @@
+name
+Candidate Sentence: The Oklahoman. Retrieved November 9, 2020.
+"Austin Reaves might play for Germany in 2023 FIBA World Cup". basketnews.com. Retrieved March 23, 2023.
+"USA FIBA Basketball World Cup 2023 roster: Anthony Edwards, Tyrese Haliburton headline commitments to US men's team". sportingnews.com. June 4, 2023. Retrieved June 15, 2023.
+Candidate Sentence: Austin Tyler Reaves (born May 29, 1998) is an American professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA). He played college basketball for the Wichita State Shockers and the Oklahoma Sooners. He joined the Lakers as an undrafted free agent.
+Reaves attended Cedar Ridge High School in Newark, Arkansas. He won back-to-back Class 2A state titles in his first two years. Reaves scored 73 points in a triple-overtime win over Forrest City High School
+
+
+age
+Candidate Sentence: The Oklahoman. Retrieved November 9, 2020.
+"Austin Reaves might play for Germany in 2023 FIBA World Cup". basketnews.com. Retrieved March 23, 2023.
+"USA FIBA Basketball World Cup 2023 roster: Anthony Edwards, Tyrese Haliburton headline commitments to US men's team". sportingnews.com. June 4, 2023. Retrieved June 15, 2023.
+Candidate Sentence: www.nba.com. Retrieved February 4, 2024.
+Woike, Dan (March 26, 2024). "Lakers open six-game trip with double-overtime win over the Bucks". Los Angeles Times. Retrieved March 27, 2024.
+Sampson, Peter (March 26, 2024). "Austin Reaves' insane triple-double has D'Angelo Russell, Lakers hyped". ClutchPoints. Retrieved March 26, 2024.
+Schuhmann, John (August 3, 2023). "USA Basketball taking inexperienced roster to 2023 FIBA World Cup". NBA.com. Retrieved August 7, 2023.
+Brown, James
+
+
+team
+Candidate Sentence: The Oklahoman. Retrieved November 9, 2020.
+"Austin Reaves might play for Germany in 2023 FIBA World Cup". basketnews.com. Retrieved March 23, 2023.
+"USA FIBA Basketball World Cup 2023 roster: Anthony Edwards, Tyrese Haliburton headline commitments to US men's team". sportingnews.com. June 4, 2023. Retrieved June 15, 2023.
+Candidate Sentence: Austin Tyler Reaves (born May 29, 1998) is an American professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA). He played college basketball for the Wichita State Shockers and the Oklahoma Sooners. He joined the Lakers as an undrafted free agent.
+Reaves attended Cedar Ridge High School in Newark, Arkansas. He won back-to-back Class 2A state titles in his first two years. Reaves scored 73 points in a triple-overtime win over Forrest City High School

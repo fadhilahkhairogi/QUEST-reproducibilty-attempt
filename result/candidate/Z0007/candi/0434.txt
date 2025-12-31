@@ -1,0 +1,8 @@
+university_name
+Candidate Sentence: Rensselaer Polytechnic Institute The Basics About RPI RPI is a private institution that was founded in 1824. It has a total undergraduate enrollment of 5,659, its setting is urban, and the campus size is 284 acres. It utilizes a semester-based academic calendar.  RPI's ranking in the 2011 edition of Best Colleges is National Universities, 41
+Candidate Sentence: People on the east coast know the school well, and are stunned that you go there (especially if you are normal). On campus time is spent at the library, union, or DCC. The school is located in Troy, NY which isn't very nice to the students on campus, so you feel confined sometimes to only the campus area, but you can go into the town and not be scared (unlike they tell you the first year)
+
+
+total_undergraduate_enrollment
+Candidate Sentence: Rensselaer Polytechnic Institute The Basics About RPI RPI is a private institution that was founded in 1824. It has a total undergraduate enrollment of 5,659, its setting is urban, and the campus size is 284 acres. It utilizes a semester-based academic calendar.  RPI's ranking in the 2011 edition of Best Colleges is National Universities, 41
+Candidate Sentence: This is supposed to be a tech school. I suppose that kind of sucks, but at least so far it hasn't seemed to have effected the science and engineering programs in too negative a way.    Students routinely make fun of the EMPAC building (Experimental Media and Performance Arts Center) by calling it the "EMPAC spaceship" because its ugly and useless and taking years longer than it was supposed to to be built

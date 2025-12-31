@@ -1,0 +1,26 @@
+name
+Candidate Sentence: 
+
+age
+Candidate Sentence: 
+
+team
+Candidate Sentence: Jabari Walker Jabari Dominic Walker (born July 30, 2002) is an American professional basketball player for the Portland Trail Blazers of the National Basketball Association (NBA). He is the son of Samaki Walker. He played college basketball for the Colorado Buffaloes. He was named first-team All-Pac-12 as a sophomore with Colorado.
+High school career Walker played basketball for Campbell Hall School in Los Angeles, California, for three years
+
+
+draft_year
+Candidate Sentence: On March 30, 2022, Walker declared for the 2022 NBA draft while maintaining his college eligibility. He later signed with an agent, forgoing his remaining eligibility.
+Professional career Walker was selected with the 57th overall pick in the 2022 NBA draft by the Portland Trail Blazers. He joined the Blazers' 2022 NBA Summer League team. In his Summer League debut, Walker recorded eleven points and seven rebounds in an 81–78 loss to the Detroit Pistons
+
+
+draft_pick
+Candidate Sentence: On March 30, 2022, Walker declared for the 2022 NBA draft while maintaining his college eligibility. He later signed with an agent, forgoing his remaining eligibility.
+Professional career Walker was selected with the 57th overall pick in the 2022 NBA draft by the Portland Trail Blazers. He joined the Blazers' 2022 NBA Summer League team. In his Summer League debut, Walker recorded eleven points and seven rebounds in an 81–78 loss to the Detroit Pistons
+
+
+college
+Candidate Sentence: He was named first-team All-Pac-12 as a sophomore with Colorado.
+High school career Walker played basketball for Campbell Hall School in Los Angeles, California, for three years. For his senior season, he transferred to AZ Compass Prep in Chandler, Arizona. As a senior, he averaged 13 points, 8 rebounds, and 1.5 blocks per game. Walker competed for Dream Vision on the Amateur Athletic Union circuit
+Candidate Sentence: As a senior, he averaged 13 points, 8 rebounds, and 1.5 blocks per game. Walker competed for Dream Vision on the Amateur Athletic Union circuit. He committed to playing college basketball for Colorado over offers from California and Saint Mary's.
+College career On January 14, 2021, Walker recorded 23 points and 11 rebounds in an 89–60 win over California. In February, he missed six games with a foot injury

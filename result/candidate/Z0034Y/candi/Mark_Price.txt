@@ -1,0 +1,11 @@
+name
+Candidate Sentence: Mark Price William Mark Price (born February 15, 1964) is an American former basketball player and coach. He was most recently the head coach of the Charlotte 49ers. As a player, he played for 12 seasons in the National Basketball Association (NBA), from 1986 to 1998
+Candidate Sentence: He played one season for Washington before moving on to the Golden State Warriors, signing with the Warriors as a free agent in July 1996. Price played 70 games for Golden State and averaged 11.3 points per game. On October 28, 1997, Price was traded to the Orlando Magic for David Vaughn III and Brian Shaw. He spent one season with the Magic before being waived on June 30, 1998, effectively ending his career.
+National team career During his career Price represented the United States national team
+
+
+team
+Candidate Sentence: He was most recently the head coach of the Charlotte 49ers. As a player, he played for 12 seasons in the National Basketball Association (NBA), from 1986 to 1998. Spending the majority of his career with the Cleveland Cavaliers, his last three years consisted of one season each with the Washington Bullets, Golden State Warriors, and Orlando Magic.
+College career Standing at 6 feet (183 cm) tall, Price played college basketball at Georgia Tech
+Candidate Sentence: He played one season for Washington before moving on to the Golden State Warriors, signing with the Warriors as a free agent in July 1996. Price played 70 games for Golden State and averaged 11.3 points per game. On October 28, 1997, Price was traded to the Orlando Magic for David Vaughn III and Brian Shaw. He spent one season with the Magic before being waived on June 30, 1998, effectively ending his career.
+National team career During his career Price represented the United States national team

@@ -1,0 +1,31 @@
+name
+Candidate Sentence: Kyle Terrell Lowry (born March 25, 1986) is an American professional basketball player for the Philadelphia 76ers of the National Basketball Association (NBA). A six-time All-Star, he was named to the All-NBA Third Team in 2016 and won an NBA championship with the Toronto Raptors in 2019, their first and only title in franchise history
+Candidate Sentence: NBA.com. May 23, 2016. Archived from the original on May 23, 2016. Retrieved May 23, 2016.
+"James scores 33, Cavaliers reach second straight NBA Finals". NBA.com. May 27, 2016. Archived from the original on June 9, 2017. Retrieved May 27, 2016.
+"Kyle Lowry Named To All-NBA Third Team". NBA.com. May 26, 2016. Retrieved May 27, 2016.
+"Lowry hits all six 3s as Raptors beat Sixers again, 122-95". ESPN.com. November 28, 2016. Retrieved November 29, 2016.
+Griffin, Richard (November 28, 2016)
+
+
+age
+Candidate Sentence: Retrieved February 6, 2019.
+"Hornets fight back from 16 points down to beat Rockets in overtime". ESPN.com. January 14, 2011. Archived from the original on February 7, 2019. Retrieved February 6, 2019.
+"Jrue Holiday leads seven 76ers in double digits". ESPN.com. February 16, 2011. Archived from the original on August 9, 2016. Retrieved February 6, 2019.
+"Hakim Warrick's career night helps Suns hold off Rockets". ESPN.com. March 8, 2011. Archived from the original on February 7, 2019
+Candidate Sentence: ESPN.com. March 23, 2018. Retrieved March 24, 2018.
+"DeRozan scores 37, Raptors win Game 2, beat Wizards 130-111". ESPN.com. April 17, 2018. Retrieved April 17, 2018.
+"Down at half, Lowry's 24, bench help Raps top Wiz 102-92". ESPN.com. April 27, 2018. Retrieved April 27, 2018.
+"Newcomer Kawhi Leonard scores 24 as Raptors beat Cavaliers". ESPN.com. October 17, 2018. Retrieved October 17, 2018.
+"Lowry has 20 as Raptors win 6th straight, beat Mavs 116-107". ESPN.com. October 26, 2018
+
+
+mvp_awards
+Candidate Sentence: "Raptors' Kyle Lowry selected as NBA all-star reserve". CBC.ca. Retrieved January 23, 2018.
+Harrison, Ian (February 8, 2018). "Valanciunas, Raptors beat short-handed Knicks 113-88". The Washington Times. Retrieved February 9, 2018.
+"Lowry has triple-double as Raptors beat Nets 116-112". ESPN.com. March 23, 2018. Retrieved March 24, 2018.
+"DeRozan scores 37, Raptors win Game 2, beat Wizards 130-111". ESPN.com. April 17, 2018
+Candidate Sentence: ESPN.com. November 29, 2017. Retrieved November 29, 2017.
+"Lowry goes for triple-double as Raptors rout Nets 120-87". ESPN.com. December 15, 2017. Retrieved December 15, 2017.
+"Wiggins scores 29 as Wolves rally past Raptors 115-109". ESPN.com. January 20, 2018. Retrieved January 20, 2018.
+Mahoney, Brian (January 23, 2018). "Raptors' Kyle Lowry selected as NBA all-star reserve". CBC.ca. Retrieved January 23, 2018.
+Harrison, Ian (February 8, 2018). "Valanciunas, Raptors beat short-handed Knicks 113-88"

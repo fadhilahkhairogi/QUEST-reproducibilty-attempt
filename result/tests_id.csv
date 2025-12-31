@@ -1,0 +1,83 @@
+Test ID,Query,Query Group,No. Filters,model,Model,Datalake,datalake_file_count,doc_sample_rate,seg_sample_rate,random_seed
+Z0001,"SELECT university_name,rank FROM University WHERE rank <= 3",C1,1,4o,QUEST,swde,,,,42
+Z0002,"SELECT name, age, team FROM NBA_players WHERE age < 40",X,1,4o,QUEST,wikitext,,,,42
+Z0003,"SELECT name, age, team, nationality, NBA_championships, position, draft_pick, draft_year, college, mvp_awards, olympic_gold_medals, career_highest_score, career_highest_assists, career_average_score FROM NBA_players WHERE name = name;",X,1,4o,QUEST,wikitext,,,,42
+Z0004,"SELECT name, age, team, nationality, NBA_championships, position, draft_pick, draft_year, college, mvp_awards, olympic_gold_medals, career_highest_score, career_highest_assists, career_average_score FROM NBA_players WHERE name != xyzabc",X,1,4o,QUEST,wikitext,,,,42
+Z0004X,"SELECT name, age, team, nationality, NBA_championships, position, draft_pick, draft_year, college, mvp_awards, olympic_gold_medals, career_highest_score, career_highest_assists, career_average_score FROM NBA_players WHERE name != xyzabc",X,1,4o,QUEST,wikitext,,,,42
+Z0005,"SELECT university_name,rank FROM University WHERE rank <= 3",C1,1,4o,QUEST,swde,99,"0,202020202","0,101010101",42
+Z0006,"SELECT university_name,rank FROM University WHERE year_founded < 1850",C1,1,4o,QUEST,swde,99,"0,202020202","0,101010101",42
+Z0005X,"SELECT university_name,rank FROM University WHERE rank <= 3",C1,1,5.1,QUEST,swde,99,"0,202020202","0,101010101",42
+Z0006X,"SELECT university_name,rank FROM University WHERE year_founded < 1850",C1,1,4o,QUEST,swde,99,"0,202020202","0,101010101",42
+Z0007,"SELECT university_name,total_undergraduate_enrollment FROM University WHERE total_undergraduate_enrollment < 1890",C1,1,5.1,QUEST,swde,99,"0,202020202","0,101010101",42
+Z0008,"SELECT university_name, year_founded, rank FROM University WHERE year_founded < 1900 AND rank < 20 AND rank > 10",C2,3,5.1,QUEST,swde,99,"0,202020202","0,101010101",42
+Z0009,"SELECT university_name, setting, total_undergraduate_enrollment FROM University WHERE setting = urban AND total_undergraduate_enrollment < 2000",C2,2,5.1,QUEST,swde,99,"0,202020202","0,101010101",42
+Z0010,"SELECT university_name, year_founded, setting FROM University WHERE year_founded >= 1900 AND setting = suburban",C2,2,5.1,QUEST,swde,99,"0,202020202","0,101010101",42
+Z0011,"SELECT university_name, academic_calendar, campus_size FROM University WHERE academic_calendar = 4-1-4-based AND (year_founded < 1900 OR total_undergraduate_enrollment < 2000)",,,,QUEST,,99,"0,202020202","0,101010101",42
+Z0012,"SELECT university_name, academic_calendar, rank FROM University WHERE academic_calendar = semester AND (year_founded < 1900 OR total_undergraduate_enrollment < 2000) AND rank < 100",,,,QUEST,,99,"0,202020202","0,101010101",42
+Z0013,"SELECT university_name, academic_calendar, rank FROM University WHERE academic_calendar = 4-1-4-based AND (year_founded < 1900 OR total_undergraduate_enrollment < 1500) AND rank < 20",,,,QUEST,,99,"0,202020202","0,101010101",42
+Z0014,"SELECT name, age, team FROM WikiText WHERE age < 25",sql1,1,gpt-4o-mini,QUEST,wikitext,50,"0,2","0,1",42
+Z0015,"SELECT university_name,rank FROM University WHERE rank >= 1",x,1,4.1-mini,QUEST,test/swde,50,,0,42
+Z0016,"SELECT name,age FROM University WHERE age >= 1",x,1,4.1-mini,QUEST,test/wikitext,50,,0,42
+Z0017,"SELECT name, age, team FROM WikiText WHERE nationality = USA",sql1,1,gpt-4o-mini,QUEST,wikitext,50,"0,2","0,1",42
+Z0018,"SELECT name, age, team FROM WikiText WHERE team = Los Angeles Lakers",sql1,1,gpt-4o-mini,QUEST,wikitext,50,"0,2","0,1",42
+Z0019,"SELECT name, age, team FROM WikiText WHERE team = Los Angeles Lakers",sql1,1,gpt-5,QUEST,wikitext,50,"0,2","0,1",42
+Z0014X,"SELECT name, age, team FROM WikiText WHERE age < 25",sql1,1,gpt-4o-mini,QUEST,wikitext,50,"0,06","0,03",42
+Z0018X,"SELECT name, age, team FROM WikiText WHERE team = Los Angeles Lakers",sql1,1,gpt-4o-mini,QUEST,wikitext,50,"0,06","0,03",42
+Z0020,"SELECT name, age, team FROM WikiText WHERE nationality = USA AND age < 40",sql2,2,gpt-4o-mini,QUEST,wikitext,50,"0,2","0,1",42
+Z0021,"SELECT name, age, mvp_awards FROM WikiText WHERE mvp_awards >= 1 AND (age > 30 OR team = New York Knicks)",sql2,3,gpt-4o-mini,QUEST,wikitext,50,"0,2","0,1",42
+Z0022,"SELECT name, draft_pick, draft_year FROM WikiText WHERE draft_year >= 2000 AND (draft_pick <= 15 OR team = Philadelphia 76ers)",sql2,3,gpt-4o-mini,QUEST,wikitext,50,"0,2","0,1",42
+Z0023,"SELECT name, team, NBA_championships FROM WikiText WHERE NBA_championships >= 3 OR team = Los Angeles Lakers OR team = Houston Rockets",sql2,3,gpt-4o-mini,QUEST,wikitext,50,"0,2","0,1",42
+Z0024,"SELECT name, draft_pick, draft_year,NBA_championships FROM WikiText WHERE  (draft_year >= 2010 OR draft_pick <= 15) AND NBA_championships > 0",sql2,3,gpt-4o-mini,QUEST,wikitext100,97,5,3,42
+Z0025,"SELECT name, age, team FROM WikiText WHERE age < 25",sql1,1,gpt-4o-mini,QUEST,wikitext100,97,5,3,42
+Z0026,"SELECT name, draft_pick, draft_year,NBA_championships FROM WikiText WHERE  (draft_year >= 2010 OR draft_pick <= 15) AND NBA_championships > 0",sql2,3,gpt-4o-mini,QUEST,wikitext100,97,10,5,42
+Z0027,"SELECT name, draft_pick, draft_year,NBA_championships FROM WikiText WHERE  (draft_year >= 2010 OR draft_pick <= 15) AND NBA_championships > 0",sql2,3,gpt-4o-mini,QUEST,wikitext100,97,15,8,42
+Z0028,"SELECT name, draft_pick, draft_year,NBA_championships FROM WikiText WHERE  (draft_year >= 2010 OR draft_pick <= 15) AND NBA_championships > 0",sql2,3,gpt-4o-mini,QUEST,wikitext100,97,20,10,42
+Z0028X,"SELECT name, draft_pick, draft_year,NBA_championships FROM WikiText WHERE  (draft_year >= 2010 OR draft_pick <= 15) AND NBA_championships > 0",sql2,3,gpt-5.1,QUEST,wikitext100,97,25,13,42
+Z0028Y,"SELECT name, draft_pick, draft_year,NBA_championships FROM WikiText WHERE  (draft_year >= 2010 OR draft_pick <= 15) AND NBA_championships > 0",sql2,3,gpt-5.1,QUEST,wikitext100,97,25,1,42
+Z0029,"SELECT name, age, team FROM WikiText WHERE age < 25",sql1,1,gpt-5.1,QUEST,wikitext100,97,25,1,42
+Z0030,"SELECT name, age, team FROM WikiText WHERE team = Los Angeles Lakers",sql1,1,gpt-5.1,QUEST,wikitext100,97,25,13,42
+Z0031,"SELECT name, age, team FROM WikiText WHERE team = Los Angeles Lakers",sql1,1,gpt-5.1,QUEST,wikitext100,97,25,25,21
+Z0032,"SELECT name, age, team FROM WikiText WHERE team = Los Angeles Lakers",sql1,1,gpt-5.1,QUEST,wikitext100,97,10,10,21
+Z0032X,"SELECT name, age, team FROM WikiText WHERE team = Los Angeles Lakers",sql1,1,gpt-5.1,QUEST,wikitext100,97,10,10,21
+Z0032Y,"SELECT name, age, team FROM WikiText WHERE team = Los Angeles Lakers",sql1,1,gpt-5.1,QUEST,wikitext100,97,10,10,21
+Z0033,"SELECT name, team, draft_year, draft_pick, college FROM WikiText WHERE draft_year >= 2005 AND draft_pick <= 10 AND team = Los Angeles Lakers AND college = Michigan State Spartans AND age > 30",sql3,5,gpt-5.1,QUEST,wikitext100,97,10,10,21
+Z0032Z,"SELECT name, age, team FROM WikiText WHERE team = Los Angeles Lakers",sql1,1,gpt-5.1,QUEST,wikitext100,97,10,10,21
+Z0034,"SELECT name, age, team FROM WikiText WHERE team = Los Angeles Lakers",sql1,1,gpt-5.1,QUEST,wikitext100,97,5,5,21
+Z0034X,"SELECT name, age, team FROM WikiText WHERE team = Los Angeles Lakers",sql1,1,gpt-5.1,QUEST,wikitext100,97,5,5,42
+Z0034Y,"SELECT name, age, team FROM WikiText WHERE team = Los Angeles Lakers",sql1,1,gpt-5.1,QUEST,wikitext100,97,5,5,42
+Z0035,"SELECT name, age, team FROM WikiText WHERE team = Los Angeles Lakers",sql1,1,gpt-5.1,QUEST,wikitext100,97,3,3,42
+Z0035X,"SELECT name, age, team FROM WikiText WHERE team = Los Angeles Lakers",sql1,1,gpt-5.1,QUEST,wikitext100,97,3,3,63
+Z0035Y,"SELECT name, age, team FROM WikiText WHERE team = Los Angeles Lakers",sql1,1,gpt-5.1,QUEST,wikitext100,97,3,3,84
+Z0035Z,"SELECT name, age, team FROM WikiText WHERE team = Los Angeles Lakers",sql1,1,gpt-5.1,QUEST,wikitext100,97,3,3,126
+Z0035XX,"SELECT name, age, team FROM WikiText WHERE team = Los Angeles Lakers",sql1,1,gpt-5.1,QUEST,wikitext100,97,3,3,1
+Z0035XY,"SELECT name, age, team FROM WikiText WHERE team = Los Angeles Lakers",sql1,1,gpt-5.1,QUEST,wikitext100,97,3,3,2
+Z0035XZ,"SELECT name, age, team FROM WikiText WHERE team = Los Angeles Lakers",sql1,1,gpt-5.1,QUEST,wikitext100,97,3,3,3
+Z0035A,"SELECT name, age, team FROM WikiText WHERE team = Los Angeles Lakers",sql1,1,gpt-5.1,QUEST,wikitext100,97,3,3,3
+Z0036,"SELECT name, age, team FROM WikiText WHERE team = Los Angeles Lakers",sql1,1,gpt-5.1,QUEST,wikitext100,97,1,1,3
+Z0036A,"SELECT name, age, team FROM WikiText WHERE team = Los Angeles Lakers",sql1,1,gpt-5.1,QUEST,wikitext100,97,1,1,4
+.....,.....,.....,.....,.....,.....,.....,.....,.....,.....,.....
+Z0036CG,"SELECT name, age, team FROM WikiText WHERE team = Los Angeles Lakers",sql1,1,gpt-5.2,QUEST,wikitext100,97,1,1,88
+Z0037,"SELECT name, age, team FROM WikiText WHERE team = Los Angeles Lakers",sql1,1,gpt-5.2,QUEST,wikitext100,97,15,15,88
+Z0038,"SELECT name, age, team FROM WikiText WHERE team = Los Angeles Lakers",sql1,1,gpt-5.2,QUEST,wikitext100,97,20,20,88
+Z0039,"SELECT name, age, team FROM WikiText WHERE team = Los Angeles Lakers",sql1,1,gpt-5.2,QUEST,wikitext100,97,5,5,88
+Z0040,"SELECT name, team, draft_year, draft_pick, college FROM WikiText WHERE draft_year >= 2005 AND draft_year < 2020 AND draft_pick <= 10 AND team = Los Angeles Lakers AND college = Michigan State Spartans AND age > 30",sql3 custom,6,gpt-5.2,QUEST,wikitext100,97,20,20,88
+Z0041,"SELECT name, team, draft_year, draft_pick, college FROM WikiText WHERE draft_year >= 2005 AND draft_year < 2020 AND draft_pick <= 10 AND draft_pick > 1 AND (team = Los Angeles Lakers OR team = Sacramento Kings OR team = Houston Rockets) AND college = Michigan State Spartans AND age > 30
+",sql3 custom,9,gpt-5.2,QUEST,wikitext100,97,20,20,88
+Z0042,"SELECT name, team, draft_year, draft_pick, college FROM WikiText WHERE draft_year >= 2005 AND draft_pick <= 10 AND team = Los Angeles Lakers AND college = Michigan State Spartans AND age > 30",sql3,5,gpt-5.2,QUEST,wikitext100,97,25,25,88
+Z0043,"SELECT name, team, draft_year, draft_pick, college FROM WikiText WHERE draft_year >= 2005 AND draft_pick <= 10 AND team = Los Angeles Lakers AND college = Michigan State Spartans AND age > 30",sql3,5,gpt-5.2,QUEST,wikitext100,97,20,20,88
+Z0044,"SELECT name, team, draft_year, draft_pick, college FROM WikiText WHERE draft_year >= 2005 AND draft_pick <= 10 AND team = Los Angeles Lakers AND college = Michigan State Spartans AND age > 30",sql3,5,gpt-5.2,QUEST,wikitext100,97,15,15,88
+Z0045,"SELECT name, team, draft_year, draft_pick, college FROM WikiText WHERE draft_year >= 2005 AND draft_pick <= 10 AND team = Los Angeles Lakers AND college = Michigan State Spartans AND age > 30",sql3,5,gpt-5.2,QUEST,wikitext100,97,10,10,88
+Z0046,"SELECT name, team, draft_year, draft_pick, college FROM WikiText WHERE draft_year >= 2005 AND draft_pick <= 10 AND team = Los Angeles Lakers AND college = Michigan State Spartans AND age > 30",sql3,5,gpt-5.2,QUEST,wikitext100,97,5,5,88
+Z0041X,"SELECT name, team, draft_year, draft_pick, college FROM WikiText WHERE draft_year >= 2005 AND draft_year < 2020 AND draft_pick <= 10 AND draft_pick > 1 AND (team = Los Angeles Lakers OR team = Sacramento Kings OR team = Houston Rockets) AND college = Michigan State Spartans AND age > 30
+",sql3 custom,9,gpt-5.2,QUEST,wikitext100,97,20,20,88
+Z0041Y,"SELECT name, team, draft_year, draft_pick, college FROM WikiText WHERE draft_year >= 2005 AND draft_year < 2020 AND draft_pick <= 10 AND draft_pick > 1 AND (team = Los Angeles Lakers OR team = Sacramento Kings OR team = Houston Rockets) AND college = Michigan State Spartans AND age > 30
+",sql3 custom,9,gpt-5.2,QUEST,wikitext100,97,20,20,88
+Z0040X,"SELECT name, team, draft_year, draft_pick, college FROM WikiText WHERE draft_year >= 2005 AND draft_year < 2020 AND draft_pick <= 10 AND team = Los Angeles Lakers AND college = Michigan State Spartans AND age > 30",sql3 custom,6,gpt-5.2,QUEST,wikitext100,97,20,20,88
+Z0049,"SELECT name, team, draft_year, draft_pick, college FROM WikiText WHERE draft_year >= 2005 AND draft_pick <= 10 AND team = Los Angeles Lakers AND age > 30",sql3 custom,4,gpt-5.2,QUEST,wikitext100,97,20,20,88
+Z0050,"SELECT name, team, draft_year, draft_pick, college FROM WikiText WHERE draft_year >= 2005 AND draft_year < 2020 AND draft_pick <= 10 AND draft_pick > 1 AND (team = Los Angeles Lakers OR team = Sacramento Kings) AND college = Michigan State Spartans AND age > 30
+",sql3 custom,8,gpt-5.2,QUEST,wikitext100,97,20,20,88
+Z0051,"SELECT name, team, draft_year, draft_pick, college FROM WikiText WHERE draft_year >= 2005 AND draft_year < 2020 AND draft_pick <= 10 AND (team = Los Angeles Lakers OR team = Sacramento Kings) AND college = Michigan State Spartans AND age > 30
+",sql3 custom,7,gpt-5.2,QUEST,wikitext100,97,20,20,88
+Z0052,"SELECT name, team, draft_year, draft_pick, college FROM WikiText WHERE draft_year >= 2005 AND draft_pick <= 10 AND team = Los Angeles Lakers AND college = Michigan State Spartans AND age > 30",sql3 custom,5,gpt-5.2,QUEST,wikitext100,97,20,20,88
+Z0053,"SELECT name, team, draft_year, draft_pick, college FROM WikiText WHERE age < 20",sql1 custom,1,gpt-5.2,QUEST,wikitext100,97,20,20,88
+Z0040Y,"SELECT name, team, draft_year, draft_pick, college FROM WikiText WHERE draft_year >= 2005 AND draft_year < 2020 AND draft_pick <= 10 AND team = Los Angeles Lakers AND college = Michigan State Spartans AND age > 30",sql3 custom,6,gpt-5.2,QUEST,wikitext100,97,20,20,42

@@ -1,0 +1,29 @@
+name
+Candidate Sentence: For the British art historian, see Duncan Robinson (art historian).
+Duncan McBryde Robinson (born April 22, 1994) is an American professional basketball player for the Miami Heat  of the National Basketball Association (NBA). He played college basketball for the NCAA Division III Williams College Ephs and then the NCAA Division I Michigan Wolverines. He transferred to Michigan after leading Williams College to the 2014 NCAA Division III men's basketball tournament championship game
+Candidate Sentence: ESPN. Associated Press. March 16, 2016. Retrieved March 17, 2016.
+"2015-16 Big Ten Men's Basketball Statistics". BigTen.org. CBS Interactive. Archived from the original on November 14, 2015. Retrieved May 16, 2016.
+Quinn, Brendan F. (April 30, 2016). "Caris LeVert lands invitation to NBA draft combine, per ESPN". MLive.com. Retrieved May 16, 2016.
+"@umichbball status update". Twitter. April 29, 2016. Retrieved May 16, 2016.
+"Michigan grants release to Aubrey Dawkins to play for father at UCF". ESPN
+
+
+team
+Candidate Sentence: ESPN. Associated Press. March 16, 2016. Retrieved March 17, 2016.
+"2015-16 Big Ten Men's Basketball Statistics". BigTen.org. CBS Interactive. Archived from the original on November 14, 2015. Retrieved May 16, 2016.
+Quinn, Brendan F. (April 30, 2016). "Caris LeVert lands invitation to NBA draft combine, per ESPN". MLive.com. Retrieved May 16, 2016.
+"@umichbball status update". Twitter. April 29, 2016. Retrieved May 16, 2016.
+"Michigan grants release to Aubrey Dawkins to play for father at UCF". ESPN
+Candidate Sentence: For the British art historian, see Duncan Robinson (art historian).
+Duncan McBryde Robinson (born April 22, 1994) is an American professional basketball player for the Miami Heat  of the National Basketball Association (NBA). He played college basketball for the NCAA Division III Williams College Ephs and then the NCAA Division I Michigan Wolverines. He transferred to Michigan after leading Williams College to the 2014 NCAA Division III men's basketball tournament championship game
+
+
+NBA_championships
+Candidate Sentence: "A year after fading from playoff view, Heat's Duncan Robinson again drawing postseason notice". South Florida Sun-Sentinel. Retrieved April 26, 2023.
+"Heat vs. Hawks: Duncan Robinson goes nuclear in Miami's Game 1 win, a testament to his talent and humility". CBS Sports. April 17, 2022. Retrieved April 17, 2022.
+"Robinson makes eight 3s, Heat top Hawks 115-91 in Game 1". ESPN. Associated Press. April 17, 2022. Retrieved May 20, 2023.
+"Robinson makes eight 3s, Heat top Hawks 115-91 in Game 1". ESPN
+Candidate Sentence: "Heat roll past Celtics 128-102, take 3-0 lead in Eastern Conference finals". AP NEWS. Retrieved May 22, 2023.
+NBA.com (May 21, 2023). "@NBA status update". Twitter. Retrieved May 23, 2023.
+"Nuggets take home 1st NBA title in rugged 94-89 win over Heat". ESPN. Associated Press. June 13, 2023. Retrieved February 27, 2024.
+Winderman, Ira (December 16, 2023). "Butler jumper at buzzer saves the night for Heat in 118-116 escape vs. Bulls". Sun-Sentinel

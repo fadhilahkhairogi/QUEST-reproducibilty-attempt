@@ -1,0 +1,25 @@
+university_name
+Candidate Sentence: I've met some great people at SU and I met my fiance here so I'm kind of in love with my campus Syracuse is a very large, private, expensive, and amazing university! In my first year, I have experienced so much more than I probably ever would in high school and I am very grateful for the things I have learned along the way! The city of Syracuse is actually very different from the campus we live on
+
+
+academic_calendar
+Candidate Sentence: There's always something going on on-campus and off-campus but you have to be proactive about it. The faculty I've come in contact have been great but there are some professors who could stand to learn more about working with students and organizing a class. The most recent controversy on campus with the Hill TV scandal (I'm sure you can google it). There is major orange pride on campus and you will ac***ulate a lot of orange for your wardrobe...and learn to love the color in the end
+Candidate Sentence: It is not the wealthiest of cities, nor the most well known; it is almost like two different worlds when being on campus versus "downtown". It is very nice, however, to step off campus and into the colorful avenues of the city, including: museums, restaurants (sushi is very popular), and nightlife.
+Copyright © 2011 U.S. News & World Report, L.P. All rights reserved.
+Use of this Web site constitutes acceptance of our Terms and Conditions of Use and Privacy Policy.
+
+
+rank
+Candidate Sentence: It utilizes a semester-based academic calendar.  Syracuse University's ranking in the 2011 edition of Best Colleges is National Universities, 55. Its tuition and fees are $36,302.
+Syracuse University is guided by its vision of Scholarship In Action and offers the best of two learning environments
+Candidate Sentence: The city of Syracuse is not a thriving metropolis but it has some interesting places to be (ex. Armory Square). Most of the schools in Syracuse, particularly Newhouse and Maxwell, have really great reputations, and most people associate Syracuse with D1 sports teams. There's always something going on on-campus and off-campus but you have to be proactive about it
+
+
+year_founded
+Candidate Sentence: There's always something going on on-campus and off-campus but you have to be proactive about it. The faculty I've come in contact have been great but there are some professors who could stand to learn more about working with students and organizing a class. The most recent controversy on campus with the Hill TV scandal (I'm sure you can google it). There is major orange pride on campus and you will ac***ulate a lot of orange for your wardrobe...and learn to love the color in the end
+Candidate Sentence: I've met some great people at SU and I met my fiance here so I'm kind of in love with my campus Syracuse is a very large, private, expensive, and amazing university! In my first year, I have experienced so much more than I probably ever would in high school and I am very grateful for the things I have learned along the way! The city of Syracuse is actually very different from the campus we live on
+
+
+total_undergraduate_enrollment
+Candidate Sentence: Syracuse University The Basics About Syracuse University Syracuse University is a private institution that was founded in 1870. It has a total undergraduate enrollment of 13,736, its setting is urban, and the campus size is 200 acres. It utilizes a semester-based academic calendar.  Syracuse University's ranking in the 2011 edition of Best Colleges is National Universities, 55
+Candidate Sentence: I've met some great people at SU and I met my fiance here so I'm kind of in love with my campus Syracuse is a very large, private, expensive, and amazing university! In my first year, I have experienced so much more than I probably ever would in high school and I am very grateful for the things I have learned along the way! The city of Syracuse is actually very different from the campus we live on

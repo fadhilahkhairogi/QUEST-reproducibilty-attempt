@@ -1,0 +1,8 @@
+[name]: Rick Hughes  
+Key sentnce 1: Rick Hughes Rick Hughes (born August 22, 1973) is an American former professional basketball player.  
+
+[age]:   
+Key sentnce 1:   
+
+[team]:   
+Key sentnce 1:

@@ -1,0 +1,17 @@
+[name]: Mychel Thompson  
+Key sentnce 1: Mychel Thompson (born June 1, 1988) is an American former professional basketball player.
+
+[team]:  
+Key sentnce 1: 
+
+[draft_year]: 2011  
+Key sentnce 1: Thompson went undrafted in the 2011 NBA draft.
+
+[draft_pick]:  
+Key sentnce 1: Thompson went undrafted in the 2011 NBA draft.
+
+[college]: Pepperdine University  
+Key sentnce 1: He played college basketball at Pepperdine University.
+
+[age]:  
+Key sentnce 1: Mychel Thompson (born June 1, 1988) is an American former professional basketball player.

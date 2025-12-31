@@ -1,0 +1,3 @@
+all_actual_token: 3868
+all_total_token: 8786
+time: 373.1894507408142

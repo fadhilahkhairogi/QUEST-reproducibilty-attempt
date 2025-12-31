@@ -1,0 +1,19 @@
+name
+Candidate Sentence: 
+
+draft_pick
+Candidate Sentence: His father, Mychal Thompson, was the first overall pick in the 1978 NBA draft and spent his 14-year career playing for the Portland Trail Blazers, Los Angeles Lakers and San Antonio Spurs in the NBA and Juvecaserta Basket in Italy.
+Thompson has a younger brother, Klay, who played college basketball at Washington State University before being drafted in the first round of the 2011 NBA draft by the Golden State Warriors
+Candidate Sentence: During this season at Santa Cruz, Thompson played in the back court with Seth Curry. At the same time, their respective brothers Klay and Steph were playing together in the Golden State back court, Correspondingly, Mychel and Seth were dubbed the Splash Brothers of the D-League.
+On November 3, 2014, Thompson was reacquired by the Santa Cruz Warriors
+
+
+draft_year
+Candidate Sentence: His father, Mychal Thompson, was the first overall pick in the 1978 NBA draft and spent his 14-year career playing for the Portland Trail Blazers, Los Angeles Lakers and San Antonio Spurs in the NBA and Juvecaserta Basket in Italy.
+Thompson has a younger brother, Klay, who played college basketball at Washington State University before being drafted in the first round of the 2011 NBA draft by the Golden State Warriors
+Candidate Sentence: During this season at Santa Cruz, Thompson played in the back court with Seth Curry. At the same time, their respective brothers Klay and Steph were playing together in the Golden State back court, Correspondingly, Mychel and Seth were dubbed the Splash Brothers of the D-League.
+On November 3, 2014, Thompson was reacquired by the Santa Cruz Warriors
+
+
+NBA_championships
+Candidate Sentence: 

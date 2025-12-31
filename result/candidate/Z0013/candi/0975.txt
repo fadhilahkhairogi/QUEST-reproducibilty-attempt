@@ -1,0 +1,18 @@
+university_name
+Candidate Sentences: Converse College Converse College The Basics About Converse College Converse College is a private institution that was founded in 1889. It has a total undergraduate enrollment of 729, its setting is urban, and the campus size is 70 acres. It utilizes a 4-1-4-based academic calendar.  Converse College's ranking in the 2011 edition of Best Colleges is Regional Universities (South), 15
+
+
+academic_calendar
+Candidate Sentences: Converse College Converse College The Basics About Converse College Converse College is a private institution that was founded in 1889. It has a total undergraduate enrollment of 729, its setting is urban, and the campus size is 70 acres. It utilizes a 4-1-4-based academic calendar.  Converse College's ranking in the 2011 edition of Best Colleges is Regional Universities (South), 15
+
+
+rank
+Candidate Sentences: Converse College Converse College The Basics About Converse College Converse College is a private institution that was founded in 1889. It has a total undergraduate enrollment of 729, its setting is urban, and the campus size is 70 acres. It utilizes a 4-1-4-based academic calendar.  Converse College's ranking in the 2011 edition of Best Colleges is Regional Universities (South), 15
+
+
+year_founded
+Candidate Sentences: Converse College Converse College The Basics About Converse College Converse College is a private institution that was founded in 1889. It has a total undergraduate enrollment of 729, its setting is urban, and the campus size is 70 acres. It utilizes a 4-1-4-based academic calendar.  Converse College's ranking in the 2011 edition of Best Colleges is Regional Universities (South), 15
+
+
+total_undergraduate_enrollment
+Candidate Sentences: Converse College Converse College The Basics About Converse College Converse College is a private institution that was founded in 1889. It has a total undergraduate enrollment of 729, its setting is urban, and the campus size is 70 acres. It utilizes a 4-1-4-based academic calendar.  Converse College's ranking in the 2011 edition of Best Colleges is Regional Universities (South), 15

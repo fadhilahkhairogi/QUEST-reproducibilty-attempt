@@ -1,0 +1,13 @@
+name
+Candidate Sentence: Tom Copa Thomas James Copa (born October 30, 1964) is an American former professional basketball player. After graduating from Marquette he went on to play professionally in the National Basketball Association (NBA) and in Europe. Born in Robbinsdale, Minnesota, he was named Minnesota Mr. Basketball in 1983.
+College career Copa played college basketball for Marquette Warriors from 1983 to 1987
+
+
+age
+Candidate Sentence: Candidate Sentence: The following summer, he attended a camp for European scouts where he had a good showing and was eventually signed by Belgian club Maccabi Brussels. He spent three seasons in Belgium, including the 1990–91 season where he averaged 21.2 points and 14.4 rebounds. During the summer of 1991, he attended a rookie free agent camp in Austin ran by the San Antonio Spurs. The Spurs later signed him as a free agent
+
+
+team
+Candidate Sentence: Tom Copa Thomas James Copa (born October 30, 1964) is an American former professional basketball player. After graduating from Marquette he went on to play professionally in the National Basketball Association (NBA) and in Europe. Born in Robbinsdale, Minnesota, he was named Minnesota Mr. Basketball in 1983.
+College career Copa played college basketball for Marquette Warriors from 1983 to 1987
+Candidate Sentence: The following summer, he attended a camp for European scouts where he had a good showing and was eventually signed by Belgian club Maccabi Brussels. He spent three seasons in Belgium, including the 1990–91 season where he averaged 21.2 points and 14.4 rebounds. During the summer of 1991, he attended a rookie free agent camp in Austin ran by the San Antonio Spurs. The Spurs later signed him as a free agent

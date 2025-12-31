@@ -1,0 +1,13 @@
+name
+Candidate Sentence: Rik Smits This article is about the basketball player. For the linguist, see Rik Smits (linguist).
+Rik Smits (born 23 August 1966), nicknamed "the Dunking Dutchman" is a Dutch former professional basketball player who spent his entire career with the Indiana Pacers of the National Basketball Association (NBA). The 7-foot-4-inch (2.24 m) center was drafted by the Pacers out of Marist College with the second overall pick in the 1988 NBA draft
+
+
+age
+Candidate Sentence: To help recover during the off-season, he spent time relaxing at his summer retreat in Walton, New York, where he was a regular attendee of The Afton Fair
+Candidate Sentence: Smits used two barns on the 12.5-acre (5.1 ha) property to house his motorcycles and cars, and built a dedicated motorcycle track in the rear of the property. He and his girlfriend put the property up for sale in the summer of 2017, shortly after they moved to Arizona.
+
+
+team
+Candidate Sentence: Smits' highest point-per-game average was in 1995–96 when he averaged 18.5 points per game. That season, on December 10, Smits scored a career-high 44 points during a  111–104 win over the Los Angeles Clippers
+Candidate Sentence: His #45 jersey was later retired by Marist.[citation needed] NBA career He spent his entire professional career playing for the Indiana Pacers. With the Pacers, Smits originally backed up Steve Stipanovich, but when Stipanovich suffered a career-ending injury, Smits ended up starting 71 games in his rookie year, averaging 11.7 points and 6.1 rebounds per game and earning All-Rookie First Team honors

@@ -1,0 +1,8 @@
+[name]: Jrue Holiday  
+Key sentence 1: "Jrue Randall Holiday (/druː/ DROO; born June 12, 1990) is an American professional basketball player for the Boston Celtics of the National Basketball Association (NBA)."
+
+[age]: 33  
+Key sentence 1: "Jrue Randall Holiday (/druː/ DROO; born June 12, 1990) is an American professional basketball player for the Boston Celtics of the National Basketball Association (NBA)."
+
+[team]: Boston Celtics  
+Key sentence 1: "Jrue Randall Holiday (/druː/ DROO; born June 12, 1990) is an American professional basketball player for the Boston Celtics of the National Basketball Association (NBA)."

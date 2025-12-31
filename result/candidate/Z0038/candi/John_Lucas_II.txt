@@ -1,0 +1,11 @@
+name
+Candidate Sentence: 
+
+age
+Candidate Sentence: His younger son, Jai, is currently an assistant coach at Duke University and also played college basketball at the University of Texas.
+Candidate Sentence: He was also drafted by the New York Nets of the American Basketball Association.
+Lucas played in the NBA for fourteen years. Lucas initially played for the Rockets for two years before NBA commissioner Larry O'Brien awarded him to the Golden State Warriors as compensation for the Rockets signing Rick Barry as a free agent. While a member of the Golden State Warriors, on October 20, 1978, Lucas scored a career best 35 points during a 111–108 win over the Trail Blazers
+
+
+team
+Candidate Sentence: 

@@ -1,0 +1,8 @@
+[name]: David Lattin  
+Key sentnce 1: David Lattin (born December 23, 1943) is an American former basketball player.
+
+[age]:   
+Key sentnce 1: 
+
+[team]:   
+Key sentnce 1:

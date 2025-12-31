@@ -1,0 +1,27 @@
+university_name
+Candidate Sentence: 
+
+academic_calendar
+Candidate Sentence: most frequent complaints are about the lack of financial aid and the fact that father biondi doesn't address student needs at all. faculty is excellent Its a fun campus. Copyright © 2011 U.S. News & World Report, L.P. All rights reserved.
+Use of this Web site constitutes acceptance of our Terms and Conditions of Use and Privacy Policy.
+Candidate Sentence: Among them, UN Secretary General Ban Ki-Moon spoke at SLU in his first official trip to the Midwest since being elected to the post.
+In addition to academic and research excellence, the University demonstrated its commitment to community in a record-breaking way
+
+
+rank
+Candidate Sentence: It utilizes a semester-based academic calendar.  St. Louis University's ranking in the 2011 edition of Best Colleges is National Universities, 86. Its tuition and fees are $32,656.
+When the record number of students returned to campus, they were greeted by a number of new majors and enhanced programs, including civil engineering, environmental studies, health management and health informatics
+Candidate Sentence: Among them, UN Secretary General Ban Ki-Moon spoke at SLU in his first official trip to the Midwest since being elected to the post.
+In addition to academic and research excellence, the University demonstrated its commitment to community in a record-breaking way
+
+
+year_founded
+Candidate Sentence: St. Louis University The Basics About St. Louis University St. Louis University is a private institution that was founded in 1818. It has a total undergraduate enrollment of 8,119, its setting is urban, and the campus size is 235 acres. It utilizes a semester-based academic calendar.  St. Louis University's ranking in the 2011 edition of Best Colleges is National Universities, 86
+Candidate Sentence: most frequent complaints are about the lack of financial aid and the fact that father biondi doesn't address student needs at all. faculty is excellent Its a fun campus. Copyright © 2011 U.S. News & World Report, L.P. All rights reserved.
+Use of this Web site constitutes acceptance of our Terms and Conditions of Use and Privacy Policy.
+
+
+total_undergraduate_enrollment
+Candidate Sentence: St. Louis University The Basics About St. Louis University St. Louis University is a private institution that was founded in 1818. It has a total undergraduate enrollment of 8,119, its setting is urban, and the campus size is 235 acres. It utilizes a semester-based academic calendar.  St. Louis University's ranking in the 2011 edition of Best Colleges is National Universities, 86
+Candidate Sentence: The University also completed a major overhaul of its communication program, including a new state-of-the-art, 8,500-square-foot digital media center.
+While new academic programs were getting under way, others were being planned. Starting in fall 2010, SLU will offer a master's degree in sustainability-the first of its kind in the Midwest

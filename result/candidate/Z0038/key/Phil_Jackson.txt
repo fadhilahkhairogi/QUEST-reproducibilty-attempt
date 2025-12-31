@@ -1,0 +1,8 @@
+[name]: Phil Jackson  
+Key sentnce 1: Philip Douglas Jackson (born September 17, 1945) is an American former professional basketball player, coach, and executive.
+
+[age]:  
+Key sentnce 1: Philip Douglas Jackson (born September 17, 1945) is an American former professional basketball player, coach, and executive.
+
+[team]: Los Angeles Lakers  
+Key sentnce 1: He then coached the Los Angeles Lakers from 1999 to 2004 and again from 2005 to 2011; the team won five league titles under his leadership.

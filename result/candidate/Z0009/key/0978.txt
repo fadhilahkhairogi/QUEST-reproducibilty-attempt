@@ -1,0 +1,8 @@
+[university_name]: Cornell College
+Key sentnce 1: Cornell College The Basics About Cornell College
+
+[setting]: rural
+Key sentnce 1: It has a total undergraduate enrollment of 1,133, its setting is rural, and the campus size is 129 acres.
+
+[total_undergraduate_enrollment]: 1,133
+Key sentnce 1: It has a total undergraduate enrollment of 1,133, its setting is rural, and the campus size is 129 acres.

@@ -1,0 +1,23 @@
+university_name
+Candidate Sentence: 
+
+academic_calendar
+Candidate Sentence: I know some other schools do it too but seeing guys in ties and girls in dresses at a football game is just weird.  I was abroad in the fall and I couldn't wait to get back.  Wake really becomes a home
+Candidate Sentence: But it's name is really growing across the country and employers are definitely impressed by it.  A lot of the time Wake is thought of as a business/pre-med only school but the liberal arts flourish on campus and we have some of the greatest professors out there.  Wake could definitely use some more social spaces on campus.  Winston-Salem isn't as bad as it may seem
+
+
+rank
+Candidate Sentence: But it's name is really growing across the country and employers are definitely impressed by it.  A lot of the time Wake is thought of as a business/pre-med only school but the liberal arts flourish on campus and we have some of the greatest professors out there.  Wake could definitely use some more social spaces on campus.  Winston-Salem isn't as bad as it may seem
+Candidate Sentence: It utilizes a semester-based academic calendar.  Wake Forest's ranking in the 2011 edition of Best Colleges is National Universities, 25. Its tuition and fees are $39,970.
+Wake's size is just right.  You'll always see someone who know walking across campus but you'll always see someone new too.  Wake hasn't really gotten its name fully recognized in a lot of places in the North, and I know what that's like.  But it's name is really growing across the country and employers are definitely impressed by it
+
+
+year_founded
+Candidate Sentence: I know some other schools do it too but seeing guys in ties and girls in dresses at a football game is just weird.  I was abroad in the fall and I couldn't wait to get back.  Wake really becomes a home
+Candidate Sentence: But it's name is really growing across the country and employers are definitely impressed by it.  A lot of the time Wake is thought of as a business/pre-med only school but the liberal arts flourish on campus and we have some of the greatest professors out there.  Wake could definitely use some more social spaces on campus.  Winston-Salem isn't as bad as it may seem
+
+
+total_undergraduate_enrollment
+Candidate Sentence: Wake Forest University Wake Forest University The Basics About Wake Forest Wake Forest is a private institution that was founded in 1834. It has a total undergraduate enrollment of 4,569, its setting is suburban, and the campus size is 340 acres. It utilizes a semester-based academic calendar.  Wake Forest's ranking in the 2011 edition of Best Colleges is National Universities, 25. Its tuition and fees are $39,970.
+Wake's size is just right
+Candidate Sentence: But it's name is really growing across the country and employers are definitely impressed by it.  A lot of the time Wake is thought of as a business/pre-med only school but the liberal arts flourish on campus and we have some of the greatest professors out there.  Wake could definitely use some more social spaces on campus.  Winston-Salem isn't as bad as it may seem

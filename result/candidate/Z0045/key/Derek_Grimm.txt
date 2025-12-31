@@ -1,0 +1,17 @@
+[name]: Derek Grimm
+Key sentnce 1: Derek Grimm William Derek Grimm (born August 3, 1974) is an American professional basketball player.
+
+[age]: 
+Key sentnce 1: Derek Grimm William Derek Grimm (born August 3, 1974) is an American professional basketball player.
+
+[team]: 
+Key sentnce 1: A 6'9" forward from the University of Missouri, Grimm was never drafted by a National Basketball Association (NBA) team but did play for the Sacramento Kings during the 1997–98 NBA season.
+
+[draft_year]: 
+Key sentnce 1: A 6'9" forward from the University of Missouri, Grimm was never drafted by a National Basketball Association (NBA) team but did play for the Sacramento Kings during the 1997–98 NBA season.
+
+[draft_pick]: 
+Key sentnce 1: Born in Peoria, Illinois, he was selected by the La Crosse Bobcats in the fifth round (50th overall) of the 1997 CBA Draft.
+
+[college]: University of Missouri
+Key sentnce 1: A 6'9" forward from the University of Missouri, Grimm was never drafted by a National Basketball Association (NBA) team but did play for the Sacramento Kings during the 1997–98 NBA season.

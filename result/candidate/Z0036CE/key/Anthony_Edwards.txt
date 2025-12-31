@@ -1,0 +1,8 @@
+[name]: 
+Key sentnce 1: Anthony Edwards (born August 5, 2001), nicknamed "Ant-Man" or simply "Ant", is an American professional basketball player for the Minnesota Timberwolves of the National Basketball Association (NBA).
+
+[age]: 
+Key sentnce 1: Anthony Edwards (born August 5, 2001), nicknamed "Ant-Man" or simply "Ant", is an American professional basketball player for the Minnesota Timberwolves of the National Basketball Association (NBA).
+
+[team]: 
+Key sentnce 1: Anthony Edwards (born August 5, 2001), nicknamed "Ant-Man" or simply "Ant", is an American professional basketball player for the Minnesota Timberwolves of the National Basketball Association (NBA).

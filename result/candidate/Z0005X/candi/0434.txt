@@ -1,0 +1,9 @@
+university_name
+Candidate Sentence: Rensselaer Polytechnic Institute The Basics About RPI RPI is a private institution that was founded in 1824. It has a total undergraduate enrollment of 5,659, its setting is urban, and the campus size is 284 acres. It utilizes a semester-based academic calendar.  RPI's ranking in the 2011 edition of Best Colleges is National Universities, 41
+Candidate Sentence: People on the east coast know the school well, and are stunned that you go there (especially if you are normal). On campus time is spent at the library, union, or DCC. The school is located in Troy, NY which isn't very nice to the students on campus, so you feel confined sometimes to only the campus area, but you can go into the town and not be scared (unlike they tell you the first year)
+
+
+rank
+Candidate Sentence: It utilizes a semester-based academic calendar.  RPI's ranking in the 2011 edition of Best Colleges is National Universities, 41. Its tuition and fees are $40,680.
+RPI is a small school, mostly male (right now), but that is changing as the admissions is working to make it a more evenly distributed class.  People on the east coast know the school well, and are stunned that you go there (especially if you are normal). On campus time is spent at the library, union, or DCC
+Candidate Sentence: People on the east coast know the school well, and are stunned that you go there (especially if you are normal). On campus time is spent at the library, union, or DCC. The school is located in Troy, NY which isn't very nice to the students on campus, so you feel confined sometimes to only the campus area, but you can go into the town and not be scared (unlike they tell you the first year)

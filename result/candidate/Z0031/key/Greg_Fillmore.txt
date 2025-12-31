@@ -1,0 +1,8 @@
+[name]: Greg Fillmore  
+Key sentnce 1: Greg Fillmore Gregory Paul Fillmore (born March 7, 1947, in Philadelphia, Pennsylvania) is a retired professional basketball center who played two seasons in the National Basketball Association (NBA) as a member of the New York Knicks (1972).
+
+[age]:   
+Key sentnce 1: Greg Fillmore Gregory Paul Fillmore (born March 7, 1947, in Philadelphia, Pennsylvania) is a retired professional basketball center who played two seasons in the National Basketball Association (NBA) as a member of the New York Knicks (1972).
+
+[team]:   
+Key sentnce 1: Greg Fillmore Gregory Paul Fillmore (born March 7, 1947, in Philadelphia, Pennsylvania) is a retired professional basketball center who played two seasons in the National Basketball Association (NBA) as a member of the New York Knicks (1972).

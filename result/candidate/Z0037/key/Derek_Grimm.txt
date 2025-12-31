@@ -1,0 +1,8 @@
+[name]: Derek Grimm
+Key sentnce 1: Derek Grimm William Derek Grimm (born August 3, 1974) is an American professional basketball player.
+
+[age]: 
+Key sentnce 1: Derek Grimm William Derek Grimm (born August 3, 1974) is an American professional basketball player.
+
+[team]: 
+Key sentnce 1: A 6'9" forward from the University of Missouri, Grimm was never drafted by a National Basketball Association (NBA) team but did play for the Sacramento Kings during the 1997–98 NBA season.

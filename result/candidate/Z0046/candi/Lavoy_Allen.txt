@@ -1,0 +1,29 @@
+name
+Candidate Sentence: 
+
+age
+Candidate Sentence: Candidate Sentence: On September 20, 2018, the Washington Wizards signed Allen for training camp. He was waived by the Wizards on October 14, but he was added to the roster of the Wizards’ G League affiliate, the Capital City Go-Go.
+
+
+team
+Candidate Sentence: He was a three-time All-Atlantic 10 Defensive Team honoree and a two-time All-Atlantic 10 First Team recipient. In his junior year, he became the first Temple player to average a double-double since Ollie Johnson accomplished the feat in 1970–71. Allen declared for early entry in the 2010 NBA draft, but withdrew prior to the May 8 deadline. As a senior, Allen surpassed Johnny Baum as the all-time leading rebounder in Temple history. He was the recipient of the Robert V
+Candidate Sentence: As a senior, Allen surpassed Johnny Baum as the all-time leading rebounder in Temple history. He was the recipient of the Robert V. Geasey Trophy honoring the Philadelphia Big Five Player of the Year. Dunphy has said that Allen "might be the smartest player I've ever coached." Early life Allen was born in Trenton, New Jersey on February 4, 1989. His mother is Paula Allen and his father, Dave Allen, is a truck driver
+
+
+draft_year
+Candidate Sentence: The Sixers were not overly concerned with the injury, as they drafted him in the second round with the 50th pick on June 23. Allen became the 32nd Temple product to be drafted and the first since the New York Knicks selected Mardy Collins with the 29th pick in 2006.
+Strasbourg IG (2011) On July 15, 2011, he signed a contract with Strasbourg IG of France's LNB Pro A. The contract included an opt-out clause when the NBA settled its lockout, set to expire on January 30, 2012
+Candidate Sentence: The U.S. Basketball Writers Association named Allen to the 10-man All-District II team covering college basketball players in the states of New York, New Jersey, Delaware. the District of Columbia, Pennsylvania, and West Virginia.
+Allen briefly flirted with the 2010 NBA draft. He declared for early entry in the draft, but did not hire an agent. After one workout with the Portland Trail Blazers, Allen was told to return to school to work on his offensive game
+
+
+draft_pick
+Candidate Sentence: The Sixers were not overly concerned with the injury, as they drafted him in the second round with the 50th pick on June 23. Allen became the 32nd Temple product to be drafted and the first since the New York Knicks selected Mardy Collins with the 29th pick in 2006.
+Strasbourg IG (2011) On July 15, 2011, he signed a contract with Strasbourg IG of France's LNB Pro A. The contract included an opt-out clause when the NBA settled its lockout, set to expire on January 30, 2012
+Candidate Sentence: The contract included an opt-out clause when the NBA settled its lockout, set to expire on January 30, 2012. Allen joined former Richmond foes Kevin Anderson and Justin Harper on Strasbourg IG. He made his debut on October 7, scoring 10 points and pulling down four rebounds in a 77–74 victory over Cholet Basket. The following game, against SLUC Nancy Basket, he grabbed a season-high 13 rebounds and also added 12 points
+
+
+college
+Candidate Sentence: He attended Pennsbury High School, where he was coached by Oliver Aaron. Rivals.com ranked him the 14th best center in his class, and Scout.com named him the 110th overall prospect. Allen committed to Temple University and coach Fran Dunphy.
+Temple reached the NCAA tournament in all four seasons that Allen played there. He was a three-time All-Atlantic 10 Defensive Team honoree and a two-time All-Atlantic 10 First Team recipient
+Candidate Sentence: In the first round, they bowed out to fifth-seeded Michigan State 72–61. In that game, Allen notched his first double-double of 13 points and 11 rebounds, and also drained his first two collegiate three-pointers. He led the team in blocks with a total of 52, and finished second in field goal percentage (.558), third in rebounds per game (5.7), and fourth in points per game (8.1)

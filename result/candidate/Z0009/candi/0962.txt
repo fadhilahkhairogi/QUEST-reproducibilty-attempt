@@ -1,0 +1,16 @@
+university_name
+Candidate Sentence: Columbia College The Basics About Columbia College SC Columbia College SC is a private institution that was founded in 1854. It has a total undergraduate enrollment of 1,189, its setting is urban, and the campus size is 53 acres. It utilizes a semester-based academic calendar.  Columbia College SC's ranking in the 2011 edition of Best Colleges is Regional Universities (South), 56
+
+
+setting
+Candidate Sentence: Columbia College The Basics About Columbia College SC Columbia College SC is a private institution that was founded in 1854. It has a total undergraduate enrollment of 1,189, its setting is urban, and the campus size is 53 acres. It utilizes a semester-based academic calendar.  Columbia College SC's ranking in the 2011 edition of Best Colleges is Regional Universities (South), 56
+Candidate Sentence: Columbia College SC's ranking in the 2011 edition of Best Colleges is Regional Universities (South), 56. Its tuition and fees are $23,480.
+Located in Columbia, South Carolina, the campus is within minutes of a wide variety of cultural and recreational activities in the capital city.Residents enjoy the moderate climate year-round, a vibrant metropolitan area, college and university sports, parks, rivers, Lake Murray, museums, a nationally renowned zoo, and performing arts.
+Copyright © 2011 U.S
+
+
+total_undergraduate_enrollment
+Candidate Sentence: Columbia College The Basics About Columbia College SC Columbia College SC is a private institution that was founded in 1854. It has a total undergraduate enrollment of 1,189, its setting is urban, and the campus size is 53 acres. It utilizes a semester-based academic calendar.  Columbia College SC's ranking in the 2011 edition of Best Colleges is Regional Universities (South), 56
+Candidate Sentence: Columbia College SC's ranking in the 2011 edition of Best Colleges is Regional Universities (South), 56. Its tuition and fees are $23,480.
+Located in Columbia, South Carolina, the campus is within minutes of a wide variety of cultural and recreational activities in the capital city.Residents enjoy the moderate climate year-round, a vibrant metropolitan area, college and university sports, parks, rivers, Lake Murray, museums, a nationally renowned zoo, and performing arts.
+Copyright © 2011 U.S

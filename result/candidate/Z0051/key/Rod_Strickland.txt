@@ -1,0 +1,17 @@
+[name]: Rod Strickland
+Key sentnce 1: Rod Strickland Rodney Strickland (born July 11, 1966) is an American basketball coach and former professional basketball player.
+
+[age]: 59
+Key sentnce 1: Rod Strickland Rodney Strickland (born July 11, 1966) is an American basketball coach and former professional basketball player.
+
+[team]: 
+Key sentnce 1: He is currently the head coach at Long Island University.
+
+[draft_year]: 1988
+Key sentnce 1: He was selected in the first round of the 1988 NBA draft by his hometown New York Knicks, where he backed up point guard Mark Jackson, the 1988 NBA Rookie of the Year.
+
+[draft_pick]: 
+Key sentnce 1: He was selected in the first round of the 1988 NBA draft by his hometown New York Knicks, where he backed up point guard Mark Jackson, the 1988 NBA Rookie of the Year.
+
+[college]: DePaul University
+Key sentnce 1: Strickland played college basketball at DePaul University, where he was awarded All-American honors.

@@ -1,0 +1,17 @@
+[name]: Tony Delk  
+Key sentnce 1: Tony Delk Tony Lorenzo Delk (born January 28, 1974) is an American former professional basketball player and college assistant coach.
+
+[age]:  
+Key sentnce 1: Tony Delk Tony Lorenzo Delk (born January 28, 1974) is an American former professional basketball player and college assistant coach.
+
+[team]:  
+Key sentnce 1: Tony Delk Tony Lorenzo Delk (born January 28, 1974) is an American former professional basketball player and college assistant coach.
+
+[draft_year]: 1996  
+Key sentnce 1: Tony Delk was picked 16th overall in the 1996 NBA draft by the Charlotte Hornets.
+
+[draft_pick]: 16  
+Key sentnce 1: Tony Delk was picked 16th overall in the 1996 NBA draft by the Charlotte Hornets.
+
+[college]: Kentucky Wildcats  
+Key sentnce 1: During his playing days, he was team leader of the Kentucky Wildcats team that won the 1996 NCAA Championship Game.

@@ -1,0 +1,8 @@
+[name]: Greg Foster  
+Key sentence 1: "Gregory Clinton Foster (born October 3, 1968) is an American professional basketball coach and former player..."
+
+[age]:  
+Key sentence 1: "Gregory Clinton Foster (born October 3, 1968)..."
+
+[team]: Indiana Pacers  
+Key sentence 1: "On November 13, 2020, Foster was hired as an assistant coach by the Indiana Pacers under Nate Bjorkgren."

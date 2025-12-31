@@ -1,0 +1,10 @@
+name
+Candidate Sentence: Dwayne Schintzius Dwayne Kenneth Schintzius (October 14, 1968 – April 15, 2012) was an American National Basketball Association (NBA) basketball player. He was born in Brandon, Florida and attended the University of Florida, where he helped lead the Florida Gators men's basketball program to its first three NCAA tournament appearances as an all-conference center
+Candidate Sentence: After missing the entire 1997–98 season due to injury, he played 16 games with the Boston Celtics in 1998–99 before retiring from the NBA. In eight NBA seasons, he appeared in 217 regular season games and started 33 of them.
+He later came out of retirement to play in the minor leagues, and appeared in 35 games for the Mobile Revelers of the NBA's Development League in 2001–02
+
+
+team
+Candidate Sentence: After missing the entire 1997–98 season due to injury, he played 16 games with the Boston Celtics in 1998–99 before retiring from the NBA. In eight NBA seasons, he appeared in 217 regular season games and started 33 of them.
+He later came out of retirement to play in the minor leagues, and appeared in 35 games for the Mobile Revelers of the NBA's Development League in 2001–02
+Candidate Sentence: He had several surgeries for a spinal disc herniation and often missed long stretches of playing time as he moved from team to team, mostly serving as a reserve center. He spent three seasons with the New Jersey Nets, a year with the Indiana Pacers, and then a year with the Los Angeles Clippers. Schintzius only played 15 games with the Clippers but did post 15 points in a loss against the Bullets on January 10, 1997. This game also featured the only three point make of Schintzius' NBA career

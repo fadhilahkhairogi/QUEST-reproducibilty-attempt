@@ -1,0 +1,10 @@
+name
+Candidate Sentence: 
+
+age
+Candidate Sentence: The deal took up Toronto's entire mid-level exception allowing the organization about $8.7 million below the luxury tax threshold
+Candidate Sentence: He averaged 11.0 points and 4.4 assists in 20.3 minutes per game, shooting 42% from the field and 32% from 3-point range, leading to defenders often daring him to shoot the three. On 20 February 2016, he recorded 25 points and 10 assists in a 117–109 overtime loss to the Milwaukee Bucks
+
+
+team
+Candidate Sentence: 

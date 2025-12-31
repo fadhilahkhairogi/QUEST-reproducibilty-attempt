@@ -1,0 +1,8 @@
+name
+Candidate Sentence: Anthony Davis For other people with the same name, see Anthony Davis (disambiguation).
+Anthony Marshon Davis Jr. (born March 11, 1993), nicknamed "AD", is an American professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA). He previously played for the New Orleans Pelicans. He plays the power forward and center positions. Davis is a nine-time NBA All-Star and has been named to four All-NBA First Teams and five NBA All-Defensive Teams
+
+
+age
+Candidate Sentence: He missed 17 games before returning in late January, and for the first time since 2013 was not selected for the 2022 NBA All-Star Game. On February 16, 2022, in a 106–101 win against the Utah Jazz, Davis injured his right ankle and missed 18 games
+Candidate Sentence: The report was initially released on Wednesday August 4, 2010 by Sun-Times reporter Michael O'Brien

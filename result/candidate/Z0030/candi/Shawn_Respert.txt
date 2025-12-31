@@ -1,0 +1,6 @@
+name
+Candidate Sentence: 
+
+age
+Candidate Sentence: Respert was diagnosed with cancer after undergoing a series of tests at Milwaukee's St. Joseph Regional Medical Center in May 1996. After confirmation through a second opinion, he underwent daily radiation therapy for three consecutive months, losing twenty pounds in the process. The only people who knew about this treatment were the Bucks' trainers, doctors, his coach Mike Dunleavy, Sr. and Michigan State backcourt partner Eric Snow
+Candidate Sentence: He capped a brilliant career by being named a unanimous first team All-American and Big Ten Player of the Year and Sporting News and NABC National Player of the Year with a 25.6 scoring average during his 1994–95 senior season

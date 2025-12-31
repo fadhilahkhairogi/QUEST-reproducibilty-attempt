@@ -1,0 +1,37 @@
+name
+Candidate Sentence: Nate Huffman Nate Huffman	Huffman in 2014.
+Nathaniel Thomas Huffman (April 2, 1975 – October 15, 2015) was an American professional basketball player, who played most of his career with Maccabi Tel Aviv
+Candidate Sentence: He was named the FIBA SuproLeague Player of the Year, as well as the "Best American Player in Europe", by Basket News, in 2001.
+After his successes in Israel, he was signed in July 2002, by the Toronto Raptors of the NBA to a 3-year, $5.2 million contract (the third year being a team option), and appeared in 7 games, averaging 3.3 points, 3.3 rebounds and 10.9 minutes
+
+
+age
+Candidate Sentence: Nate Huffman Nate Huffman	Huffman in 2014.
+Nathaniel Thomas Huffman (April 2, 1975 – October 15, 2015) was an American professional basketball player, who played most of his career with Maccabi Tel Aviv
+Candidate Sentence: Huffman was awarded in 2010, by the Michigan Jewish Sports Foundation, with the Book of Life Award.
+On September 29, 2015, Huffman announced that he had Stage 4 bladder cancer, and his "condition is terminal". He died on October 15, 2015.
+
+
+team
+Candidate Sentence: He was named the FIBA SuproLeague Player of the Year, as well as the "Best American Player in Europe", by Basket News, in 2001.
+After his successes in Israel, he was signed in July 2002, by the Toronto Raptors of the NBA to a 3-year, $5.2 million contract (the third year being a team option), and appeared in 7 games, averaging 3.3 points, 3.3 rebounds and 10.9 minutes
+Candidate Sentence: In the 1997–98 season, he played for the Idaho Stampede of the CBA. He was second in the league in blocked shots per game (1.8), 6th in field goal percentage (.553), 8th in rebounds per game (7.6), and 10th in free throw percentage (.801). He was selected to the CBA All-Rookie Team in 1998.
+He then moved to Europe, and played for Baloncesto Fuenlabrada of the Spanish ACB League.
+In the 1999–00 season, he was signed by Maccabi Tel Aviv
+
+
+draft_year
+Candidate Sentence: He was named the FIBA SuproLeague Player of the Year, as well as the "Best American Player in Europe", by Basket News, in 2001.
+After his successes in Israel, he was signed in July 2002, by the Toronto Raptors of the NBA to a 3-year, $5.2 million contract (the third year being a team option), and appeared in 7 games, averaging 3.3 points, 3.3 rebounds and 10.9 minutes
+Candidate Sentence: He was the 2001 Israeli Basketball Premier League MVP, as well as the 2001 FIBA SuproLeague Player of the Year.
+High school and college career Huffman played for Lakeview High School and then for Lansing Community College (where in '94–'95 he averaged 29.8 points, 14.5 rebounds, and 6 blocks per game while shooting 66.8% from the field, and was named to the JUCO All America team)
+
+
+draft_pick
+Candidate Sentence: He was named the FIBA SuproLeague Player of the Year, as well as the "Best American Player in Europe", by Basket News, in 2001.
+After his successes in Israel, he was signed in July 2002, by the Toronto Raptors of the NBA to a 3-year, $5.2 million contract (the third year being a team option), and appeared in 7 games, averaging 3.3 points, 3.3 rebounds and 10.9 minutes
+
+
+college
+Candidate Sentence: He was the 2001 Israeli Basketball Premier League MVP, as well as the 2001 FIBA SuproLeague Player of the Year.
+High school and college career Huffman played for Lakeview High School and then for Lansing Community College (where in '94–'95 he averaged 29.8 points, 14.5 rebounds, and 6 blocks per game while shooting 66.8% from the field, and was named to the JUCO All America team)

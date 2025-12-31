@@ -1,0 +1,13 @@
+university_name
+Candidate Sentence: Virginia Union University Virginia Union University The Basics About Virginia Union University Virginia Union University is a private institution that was founded in 1865. It has a total undergraduate enrollment of 1,307, its setting is urban, and the campus size is 100 acres. It utilizes a semester-based academic calendar.  Virginia Union University's ranking in the 2011 edition of Best Colleges is Regional Colleges (South), 64
+Candidate Sentence: The University offers a broad range of educational opportunities while advancing its focus on teaching, research, science, and technology, as well as adult continuing education, civic engagement, and distance education.
+Copyright © 2011 U.S. News & World Report, L.P. All rights reserved.
+Use of this Web site constitutes acceptance of our Terms and Conditions of Use and Privacy Policy.
+
+
+rank
+Candidate Sentence: It utilizes a semester-based academic calendar.  Virginia Union University's ranking in the 2011 edition of Best Colleges is Regional Colleges (South), 64. Its tuition and fees are $14,630.
+Virginia Union University, nourished by the African American heritage and energized by a commitment to excellence, provides a nurturing, intellectually challenging, and spiritually enriching environment
+Candidate Sentence: The University offers a broad range of educational opportunities while advancing its focus on teaching, research, science, and technology, as well as adult continuing education, civic engagement, and distance education.
+Copyright © 2011 U.S. News & World Report, L.P. All rights reserved.
+Use of this Web site constitutes acceptance of our Terms and Conditions of Use and Privacy Policy.

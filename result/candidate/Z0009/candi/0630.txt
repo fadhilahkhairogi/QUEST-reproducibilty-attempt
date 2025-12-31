@@ -1,0 +1,17 @@
+university_name
+Candidate Sentence: 
+
+setting
+Candidate Sentence: Union University The Basics About Union University Union University is a private institution that was founded in 1823. It has a total undergraduate enrollment of 2,780, its setting is urban, and the campus size is 360 acres. It utilizes a 4-1-4-based academic calendar.  Union University's ranking in the 2011 edition of Best Colleges is Regional Universities (South), 15. Its tuition and fees are $22,390.
+Copyright © 2011 U.S. News & World Report, L.P
+Candidate Sentence: Union University's ranking in the 2011 edition of Best Colleges is Regional Universities (South), 15. Its tuition and fees are $22,390.
+Copyright © 2011 U.S. News & World Report, L.P. All rights reserved.
+Use of this Web site constitutes acceptance of our Terms and Conditions of Use and Privacy Policy.
+
+
+total_undergraduate_enrollment
+Candidate Sentence: Union University The Basics About Union University Union University is a private institution that was founded in 1823. It has a total undergraduate enrollment of 2,780, its setting is urban, and the campus size is 360 acres. It utilizes a 4-1-4-based academic calendar.  Union University's ranking in the 2011 edition of Best Colleges is Regional Universities (South), 15. Its tuition and fees are $22,390.
+Copyright © 2011 U.S. News & World Report, L.P
+Candidate Sentence: Union University's ranking in the 2011 edition of Best Colleges is Regional Universities (South), 15. Its tuition and fees are $22,390.
+Copyright © 2011 U.S. News & World Report, L.P. All rights reserved.
+Use of this Web site constitutes acceptance of our Terms and Conditions of Use and Privacy Policy.

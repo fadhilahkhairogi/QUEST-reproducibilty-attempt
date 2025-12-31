@@ -1,0 +1,26 @@
+name
+Candidate Sentence: Donyell Marshall Not to be confused with former basketball player Donny Marshall.
+Donyell Lamar Marshall (born May 18, 1973) is an American basketball coach and former professional player. He is currently an assistant coach for the Greensboro Swarm of the NBA G League. During his National Basketball Association (NBA) career, he played with eight different teams.
+Early career Marshall was born on May 18, 1973, in Reading, Pennsylvania
+Candidate Sentence: He was selected after his junior year at the University of Connecticut by the Minnesota Timberwolves, as the fourth overall pick. He was traded 40 games into his rookie season to the Golden State Warriors in exchange for power forward Tom Gugliotta on February 18, 1995.
+Marshall played with the Warriors until 2000, when he was traded to the Utah Jazz as part of a four-team deal
+
+
+draft_pick
+Candidate Sentence: He was selected after his junior year at the University of Connecticut by the Minnesota Timberwolves, as the fourth overall pick. He was traded 40 games into his rookie season to the Golden State Warriors in exchange for power forward Tom Gugliotta on February 18, 1995.
+Marshall played with the Warriors until 2000, when he was traded to the Utah Jazz as part of a four-team deal
+Candidate Sentence: Playing just 25 games, he provided Philadelphia with veteran leadership and three point shooting. He played a key role in Philadelphia's game 1 victory over the Orlando Magic in the first round of the playoffs; he scored 11 points and made a three-pointer to tie the game in the final minute.
+Coaching career On October 26, 2009, after retiring from the NBA, Marshall joined Comcast SportsNet as a 76ers' post-game live analyst
+
+
+draft_year
+Candidate Sentence: He was selected after his junior year at the University of Connecticut by the Minnesota Timberwolves, as the fourth overall pick. He was traded 40 games into his rookie season to the Golden State Warriors in exchange for power forward Tom Gugliotta on February 18, 1995.
+Marshall played with the Warriors until 2000, when he was traded to the Utah Jazz as part of a four-team deal
+Candidate Sentence: Playing just 25 games, he provided Philadelphia with veteran leadership and three point shooting. He played a key role in Philadelphia's game 1 victory over the Orlando Magic in the first round of the playoffs; he scored 11 points and made a three-pointer to tie the game in the final minute.
+Coaching career On October 26, 2009, after retiring from the NBA, Marshall joined Comcast SportsNet as a 76ers' post-game live analyst
+
+
+NBA_championships
+Candidate Sentence: He played alongside future Hall of Fame nominees Karl Malone and John Stockton as a role player with the Jazz.
+Marshall signed as a free agent with the Chicago Bulls on August 16, 2002, where he played with Jalen Rose, Kendall Gill, Jay Williams, Eddy Curry and Tyson Chandler.
+On December 1, 2003, Marshall was traded to the Toronto Raptors along with Rose and Lonny Baxter for Antonio Davis, Jerome Williams and Chris Jefferies

@@ -1,0 +1,17 @@
+[name]: Jabari Walker  
+Key sentnce 1: Jabari Dominic Walker (born July 30, 2002) is an American professional basketball player for the Portland Trail Blazers of the National Basketball Association (NBA).
+
+[age]:  
+Key sentnce 1: Jabari Dominic Walker (born July 30, 2002) is an American professional basketball player for the Portland Trail Blazers of the National Basketball Association (NBA).
+
+[team]: Portland Trail Blazers  
+Key sentnce 1: Jabari Dominic Walker (born July 30, 2002) is an American professional basketball player for the Portland Trail Blazers of the National Basketball Association (NBA).
+
+[draft_year]: 2022  
+Key sentnce 1: Walker was selected with the 57th overall pick in the 2022 NBA draft by the Portland Trail Blazers.
+
+[draft_pick]: 57th overall pick  
+Key sentnce 1: Walker was selected with the 57th overall pick in the 2022 NBA draft by the Portland Trail Blazers.
+
+[college]: Colorado Buffaloes  
+Key sentnce 1: He played college basketball for the Colorado Buffaloes.

@@ -1,0 +1,8 @@
+[name]: Miles Simon  
+Key sentnce 1: Miles Simon Miles Julian Simon (born November 21, 1975) is an American basketball coach and former player who recently served as an assistant coach for the Phoenix Suns of the NBA.
+
+[age]:   
+Key sentnce 1: 
+
+[team]:   
+Key sentnce 1:

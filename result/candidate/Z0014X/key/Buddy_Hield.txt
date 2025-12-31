@@ -1,0 +1,8 @@
+[name]: Buddy Hield  
+Key sentence 1: "Chavano Rainer 'Buddy' Hield (/hiːld/ HEELD; born December 17, 1992) is a Bahamian professional basketball player for the Golden State Warriors of the National Basketball Association (NBA)."
+
+[age]: 30  
+Key sentence 1: "Chavano Rainer 'Buddy' Hield (/hiːld/ HEELD; born December 17, 1992) is a Bahamian professional basketball player for the Golden State Warriors of the National Basketball Association (NBA)."
+
+[team]: Golden State Warriors  
+Key sentence 1: "Chavano Rainer 'Buddy' Hield (/hiːld/ HEELD; born December 17, 1992) is a Bahamian professional basketball player for the Golden State Warriors of the National Basketball Association (NBA)."

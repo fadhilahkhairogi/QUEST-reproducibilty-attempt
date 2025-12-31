@@ -1,0 +1,29 @@
+name
+Candidate Sentence: Jaden Edward Dhananjay Ivey (born February 13, 2002) is an American professional basketball player for the Detroit Pistons of the National Basketball Association (NBA). He played college basketball for the Purdue Boilermakers.
+Ivey grew up playing football, basketball and soccer, and practicing karate. He started focusing on basketball as a freshman in high school. Ivey played for Marian High School in Mishawaka, Indiana in his first three years
+Candidate Sentence: ESPN.com. March 23, 2023. Retrieved March 23, 2023.
+"Haliburton, Turner lead Pacers to 136-113 tournament win over Pistons". ESPN.com. Associated Press. November 24, 2023. Retrieved July 2, 2024.
+"Jaden Ivey scores a career-high 37 points lead Pistons past Kings 133-120". ESPN.com. February 7, 2024. Retrieved February 8, 2024.
+Fezler, D. J. (June 28, 2021). "Purdue Basketball's Jaden Ivey to Wear No. 9 for the USA U-19 Team". Sports Illustrated. Retrieved July 4, 2021.
+Fezler, D. J. (July 3, 2021)
+
+
+age
+Candidate Sentence: "Jaden Ivey Gets Emotional After Hitting Game-Winning 3-Pointer for Purdue". Sports Illustrated. Retrieved May 22, 2021.
+Pells, Eddie (March 19, 2021). "North Texas comes up big with 78-69 upset over Purdue". Associated Press. Retrieved May 22, 2021.
+Skol, Mark Jr. (March 9, 2021). "Former local high school basketball star Jaden Ivey named to Big Ten All-Freshman team". WNDU-TV. Retrieved May 22, 2021.
+Schutte, Dustin (April 27, 2021)
+Candidate Sentence: ClutchPoints. Retrieved October 19, 2022.
+Woods, Kory (December 20, 2022). "Ivey's career-high 30 points not enough as Pistons lose to Jazz, 126-111". mlive.com. Retrieved November 13, 2023.
+"Middleton leads short-handed Bucks past decimated Pistons". ESPN.com. March 23, 2023. Retrieved March 23, 2023.
+"Haliburton, Turner lead Pacers to 136-113 tournament win over Pistons". ESPN.com. Associated Press. November 24, 2023
+
+
+team
+Candidate Sentence: Jaden Edward Dhananjay Ivey (born February 13, 2002) is an American professional basketball player for the Detroit Pistons of the National Basketball Association (NBA). He played college basketball for the Purdue Boilermakers.
+Ivey grew up playing football, basketball and soccer, and practicing karate. He started focusing on basketball as a freshman in high school. Ivey played for Marian High School in Mishawaka, Indiana in his first three years
+Candidate Sentence: ESPN.com. March 23, 2023. Retrieved March 23, 2023.
+"Haliburton, Turner lead Pacers to 136-113 tournament win over Pistons". ESPN.com. Associated Press. November 24, 2023. Retrieved July 2, 2024.
+"Jaden Ivey scores a career-high 37 points lead Pistons past Kings 133-120". ESPN.com. February 7, 2024. Retrieved February 8, 2024.
+Fezler, D. J. (June 28, 2021). "Purdue Basketball's Jaden Ivey to Wear No. 9 for the USA U-19 Team". Sports Illustrated. Retrieved July 4, 2021.
+Fezler, D. J. (July 3, 2021)

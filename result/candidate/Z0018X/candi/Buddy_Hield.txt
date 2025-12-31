@@ -1,0 +1,36 @@
+name
+Candidate Sentence: NBA.com. January 3, 2017. Retrieved January 4, 2017.
+"Kings Acquire Hield, Evans, Galloway, and 2017 Draft Selections". NBA.com. February 20, 2017. Retrieved February 20, 2017.
+"Cauley-Stein scores 29, Kings beat Nuggets 116-100". ESPN.com. February 23, 2017. Retrieved February 24, 2017.
+"Dario Saric, Buddy Hield named Kia NBA Rookies of the Month". NBA.com. April 3, 2017. Retrieved April 4, 2017.
+"Hield, Lawson lead Kings past Suns, 129-104". ESPN.com. April 11, 2017
+Candidate Sentence: "New Orleans Pelicans select Buddy Hield with 6th overall pick in 2016 NBA Draft". NOLA.com. Retrieved June 23, 2016.
+"Pelicans Sign 2016 First Round Draft Pick Buddy Hield". NBA.com. July 22, 2016. Retrieved July 22, 2016.
+"Davis, Hield lift Pelicans past Pacers, 102-95". ESPN.com. December 15, 2016. Retrieved December 15, 2016.
+"Joel Embiid, Buddy Hield named Kia Rookies of the Month". NBA.com. January 3, 2017. Retrieved January 4, 2017.
+"Kings Acquire Hield, Evans, Galloway, and 2017 Draft Selections"
+
+
+age
+Candidate Sentence: "New Orleans Pelicans select Buddy Hield with 6th overall pick in 2016 NBA Draft". NOLA.com. Retrieved June 23, 2016.
+"Pelicans Sign 2016 First Round Draft Pick Buddy Hield". NBA.com. July 22, 2016. Retrieved July 22, 2016.
+"Davis, Hield lift Pelicans past Pacers, 102-95". ESPN.com. December 15, 2016. Retrieved December 15, 2016.
+"Joel Embiid, Buddy Hield named Kia Rookies of the Month". NBA.com. January 3, 2017. Retrieved January 4, 2017.
+"Kings Acquire Hield, Evans, Galloway, and 2017 Draft Selections"
+Candidate Sentence: NBA.com (Press release). October 24, 2023. Retrieved May 17, 2024.
+Ham, James (December 20, 2018). "Buddy Hield is 26, not 25, as Kings guard reveals age incorrectly listed". NBCSports.com. Retrieved December 21, 2018.
+Tracy, Marc (March 14, 2016). "For Buddy Hield and Other Bahamians, Talent Is Cultivated on the Great Plains". New York Times. New York. Retrieved April 12, 2016.
+Vecenie, Sam (August 13, 2015). "Oklahoma's Buddy Hield fueled by his roots of growing up in Bahamas"
+
+
+team
+Candidate Sentence: NBA.com. January 3, 2017. Retrieved January 4, 2017.
+"Kings Acquire Hield, Evans, Galloway, and 2017 Draft Selections". NBA.com. February 20, 2017. Retrieved February 20, 2017.
+"Cauley-Stein scores 29, Kings beat Nuggets 116-100". ESPN.com. February 23, 2017. Retrieved February 24, 2017.
+"Dario Saric, Buddy Hield named Kia NBA Rookies of the Month". NBA.com. April 3, 2017. Retrieved April 4, 2017.
+"Hield, Lawson lead Kings past Suns, 129-104". ESPN.com. April 11, 2017
+Candidate Sentence: "New Orleans Pelicans select Buddy Hield with 6th overall pick in 2016 NBA Draft". NOLA.com. Retrieved June 23, 2016.
+"Pelicans Sign 2016 First Round Draft Pick Buddy Hield". NBA.com. July 22, 2016. Retrieved July 22, 2016.
+"Davis, Hield lift Pelicans past Pacers, 102-95". ESPN.com. December 15, 2016. Retrieved December 15, 2016.
+"Joel Embiid, Buddy Hield named Kia Rookies of the Month". NBA.com. January 3, 2017. Retrieved January 4, 2017.
+"Kings Acquire Hield, Evans, Galloway, and 2017 Draft Selections"

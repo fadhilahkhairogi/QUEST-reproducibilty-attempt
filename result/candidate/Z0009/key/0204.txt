@@ -1,0 +1,8 @@
+[university_name]: Lawrence University
+Key sentnce 1: Lawrence University The Basics About Lawrence University Lawrence University is a private institution that was founded in 1847.
+
+[setting]: urban
+Key sentnce 1: It has a total undergraduate enrollment of 1,495, its setting is urban, and the campus size is 84 acres.
+
+[total_undergraduate_enrollment]: 1,495
+Key sentnce 1: It has a total undergraduate enrollment of 1,495, its setting is urban, and the campus size is 84 acres.

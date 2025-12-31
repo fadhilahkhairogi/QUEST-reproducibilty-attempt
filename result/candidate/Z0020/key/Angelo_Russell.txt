@@ -1,0 +1,8 @@
+name: D'Angelo Russell
+Key sentence 1: "D'Angelo Russell (born February 23, 1996), nicknamed 'DLo', is an American professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA)."
+
+age: 27
+Key sentence 1: "D'Angelo Russell (born February 23, 1996)..."
+
+team: Los Angeles Lakers
+Key sentence 1: "D'Angelo Russell... is an American professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA)."

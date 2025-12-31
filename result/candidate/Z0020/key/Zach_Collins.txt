@@ -1,0 +1,8 @@
+[name]: Zach Collins  
+Key sentence 1: Zach Collins (born November 19, 1997) is an American professional basketball player for the San Antonio Spurs of the National Basketball Association (NBA).  
+
+[age]: 25  
+Key sentence 1: Zach Collins (born November 19, 1997) is an American professional basketball player for the San Antonio Spurs of the National Basketball Association (NBA).  
+
+[team]:  
+Key sentence 1: Zach Collins (born November 19, 1997) is an American professional basketball player for the San Antonio Spurs of the National Basketball Association (NBA).

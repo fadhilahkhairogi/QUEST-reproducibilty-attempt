@@ -1,0 +1,8 @@
+[name]: Cade Cunningham  
+Key sentence 1: "Cade Parker Cunningham (born September 25, 2001) is an American professional basketball player for the Detroit Pistons of the National Basketball Association (NBA)."
+
+[age]: 22  
+Key sentence 1: "Cunningham was born in Arlington, Texas, to Carrie and Keith Cunningham."
+
+[mvp_awards]: 1  
+Key sentence 1: "Cunningham was named MVP of the Rising Stars Challenge on February 18, 2022."

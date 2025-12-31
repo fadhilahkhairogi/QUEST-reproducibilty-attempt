@@ -1,0 +1,32 @@
+name
+Candidate Sentence: Rookie Victor Oladipo of the Magic also recorded his first career triple-double in the same game, marking the first and only time in NBA history that two rookies have recorded triple-doubles in the same game. The last time that two players had recorded their first career triple-doubles in the same game was when Detroit Pistons Donnie Butcher and Ray Scott did it on March 14, 1964 (they were not rookies)
+Candidate Sentence: The last time that two players had recorded their first career triple-doubles in the same game was when Detroit Pistons Donnie Butcher and Ray Scott did it on March 14, 1964 (they were not rookies). It was also the first time that two opponents had recorded triple-doubles in the same game since Caron Butler and Baron Davis had done so on November 23, 2007.
+Carter-Williams was named the Eastern Conference Rookie of the Month for games played in October and November 2013
+
+
+age
+Candidate Sentence: Rookie Victor Oladipo of the Magic also recorded his first career triple-double in the same game, marking the first and only time in NBA history that two rookies have recorded triple-doubles in the same game. The last time that two players had recorded their first career triple-doubles in the same game was when Detroit Pistons Donnie Butcher and Ray Scott did it on March 14, 1964 (they were not rookies)
+Candidate Sentence: He has a younger sister, Masey, and three younger brothers: Marcus, Max, and Adrian. His parents met while the two were both basketball players at Salem State University in Salem, Massachusetts.
+
+
+team
+Candidate Sentence: Less than a week later, he had a 26-point, 10 assist performance in a 107–104 win over the Chicago Bulls. He was subsequently named the Player of the Week in only his first week in the NBA, a feat last achieved by Shaquille O'Neal in 1992
+Candidate Sentence: On December 5, he had his best game since the season opener, recording 20 points, 5 assists and 3 rebounds off the bench in a 106–91 win over the New York Knicks. On January 8, he recorded 15 points and a season-high 12 rebounds in a 96–95 win over the Dallas Mavericks. On February 1, he recorded 18 points and a season-high 13 assists in a loss to the Sacramento Kings
+
+
+draft_year
+Candidate Sentence: He was drafted in the first round with the 11th overall pick in the 2013 NBA draft by the Philadelphia 76ers, after playing college basketball for the Syracuse Orange. He was named NBA Rookie of the Year in 2014, and he has also played for the Milwaukee Bucks, Chicago Bulls, Charlotte Hornets, Houston Rockets, and Orlando Magic.
+High school career Carter-Williams attended Hamilton-Wenham Regional High School in Hamilton, Massachusetts as a freshman
+Candidate Sentence: At the conclusion of the season, he earned Associated Press honorable mention All-American honors, as well as second-team All-Big East honors.
+On April 10, 2013, Carter-Williams declared for the NBA draft, forgoing his final two years of college eligibility.
+Professional career Philadelphia 76ers (2013–2015) 2013–14 season: Rookie of the Year Many draft outlooks ranked Carter-Williams as a top point guard prospect and a top ten prospect overall
+
+
+draft_pick
+Candidate Sentence: On December 5, he had his best game since the season opener, recording 20 points, 5 assists and 3 rebounds off the bench in a 106–91 win over the New York Knicks. On January 8, he recorded 15 points and a season-high 12 rebounds in a 96–95 win over the Dallas Mavericks. On February 1, he recorded 18 points and a season-high 13 assists in a loss to the Sacramento Kings
+
+
+college
+Candidate Sentence: He has a younger sister, Masey, and three younger brothers: Marcus, Max, and Adrian. His parents met while the two were both basketball players at Salem State University in Salem, Massachusetts.
+Candidate Sentence: He was drafted in the first round with the 11th overall pick in the 2013 NBA draft by the Philadelphia 76ers, after playing college basketball for the Syracuse Orange. He was named NBA Rookie of the Year in 2014, and he has also played for the Milwaukee Bucks, Chicago Bulls, Charlotte Hornets, Houston Rockets, and Orlando Magic.
+High school career Carter-Williams attended Hamilton-Wenham Regional High School in Hamilton, Massachusetts as a freshman

@@ -1,0 +1,12 @@
+university_name
+Candidate Sentence: Union College The Basics About Union College Union College is a private institution that was founded in 1795. It has a total undergraduate enrollment of 2,194, its setting is urban, and the campus size is 100 acres. It utilizes a trimester-based academic calendar.  Union College's ranking in the 2011 edition of Best Colleges is National Liberal Arts Colleges, 41. Its comprehensive fee is $52,329.
+Union is a wonderful place; it will help you grow as much as you let it
+Candidate Sentence: Its comprehensive fee is $52,329.
+Union is a wonderful place; it will help you grow as much as you let it.  Some students here just learn a lot about their field because they resist growth.  Simply by removing the resistance, I will soon present at my second and third research conferences and will be published as an undergraduate.  I have learned a lot about research and leadership without really having to try
+
+
+total_undergraduate_enrollment
+Candidate Sentence: Union College The Basics About Union College Union College is a private institution that was founded in 1795. It has a total undergraduate enrollment of 2,194, its setting is urban, and the campus size is 100 acres. It utilizes a trimester-based academic calendar.  Union College's ranking in the 2011 edition of Best Colleges is National Liberal Arts Colleges, 41. Its comprehensive fee is $52,329.
+Union is a wonderful place; it will help you grow as much as you let it
+Candidate Sentence: Its comprehensive fee is $52,329.
+Union is a wonderful place; it will help you grow as much as you let it.  Some students here just learn a lot about their field because they resist growth.  Simply by removing the resistance, I will soon present at my second and third research conferences and will be published as an undergraduate.  I have learned a lot about research and leadership without really having to try

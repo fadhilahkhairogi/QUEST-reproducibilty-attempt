@@ -1,0 +1,11 @@
+[name]: Garfield Smith  
+Key sentence 1: Garfield Smith (born November 18, 1945) is an American former professional basketball player who played in the National Basketball Association (NBA) and American Basketball Association (ABA).  
+
+[draft_pick]: 10  
+Key sentence 1: He was drafted with the tenth pick in the third round of the 1968 NBA draft by the Boston Celtics.  
+
+[draft_year]: 1968  
+Key sentence 1: He was drafted with the tenth pick in the third round of the 1968 NBA draft by the Boston Celtics.  
+
+[NBA_championships]:   
+Key sentence 1: In two seasons in the NBA, Smith averaged 2.7 points per game and 2.1 rebounds per game.

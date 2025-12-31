@@ -1,0 +1,29 @@
+name
+Candidate Sentence: After a collegiate career with Michigan State, he played with several teams in his 14-season National Basketball Association career, including the Miami Heat, the Portland Trail Blazers and the San Antonio Spurs, but is perhaps best known for his five-year stint with the Atlanta Hawks which included an All-Star Game appearance in 1998. He won a championship with the Spurs in 2003
+
+
+age
+Candidate Sentence: After a collegiate career with Michigan State, he played with several teams in his 14-season National Basketball Association career, including the Miami Heat, the Portland Trail Blazers and the San Antonio Spurs, but is perhaps best known for his five-year stint with the Atlanta Hawks which included an All-Star Game appearance in 1998. He won a championship with the Spurs in 2003
+
+
+team
+Candidate Sentence: After a collegiate career with Michigan State, he played with several teams in his 14-season National Basketball Association career, including the Miami Heat, the Portland Trail Blazers and the San Antonio Spurs, but is perhaps best known for his five-year stint with the Atlanta Hawks which included an All-Star Game appearance in 1998. He won a championship with the Spurs in 2003
+Candidate Sentence: He won a championship with the Spurs in 2003. Smith was widely regarded as an excellent three-point shooter, and is one of three players to make seven 3-pointers in a quarter.
+He joined the USA men's national basketball team in the 1994 FIBA World Championship winning the gold medal
+
+
+draft_year
+Candidate Sentence: He was inducted into Michigan State University Athletics Hall of Fame in 2001.
+NBA career Miami Heat Smith was selected fifth overall in the 1991 NBA draft by the Miami Heat, a young expansion team which featured other young players such as Glen Rice, Rony Seikaly and Brian Shaw. Smith played in 61 games in his rookie season, starting in 59 with averages of 12 points a game and 4.6 assists
+
+
+draft_pick
+Candidate Sentence: He was inducted into Michigan State University Athletics Hall of Fame in 2001.
+NBA career Miami Heat Smith was selected fifth overall in the 1991 NBA draft by the Miami Heat, a young expansion team which featured other young players such as Glen Rice, Rony Seikaly and Brian Shaw. Smith played in 61 games in his rookie season, starting in 59 with averages of 12 points a game and 4.6 assists
+Candidate Sentence: The same was the case for guard Stephen Jackson who consequently came to serve as the team's main starting shooting guard, with Smith starting in just 18 games for the season as a result of injuries limiting him to just 58 total games
+
+
+college
+Candidate Sentence: After a collegiate career with Michigan State, he played with several teams in his 14-season National Basketball Association career, including the Miami Heat, the Portland Trail Blazers and the San Antonio Spurs, but is perhaps best known for his five-year stint with the Atlanta Hawks which included an All-Star Game appearance in 1998. He won a championship with the Spurs in 2003
+Candidate Sentence: He was inducted into Michigan State University Athletics Hall of Fame in 2001.
+NBA career Miami Heat Smith was selected fifth overall in the 1991 NBA draft by the Miami Heat, a young expansion team which featured other young players such as Glen Rice, Rony Seikaly and Brian Shaw. Smith played in 61 games in his rookie season, starting in 59 with averages of 12 points a game and 4.6 assists

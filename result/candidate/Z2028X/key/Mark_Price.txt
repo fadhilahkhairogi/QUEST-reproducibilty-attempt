@@ -1,0 +1,11 @@
+[name]: Mark Price  
+Key sentence 1: William Mark Price (born February 15, 1964) is an American former basketball player and coach.
+
+[draft_pick]: 25  
+Key sentence 1: Selected first in the second round (25th overall) by the Dallas Mavericks in the 1986 NBA draft.
+
+[draft_year]: 1986  
+Key sentence 1: Selected first in the second round (25th overall) by the Dallas Mavericks in the 1986 NBA draft.
+
+[NBA_championships]:  
+Key sentence 1:

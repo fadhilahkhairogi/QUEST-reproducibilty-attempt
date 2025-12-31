@@ -1,0 +1,24 @@
+university_name
+Candidate Sentence: 
+
+academic_calendar
+Candidate Sentence: With the recent drama surrounding President Nichol and the Sex Workers' Art Show, you can see it more than ever.  Beyond that, there's always opinion columns in The Flat Hat written by students and professors.     When I tell people I go to William and Mary they usually say "good job" or they look excited and tell me they know someone, cousin, friend, whoever, who went there who I should talk to.    Honestly, with my schedule this semester, I spend a lot of time in class
+Candidate Sentence: Honestly, with my schedule this semester, I spend a lot of time in class.  And when it's cold, its rare to see people outside in huge numbers.  I usually hang out at the rec center, in my dorm, or sometimes in Swem.  But when the weather's nice I like to hang out on Sunken Gardens or in this one tree behind Wren. Before the tourists come its also nice to cruise around Colonial Williamsburg.    In terms of having a college town William and Mary is somewhat lacking
+
+
+rank
+Candidate Sentence: It utilizes a semester-based academic calendar.  William and Mary's ranking in the 2011 edition of Best Colleges is National Universities, 31. Its in-state tuition and fees are $12,188; out-of-state tuition and fees are $33,212.
+I think one of the best things about the campus is that people are not afraid, and are in fact encouraged, to state their opinions. With the recent drama surrounding President Nichol and the Sex Workers' Art Show, you can see it more than ever
+Candidate Sentence: I always hear good things about Nawab and Mongo's is really good for all you can eat Asian food.
+William and Mary is a small public school, mostly for undergraduates, which is remarkable by itself.  Most students like the small-school atmosphere, especially when it comes to class size.    The college shares the town of Williamsburg with a thriving tourist industry- there's almost no "college town" to speak of
+
+
+year_founded
+Candidate Sentence: College of William and Mary The Basics About William and Mary William and Mary is a public institution that was founded in 1693. It has a total undergraduate enrollment of 5,836, its setting is suburban, and the campus size is 1,200 acres. It utilizes a semester-based academic calendar.  William and Mary's ranking in the 2011 edition of Best Colleges is National Universities, 31
+Candidate Sentence: With the recent drama surrounding President Nichol and the Sex Workers' Art Show, you can see it more than ever.  Beyond that, there's always opinion columns in The Flat Hat written by students and professors.     When I tell people I go to William and Mary they usually say "good job" or they look excited and tell me they know someone, cousin, friend, whoever, who went there who I should talk to.    Honestly, with my schedule this semester, I spend a lot of time in class
+
+
+total_undergraduate_enrollment
+Candidate Sentence: College of William and Mary The Basics About William and Mary William and Mary is a public institution that was founded in 1693. It has a total undergraduate enrollment of 5,836, its setting is suburban, and the campus size is 1,200 acres. It utilizes a semester-based academic calendar.  William and Mary's ranking in the 2011 edition of Best Colleges is National Universities, 31
+Candidate Sentence: I always hear good things about Nawab and Mongo's is really good for all you can eat Asian food.
+William and Mary is a small public school, mostly for undergraduates, which is remarkable by itself.  Most students like the small-school atmosphere, especially when it comes to class size.    The college shares the town of Williamsburg with a thriving tourist industry- there's almost no "college town" to speak of

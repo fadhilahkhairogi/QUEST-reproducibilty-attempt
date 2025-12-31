@@ -1,0 +1,30 @@
+name
+Candidate Sentence: This article is about the basketball player. For the NASCAR driver, see Kevin Love (racing driver).
+Kevin Wesley Love (born September 7, 1988) is an American professional basketball player for the Miami Heat of the National Basketball Association (NBA). He is a five-time All-Star and a two-time member of the All-NBA Second Team, winning an NBA championship with the Cleveland Cavaliers in 2016
+Candidate Sentence: Retrieved February 8, 2015.
+"Love hits 8 3-pointers, Cavaliers beat Pistons 102-93". NBA.com. Turner Sports Interactive, Inc. February 24, 2015. Archived from the original on February 26, 2015. Retrieved February 25, 2015.
+"Cleveland Cavaliers open postseason as odds on favorite to win the Eastern Conference, Las Vegas says". April 16, 2015.
+"Celtics at Cavaliers". NBA.com. Archived from the original on April 9, 2016. Retrieved April 20, 2015.
+Haynes, Chris (April 29, 2015)
+
+
+team
+Candidate Sentence: This article is about the basketball player. For the NASCAR driver, see Kevin Love (racing driver).
+Kevin Wesley Love (born September 7, 1988) is an American professional basketball player for the Miami Heat of the National Basketball Association (NBA). He is a five-time All-Star and a two-time member of the All-NBA Second Team, winning an NBA championship with the Cleveland Cavaliers in 2016
+Candidate Sentence: "Cavaliers Player Kevin Love is the New Face of Banana Republic". GQ.com. Retrieved August 2, 2016.
+"Kevin Love on the cover of NCAA Basketball 09". BruinsNation.com. September 11, 2008. Retrieved April 23, 2012.
+"Dwight, Kevin Love, DWill on 'The Suite Life'". Slamonline.com. January 6, 2011. Retrieved July 26, 2012.
+"Pepsi MAX Uncle Drew - Gold". Chief Marketer. Archived from the original on March 16, 2018. Retrieved June 23, 2020.
+
+
+NBA_championships
+Candidate Sentence: NBA.com. January 30, 2018. Retrieved January 30, 2018.
+"LeBron gets triple-double, Cavs beat Bucks without Lue". ESPN.com. March 19, 2018. Retrieved March 19, 2018.
+"LeBron scores 35, carries Cavaliers past Raptors 132-129". ESPN.com. March 21, 2018. Retrieved March 22, 2018.
+"LeBron, Cavs struggle before beating Mavericks 98-87". ESPN.com. April 1, 2018. Retrieved April 1, 2018.
+"James scores 43 as Cavs beat Raptors 128-110 in Game 2". ESPN.com. May 3, 2018
+Candidate Sentence: Retrieved May 3, 2022.
+"Cavaliers Reach Buyout Agreement with Forward Kevin Love". NBA.com. February 18, 2023. Retrieved February 19, 2023.
+"HEAT Sign Kevin Love". NBA.com. February 20, 2023. Retrieved February 21, 2023.
+Lichtenstein, Adam (February 24, 2023). "Despite Milwaukee losing Giannis early, Heat suffer blowout loss to Bucks in Kevin Love's Miami debut". Sun Sentinel. Retrieved February 25, 2023.
+Powell, Shaun (June 13, 2023). "5 takeaways: Nuggets drop Heat for 1st NBA championship". NBA.com

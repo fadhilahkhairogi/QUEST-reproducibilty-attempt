@@ -1,0 +1,8 @@
+[name]: Rod Derline  
+Key sentnce 1: Rod Derline Rod Derline (born March 11, 1952) is a former professional basketball guard for the Seattle SuperSonics of the National Basketball Association (NBA).
+
+[age]:   
+Key sentnce 1: 
+
+[team]:   
+Key sentnce 1:

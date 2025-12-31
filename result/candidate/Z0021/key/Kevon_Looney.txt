@@ -1,0 +1,8 @@
+[name]: Kevon Looney  
+Key sentence 1: "Kevon Grant Looney (/kəˈvɒn/ kə-VON; born February 6, 1996) is an American professional basketball player for the Golden State Warriors of the National Basketball Association (NBA)."
+
+[age]: 27  
+Key sentence 1: "Kevon Grant Looney (/kəˈvɒn/ kə-VON; born February 6, 1996) is an American professional basketball player for the Golden State Warriors of the National Basketball Association (NBA)."
+
+[mvp_awards]: 3  
+Key sentence 1: "Looney won his third championship, averaging 7.5 rebounds and 5.0 points as the Warriors defeated the Boston Celtics in six games in the 2022 NBA Finals."

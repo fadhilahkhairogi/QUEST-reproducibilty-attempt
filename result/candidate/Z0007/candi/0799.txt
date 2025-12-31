@@ -1,0 +1,10 @@
+university_name
+Candidate Sentence: Virginia Commonwealth University The Basics About VCU VCU is a public institution that was founded in 1838. It has a total undergraduate enrollment of 23,149, its setting is urban, and the campus size is 143 acres. It utilizes a semester-based academic calendar.  VCU's ranking in the 2011 edition of Best Colleges is National Universities, 167.
+The best thing about VCU is the diverse population and how interesting everyone on campus is
+Candidate Sentence: VCU is huge. It's the largest school in the state, so often times you will see a lot of people you won't know. I like that because it pushes me to make new friends and meet new people.    I get mixed reactions from people when I tell them about VCU. Some of them who don't know much or anything about the school will adopt a slightly patronizing tone and look at me differently. Other people will get excited since they know VCU is on the rise, and we have a fantastic basketball team
+
+
+total_undergraduate_enrollment
+Candidate Sentence: Virginia Commonwealth University The Basics About VCU VCU is a public institution that was founded in 1838. It has a total undergraduate enrollment of 23,149, its setting is urban, and the campus size is 143 acres. It utilizes a semester-based academic calendar.  VCU's ranking in the 2011 edition of Best Colleges is National Universities, 167.
+The best thing about VCU is the diverse population and how interesting everyone on campus is
+Candidate Sentence: Off campus there are clubs and all kinds of shops to hang out at. And just down a ways is Carytown. There are tons of little shops and restaurants and neat places to hang out. There is a $2 movie theatre that shows 1 or 2 movies a week and a lot of students like to go down there.     The administration does its best to help out the students. I have a lot of respect for them. The biggest controversy on campus was around our newest campus addition

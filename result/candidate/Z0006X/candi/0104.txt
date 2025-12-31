@@ -1,0 +1,14 @@
+university_name
+Candidate Sentence: In the beginning when I told people I was enrolled at GW, then immediately thought Georgetown; however, now GW has it's own image. GW has grown a lot over the years after what SJT had done for the University, but the best way to see the progress is when GW reached a $1 billion endowment. There is a lot of red tape at GW for anything, but they have improved a lot of it when scheduling classes and selecting housing
+Candidate Sentence: We're not an isolated entity, but there are times when the residents of Foggy Bottom wish we were, like Thursday nights through Sunday Morning. Catholic is in the hood, Howard is in a hood that is undergoing substantial gentrification, American is isolated, but they have metro.        People say that GW is a good school, usually because they don't know much about it.  If they do know anything about it, they know that its expensive as hell
+
+
+rank
+Candidate Sentence: It utilizes a semester-based academic calendar.  George Washington University's ranking in the 2011 edition of Best Colleges is National Universities, 51. Its tuition and fees are $41,242.
+The best thing about GW is that its in a good part of DC.  I mean Georgetown is in a good part of DC, but the school sits in a residential area and is kind of isolated on a hill
+Candidate Sentence: In the beginning when I told people I was enrolled at GW, then immediately thought Georgetown; however, now GW has it's own image. GW has grown a lot over the years after what SJT had done for the University, but the best way to see the progress is when GW reached a $1 billion endowment. There is a lot of red tape at GW for anything, but they have improved a lot of it when scheduling classes and selecting housing
+
+
+year_founded
+Candidate Sentence: George Washington University George Washington University The Basics About George Washington University George Washington University is a private institution that was founded in 1821. It has a total undergraduate enrollment of 10,558, its setting is urban, and the campus size is 43 acres. It utilizes a semester-based academic calendar.  George Washington University's ranking in the 2011 edition of Best Colleges is National Universities, 51
+Candidate Sentence: We're not an isolated entity, but there are times when the residents of Foggy Bottom wish we were, like Thursday nights through Sunday Morning. Catholic is in the hood, Howard is in a hood that is undergoing substantial gentrification, American is isolated, but they have metro.        People say that GW is a good school, usually because they don't know much about it.  If they do know anything about it, they know that its expensive as hell

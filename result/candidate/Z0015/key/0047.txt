@@ -1,0 +1,5 @@
+university_name: Barton College  
+Key sentence 1: "Barton College is a private institution that was founded in 1902."
+
+rank: 42  
+Key sentence 1: "Barton College's ranking in the 2011 edition of Best Colleges is Regional Colleges (South), 42."

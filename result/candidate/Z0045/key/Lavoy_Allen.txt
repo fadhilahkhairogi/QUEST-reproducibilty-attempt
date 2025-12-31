@@ -1,0 +1,17 @@
+[name]: Lavoy Allen  
+Key sentnce 1: Lavoy Allen Lavoy Allen (born February 4, 1989) is an American former professional basketball player.
+
+[age]:  
+Key sentnce 1: Lavoy Allen Lavoy Allen (born February 4, 1989) is an American former professional basketball player.
+
+[team]:  
+Key sentnce 1: Lavoy Allen Lavoy Allen (born February 4, 1989) is an American former professional basketball player.
+
+[draft_year]: 2011  
+Key sentnce 1: He was selected in the second round, 50th overall pick in the 2011 NBA draft by the Philadelphia 76ers.
+
+[draft_pick]: 50  
+Key sentnce 1: He was selected in the second round, 50th overall pick in the 2011 NBA draft by the Philadelphia 76ers.
+
+[college]: Temple University  
+Key sentnce 1: On November 8, 2006, Allen committed to Temple, over Division I scholarship offers from Rutgers, Saint Joseph's, and La Salle.

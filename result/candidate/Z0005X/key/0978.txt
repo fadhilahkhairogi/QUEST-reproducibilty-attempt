@@ -1,0 +1,5 @@
+[university_name]: Cornell College
+Key sentnce 1: Cornell College The Basics About Cornell College Cornell College is a private institution that was founded in 1853.
+
+[rank]: 
+Key sentnce 1: Cornell College's ranking in the 2011 edition of Best Colleges is National Liberal Arts Colleges, 81.

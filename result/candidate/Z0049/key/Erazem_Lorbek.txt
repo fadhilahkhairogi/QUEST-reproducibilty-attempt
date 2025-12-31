@@ -1,0 +1,17 @@
+[name]: Erazem Lorbek  
+Key sentnce 1: Erazem Lorbek (born February 21, 1984) is a Slovenian former professional basketball player.
+
+[age]:  
+Key sentnce 1: Erazem Lorbek (born February 21, 1984) is a Slovenian former professional basketball player.
+
+[team]:  
+Key sentnce 1: Erazem Lorbek (born February 21, 1984) is a Slovenian former professional basketball player.
+
+[draft_year]: 2005  
+Key sentnce 1: Lorbek was drafted in the 2nd round of the 2005 NBA draft, by the Indiana Pacers.
+
+[draft_pick]:  
+Key sentnce 1: Lorbek was drafted in the 2nd round of the 2005 NBA draft, by the Indiana Pacers.
+
+[college]: Michigan State University  
+Key sentnce 1: College career Lorbek attended Michigan State University in the U.S., where he played college basketball for Tom Izzo and the Spartans.

@@ -1,0 +1,8 @@
+[name]: Leroy Chollet
+Key sentnce 1: Leroy Chollet Leroy Patrick Chollet (March 5, 1925 – June 10, 1998) was an American professional basketball player who led Loyola University New Orleans to its first national championship.
+
+[age]: 
+Key sentnce 1: Leroy Chollet Leroy Patrick Chollet (March 5, 1925 – June 10, 1998) was an American professional basketball player who led Loyola University New Orleans to its first national championship.
+
+[team]: 
+Key sentnce 1: Chollet signed with the Syracuse Nationals for the NBA's 1949–50 inaugural season, after the Basketball Association of America (BAA) and National Basketball League (NBL) merged.[note 7]

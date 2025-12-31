@@ -1,0 +1,8 @@
+[name]: Ausar Thompson  
+Key sentence 1: "Ausar XLNC Thompson (/əˈsɑːr ˈɛksələns ˈtɒmsən/ ə-SAR EK-sə-lənss TOM-sən; born January 30, 2003) is an American professional basketball player for the Detroit Pistons of the National Basketball Association (NBA)."
+
+[team]: Detroit Pistons  
+Key sentence 1: "Ausar XLNC Thompson is an American professional basketball player for the Detroit Pistons of the National Basketball Association (NBA)."
+
+[NBA_championships]:  
+Key sentence 1: "Thompson was a part of the roster that lost an NBA record-high 28 straight games in the 2023–24 season."

@@ -1,0 +1,27 @@
+name
+Candidate Sentence: Harrison Bryce Jordan Barnes (born May 30, 1992) is an American professional basketball player for the San Antonio Spurs of the National Basketball Association (NBA). He played college basketball for the North Carolina Tar Heels before being selected by the Golden State Warriors in the first round of the 2012 NBA draft with the seventh overall pick. Barnes won an NBA championship with the Warriors in 2015. He also won a gold medal as a member of the 2016 U.S
+Candidate Sentence: National Basketball Association. Retrieved May 29, 2018.
+"Lowry has 20 as Raptors win 6th straight, beat Mavs 116–107". ESPN. October 26, 2018. Retrieved October 27, 2018.
+"Barnes, Jordan star in Mavericks' 114–110 win over Clippers". ESPN. December 2, 2018. Retrieved December 3, 2018.
+"Westbrook rebounds with triple-double as Thunder beat Mavs". ESPN. December 31, 2018. Retrieved January 1, 2019.
+"Mavericks top Hornets 99–93 as Dallas deals Barnes to Kings". ESPN. February 6, 2019
+
+
+team
+Candidate Sentence: Harrison Bryce Jordan Barnes (born May 30, 1992) is an American professional basketball player for the San Antonio Spurs of the National Basketball Association (NBA). He played college basketball for the North Carolina Tar Heels before being selected by the Golden State Warriors in the first round of the 2012 NBA draft with the seventh overall pick. Barnes won an NBA championship with the Warriors in 2015. He also won a gold medal as a member of the 2016 U.S
+Candidate Sentence: NBA.com. Archived from the original on May 29, 2015. Retrieved May 28, 2015.
+"Hornets vs Warriors". NBA.com. Archived from the original on January 27, 2017. Retrieved January 5, 2016.
+"Spurs vs Warriors". NBA.com. Archived from the original on April 8, 2016. Retrieved April 8, 2016.
+"Cavaliers vs Warriors". NBA.com. Archived from the original on June 3, 2016.
+"Mavericks sign forward Harrison Barnes". mavs.com. July 9, 2016
+
+
+NBA_championships
+Candidate Sentence: National Basketball Association. Retrieved May 29, 2018.
+"Lowry has 20 as Raptors win 6th straight, beat Mavs 116–107". ESPN. October 26, 2018. Retrieved October 27, 2018.
+"Barnes, Jordan star in Mavericks' 114–110 win over Clippers". ESPN. December 2, 2018. Retrieved December 3, 2018.
+"Westbrook rebounds with triple-double as Thunder beat Mavs". ESPN. December 31, 2018. Retrieved January 1, 2019.
+"Mavericks top Hornets 99–93 as Dallas deals Barnes to Kings". ESPN. February 6, 2019
+Candidate Sentence: December 10, 2009. Archived from the original on October 22, 2021. Retrieved May 31, 2016.
+"Harrison Barnes's first sip of alcohol was Warriors' victory champagne". Sports Illustrated. June 17, 2015. Retrieved May 31, 2016.
+"UNC in NBA: Harrison Barnes gets married over weekend". Fansided. July 29, 2017. Archived from the original on July 30, 2017. Retrieved July 30, 2017.

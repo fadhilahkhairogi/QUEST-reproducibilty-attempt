@@ -1,0 +1,8 @@
+[name]: Kevin Love
+Key sentence 1: "Kevin Wesley Love (born September 7, 1988) is an American professional basketball player for the Miami Heat of the National Basketball Association (NBA)."
+
+[age]: 35
+Key sentence 1: "Love was born on September 7, 1988, in Santa Monica, California..."
+
+[team]: Miami Heat
+Key sentence 1: "He is an American professional basketball player for the Miami Heat of the National Basketball Association (NBA)."

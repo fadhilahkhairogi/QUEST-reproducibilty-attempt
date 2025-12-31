@@ -1,0 +1,17 @@
+[name]: Miles Simon  
+Key sentnce 1: Miles Julian Simon (born November 21, 1975) is an American basketball coach and former player who recently served as an assistant coach for the Phoenix Suns of the NBA.
+
+[age]: 50  
+Key sentnce 1: Miles Julian Simon (born November 21, 1975) is an American basketball coach and former player who recently served as an assistant coach for the Phoenix Suns of the NBA.
+
+[team]: Phoenix Suns  
+Key sentnce 1: Miles Julian Simon (born November 21, 1975) is an American basketball coach and former player who recently served as an assistant coach for the Phoenix Suns of the NBA.
+
+[draft_year]:  
+Key sentnce 1: After college, Simon played five games with the Orlando Magic during the 1999 NBA season.
+
+[draft_pick]:  
+Key sentnce 1: After college, Simon played five games with the Orlando Magic during the 1999 NBA season.
+
+[college]: University of Arizona  
+Key sentnce 1: He played guard for the University of Arizona Wildcats men's basketball team, where he formed a formidable backcourt duo with future NBA point guard Mike Bibby.

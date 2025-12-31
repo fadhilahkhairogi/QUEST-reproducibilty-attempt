@@ -1,0 +1,22 @@
+university_name
+Candidate Sentence: Georgetown University The Basics About Georgetown University Georgetown University is a private institution that was founded in 1789. It has a total undergraduate enrollment of 7,433, its setting is urban, and the campus size is 104 acres. It utilizes a semester-based academic calendar.  Georgetown University's ranking in the 2011 edition of Best Colleges is National Universities, 21. Its tuition and fees are $40,203.
+It's the non-Ivy Ivy school.  Off-campus housing is expensive
+Candidate Sentence: Georgetown University's ranking in the 2011 edition of Best Colleges is National Universities, 21. Its tuition and fees are $40,203.
+It's the non-Ivy Ivy school.  Off-campus housing is expensive.  MSB grads have the 2nd highest starting salaries of b-school undergrads.
+Best thing about Georgetown is its positioning as a college campus with access to DC
+
+
+year_founded
+Candidate Sentence: Georgetown University The Basics About Georgetown University Georgetown University is a private institution that was founded in 1789. It has a total undergraduate enrollment of 7,433, its setting is urban, and the campus size is 104 acres. It utilizes a semester-based academic calendar.  Georgetown University's ranking in the 2011 edition of Best Colleges is National Universities, 21. Its tuition and fees are $40,203.
+It's the non-Ivy Ivy school.  Off-campus housing is expensive
+Candidate Sentence: Georgetown University's ranking in the 2011 edition of Best Colleges is National Universities, 21. Its tuition and fees are $40,203.
+It's the non-Ivy Ivy school.  Off-campus housing is expensive.  MSB grads have the 2nd highest starting salaries of b-school undergrads.
+Best thing about Georgetown is its positioning as a college campus with access to DC
+
+
+rank
+Candidate Sentence: Georgetown University's ranking in the 2011 edition of Best Colleges is National Universities, 21. Its tuition and fees are $40,203.
+It's the non-Ivy Ivy school.  Off-campus housing is expensive.  MSB grads have the 2nd highest starting salaries of b-school undergrads.
+Best thing about Georgetown is its positioning as a college campus with access to DC
+Candidate Sentence: Off-campus housing is expensive.  MSB grads have the 2nd highest starting salaries of b-school undergrads.
+Best thing about Georgetown is its positioning as a college campus with access to DC.  That being said, one thing I would change is to increase our access to DC even more with more bus routes to downtown or by having a metro stop closer to campus, but that will likely never happen given the stance of Georgetown residents.    The school is a good size with a good reputation

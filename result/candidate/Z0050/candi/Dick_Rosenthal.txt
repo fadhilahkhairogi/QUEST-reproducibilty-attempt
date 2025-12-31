@@ -1,0 +1,20 @@
+name
+Candidate Sentence: Dick Rosenthal Richard Anthony Rosenthal (January 20, 1933 – June 11, 2024) was an American basketball player. An National Basketball Association (NBA) forward with the Fort Wayne Pistons, he played collegiate basketball for the Notre Dame men's basketball team, where he averaged 16.4 points per game over his career. Rosenthal also played baseball at Notre Dame in 1952 and 1953. The Pistons drafted him in the first round of the 1954 NBA draft
+
+
+age
+Candidate Sentence: 
+
+team
+Candidate Sentence: Dick Rosenthal Richard Anthony Rosenthal (January 20, 1933 – June 11, 2024) was an American basketball player. An National Basketball Association (NBA) forward with the Fort Wayne Pistons, he played collegiate basketball for the Notre Dame men's basketball team, where he averaged 16.4 points per game over his career. Rosenthal also played baseball at Notre Dame in 1952 and 1953. The Pistons drafted him in the first round of the 1954 NBA draft
+Candidate Sentence: Louis, Missouri on January 20, 1933. He died in Estero, Florida on June 11, 2024, at the age of 91. He was survived by his second wife Charlotte, his eight children, 21 grandchildren and nine great-grandchildren.
+
+
+draft_year
+Candidate Sentence: 
+
+draft_pick
+Candidate Sentence: 
+
+college
+Candidate Sentence: 

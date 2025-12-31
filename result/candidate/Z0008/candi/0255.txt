@@ -1,0 +1,13 @@
+university_name
+Candidate Sentence: Massachusetts Maritime Academy The Basics About Mass Maritime Mass Maritime is a public institution that was founded in 1891. It has a total undergraduate enrollment of 1,185, its setting is suburban, and the campus size is 55 acres. It utilizes a 4-1-4-based academic calendar.  Mass Maritime's ranking in the 2011 edition of Best Colleges is Regional Colleges (North), 13
+Candidate Sentence: During its 117-year history, the Academy has grown from an entering class of 40 cadets to a fully accredited, four-year, coeducational college granting baccalaureate and master of science degrees and with an undergraduate enrollment of approximately 1,100.The, present name was assumed in 1942 when the Academy moved from Boston to a Hyannis campus on Cape Cod.  In 1946, the Academy was authorized by the legislature to grant the Bachelor of Science degree
+
+
+year_founded
+Candidate Sentence: Massachusetts Maritime Academy The Basics About Mass Maritime Mass Maritime is a public institution that was founded in 1891. It has a total undergraduate enrollment of 1,185, its setting is suburban, and the campus size is 55 acres. It utilizes a 4-1-4-based academic calendar.  Mass Maritime's ranking in the 2011 edition of Best Colleges is Regional Colleges (North), 13
+Candidate Sentence: During its 117-year history, the Academy has grown from an entering class of 40 cadets to a fully accredited, four-year, coeducational college granting baccalaureate and master of science degrees and with an undergraduate enrollment of approximately 1,100.The, present name was assumed in 1942 when the Academy moved from Boston to a Hyannis campus on Cape Cod.  In 1946, the Academy was authorized by the legislature to grant the Bachelor of Science degree
+
+
+rank
+Candidate Sentence: The first graduates of the Bachelor of Science in Emergency Management will receive their degrees in June 2009.  The Academy is accredited by the New England Association of Schools and Colleges (NEASC) and successfully completed a decennial reaccreditation in 2001.  The Master of Science in Facilities Management received NEASC accreditation in 2005.  The Academy???s campus and facilities are continually being upgraded better serving its students
+Candidate Sentence: The draft of the Charleston, a former U. S. Navy gunboat, exceeded the depth of Hyannis Harbor, so the campus was again moved, this time to its present location in the village of Buzzards Bay.  The present undergraduate academic programs feature six distinct majors and emphasize a blend of the liberal arts and sciences with technical and professional studies

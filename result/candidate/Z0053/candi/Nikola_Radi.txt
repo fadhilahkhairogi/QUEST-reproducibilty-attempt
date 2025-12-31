@@ -1,0 +1,22 @@
+name
+Candidate Sentence: 
+
+team
+Candidate Sentence: He played for the Nuggets during 2017 NBA Summer League. On 22 November 2020, his draft rights were traded to the Detroit Pistons. On 11 July 2022, his draft rights were traded to the New York Knicks.
+National team career After averaging 12.4 points, 2.9 rebounds and 5.1 assists per game, Radičević was named to the All-Tournament Team of the 2012 FIBA Europe Under-18 Championship.
+Candidate Sentence: Standing at 6 ft 5 in (1.96 m), he plays at the point guard position.
+Early career Born in Čačak, Radičević began his playing career with Belgrade-based Partizan's youth system.  Professional career In 2012, Radičević moved to Baloncesto Sevilla of the Spanish Liga ACB, signing with the club for five seasons. He trained with the club's first team, while also playing with the club's youth team in the Liga EBA (Spanish 4th Division), as well as with the club's first team
+
+
+draft_year
+Candidate Sentence: He played for the Nuggets during 2017 NBA Summer League. On 22 November 2020, his draft rights were traded to the Detroit Pistons. On 11 July 2022, his draft rights were traded to the New York Knicks.
+National team career After averaging 12.4 points, 2.9 rebounds and 5.1 assists per game, Radičević was named to the All-Tournament Team of the 2012 FIBA Europe Under-18 Championship.
+
+
+draft_pick
+Candidate Sentence: He played for the Nuggets during 2017 NBA Summer League. On 22 November 2020, his draft rights were traded to the Detroit Pistons. On 11 July 2022, his draft rights were traded to the New York Knicks.
+National team career After averaging 12.4 points, 2.9 rebounds and 5.1 assists per game, Radičević was named to the All-Tournament Team of the 2012 FIBA Europe Under-18 Championship.
+
+
+college
+Candidate Sentence: 

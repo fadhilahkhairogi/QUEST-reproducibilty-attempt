@@ -1,0 +1,14 @@
+university_name
+Candidate Sentence: Touro College The Basics About Touro College Touro College is a private institution that was founded in 1971. It has a total undergraduate enrollment of 8,222 and its setting is urban. It utilizes a semester-based academic calendar.  Touro College's ranking in the 2011 edition of Best Colleges is Regional Universities (North), 97. Its tuition and fees are $14,000.
+Copyright © 2011 U.S. News & World Report, L.P
+Candidate Sentence: Touro College's ranking in the 2011 edition of Best Colleges is Regional Universities (North), 97. Its tuition and fees are $14,000.
+Copyright © 2011 U.S. News & World Report, L.P. All rights reserved.
+Use of this Web site constitutes acceptance of our Terms and Conditions of Use and Privacy Policy.
+
+
+rank
+Candidate Sentence: Touro College's ranking in the 2011 edition of Best Colleges is Regional Universities (North), 97. Its tuition and fees are $14,000.
+Copyright © 2011 U.S. News & World Report, L.P. All rights reserved.
+Use of this Web site constitutes acceptance of our Terms and Conditions of Use and Privacy Policy.
+Candidate Sentence: Touro College The Basics About Touro College Touro College is a private institution that was founded in 1971. It has a total undergraduate enrollment of 8,222 and its setting is urban. It utilizes a semester-based academic calendar.  Touro College's ranking in the 2011 edition of Best Colleges is Regional Universities (North), 97. Its tuition and fees are $14,000.
+Copyright © 2011 U.S. News & World Report, L.P

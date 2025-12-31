@@ -1,0 +1,29 @@
+name
+Candidate Sentence: Jahlil Okafor Jahlil Obika Okafor (/ˈdʒɑː liːl/; born December 15, 1995) is a Nigerian-American professional basketball player for the Capitanes de Arecibo of the Baloncesto Superior Nacional (BSN). He played his freshman season of college basketball for the 2014–15 Duke national championship team. He was selected with the third overall pick in the 2015 NBA draft by the Philadelphia 76ers.
+Okafor had been heavily recruited before high school and was at the top of the recruiting rankings for several years
+Candidate Sentence: He was the first freshman to win ACC Player of the Year. He was also a first team All-ACC selection and among the first trio to be selected to the All-ACC Freshman first team (along with Jones and Winslow). He was named USBWA National Freshman of the Year and the 2015 USBWA Freshman All-America Team by the United States Basketball Writers Association (USBWA)
+
+
+age
+Candidate Sentence: He used to be a vegan so that he could prevent his knees from swelling, but he changed his diet when he realized that there was a deficiency in his iron. Okafor has his own chef to make sure that he gets a sufficient amount of protein in his diet. After going to a sleep lab during the 2019 offseason, Okafor was diagnosed with sleep apnea and now uses a CPAP machine, which has improved his quality of sleep.
+Candidate Sentence: In his first three games he shot 25-for-30 on his field goal attempts. He was again named ACC Freshman of the Week on November 24 and December 1. He had his first two 20-point performances in the Coaches vs. Cancer Classic with 24 points against Furman on November 26 and 21 against Army on November 30
+
+
+team
+Candidate Sentence: He was the first freshman to win ACC Player of the Year. He was also a first team All-ACC selection and among the first trio to be selected to the All-ACC Freshman first team (along with Jones and Winslow). He was named USBWA National Freshman of the Year and the 2015 USBWA Freshman All-America Team by the United States Basketball Writers Association (USBWA)
+Candidate Sentence: By the end of his sophomore season, he started appearing on ballots from ESPN HS's 10-person panel for the Mr. Basketball USA award as the best high school basketball player in the country
+
+
+draft_year
+Candidate Sentence: By the end of his sophomore season, he started appearing on ballots from ESPN HS's 10-person panel for the Mr. Basketball USA award as the best high school basketball player in the country
+Candidate Sentence: He was the first freshman to win ACC Player of the Year. He was also a first team All-ACC selection and among the first trio to be selected to the All-ACC Freshman first team (along with Jones and Winslow). He was named USBWA National Freshman of the Year and the 2015 USBWA Freshman All-America Team by the United States Basketball Writers Association (USBWA)
+
+
+draft_pick
+Candidate Sentence: By the end of his sophomore season, he started appearing on ballots from ESPN HS's 10-person panel for the Mr. Basketball USA award as the best high school basketball player in the country
+Candidate Sentence: He was the first freshman to win ACC Player of the Year. He was also a first team All-ACC selection and among the first trio to be selected to the All-ACC Freshman first team (along with Jones and Winslow). He was named USBWA National Freshman of the Year and the 2015 USBWA Freshman All-America Team by the United States Basketball Writers Association (USBWA)
+
+
+college
+Candidate Sentence: By the end of his sophomore season, he started appearing on ballots from ESPN HS's 10-person panel for the Mr. Basketball USA award as the best high school basketball player in the country
+Candidate Sentence: He played high school basketball in Chicago, Illinois for Whitney M. Young Magnet High School, where he earned high school national player of the year awards from McDonald's, USA Today and Parade. Okafor signed with Duke as a package with Tyus Jones, with widespread recognition as the preseason Collegiate National Player of the Year

@@ -1,0 +1,28 @@
+name
+Candidate Sentence: Kermit Washington Kermit Alan Washington (born September 17, 1951) is an American former professional basketball player. Washington is best remembered for punching opposing player Rudy Tomjanovich during an on-court fight in 1977.  Washington was not a highly coveted player coming out of high school. He averaged four points per game during his senior season at Coolidge Senior High School
+Candidate Sentence: He still played a somewhat unaggressive or "soft" brand of basketball, and it was hurting his chances of being drafted by a professional team. Between his sophomore and junior years he began lifting weights with Trey Coleman, a former football player from the University of Nebraska who was studying as an undergrad at American. Coleman encouraged him to be more aggressive on the court, and Washington told him that it was not in his nature
+
+
+age
+Candidate Sentence: He ran a restaurant in the Portland metropolitan just north of Portland in Vancouver, Washington with former Trail Blazer Kevin Duckworth, called "Le Slam." The restaurant closed in 2001. He has also served in a coaching role with Stanford University, and worked at Pete Newell's "Big Man Camp" for 15 years. In 1995, he founded The 6th Man Foundation, otherwise known as Project Contact Africa
+Candidate Sentence: However, when he tried to become athletic director of American in 1995, the school offered to hire him as assistant to the athletic director, since Washington had no front office experience
+
+
+team
+Candidate Sentence: He was drafted after his junior season by the New York Nets of the American Basketball Association (ABA) and offered a four-year contract for $100,000 a year, which astonished him. He decided to stay at American with coach Young for his senior season because he felt he owed the school which had given him a chance when he was coming out of a difficult period in high school
+Candidate Sentence: He came off the bench to average four points per game (ppg). His stepmother informed him that when he graduated from high school he would be thrown out of the house. He trained for three hours a day toward the end of his senior season, and showed up uninvited at a playground game featuring top high school players from Washington and Pennsylvania, where he talked his way into the game
+
+
+draft_year
+Candidate Sentence: He was drafted after his junior season by the New York Nets of the American Basketball Association (ABA) and offered a four-year contract for $100,000 a year, which astonished him. He decided to stay at American with coach Young for his senior season because he felt he owed the school which had given him a chance when he was coming out of a difficult period in high school
+Candidate Sentence: Washington was named an academic All-American his junior year. He averaged 21.0 points on 54.4 percent shooting and an NCAA-leading 19.8 rebounds in his junior season. He was drafted after his junior season by the New York Nets of the American Basketball Association (ABA) and offered a four-year contract for $100,000 a year, which astonished him
+
+
+draft_pick
+Candidate Sentence: He was drafted after his junior season by the New York Nets of the American Basketball Association (ABA) and offered a four-year contract for $100,000 a year, which astonished him. He decided to stay at American with coach Young for his senior season because he felt he owed the school which had given him a chance when he was coming out of a difficult period in high school
+Candidate Sentence: Washington was named an academic All-American his junior year. He averaged 21.0 points on 54.4 percent shooting and an NCAA-leading 19.8 rebounds in his junior season. He was drafted after his junior season by the New York Nets of the American Basketball Association (ABA) and offered a four-year contract for $100,000 a year, which astonished him
+
+
+college
+Candidate Sentence: He came off the bench to average four points per game (ppg). His stepmother informed him that when he graduated from high school he would be thrown out of the house. He trained for three hours a day toward the end of his senior season, and showed up uninvited at a playground game featuring top high school players from Washington and Pennsylvania, where he talked his way into the game
+Candidate Sentence: He still played a somewhat unaggressive or "soft" brand of basketball, and it was hurting his chances of being drafted by a professional team. Between his sophomore and junior years he began lifting weights with Trey Coleman, a former football player from the University of Nebraska who was studying as an undergrad at American. Coleman encouraged him to be more aggressive on the court, and Washington told him that it was not in his nature

@@ -1,0 +1,25 @@
+name
+Candidate Sentence: On December 27, 2016, they announced the termination of their engagement in a joint statement on Twitter.
+While he was the coach of the Chicago Bulls, he lived in Bannockburn, Illinois. He lived in Playa del Rey, Los Angeles when he was the coach of the Los Angeles Lakers. While he was the president of basketball operations of the New York Knicks, he lived in Midtown Manhattan, New York City
+Candidate Sentence: He is the author of several candid books about his teams and his basketball strategies. In 2007, Jackson was inducted into the Basketball Hall of Fame. In 1996, as part of celebrations for the NBA's 50th anniversary, Jackson was named one of the 10 greatest coaches in league history.
+Jackson retired from coaching in 2011 and joined the Knicks as an executive in March 2014. He was dismissed as the Knicks' team president in 2017.
+Early life Jackson was born in Deer Lodge, Montana on September 17, 1945
+
+
+draft_pick
+Candidate Sentence: In his first year in Los Angeles, the Lakers went 67–15 during the regular season to top the league. Reaching the conference finals, they eliminated the Portland Trail Blazers in a tough seven-game series and then won the 2000 NBA championship by beating the Indiana Pacers.
+With the talented superstar duo of Shaquille O'Neal and Kobe Bryant, the strong supporting cast of Glen Rice, Derek Fisher, Rick Fox, Devean George, A.C
+Candidate Sentence: He married his first wife, Maxine, in 1967. They divorced in 1972. He married his second wife, June, in 1974, but they divorced in 2000. He dated Jeanie Buss, the daughter of Lakers owner Jerry Buss, whom he met in 1999. The two became engaged in 2013. On December 27, 2016, they announced the termination of their engagement in a joint statement on Twitter.
+While he was the coach of the Chicago Bulls, he lived in Bannockburn, Illinois
+
+
+draft_year
+Candidate Sentence: In his first year in Los Angeles, the Lakers went 67–15 during the regular season to top the league. Reaching the conference finals, they eliminated the Portland Trail Blazers in a tough seven-game series and then won the 2000 NBA championship by beating the Indiana Pacers.
+With the talented superstar duo of Shaquille O'Neal and Kobe Bryant, the strong supporting cast of Glen Rice, Derek Fisher, Rick Fox, Devean George, A.C
+Candidate Sentence: He married his first wife, Maxine, in 1967. They divorced in 1972. He married his second wife, June, in 1974, but they divorced in 2000. He dated Jeanie Buss, the daughter of Lakers owner Jerry Buss, whom he met in 1999. The two became engaged in 2013. On December 27, 2016, they announced the termination of their engagement in a joint statement on Twitter.
+While he was the coach of the Chicago Bulls, he lived in Bannockburn, Illinois
+
+
+NBA_championships
+Candidate Sentence: Green, Robert Horry, and Brian Shaw, and the assistance of former Bulls Horace Grant, Ron Harper, and John Salley, Jackson led the Lakers to two additional titles in 2001 and 2002, against the Philadelphia 76ers and New Jersey Nets, adding up to his third three-peat as head coach
+Candidate Sentence: He then coached the Los Angeles Lakers from 1999 to 2004 and again from 2005 to 2011; the team won five league titles under his leadership. Jackson's 11 NBA titles as a coach surpassed the previous record of nine set by Red Auerbach

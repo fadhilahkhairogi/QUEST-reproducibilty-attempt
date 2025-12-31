@@ -1,0 +1,17 @@
+[name]: Sid Tanenbaum  
+Key sentnce 1: Sid Tanenbaum Sidney Harold Tanenbaum (October 8, 1925 – September 4, 1986) was an American professional basketball player.
+
+[team]:   
+Key sentnce 1: 
+
+[draft_year]:   
+Key sentnce 1: 
+
+[draft_pick]:   
+Key sentnce 1: 
+
+[college]: New York University  
+Key sentnce 1: Basketball career A 6' 0" guard/forward, Tanenbaum played college basketball at New York University, where he was captain of the team in 1947, and was a two-time All-American and two-time Haggerty Award winner as the outstanding player in the metropolitan area.
+
+[age]: 60  
+Key sentnce 1: Murder Tanenbaum was murdered on September 4, 1986, aged 60, when he was stabbed to death by a local 37-year-old woman in his shop.

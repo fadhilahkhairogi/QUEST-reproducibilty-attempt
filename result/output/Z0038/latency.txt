@@ -1,0 +1,5 @@
+Anthony_Davis.txt,1.0771338939666748
+Greg_Foster.txt,1.711958408355713
+Jay_Vincent.txt,1.575355052947998
+Magic_Johnson.txt,0.9819927215576172
+Phil_Jackson.txt,1.410243034362793

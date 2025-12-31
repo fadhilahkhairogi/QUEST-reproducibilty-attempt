@@ -1,0 +1,15 @@
+name
+Candidate Sentence: Nate Huffman Nate Huffman	Huffman in 2014.
+Nathaniel Thomas Huffman (April 2, 1975 – October 15, 2015) was an American professional basketball player, who played most of his career with Maccabi Tel Aviv
+Candidate Sentence: In the 1997–98 season, he played for the Idaho Stampede of the CBA. He was second in the league in blocked shots per game (1.8), 6th in field goal percentage (.553), 8th in rebounds per game (7.6), and 10th in free throw percentage (.801). He was selected to the CBA All-Rookie Team in 1998.
+He then moved to Europe, and played for Baloncesto Fuenlabrada of the Spanish ACB League.
+In the 1999–00 season, he was signed by Maccabi Tel Aviv
+
+
+team
+Candidate Sentence: In the 1997–98 season, he played for the Idaho Stampede of the CBA. He was second in the league in blocked shots per game (1.8), 6th in field goal percentage (.553), 8th in rebounds per game (7.6), and 10th in free throw percentage (.801). He was selected to the CBA All-Rookie Team in 1998.
+He then moved to Europe, and played for Baloncesto Fuenlabrada of the Spanish ACB League.
+In the 1999–00 season, he was signed by Maccabi Tel Aviv
+Candidate Sentence: He was selected to the CBA All-Rookie Team in 1998.
+He then moved to Europe, and played for Baloncesto Fuenlabrada of the Spanish ACB League.
+In the 1999–00 season, he was signed by Maccabi Tel Aviv. During his time in Israel, he won three Israeli Premier League championships and Israeli State Cups, and one European FIBA SuproLeague title (2001; when he averaged 17.5 points and 9 rebounds, while playing 30 minutes per game, as the team was 21–3)

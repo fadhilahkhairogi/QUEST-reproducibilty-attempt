@@ -1,0 +1,17 @@
+[name]: Vernon Maxwell  
+Key sentnce 1: Vernon Maxwell (born September 12, 1965) is an American former professional basketball player.
+
+[age]:  
+Key sentnce 1: Vernon Maxwell (born September 12, 1965) is an American former professional basketball player.
+
+[team]:  
+Key sentnce 1: Vernon Maxwell (born September 12, 1965) is an American former professional basketball player.
+
+[draft_year]: 1988  
+Key sentnce 1: He was selected by the Denver Nuggets in the second round of the 1988 NBA draft and was immediately traded to the San Antonio Spurs.
+
+[draft_pick]:  
+Key sentnce 1: He was selected by the Denver Nuggets in the second round of the 1988 NBA draft and was immediately traded to the San Antonio Spurs.
+
+[college]: University of Florida  
+Key sentnce 1: Maxwell played college basketball for the University of Florida, and led the Florida Gators to their first-ever NCAA tournament appearance.

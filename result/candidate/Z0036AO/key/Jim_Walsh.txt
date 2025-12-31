@@ -1,0 +1,8 @@
+[name]: James Patrick Walsh  
+Key sentnce 1: James Patrick Walsh (August 29, 1930 – March 4, 1976) was an American basketball player.
+
+[age]:   
+Key sentnce 1: James Patrick Walsh (August 29, 1930 – March 4, 1976) was an American basketball player.
+
+[team]:   
+Key sentnce 1: He then played one season (1957–1958) in the National Basketball Association as a member of the Philadelphia Warriors, averaging 2.0 points per game.

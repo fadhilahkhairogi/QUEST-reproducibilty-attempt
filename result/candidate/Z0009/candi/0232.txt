@@ -1,0 +1,16 @@
+university_name
+Candidate Sentence: You really do experience a connection between the person you want to be and the person people recognize in you, as recognition has a way of coming easily.  That's a great feeling, and that's the advantage of a small school, and perhaps this one specifically, though again, I have very little comparative basis.
+Copyright © 2011 U.S. News & World Report, L.P. All rights reserved.
+Use of this Web site constitutes acceptance of our Terms and Conditions of Use and Privacy Policy.
+Candidate Sentence: We are steadily losing that quality, and within ten years we will have sold our soul to be exactly like every other goddamn "new Ivy" out there.
+It's a small school, and it can get a little claustraphobic some times.  But if the idea of a small school is appealing, then you can guess at the advantages - knowing your professors and your professors knowing you, being close to classmates, feeling like a member of a close knit community - and you can take heart that all of those things exist at Macalester
+
+
+setting
+Candidate Sentence: Macalester College Macalester College The Basics About Macalester College Macalester College is a private institution that was founded in 1874. It has a total undergraduate enrollment of 1,996, its setting is urban, and the campus size is 53 acres. It utilizes a semester-based academic calendar.  Macalester College's ranking in the 2011 edition of Best Colleges is National Liberal Arts Colleges, 26
+Candidate Sentence: I feel like the student body and the climate are the main difference between any given small liberal arts college. Coming to Mac I might have had some preconceived notions about what kind of kids I would encounter, but I mostly expected it to be more cool people and less stupid idiots (than high school). For the most part that's true, because you don't get in unless you have some kind of brain, and that generally entails some kind of social skills
+
+
+total_undergraduate_enrollment
+Candidate Sentence: Macalester College Macalester College The Basics About Macalester College Macalester College is a private institution that was founded in 1874. It has a total undergraduate enrollment of 1,996, its setting is urban, and the campus size is 53 acres. It utilizes a semester-based academic calendar.  Macalester College's ranking in the 2011 edition of Best Colleges is National Liberal Arts Colleges, 26
+Candidate Sentence: I feel like the student body and the climate are the main difference between any given small liberal arts college. Coming to Mac I might have had some preconceived notions about what kind of kids I would encounter, but I mostly expected it to be more cool people and less stupid idiots (than high school). For the most part that's true, because you don't get in unless you have some kind of brain, and that generally entails some kind of social skills

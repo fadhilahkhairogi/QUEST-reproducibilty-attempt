@@ -1,0 +1,6 @@
+Anthony_Davis.txt,1.2286732196807861
+Bill_Hewitt.txt,0.9137248992919922
+Greg_Foster.txt,1.6086113452911377
+Jay_Vincent.txt,1.4436373710632324
+Phil_Jackson.txt,1.8501496315002441
+Shawn_Respert.txt,2.789801836013794

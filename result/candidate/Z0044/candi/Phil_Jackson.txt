@@ -1,0 +1,40 @@
+name
+Candidate Sentence: Phil Jackson This is the latest accepted revision, reviewed on 15 August 2024.
+This article is about the basketball coach. For other people with the same name, see Philip Jackson (disambiguation).
+Philip Douglas Jackson (born September 17, 1945) is an American former professional basketball player, coach, and executive. A power forward, Jackson played 12 seasons in the National Basketball Association (NBA), winning championships with the New York Knicks in 1970 and 1973
+Candidate Sentence: He is the author of several candid books about his teams and his basketball strategies. In 2007, Jackson was inducted into the Basketball Hall of Fame. In 1996, as part of celebrations for the NBA's 50th anniversary, Jackson was named one of the 10 greatest coaches in league history.
+Jackson retired from coaching in 2011 and joined the Knicks as an executive in March 2014. He was dismissed as the Knicks' team president in 2017.
+Early life Jackson was born in Deer Lodge, Montana on September 17, 1945
+
+
+age
+Candidate Sentence: I think there is a pantheistic-deistic-American Indian combination religion out there for Americans. That rings true to me." Jackson was diagnosed with prostate cancer in March 2011. He told the Lakers players in May 2011, when they were involved in a second-round playoff series against the Mavericks
+Candidate Sentence: Green, Robert Horry, and Brian Shaw, and the assistance of former Bulls Horace Grant, Ron Harper, and John Salley, Jackson led the Lakers to two additional titles in 2001 and 2002, against the Philadelphia 76ers and New Jersey Nets, adding up to his third three-peat as head coach
+
+
+team
+Candidate Sentence: He married his first wife, Maxine, in 1967. They divorced in 1972. He married his second wife, June, in 1974, but they divorced in 2000. He dated Jeanie Buss, the daughter of Lakers owner Jerry Buss, whom he met in 1999. The two became engaged in 2013. On December 27, 2016, they announced the termination of their engagement in a joint statement on Twitter.
+While he was the coach of the Chicago Bulls, he lived in Bannockburn, Illinois
+Candidate Sentence: He is the author of several candid books about his teams and his basketball strategies. In 2007, Jackson was inducted into the Basketball Hall of Fame. In 1996, as part of celebrations for the NBA's 50th anniversary, Jackson was named one of the 10 greatest coaches in league history.
+Jackson retired from coaching in 2011 and joined the Knicks as an executive in March 2014. He was dismissed as the Knicks' team president in 2017.
+Early life Jackson was born in Deer Lodge, Montana on September 17, 1945
+
+
+draft_year
+Candidate Sentence: Jackson attracted the attention of several baseball scouts. Their notes found their way to future NBA coach Bill Fitch, who had previously coached baseball, and had been doing some scouting for the Milwaukee Braves. Fitch took over as head basketball coach at the University of North Dakota in the spring of 1962, during Jackson's junior year of high school.
+College career Bill Fitch successfully recruited Jackson to the University of North Dakota, where he was a member of the Sigma Alpha Epsilon fraternity
+Candidate Sentence: In return, the Knicks received Shane Larkin, José Calderón, Samuel Dalembert, and Wayne Ellington along with two picks for the following day's draft. The trade was the first one that he executed as a front office executive. On June 26, as part of the 2014 NBA draft, the Knicks selected Cleanthony Early as the 34th overall pick and Thanasis Antetokounmpo as the 51st overall pick, using the draft picks received in the trade from the Mavericks
+
+
+draft_pick
+Candidate Sentence: He is the author of several candid books about his teams and his basketball strategies. In 2007, Jackson was inducted into the Basketball Hall of Fame. In 1996, as part of celebrations for the NBA's 50th anniversary, Jackson was named one of the 10 greatest coaches in league history.
+Jackson retired from coaching in 2011 and joined the Knicks as an executive in March 2014. He was dismissed as the Knicks' team president in 2017.
+Early life Jackson was born in Deer Lodge, Montana on September 17, 1945
+Candidate Sentence: Jackson attracted the attention of several baseball scouts. Their notes found their way to future NBA coach Bill Fitch, who had previously coached baseball, and had been doing some scouting for the Milwaukee Braves. Fitch took over as head basketball coach at the University of North Dakota in the spring of 1962, during Jackson's junior year of high school.
+College career Bill Fitch successfully recruited Jackson to the University of North Dakota, where he was a member of the Sigma Alpha Epsilon fraternity
+
+
+college
+Candidate Sentence: Jackson attracted the attention of several baseball scouts. Their notes found their way to future NBA coach Bill Fitch, who had previously coached baseball, and had been doing some scouting for the Milwaukee Braves. Fitch took over as head basketball coach at the University of North Dakota in the spring of 1962, during Jackson's junior year of high school.
+College career Bill Fitch successfully recruited Jackson to the University of North Dakota, where he was a member of the Sigma Alpha Epsilon fraternity
+Candidate Sentence: Jackson did well there, helping the Fighting Sioux to third- and fourth-place finishes in the NCAA Division II tournament in his sophomore and junior years (1965 and 1966). Both years, they were beaten by the Southern Illinois Salukis

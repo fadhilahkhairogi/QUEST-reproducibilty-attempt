@@ -1,0 +1,20 @@
+name
+Candidate Sentence: Kermit Washington Kermit Alan Washington (born September 17, 1951) is an American former professional basketball player. Washington is best remembered for punching opposing player Rudy Tomjanovich during an on-court fight in 1977.  Washington was not a highly coveted player coming out of high school. He averaged four points per game during his senior season at Coolidge Senior High School
+Candidate Sentence: He came off the bench to average four points per game (ppg). His stepmother informed him that when he graduated from high school he would be thrown out of the house. He trained for three hours a day toward the end of his senior season, and showed up uninvited at a playground game featuring top high school players from Washington and Pennsylvania, where he talked his way into the game
+
+
+draft_pick
+Candidate Sentence: A week before the team began training camp, Pat and Kermit were married. They invited neither of their families; they just drove together to LA's city hall for the ceremony. He had a difficult time making the transition from college center to NBA power forward. Washington also had played in a primarily zone defense system in college and was not versed in man-to-man defense, which is more common in the NBA
+Candidate Sentence: Washington finally tore the patella tendon in a late season game against Denver. "I could feel it tearing inside. I looked down, and my kneecap was hanging on the side of my leg." Doctors covered his entire leg in a cast and told him his basketball career was most likely over.
+Newell was the person to bring Washington out of the despair Kermit felt when he heard his playing career was probably over
+
+
+draft_year
+Candidate Sentence: A week before the team began training camp, Pat and Kermit were married. They invited neither of their families; they just drove together to LA's city hall for the ceremony. He had a difficult time making the transition from college center to NBA power forward. Washington also had played in a primarily zone defense system in college and was not versed in man-to-man defense, which is more common in the NBA
+Candidate Sentence: Washington finally tore the patella tendon in a late season game against Denver. "I could feel it tearing inside. I looked down, and my kneecap was hanging on the side of my leg." Doctors covered his entire leg in a cast and told him his basketball career was most likely over.
+Newell was the person to bring Washington out of the despair Kermit felt when he heard his playing career was probably over
+
+
+NBA_championships
+Candidate Sentence: Washington also had played in a primarily zone defense system in college and was not versed in man-to-man defense, which is more common in the NBA. He arrived on a team which had legend Jerry West, who was in the waning stages of a career that would result in his becoming the silhouette seen on the NBA's logo. Washington admits that he was terrified of West, and felt anxiety every time he made a mistake in front of him
+Candidate Sentence: He came off the bench to average four points per game (ppg). His stepmother informed him that when he graduated from high school he would be thrown out of the house. He trained for three hours a day toward the end of his senior season, and showed up uninvited at a playground game featuring top high school players from Washington and Pennsylvania, where he talked his way into the game

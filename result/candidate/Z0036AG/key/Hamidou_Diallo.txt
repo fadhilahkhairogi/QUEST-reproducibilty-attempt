@@ -1,0 +1,8 @@
+name: 
+Key sentnce 1: 
+
+age: 
+Key sentnce 1: 
+
+team: 
+Key sentnce 1:

@@ -1,0 +1,36 @@
+name
+Candidate Sentence: Jamal Crawford Aaron Jamal Crawford (born March 20, 1980) is an American former professional basketball player who played in the National Basketball Association (NBA) from 2000 to 2020. Nicknamed "J-Crossover", he is regarded as one of the best ball handlers in NBA history. Crawford was named NBA Sixth Man of the Year three times, a record he shares with Lou Williams.
+Among other distinctions, Crawford was once the NBA’s all-time leader in career four-point plays
+Candidate Sentence: He also became the eighth player in NBA history to appear in a game in 20 different seasons, joining Vince Carter, Kevin Garnett, Dirk Nowitzki, Robert Parish, Kevin Willis, Kareem Abdul-Jabbar, and Kobe Bryant. He recorded five points and three assists in five minutes before leaving the game with a left hamstring injury
+
+
+age
+Candidate Sentence: On April 9, 2019, in a 120–109 season finale loss to the Dallas Mavericks, Crawford made NBA history by recording 51 points in his fourth 50-point game. At 39 years old and 20 days, he thus broke two NBA records: the oldest player to tally 50+ points—held by Michael Jordan at 38 years and 315 days since December 29, 2001—as well as the most points scored by a player not in the starting lineup, held by Nick Anderson with 50 points since April 23, 1993
+Candidate Sentence: At 36 years old, he broke his own record, set in 2014, as the oldest winner of the award.
+Crawford re-signed with the Clippers on July 8, 2016. By making two of four three-pointers against the New Orleans Pelicans on December 2, 2016, Crawford (1,962) passed Vince Carter (1,961) for No. 6 on the NBA's all-time list for made three-pointers
+
+
+team
+Candidate Sentence: Jamal Crawford Aaron Jamal Crawford (born March 20, 1980) is an American former professional basketball player who played in the National Basketball Association (NBA) from 2000 to 2020. Nicknamed "J-Crossover", he is regarded as one of the best ball handlers in NBA history. Crawford was named NBA Sixth Man of the Year three times, a record he shares with Lou Williams.
+Among other distinctions, Crawford was once the NBA’s all-time leader in career four-point plays
+Candidate Sentence: Among those to attend his wedding were Clippers teammates Blake Griffin, Matt Barnes, Chris Paul, DeAndre Jordan, and Spencer Hawes; also in attendance were NBA players Nate Robinson, a fellow Seattleite, and Isaiah Thomas, likewise from the Puget Sound area.
+A staple of the Seattle basketball community, Crawford has organized secret workouts around the city, recruiting a revolving cast of elite-level participants that include the likes of Zach LaVine and Kyrie Irving
+
+
+draft_year
+Candidate Sentence: At 36 years old, he broke his own record, set in 2014, as the oldest winner of the award.
+Crawford re-signed with the Clippers on July 8, 2016. By making two of four three-pointers against the New Orleans Pelicans on December 2, 2016, Crawford (1,962) passed Vince Carter (1,961) for No. 6 on the NBA's all-time list for made three-pointers
+Candidate Sentence: On January 10, 2016, he recorded his 46th four-point play of his career in a 114–111 overtime win over the New Orleans Pelicans. On April 8, 2016, he made a three-pointer with 0.2 seconds left and finished with 30 points in the Clippers' 102–99 overtime victory over the Utah Jazz. On April 19, he was named NBA Sixth Man of the Year for the third time in his career. At 36 years old, he broke his own record, set in 2014, as the oldest winner of the award.
+Crawford re-signed with the Clippers on July 8, 2016
+
+
+draft_pick
+Candidate Sentence: At 36 years old, he broke his own record, set in 2014, as the oldest winner of the award.
+Crawford re-signed with the Clippers on July 8, 2016. By making two of four three-pointers against the New Orleans Pelicans on December 2, 2016, Crawford (1,962) passed Vince Carter (1,961) for No. 6 on the NBA's all-time list for made three-pointers
+Candidate Sentence: On January 10, 2016, he recorded his 46th four-point play of his career in a 114–111 overtime win over the New Orleans Pelicans. On April 8, 2016, he made a three-pointer with 0.2 seconds left and finished with 30 points in the Clippers' 102–99 overtime victory over the Utah Jazz. On April 19, he was named NBA Sixth Man of the Year for the third time in his career. At 36 years old, he broke his own record, set in 2014, as the oldest winner of the award.
+Crawford re-signed with the Clippers on July 8, 2016
+
+
+college
+Candidate Sentence: He also became the eighth player in NBA history to appear in a game in 20 different seasons, joining Vince Carter, Kevin Garnett, Dirk Nowitzki, Robert Parish, Kevin Willis, Kareem Abdul-Jabbar, and Kobe Bryant. He recorded five points and three assists in five minutes before leaving the game with a left hamstring injury
+Candidate Sentence: At the start of the 1999–00 season, however, he incurred a six-game suspension from the National Collegiate Athletic Association (NCAA); it retroactively ruled that his high school living arrangement had breached its bylaws on amateurism.[note 1] The controversial ruling was protested by the university, although to no avail. After the suspension, Crawford joined the starting lineup and went on to average 16.6 points, 4.5 assists, and 2.8 rebounds on the season

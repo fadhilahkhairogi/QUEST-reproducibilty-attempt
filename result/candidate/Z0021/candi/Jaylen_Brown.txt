@@ -1,0 +1,28 @@
+name
+Candidate Sentence: This article is about the NBA player. For the WNBA player, see Jaelyn Brown. For the soccer player, see Jalen Brown.
+Jaylen Marselles Brown (born October 24, 1996) is an American professional basketball player for the Boston Celtics of the National Basketball Association (NBA)
+Candidate Sentence: For the soccer player, see Jalen Brown.
+Jaylen Marselles Brown (born October 24, 1996) is an American professional basketball player for the Boston Celtics of the National Basketball Association (NBA). He played one year of college basketball for the California Golden Bears and was named first-team all-conference and Freshman of the Year in the Pac-12 Conference.
+Declaring for the 2016 NBA draft after his freshman season, Brown was selected by the Celtics with the third overall pick
+
+
+age
+Candidate Sentence: Archived from the original on April 23, 2018. Retrieved April 22, 2018.
+"Tatum shines, Brown returns as Celtics beat 76ers 108–103". ESPN.com. May 3, 2018. Archived from the original on May 4, 2018. Retrieved May 3, 2018.
+"Celtics beat 76ers 114–112 in Game 5, advance to face Cavs". ESPN.com. May 9, 2018. Archived from the original on May 10, 2018. Retrieved May 9, 2018.
+"Boston bound: LeBron James pushes Cavs to Game 7 vs. Celtics". ESPN.com. May 25, 2018. Archived from the original on May 27, 2018
+Candidate Sentence: ESPN.com. Associated Press. November 3, 2016. Archived from the original on November 29, 2020. Retrieved November 4, 2016.
+"Thomas scores 21 as Celtics rout Magic 128–98". ESPN.com. Associated Press. January 27, 2017. Archived from the original on July 3, 2018. Retrieved January 27, 2017.
+"James passes Jordan, Cavs back in Finals with 135-102 win". ESPN.com. Associated Press. May 26, 2017. Archived from the original on June 27, 2017. Retrieved May 27, 2017.
+Jakubajtys, Logan (June 11, 2017)
+
+
+mvp_awards
+Candidate Sentence: "2024 NBA Finals MVP: Celtics' Jaylen Brown edges Jayson Tatum as Boston wins historic title". CBSSports.com. Retrieved June 18, 2024.
+Wright, Michael C. (June 18, 2024). "Celtics' Jaylen Brown named 2024 Bill Russell NBA Finals MVP". NBA.com. Retrieved June 19, 2024.
+Letourneau, Connor (March 8, 2016). "Cal's Jaylen Brown has scholarly ambitions". San Francisco Chronicle. Archived from the original on August 16, 2016. Retrieved August 12, 2016.
+"Person Overview ‹ Jaylen Brown". MIT.edu
+Candidate Sentence: Archived from the original on April 23, 2018. Retrieved April 22, 2018.
+"Tatum shines, Brown returns as Celtics beat 76ers 108–103". ESPN.com. May 3, 2018. Archived from the original on May 4, 2018. Retrieved May 3, 2018.
+"Celtics beat 76ers 114–112 in Game 5, advance to face Cavs". ESPN.com. May 9, 2018. Archived from the original on May 10, 2018. Retrieved May 9, 2018.
+"Boston bound: LeBron James pushes Cavs to Game 7 vs. Celtics". ESPN.com. May 25, 2018. Archived from the original on May 27, 2018

@@ -1,0 +1,20 @@
+name
+Candidate Sentence: He ran a restaurant in the Portland metropolitan just north of Portland in Vancouver, Washington with former Trail Blazer Kevin Duckworth, called "Le Slam." The restaurant closed in 2001. He has also served in a coaching role with Stanford University, and worked at Pete Newell's "Big Man Camp" for 15 years. In 1995, he founded The 6th Man Foundation, otherwise known as Project Contact Africa
+Candidate Sentence: Kermit Washington Kermit Alan Washington (born September 17, 1951) is an American former professional basketball player. Washington is best remembered for punching opposing player Rudy Tomjanovich during an on-court fight in 1977.  Washington was not a highly coveted player coming out of high school. He averaged four points per game during his senior season at Coolidge Senior High School
+
+
+draft_pick
+Candidate Sentence: He was drafted after his junior season by the New York Nets of the American Basketball Association (ABA) and offered a four-year contract for $100,000 a year, which astonished him. He decided to stay at American with coach Young for his senior season because he felt he owed the school which had given him a chance when he was coming out of a difficult period in high school
+Candidate Sentence: While he waited for his reinstatement, which he thought would not occur until the next season, he became depressed and fell out of shape. He pulled himself together, and began running up and down the flights of stairs of the 29-story hotel.
+Years later, Jerry West, who was the Lakers coach at the time, told John Feinstein he still wanted Washington on the roster
+
+
+draft_year
+Candidate Sentence: He was drafted after his junior season by the New York Nets of the American Basketball Association (ABA) and offered a four-year contract for $100,000 a year, which astonished him. He decided to stay at American with coach Young for his senior season because he felt he owed the school which had given him a chance when he was coming out of a difficult period in high school
+Candidate Sentence: While he waited for his reinstatement, which he thought would not occur until the next season, he became depressed and fell out of shape. He pulled himself together, and began running up and down the flights of stairs of the 29-story hotel.
+Years later, Jerry West, who was the Lakers coach at the time, told John Feinstein he still wanted Washington on the roster
+
+
+NBA_championships
+Candidate Sentence: However, when he tried to become athletic director of American in 1995, the school offered to hire him as assistant to the athletic director, since Washington had no front office experience
+Candidate Sentence: He averaged 9.2 points and 8.3 rebounds per game in ten National Basketball Association (NBA) seasons and played in the All-Star Game once. Washington was drafted by the Los Angeles Lakers with the fifth overall pick in the 1973 NBA draft. He played sparingly his first three seasons, and sought the help of retired basketball coach Pete Newell before his fourth season. Under Newell's tutelage, Washington's game rapidly improved and he became a starter for several teams

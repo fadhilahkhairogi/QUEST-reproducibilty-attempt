@@ -1,0 +1,8 @@
+[name]: Brandon Goodwin  
+Key sentnce 1: Brandon Goodwin (basketball) Brandon Goodwin (born October 2, 1995) is an American professional basketball player for the Gigantes de Carolina of the Baloncesto Superior Nacional (BSN).
+
+[age]:   
+Key sentnce 1: 
+
+[team]:   
+Key sentnce 1:

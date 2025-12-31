@@ -1,0 +1,17 @@
+name
+Candidate Sentence: 
+
+age
+Candidate Sentence: 
+
+team
+Candidate Sentence: 
+
+draft_year
+Candidate Sentence: 
+
+draft_pick
+Candidate Sentence: 
+
+college
+Candidate Sentence: 

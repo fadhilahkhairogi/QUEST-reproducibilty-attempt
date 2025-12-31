@@ -1,0 +1,31 @@
+name
+Candidate Sentence: Anthony Edwards (basketball) Anthony Edwards (born August 5, 2001), nicknamed "Ant-Man" or simply "Ant", is an American professional basketball player for the Minnesota Timberwolves of the National Basketball Association (NBA). A shooting guard, he played college basketball for the Georgia Bulldogs and was selected with the first overall pick by the Timberwolves in the 2020 NBA draft. He was named an All-Star during the 2022–23 and 2023–24 seasons. Edwards also won a gold medal on the 2024 U.S
+
+
+age
+Candidate Sentence: On February 10, 2023, he was named an All-Star for the first time in his career as a reserve. Edwards and De'Aaron Fox were announced as injury replacements for injured stars Stephen Curry and Zion Williamson
+Candidate Sentence: He started all eight games and was selected in the All-FIBA World Cup Team. He was the leading scorer for the U.S., averaging 18.9 points per game. The team finished in fourth place. He was named to the 2024 Olympic team.
+Career statistics College career 2023–24 season: First All-NBA appearance Regular season Play-in Playoffs Personal life Edwards's mother, Yvette, and grandmother, Shirley, both died of cancer during an eight-month span in 2015, when he was in eighth grade. He has worn the No
+
+
+team
+Candidate Sentence: Anthony Edwards (basketball) Anthony Edwards (born August 5, 2001), nicknamed "Ant-Man" or simply "Ant", is an American professional basketball player for the Minnesota Timberwolves of the National Basketball Association (NBA). A shooting guard, he played college basketball for the Georgia Bulldogs and was selected with the first overall pick by the Timberwolves in the 2020 NBA draft. He was named an All-Star during the 2022–23 and 2023–24 seasons. Edwards also won a gold medal on the 2024 U.S
+Candidate Sentence: As a senior, he earned McDonald's All-American and USA Today All-USA first team honors. He committed to play college basketball for Georgia, becoming the highest-rated recruit to do so, and was named SEC Freshman of the Year after his freshman season with the team.
+Early life Edwards spent his early life in Oakland City, Atlanta, Georgia. When he was three years old, he was given the nickname "Ant-Man" by his father
+
+
+draft_year
+Candidate Sentence: Anthony Edwards (basketball) Anthony Edwards (born August 5, 2001), nicknamed "Ant-Man" or simply "Ant", is an American professional basketball player for the Minnesota Timberwolves of the National Basketball Association (NBA). A shooting guard, he played college basketball for the Georgia Bulldogs and was selected with the first overall pick by the Timberwolves in the 2020 NBA draft. He was named an All-Star during the 2022–23 and 2023–24 seasons. Edwards also won a gold medal on the 2024 U.S
+Candidate Sentence: After the season, he finished second in Rookie of the Year voting and was named to the NBA All-Rookie First Team.
+2021–22 season: First playoff appearance On November 10, 2021, Edwards scored a then career-high 48 points on 7 three-pointers in a 123–110 loss to the Golden State Warriors
+
+
+draft_pick
+Candidate Sentence: On February 11, 2019, he committed to play college basketball for Georgia, becoming the program's best recruit in the modern recruiting era. Edwards chose the Bulldogs over offers from Florida State, Kansas, Kentucky, and North Carolina
+Candidate Sentence: On February 10, 2023, he was named an All-Star for the first time in his career as a reserve. Edwards and De'Aaron Fox were announced as injury replacements for injured stars Stephen Curry and Zion Williamson
+
+
+college
+Candidate Sentence: On February 11, 2019, he committed to play college basketball for Georgia, becoming the program's best recruit in the modern recruiting era. Edwards chose the Bulldogs over offers from Florida State, Kansas, Kentucky, and North Carolina
+Candidate Sentence: As a senior, he earned McDonald's All-American and USA Today All-USA first team honors. He committed to play college basketball for Georgia, becoming the highest-rated recruit to do so, and was named SEC Freshman of the Year after his freshman season with the team.
+Early life Edwards spent his early life in Oakland City, Atlanta, Georgia. When he was three years old, he was given the nickname "Ant-Man" by his father

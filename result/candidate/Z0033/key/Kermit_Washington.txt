@@ -1,0 +1,17 @@
+[name]: Kermit Washington  
+Key sentnce 1: Kermit Washington Kermit Alan Washington (born September 17, 1951) is an American former professional basketball player.  
+
+[team]: Los Angeles Lakers  
+Key sentnce 1: Washington was drafted by the Los Angeles Lakers with the fifth overall pick in the 1973 NBA draft.  
+
+[draft_year]: 1973  
+Key sentnce 1: Washington was drafted by the Los Angeles Lakers with the fifth overall pick in the 1973 NBA draft.  
+
+[draft_pick]: 5  
+Key sentnce 1: Washington was drafted by the Los Angeles Lakers with the fifth overall pick in the 1973 NBA draft.  
+
+[college]: American University  
+Key sentnce 1: He improved rapidly once at American University, and became one of only seven players in NCAA history to average 20 points and 20 rebounds throughout the course of his career.  
+
+[age]:   
+Key sentnce 1: Kermit Washington Kermit Alan Washington (born September 17, 1951) is an American former professional basketball player.

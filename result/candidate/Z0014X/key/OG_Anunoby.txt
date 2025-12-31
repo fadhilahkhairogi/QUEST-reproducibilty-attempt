@@ -1,0 +1,8 @@
+[name]: Ogugua "OG" Anunoby Jr.
+Key sentence 1: "Ogugua "OG" Anunoby Jr. (born 17 July 1997) is a British professional basketball player for the New York Knicks of the National Basketball Association (NBA)."
+
+[age]: 26
+Key sentence 1: "Ogugua Anunoby was born in London, England on 17 July 1997."
+
+[team]: New York Knicks
+Key sentence 1: "Ogugua "OG" Anunoby Jr. (born 17 July 1997) is a British professional basketball player for the New York Knicks of the National Basketball Association (NBA)."

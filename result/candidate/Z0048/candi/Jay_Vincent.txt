@@ -1,0 +1,21 @@
+name
+Candidate Sentences: Jay Vincent Jay Fletcher Vincent (born June 10, 1959) is an American former professional basketball player. He played college basketball for the Michigan State Spartans. Vincent was selected 24th overall by the Dallas Mavericks in the 1981 NBA draft. He played for several NBA teams, including the Dallas Mavericks, Washington Bullets, Denver Nuggets, San Antonio Spurs, Philadelphia 76ers, and Los Angeles Lakers
+
+
+age
+Candidate Sentences: 
+
+team
+Candidate Sentences: Jay Vincent Jay Fletcher Vincent (born June 10, 1959) is an American former professional basketball player. He played college basketball for the Michigan State Spartans. Vincent was selected 24th overall by the Dallas Mavericks in the 1981 NBA draft. He played for several NBA teams, including the Dallas Mavericks, Washington Bullets, Denver Nuggets, San Antonio Spurs, Philadelphia 76ers, and Los Angeles Lakers
+
+
+draft_year
+Candidate Sentences: Jay Vincent Jay Fletcher Vincent (born June 10, 1959) is an American former professional basketball player. He played college basketball for the Michigan State Spartans. Vincent was selected 24th overall by the Dallas Mavericks in the 1981 NBA draft. He played for several NBA teams, including the Dallas Mavericks, Washington Bullets, Denver Nuggets, San Antonio Spurs, Philadelphia 76ers, and Los Angeles Lakers
+
+
+draft_pick
+Candidate Sentences: Jay Vincent Jay Fletcher Vincent (born June 10, 1959) is an American former professional basketball player. He played college basketball for the Michigan State Spartans. Vincent was selected 24th overall by the Dallas Mavericks in the 1981 NBA draft. He played for several NBA teams, including the Dallas Mavericks, Washington Bullets, Denver Nuggets, San Antonio Spurs, Philadelphia 76ers, and Los Angeles Lakers
+
+
+college
+Candidate Sentences: Jay Vincent Jay Fletcher Vincent (born June 10, 1959) is an American former professional basketball player. He played college basketball for the Michigan State Spartans. Vincent was selected 24th overall by the Dallas Mavericks in the 1981 NBA draft. He played for several NBA teams, including the Dallas Mavericks, Washington Bullets, Denver Nuggets, San Antonio Spurs, Philadelphia 76ers, and Los Angeles Lakers

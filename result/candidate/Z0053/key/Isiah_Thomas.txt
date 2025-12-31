@@ -1,0 +1,14 @@
+[name]: Isiah Thomas
+Key sentnce 1: Isiah Lord Thomas III (/aɪˈzeɪ.ə/ eye-ZAY-ə; born April 30, 1961), also known as "Zeke", is an American former professional basketball player and coach who is an analyst for NBA TV.
+
+[team]: Detroit Pistons
+Key sentnce 1: He played his entire professional career for the Detroit Pistons of the National Basketball Association (NBA).
+
+[draft_year]: 1981
+Key sentnce 1: He was taken as the second overall pick by the Pistons in the 1981 NBA draft, and played for them his entire career, while leading the "Bad Boys" to the 1988–89 and 1989–90 NBA championships.
+
+[draft_pick]: second overall pick
+Key sentnce 1: He was taken as the second overall pick by the Pistons in the 1981 NBA draft, and played for them his entire career, while leading the "Bad Boys" to the 1988–89 and 1989–90 NBA championships.
+
+[college]: Indiana Hoosiers (Indiana University)
+Key sentnce 1: Thomas played college basketball for the Indiana Hoosiers, leading them to the 1981 NCAA championship as a sophomore and declaring for the NBA draft.

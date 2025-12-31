@@ -1,0 +1,8 @@
+[name]: Elmer H. Behnke  
+Key sentnce 1: Elmer Behnke Elmer H. Behnke (February 3, 1929 – May 25, 2018) was an American basketball player.  
+
+[age]:   
+Key sentnce 1:   
+
+[team]:   
+Key sentnce 1: He played for the Milwaukee Hawks (1951–52) in the NBA for four games.

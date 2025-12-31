@@ -1,0 +1,6 @@
+name
+Candidate Sentence: Tom Copa Thomas James Copa (born October 30, 1964) is an American former professional basketball player. After graduating from Marquette he went on to play professionally in the National Basketball Association (NBA) and in Europe. Born in Robbinsdale, Minnesota, he was named Minnesota Mr. Basketball in 1983.
+College career Copa played college basketball for Marquette Warriors from 1983 to 1987
+Candidate Sentence: Born in Robbinsdale, Minnesota, he was named Minnesota Mr. Basketball in 1983.
+College career Copa played college basketball for Marquette Warriors from 1983 to 1987. In 120 career games, he averaged 8.2 points and 4.7 rebounds per game.
+Professional career Although chosen with the 44th pick in the 1987 CBA draft, Copa moved to Vail, Colorado after graduating where he worked as a shuttle-bus driver from the Stapleton Airport to Vail for the winter

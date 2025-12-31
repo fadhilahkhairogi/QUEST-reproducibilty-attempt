@@ -1,0 +1,24 @@
+name
+Candidate Sentence: Tony Delk Tony Lorenzo Delk (born January 28, 1974) is an American former professional basketball player and college assistant coach. He last served as an assistant coach for the New Mexico State Aggies men's basketball team. During his playing days, he was team leader of the Kentucky Wildcats team that won the 1996 NCAA Championship Game
+Candidate Sentence: He won the Greek Cup, the Greek Championship and the European Championship with Panathinaikos, but was released in May 2007, citing compatibility issues. He announced his retirement from professional basketball in November 2007. In 2008, nonetheless, he played three games for the Gigantes de Carolina in the BSN, the professional basketball league of Puerto Rico
+
+
+draft_pick
+Candidate Sentence: During his playing days, he was team leader of the Kentucky Wildcats team that won the 1996 NCAA Championship Game. After college, he played for eight National Basketball Association (NBA) teams over 10 seasons.
+High school Delk attended Haywood Junior High School and Haywood High School in Brownsville, Tennessee. During his 1992 senior year of high school, Delk was named "Mr
+Candidate Sentence: He also received SEC Player of the Year honors during the season. Delk joined Omega Psi Phi Fraternity while at Kentucky.
+College statistics Playing career Delk (right) guarded by Andrei Kirilenko in 2006. Tony Delk was picked 16th overall in the 1996 NBA draft by the Charlotte Hornets. He was traded by the Hornets along with Muggsy Bogues to the Golden State Warriors for B. J. Armstrong on November 7, 1997, where he played for two seasons before signing with the Sacramento Kings on August 16, 1999
+
+
+draft_year
+Candidate Sentence: During his playing days, he was team leader of the Kentucky Wildcats team that won the 1996 NCAA Championship Game. After college, he played for eight National Basketball Association (NBA) teams over 10 seasons.
+High school Delk attended Haywood Junior High School and Haywood High School in Brownsville, Tennessee. During his 1992 senior year of high school, Delk was named "Mr
+Candidate Sentence: He also received SEC Player of the Year honors during the season. Delk joined Omega Psi Phi Fraternity while at Kentucky.
+College statistics Playing career Delk (right) guarded by Andrei Kirilenko in 2006. Tony Delk was picked 16th overall in the 1996 NBA draft by the Charlotte Hornets. He was traded by the Hornets along with Muggsy Bogues to the Golden State Warriors for B. J. Armstrong on November 7, 1997, where he played for two seasons before signing with the Sacramento Kings on August 16, 1999
+
+
+NBA_championships
+Candidate Sentence: J. Armstrong on November 7, 1997, where he played for two seasons before signing with the Sacramento Kings on August 16, 1999. He appeared in 46 games in 1999-00, subsequently joining the Phoenix Suns on August 1, 2000.
+In a January 2, 2001, overtime game against the Kings, he scored a career-high 53 points on 20-for-27 field goal shooting. This was the only game of Delk's career in which he scored 30 or more points
+Candidate Sentence: During his playing days, he was team leader of the Kentucky Wildcats team that won the 1996 NCAA Championship Game. After college, he played for eight National Basketball Association (NBA) teams over 10 seasons.
+High school Delk attended Haywood Junior High School and Haywood High School in Brownsville, Tennessee. During his 1992 senior year of high school, Delk was named "Mr

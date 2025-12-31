@@ -1,0 +1,30 @@
+name
+Candidate Sentence: Chicago Tribune. Archived from the original on July 31, 2021. Retrieved October 30, 2023.
+"1996-97 NBA Awards Voting". Basketball Reference. Archived from the original on May 4, 2021. Retrieved October 22, 2022.
+Felton, Robert (April 15, 2011). "NBA: The Eight Most Controversial MVP Wins of All Time". Bleacher Report. Archived from the original on May 23, 2021. Retrieved October 30, 2023.
+Quinn, Sam (May 20, 2020)
+Candidate Sentence: CBS Sports. Archived from the original on January 16, 2020. Retrieved October 30, 2023.
+"1989-90 Chicago Bulls Roster and Stats". Basketball Reference. Archived from the original on June 3, 2021. Retrieved October 22, 2022.
+"1992 NBA Finals Trail Blazers vs. Bulls". Basketball Reference. Archived from the original on June 12, 2018. Retrieved October 30, 2023.
+Zillgitt, Jeff (September 19, 2020). "LeBron James should have more than four MVPs, given his dominance". USA Today
+
+
+age
+Candidate Sentence: Chicago Tribune. Archived from the original on July 31, 2021. Retrieved October 30, 2023.
+"1996-97 NBA Awards Voting". Basketball Reference. Archived from the original on May 4, 2021. Retrieved October 22, 2022.
+Felton, Robert (April 15, 2011). "NBA: The Eight Most Controversial MVP Wins of All Time". Bleacher Report. Archived from the original on May 23, 2021. Retrieved October 30, 2023.
+Quinn, Sam (May 20, 2020)
+Candidate Sentence: CBS Sports. Archived from the original on January 16, 2020. Retrieved October 30, 2023.
+"1989-90 Chicago Bulls Roster and Stats". Basketball Reference. Archived from the original on June 3, 2021. Retrieved October 22, 2022.
+"1992 NBA Finals Trail Blazers vs. Bulls". Basketball Reference. Archived from the original on June 12, 2018. Retrieved October 30, 2023.
+Zillgitt, Jeff (September 19, 2020). "LeBron James should have more than four MVPs, given his dominance". USA Today
+
+
+mvp_awards
+Candidate Sentence: Chicago Tribune. Archived from the original on July 31, 2021. Retrieved October 30, 2023.
+"1996-97 NBA Awards Voting". Basketball Reference. Archived from the original on May 4, 2021. Retrieved October 22, 2022.
+Felton, Robert (April 15, 2011). "NBA: The Eight Most Controversial MVP Wins of All Time". Bleacher Report. Archived from the original on May 23, 2021. Retrieved October 30, 2023.
+Quinn, Sam (May 20, 2020)
+Candidate Sentence: "NBA: The Eight Most Controversial MVP Wins of All Time". Bleacher Report. Archived from the original on May 23, 2021. Retrieved October 30, 2023.
+Quinn, Sam (May 20, 2020). "Michael Jordan's final shot over Bryon Russell: How Bulls spent two years setting up legendary basket vs. Jazz". CBS Sports. Archived from the original on April 25, 2022. Retrieved October 30, 2023.
+Golliver, Ben (April 23, 2013). "Phil Jackson on Michael Jordan's push-off: 'A helping hand to a broke down comrade'". Sports Illustrated

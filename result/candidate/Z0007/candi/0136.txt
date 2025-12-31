@@ -1,0 +1,11 @@
+university_name
+Candidate Sentence: Harvey Mudd College The Basics About Harvey Mudd College Harvey Mudd College is a private institution that was founded in 1955. It has a total undergraduate enrollment of 757, its setting is suburban, and the campus size is 33 acres. It utilizes a semester-based academic calendar.  Harvey Mudd College's ranking in the 2011 edition of Best Colleges is National Liberal Arts Colleges, 18. Its tuition and fees are $40,390.
+Harvey Mudd will give you a wonderful education
+Candidate Sentence: I spend most of my time underground... all the engineering labs are underground, its annoying. It's a nice, small college town. The town of claremont is really nice, even though there are a lot of old people. I don't like the administration, I don't get the feeling they care about the students, they care about the image of the school more. The profs are great though. There is a lot of school pride, but more dorm pride. Everyone feels they belong to a specific dorm
+
+
+total_undergraduate_enrollment
+Candidate Sentence: While most schools require 4 classes per semester to graduate, Mudd requires 5 and a lab.  All of my professors know my name and it is very easy for me to meet with them and discuss homework problems.  While Mudd is only about 750 kids, you have the other 4 colleges as a resource to go and meet new people.  There are a total of 5000 on all five of the colleges. While each of the 5 colleges has its own stereotype, Mudd is the only college that has stereotypes within the individual dorms
+Candidate Sentence: Science is a immense part of our lives. Students complain about how difficult and stressful it is here. This school really humbles you, it hurts your self esteem. But I think I'll be a stronger person by the time I graduate and will be more than prepared for the reali world.
+Copyright © 2011 U.S. News & World Report, L.P. All rights reserved.
+Use of this Web site constitutes acceptance of our Terms and Conditions of Use and Privacy Policy.

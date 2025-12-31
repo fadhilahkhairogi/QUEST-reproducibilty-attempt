@@ -1,0 +1,22 @@
+name
+Candidate Sentence: 
+
+age
+Candidate Sentence: Candidate Sentence: On 13 February 2015, he took part in the Rising Stars Challenge of the NBA All-Star Game; in spite of an injury-plagued rookie season, during which he averaged 4.2 points and 2.7 rebounds per game, while coming off the bench, the Rockets decided to pick up his team option for the 2015–16 season.
+Denver Nuggets (2015–2016) On 20 July 2015, the Rockets traded Papanikolaou, Joey Dorsey, Nick Johnson, Pablo Prigioni, a 2016 first-round draft pick, and cash considerations to the Denver Nuggets, in exchange for Ty Lawson and a 2017 second-round draft pick
+
+
+team
+Candidate Sentence: The contract included NBA buyout clauses in the amounts of €1.1 million for 2014, and €750,000 for 2015.
+Barcelona went on to win the 2013–14 Spanish Liga ACB championship.
+Houston Rockets (2014–2015) On 28 June 2012, Papanikolaou was selected with the 48th overall pick in the 2012 NBA draft by the New York Knicks
+
+
+draft_year
+Candidate Sentence: 
+
+draft_pick
+Candidate Sentence: 
+
+college
+Candidate Sentence: 

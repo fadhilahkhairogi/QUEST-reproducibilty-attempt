@@ -1,0 +1,8 @@
+[name]: Jalen Marquis Brunson  
+Key sentence 1: "Jalen Marquis Brunson (born August 31, 1996) is an American professional basketball player for the New York Knicks of the National Basketball Association (NBA)."
+
+[age]: 27  
+Key sentence 1: "Jalen Marquis Brunson (born August 31, 1996) is an American professional basketball player for the New York Knicks of the National Basketball Association (NBA)."
+
+[team]: New York Knicks  
+Key sentence 1: "Jalen Marquis Brunson (born August 31, 1996) is an American professional basketball player for the New York Knicks of the National Basketball Association (NBA)."

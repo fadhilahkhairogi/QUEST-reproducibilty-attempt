@@ -1,0 +1,17 @@
+name
+Candidate Sentence: Anthony Edwards (basketball) Anthony Edwards (born August 5, 2001), nicknamed "Ant-Man" or simply "Ant", is an American professional basketball player for the Minnesota Timberwolves of the National Basketball Association (NBA). A shooting guard, he played college basketball for the Georgia Bulldogs and was selected with the first overall pick by the Timberwolves in the 2020 NBA draft. He was named an All-Star during the 2022–23 and 2023–24 seasons. Edwards also won a gold medal on the 2024 U.S
+
+
+draft_pick
+Candidate Sentence: 1 overall pick on draft night. On December 23, 2020, he made his NBA debut, putting up 15 points, 4 rebounds, and 4 assists in 25 minutes, in a 111–101 win against the Detroit Pistons. On March 18, 2021, Edwards scored a then career-high 42 points, along with 7 rebounds and 3 assists, in a game against the Phoenix Suns, becoming the third-youngest player to score 40+ points in NBA history
+Candidate Sentence: On February 11, 2019, he committed to play college basketball for Georgia, becoming the program's best recruit in the modern recruiting era. Edwards chose the Bulldogs over offers from Florida State, Kansas, Kentucky, and North Carolina
+
+
+draft_year
+Candidate Sentence: 1 overall pick on draft night. On December 23, 2020, he made his NBA debut, putting up 15 points, 4 rebounds, and 4 assists in 25 minutes, in a 111–101 win against the Detroit Pistons. On March 18, 2021, Edwards scored a then career-high 42 points, along with 7 rebounds and 3 assists, in a game against the Phoenix Suns, becoming the third-youngest player to score 40+ points in NBA history
+Candidate Sentence: On February 11, 2019, he committed to play college basketball for Georgia, becoming the program's best recruit in the modern recruiting era. Edwards chose the Bulldogs over offers from Florida State, Kansas, Kentucky, and North Carolina
+
+
+NBA_championships
+Candidate Sentence: 1 overall pick on draft night. On December 23, 2020, he made his NBA debut, putting up 15 points, 4 rebounds, and 4 assists in 25 minutes, in a 111–101 win against the Detroit Pistons. On March 18, 2021, Edwards scored a then career-high 42 points, along with 7 rebounds and 3 assists, in a game against the Phoenix Suns, becoming the third-youngest player to score 40+ points in NBA history
+Candidate Sentence: On February 10, 2023, he was named an All-Star for the first time in his career as a reserve. Edwards and De'Aaron Fox were announced as injury replacements for injured stars Stephen Curry and Zion Williamson

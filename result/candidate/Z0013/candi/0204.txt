@@ -1,0 +1,18 @@
+university_name
+Candidate Sentences: Lawrence University The Basics About Lawrence University Lawrence University is a private institution that was founded in 1847. It has a total undergraduate enrollment of 1,495, its setting is urban, and the campus size is 84 acres. It utilizes a trimester-based academic calendar.  Lawrence University's ranking in the 2011 edition of Best Colleges is National Liberal Arts Colleges, 67
+
+
+academic_calendar
+Candidate Sentences: Lawrence University The Basics About Lawrence University Lawrence University is a private institution that was founded in 1847. It has a total undergraduate enrollment of 1,495, its setting is urban, and the campus size is 84 acres. It utilizes a trimester-based academic calendar.  Lawrence University's ranking in the 2011 edition of Best Colleges is National Liberal Arts Colleges, 67
+
+
+rank
+Candidate Sentences: Lawrence University The Basics About Lawrence University Lawrence University is a private institution that was founded in 1847. It has a total undergraduate enrollment of 1,495, its setting is urban, and the campus size is 84 acres. It utilizes a trimester-based academic calendar.  Lawrence University's ranking in the 2011 edition of Best Colleges is National Liberal Arts Colleges, 67
+
+
+year_founded
+Candidate Sentences: Lawrence University The Basics About Lawrence University Lawrence University is a private institution that was founded in 1847. It has a total undergraduate enrollment of 1,495, its setting is urban, and the campus size is 84 acres. It utilizes a trimester-based academic calendar.  Lawrence University's ranking in the 2011 edition of Best Colleges is National Liberal Arts Colleges, 67
+
+
+total_undergraduate_enrollment
+Candidate Sentences: Lawrence University The Basics About Lawrence University Lawrence University is a private institution that was founded in 1847. It has a total undergraduate enrollment of 1,495, its setting is urban, and the campus size is 84 acres. It utilizes a trimester-based academic calendar.  Lawrence University's ranking in the 2011 edition of Best Colleges is National Liberal Arts Colleges, 67

@@ -1,0 +1,15 @@
+name
+Candidate Sentence: Rik Smits This article is about the basketball player. For the linguist, see Rik Smits (linguist).
+Rik Smits (born 23 August 1966), nicknamed "the Dunking Dutchman" is a Dutch former professional basketball player who spent his entire career with the Indiana Pacers of the National Basketball Association (NBA). The 7-foot-4-inch (2.24 m) center was drafted by the Pacers out of Marist College with the second overall pick in the 1988 NBA draft
+
+
+age
+Candidate Sentence: Rik Smits This article is about the basketball player. For the linguist, see Rik Smits (linguist).
+Rik Smits (born 23 August 1966), nicknamed "the Dunking Dutchman" is a Dutch former professional basketball player who spent his entire career with the Indiana Pacers of the National Basketball Association (NBA). The 7-foot-4-inch (2.24 m) center was drafted by the Pacers out of Marist College with the second overall pick in the 1988 NBA draft
+Candidate Sentence: To help recover during the off-season, he spent time relaxing at his summer retreat in Walton, New York, where he was a regular attendee of The Afton Fair
+
+
+team
+Candidate Sentence: To help recover during the off-season, he spent time relaxing at his summer retreat in Walton, New York, where he was a regular attendee of The Afton Fair
+Candidate Sentence: He started playing basketball at age 14 at PSV–Almonte in Eindhoven. Smits left for the United States in 1984, where he played for Marist College for four years.
+In 1986, Smits led Marist to the ECAC Metro Conference tournament Championship and advanced to play in their first NCAA tournament in school history

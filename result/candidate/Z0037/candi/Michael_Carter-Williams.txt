@@ -1,0 +1,12 @@
+name
+Candidate Sentence: Rookie Victor Oladipo of the Magic also recorded his first career triple-double in the same game, marking the first and only time in NBA history that two rookies have recorded triple-doubles in the same game. The last time that two players had recorded their first career triple-doubles in the same game was when Detroit Pistons Donnie Butcher and Ray Scott did it on March 14, 1964 (they were not rookies)
+
+
+age
+Candidate Sentence: He subsequently missed the next five games with an ankle injury, returning to action on November 14. He started in his first 11 games of the season before being moved to the bench on November 29 in favor of Jerryd Bayless after a string of poor performances – between November 14 and November 27, he averaged much lower numbers with 9.1 points, 3.7 assists, and 2.4 rebounds per game
+Candidate Sentence: He led all rookies in scoring (17.2 ppg), assists (7.3 apg), steals (2.92 spg) and minutes (36.2 mpg) over this stretch. He was again named Eastern Conference Rookie of the Month for games of January 2014. During January he led all rookies in scoring (16.5 ppg), and ranked second in rebounding (5.6 rpg), assists (5.6 apg) and minutes (33.3 mpg)
+
+
+team
+Candidate Sentence: He led all rookies in scoring (17.2 ppg), assists (7.3 apg), steals (2.92 spg) and minutes (36.2 mpg) over this stretch. He was again named Eastern Conference Rookie of the Month for games of January 2014. During January he led all rookies in scoring (16.5 ppg), and ranked second in rebounding (5.6 rpg), assists (5.6 apg) and minutes (33.3 mpg)
+Candidate Sentence: On December 5, he had his best game since the season opener, recording 20 points, 5 assists and 3 rebounds off the bench in a 106–91 win over the New York Knicks. On January 8, he recorded 15 points and a season-high 12 rebounds in a 96–95 win over the Dallas Mavericks. On February 1, he recorded 18 points and a season-high 13 assists in a loss to the Sacramento Kings

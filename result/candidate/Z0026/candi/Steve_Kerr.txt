@@ -1,0 +1,25 @@
+name
+Candidate Sentence: Steve Kerr This is the latest accepted revision, reviewed on 11 August 2024.
+For the Scottish footballer, see Steven Kerr. For the Scottish politician, see Stephen Kerr.
+Stephen Douglas Kerr (born September 27, 1965) is an American professional basketball coach and former player who is the head coach for the Golden State Warriors of the National Basketball Association (NBA) and the U.S. national team
+Candidate Sentence: Under his leadership, the franchise entered the most successful period in its history, reaching the NBA Finals six times and winning four championships (in 2015, 2017, 2018, and 2022). The 2015–16 Warriors won an unprecedented 73 games, breaking the record for the most wins in an NBA season, which was formerly held by the 1995–96 Bulls which he also played for.
+Early life and international play Kerr was born in Beirut, Lebanon, to Malcolm H
+
+
+draft_pick
+Candidate Sentence: Malcolm Kerr was shot twice in the back of his head by gunmen using suppressed handguns in the hallway outside his office. Steve was only 18 years old at the time, and a college freshman; regarding his father's death, Kerr has said: "Before my father was killed, my life was impenetrable. Bad things happened to other people." In the summer of 1986, Kerr was named to U.S. national team that competed in the FIBA World Championship in Spain
+Candidate Sentence: He was named one of the 15 Greatest Coaches in NBA History.
+Kerr played college basketball for the Arizona Wildcats. He was a two-time first-team all-conference player in the Pac-10 (now known as the Pac-12) and earned All-American honors as a senior in 1988. In the 1987–88 season, Kerr set the NCAA single-season three-point field goal percentage record (57.3%). Selected by the Phoenix Suns in the second round of the 1988 NBA draft, Kerr played 15 seasons in the NBA
+
+
+draft_year
+Candidate Sentence: Malcolm Kerr was shot twice in the back of his head by gunmen using suppressed handguns in the hallway outside his office. Steve was only 18 years old at the time, and a college freshman; regarding his father's death, Kerr has said: "Before my father was killed, my life was impenetrable. Bad things happened to other people." In the summer of 1986, Kerr was named to U.S. national team that competed in the FIBA World Championship in Spain
+Candidate Sentence: He was named one of the 15 Greatest Coaches in NBA History.
+Kerr played college basketball for the Arizona Wildcats. He was a two-time first-team all-conference player in the Pac-10 (now known as the Pac-12) and earned All-American honors as a senior in 1988. In the 1987–88 season, Kerr set the NCAA single-season three-point field goal percentage record (57.3%). Selected by the Phoenix Suns in the second round of the 1988 NBA draft, Kerr played 15 seasons in the NBA
+
+
+NBA_championships
+Candidate Sentence: Selected by the Phoenix Suns in the second round of the 1988 NBA draft, Kerr played 15 seasons in the NBA. He won five NBA championships as a player—three with the Chicago Bulls and two with the San Antonio Spurs—and retired as the all-time NBA leader in single-season three-point shooting percentage and career three-point shooting percentage.
+Following his retirement as a player, Kerr became a minority owner of the Phoenix Suns as part of a group led by Robert Sarver that purchased the team in 2004
+Candidate Sentence: Jordan made a crucial three-point play, putting the Bulls in the lead for good and helping the team tie the series at one game apiece.[citation needed] The Bulls went on to win the series in six games.
+Kerr set the Bulls' franchise single-season (.524, 1994–95) and career three-point field goal percentage (.479) records

@@ -1,0 +1,8 @@
+[name]: Vernon Maxwell  
+Key sentnce 1: Vernon Maxwell This article is about the American basketball player who won two NBA championships with the Houston Rockets.
+
+[age]:   
+Key sentnce 1: Vernon Maxwell (born September 12, 1965) is an American former professional basketball player.
+
+[team]:   
+Key sentnce 1: Vernon Maxwell (born September 12, 1965) is an American former professional basketball player.

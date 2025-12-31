@@ -1,0 +1,24 @@
+name
+Candidate Sentence: He ranked at number 44. He died on December 20, 2015, in San Diego at the age of 85.
+
+
+team
+Candidate Sentence: He played college football at the University of Minnesota and was drafted by the Eagles in the eighth round of the 1952 NFL draft.  He was selected to the Pro Bowl in 1954 and 1955.
+After his playing career, he coached in the Canadian Football League for the Winnipeg Blue Bombers and the British Columbia Lions
+Candidate Sentence: He was selected to the Pro Bowl in 1954 and 1955.
+After his playing career, he coached in the Canadian Football League for the Winnipeg Blue Bombers and the British Columbia Lions.  He also coached at the University of Iowa, for the Houston Oilers, Green Bay Packers and the Atlanta Falcons before finally retiring in 1976.
+He was named to the Philadelphia Eagles Top 75 players in franchise history in 2007 celebrating the team's 75th anniversary.  He ranked at number 44
+
+
+draft_year
+Candidate Sentence: He played college football at the University of Minnesota and was drafted by the Eagles in the eighth round of the 1952 NFL draft.  He was selected to the Pro Bowl in 1954 and 1955.
+After his playing career, he coached in the Canadian Football League for the Winnipeg Blue Bombers and the British Columbia Lions
+
+
+draft_pick
+Candidate Sentence: He played college football at the University of Minnesota and was drafted by the Eagles in the eighth round of the 1952 NFL draft.  He was selected to the Pro Bowl in 1954 and 1955.
+After his playing career, he coached in the Canadian Football League for the Winnipeg Blue Bombers and the British Columbia Lions
+
+
+college
+Candidate Sentence: 

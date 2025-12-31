@@ -1,0 +1,30 @@
+name
+Candidate Sentence: 
+
+age
+Candidate Sentence: He was inducted into the Naismith Memorial Basketball Hall of Fame in 1991, and was also named to nine other Halls of Fame. In 2011, the New York Knicks honored him in their second "Legends Night Awards" along with other former Knicks stars Dick Barnett, Earl Monroe, Mark Jackson, John Starks and Allan Houston, and in May 2015, the Knicks added him to Madison Square Garden's Walk of Fame.
+Death Harry Gallatin died on October 7, 2015, following surgery
+Candidate Sentence: It was in the NBA where he earned the nickname "The Horse". He played his entire career as an undersized center at 6'6" and 215 lbs., but made up for it with tremendous physical strength. He played nine seasons for the New York Knicks, from 1948 to 1957. His best statistical year was in 1954, when he led the NBA in rebounding, averaging 15.3 rebounds per game. That same year, he was also named to the All-NBA First Team
+
+
+team
+Candidate Sentence: It was in the NBA where he earned the nickname "The Horse". He played his entire career as an undersized center at 6'6" and 215 lbs., but made up for it with tremendous physical strength. He played nine seasons for the New York Knicks, from 1948 to 1957. His best statistical year was in 1954, when he led the NBA in rebounding, averaging 15.3 rebounds per game. That same year, he was also named to the All-NBA First Team
+Candidate Sentence: He played two seasons of varsity baseball at Northeast Missouri. During the off-seasons between his first three seasons in the NBA, he played for the Class B Decatur, Illinois Cubs/Commodores of the Illinois–Indiana–Iowa League, which was an affiliate of the Chicago Cubs in 1949 and the Cincinnati Reds in 1950. He appeared in 46 games in those two seasons, winning 7, losing 9 and batting .227 in 75 at-bats
+
+
+draft_year
+Candidate Sentence: It was in the NBA where he earned the nickname "The Horse". He played his entire career as an undersized center at 6'6" and 215 lbs., but made up for it with tremendous physical strength. He played nine seasons for the New York Knicks, from 1948 to 1957. His best statistical year was in 1954, when he led the NBA in rebounding, averaging 15.3 rebounds per game. That same year, he was also named to the All-NBA First Team
+Candidate Sentence: "All I knew was that I loved to play basketball, and the Knicks had taken me with their number one choice. So I knew that they thought I had the kind of abilities they were looking for." On March 21, 1949, Gallatin was drafted by the New York Knicks in the 2nd round (20th pick) of the 1949 BAA Draft.
+In his third year in the NBA, Gallatin was selected for the first NBA All-Star Game in 1951, and from 1951 to 1957 was chosen for seven consecutive NBA All-Star games
+
+
+draft_pick
+Candidate Sentence: It was in the NBA where he earned the nickname "The Horse". He played his entire career as an undersized center at 6'6" and 215 lbs., but made up for it with tremendous physical strength. He played nine seasons for the New York Knicks, from 1948 to 1957. His best statistical year was in 1954, when he led the NBA in rebounding, averaging 15.3 rebounds per game. That same year, he was also named to the All-NBA First Team
+Candidate Sentence: "All I knew was that I loved to play basketball, and the Knicks had taken me with their number one choice. So I knew that they thought I had the kind of abilities they were looking for." On March 21, 1949, Gallatin was drafted by the New York Knicks in the 2nd round (20th pick) of the 1949 BAA Draft.
+In his third year in the NBA, Gallatin was selected for the first NBA All-Star Game in 1951, and from 1951 to 1957 was chosen for seven consecutive NBA All-Star games
+
+
+college
+Candidate Sentence: The following year, however, Roxana got its own high school. He graduated from Roxana High School in 1944, and was granted a basketball scholarship by Northeast Missouri State Teachers' College (now known as Truman State University)
+Candidate Sentence: He graduated from Roxana High School in 1944, and was granted a basketball scholarship by Northeast Missouri State Teachers' College (now known as Truman State University). But after graduating from Roxana High School, he enlisted in the United States Navy and served until the end of World War II.
+College career At Northeast Missouri, Gallatin averaged 12.9 points per game and lead his team to a 59–4 record and two appearances in the NAIA tournament

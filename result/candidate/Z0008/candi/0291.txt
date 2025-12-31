@@ -1,0 +1,16 @@
+university_name
+Candidate Sentence: Monmouth University The Basics About Monmouth University Monmouth University is a private institution that was founded in 1933. It has a total undergraduate enrollment of 4,681, its setting is suburban, and the campus size is 156 acres. It utilizes a semester-based academic calendar.  Monmouth University's ranking in the 2011 edition of Best Colleges is Regional Universities (North), 40
+Candidate Sentence: It utilizes a semester-based academic calendar.  Monmouth University's ranking in the 2011 edition of Best Colleges is Regional Universities (North), 40. Its tuition and fees are $26,356.
+62%         	selective         	2010-2011 Tuition and Fees: $26,356  The University, which was founded in 1933, is a private, moderate-sized, coeducational, comprehensive institution that offers undergraduate and graduate degrees in more than fifty majors and concentrations
+
+
+year_founded
+Candidate Sentence: Monmouth University The Basics About Monmouth University Monmouth University is a private institution that was founded in 1933. It has a total undergraduate enrollment of 4,681, its setting is suburban, and the campus size is 156 acres. It utilizes a semester-based academic calendar.  Monmouth University's ranking in the 2011 edition of Best Colleges is Regional Universities (North), 40
+Candidate Sentence: It utilizes a semester-based academic calendar.  Monmouth University's ranking in the 2011 edition of Best Colleges is Regional Universities (North), 40. Its tuition and fees are $26,356.
+62%         	selective         	2010-2011 Tuition and Fees: $26,356  The University, which was founded in 1933, is a private, moderate-sized, coeducational, comprehensive institution that offers undergraduate and graduate degrees in more than fifty majors and concentrations
+
+
+rank
+Candidate Sentence: The University has a dedicated, distinguished faculty, and a ratio of 15 students to each professor ensures small classes and active learning.   Innovative undergraduate majors and concentrations include marine science, software engineering, and music industry production. Recently added majors include: Spanish/international business, health studies, health and physical education, and theatre arts. The most popular majors are business, education, communication, and psychology
+Candidate Sentence: It utilizes a semester-based academic calendar.  Monmouth University's ranking in the 2011 edition of Best Colleges is Regional Universities (North), 40. Its tuition and fees are $26,356.
+62%         	selective         	2010-2011 Tuition and Fees: $26,356  The University, which was founded in 1933, is a private, moderate-sized, coeducational, comprehensive institution that offers undergraduate and graduate degrees in more than fifty majors and concentrations

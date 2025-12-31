@@ -1,0 +1,26 @@
+name
+Candidate Sentence: This is the latest accepted revision, reviewed on 8 August 2024.
+For other people named Tim Duncan, see Tim Duncan (disambiguation).
+Timothy Theodore Duncan (born April 25, 1976) is an American former professional basketball player. He spent his entire 19-year career with the San Antonio Spurs in the National Basketball Association (NBA)
+Candidate Sentence: He spent his entire 19-year career with the San Antonio Spurs in the National Basketball Association (NBA). Nicknamed "the Big Fundamental", he is widely regarded as the greatest power forward of all time and one of the greatest players in NBA history, and was a central contributor to the franchise's success during the 2000s and 2010s. He was inducted into the Naismith Memorial Basketball Hall of Fame in 2020 and named to the NBA 75th Anniversary Team in 2021.
+Born and raised on Saint Croix in the U.S
+
+
+team
+Candidate Sentence: This is the latest accepted revision, reviewed on 8 August 2024.
+For other people named Tim Duncan, see Tim Duncan (disambiguation).
+Timothy Theodore Duncan (born April 25, 1976) is an American former professional basketball player. He spent his entire 19-year career with the San Antonio Spurs in the National Basketball Association (NBA)
+Candidate Sentence: He spent his entire 19-year career with the San Antonio Spurs in the National Basketball Association (NBA). Nicknamed "the Big Fundamental", he is widely regarded as the greatest power forward of all time and one of the greatest players in NBA history, and was a central contributor to the franchise's success during the 2000s and 2010s. He was inducted into the Naismith Memorial Basketball Hall of Fame in 2020 and named to the NBA 75th Anniversary Team in 2021.
+Born and raised on Saint Croix in the U.S
+
+
+NBA_championships
+Candidate Sentence: "Tim Duncan held scoreless for first time in 1,360-game career". ESPN. Archived from the original on June 30, 2020. Retrieved June 30, 2020.
+"Duncan scores 18, Spurs rout Jazz to move to 21–0 at home". NBA.com. January 6, 2016. Archived from the original on July 4, 2018. Retrieved January 6, 2016.
+"Leonard lifts Spurs to 98–96 win over the Magic". NBA.com. February 10, 2016. Archived from the original on February 13, 2016. Retrieved February 11, 2016.
+"Leonard leads Spurs to 50th win, 104–94 over Rockets"
+Candidate Sentence: Retrieved May 19, 2009.
+"2002–03 Standings". NBA.com. Archived from the original on May 23, 2010. Retrieved August 28, 2007.
+"Spurs, Tim, Dunk Lakers, Head to Conference Finals". NBA.com. May 15, 2003. Archived from the original on June 2, 2003. Retrieved June 17, 2007.
+"2003 Playoff Results". NBA.com. Archived from the original on May 23, 2010. Retrieved June 16, 2007.
+Williams, Bryan (June 15, 2003). "Feels Like the First Time". NBA.com. Archived from the original on September 18, 2018

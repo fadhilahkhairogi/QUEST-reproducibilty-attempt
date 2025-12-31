@@ -1,0 +1,29 @@
+university_name
+Candidate Sentence: As the State's single comprehensive institution of higher education, the College fulfills Rhode Island's promise of affordable access to superior higher education for traditional and non-traditional students alike - because, to foster the growth and development of each individual enriches everyone. The College further fulfills its responsibility through the public service, continuing education offerings, and cultural opportunities it provides for the citizens of Rhode Island.
+Copyright © 2011 U.S
+
+
+academic_calendar
+Candidate Sentence: As the State's single comprehensive institution of higher education, the College fulfills Rhode Island's promise of affordable access to superior higher education for traditional and non-traditional students alike - because, to foster the growth and development of each individual enriches everyone. The College further fulfills its responsibility through the public service, continuing education offerings, and cultural opportunities it provides for the citizens of Rhode Island.
+Copyright © 2011 U.S
+Candidate Sentence: News & World Report, L.P. All rights reserved.
+Use of this Web site constitutes acceptance of our Terms and Conditions of Use and Privacy Policy.
+
+
+rank
+Candidate Sentence: As the State's single comprehensive institution of higher education, the College fulfills Rhode Island's promise of affordable access to superior higher education for traditional and non-traditional students alike - because, to foster the growth and development of each individual enriches everyone. The College further fulfills its responsibility through the public service, continuing education offerings, and cultural opportunities it provides for the citizens of Rhode Island.
+Copyright © 2011 U.S
+Candidate Sentence: Rhode Island College Rhode Island College The Basics About Rhode Island College Rhode Island College is a public institution that was founded in 1854. It has a total undergraduate enrollment of 7,883, its setting is suburban, and the campus size is 180 acres. It utilizes a semester-based academic calendar.  Rhode Island College's ranking in the 2011 edition of Best Colleges is Regional Universities (North), 105
+
+
+year_founded
+Candidate Sentence: As the State's single comprehensive institution of higher education, the College fulfills Rhode Island's promise of affordable access to superior higher education for traditional and non-traditional students alike - because, to foster the growth and development of each individual enriches everyone. The College further fulfills its responsibility through the public service, continuing education offerings, and cultural opportunities it provides for the citizens of Rhode Island.
+Copyright © 2011 U.S
+Candidate Sentence: Its in-state tuition and fees are $6,986; out-of-state tuition and fees are $16,878.
+77%         	less selective         	2010-2011 In-state tuition and fees: $6,986; Out-of-state tuition and fees: $16,878 The College is dedicated to ensuring that each student experience academic life in a caring community where education is informed by serious inquiry, civic engagement, and open discourse; and, its faculty continually strive to fulfill the promise of the liberal arts education: an open and inquiring mind
+
+
+total_undergraduate_enrollment
+Candidate Sentence: Rhode Island College Rhode Island College The Basics About Rhode Island College Rhode Island College is a public institution that was founded in 1854. It has a total undergraduate enrollment of 7,883, its setting is suburban, and the campus size is 180 acres. It utilizes a semester-based academic calendar.  Rhode Island College's ranking in the 2011 edition of Best Colleges is Regional Universities (North), 105
+Candidate Sentence: Its in-state tuition and fees are $6,986; out-of-state tuition and fees are $16,878.
+77%         	less selective         	2010-2011 In-state tuition and fees: $6,986; Out-of-state tuition and fees: $16,878 The College is dedicated to ensuring that each student experience academic life in a caring community where education is informed by serious inquiry, civic engagement, and open discourse; and, its faculty continually strive to fulfill the promise of the liberal arts education: an open and inquiring mind

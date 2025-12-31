@@ -1,0 +1,21 @@
+name
+Candidate Sentence: Carrick Felix Carrick Felix (born August 17, 1990) is an American former professional basketball player. He played three years of college basketball for Arizona State before being drafted by the Cleveland Cavaliers with the 33rd overall pick in the 2013 NBA draft.
+High school career Born in Las Vegas, Nevada, Felix played high school basketball at Millennium High School in Goodyear, Arizona
+
+
+draft_pick
+Candidate Sentence: Felix was removed from Melbourne's active roster on February 16, 2018, following Prather's return from injury. He remained with the team for their championship run.
+In June 2018, Felix re-joined the Wizards for the 2018 NBA Summer League.
+NBA career statistics Regular season Personal In his two years away from the game of basketball between 2014 and 2016, Felix created a mobile app called ZGNIT, which helps holiday makers book adventure equipments such as jet skis.
+
+
+draft_year
+Candidate Sentence: Felix was removed from Melbourne's active roster on February 16, 2018, following Prather's return from injury. He remained with the team for their championship run.
+In June 2018, Felix re-joined the Wizards for the 2018 NBA Summer League.
+NBA career statistics Regular season Personal In his two years away from the game of basketball between 2014 and 2016, Felix created a mobile app called ZGNIT, which helps holiday makers book adventure equipments such as jet skis.
+
+
+NBA_championships
+Candidate Sentence: In his second season, he saw an increase in minutes up from 14.5 the previous season to 32.9 per game. He subsequently averaged 10.5 points and 4.0 rebounds per game. In his third and final year at Arizona State, Felix led the team, as a shooting guard, in rebounds per game with 8.1 and was second on the team in scoring with 14.6 points. He also led the entire Pac-12 with 13 double doubles. He was named second-team All-Pac-12 and Pac-12 All-Defensive Team
+Candidate Sentence: He also led the entire Pac-12 with 13 double doubles. He was named second-team All-Pac-12 and Pac-12 All-Defensive Team. He was also named the Pac-12 Scholar Athlete of the Year and earned first-team All-Pac-12 Academic Team honors.
+Professional career Felix was selected with the 33rd overall pick in the 2013 NBA draft by the Cleveland Cavaliers. On August 20, 2013, he signed with the Cavaliers

@@ -1,0 +1,35 @@
+name
+Candidate Sentence: Trent Tucker Kelvin Trent Tucker (born December 20, 1959) is an American former professional basketball player who played eleven seasons in the National Basketball Association (NBA).
+A 6 ft 5 in (1.96 m) shooting guard, Tucker attended the University of Minnesota from 1978 to 1982, leading them to a Big Ten Conference championship in his senior year. He was then selected by the New York Knicks with the 6th overall pick of the 1982 NBA draft
+
+
+age
+Candidate Sentence: Trent Tucker Kelvin Trent Tucker (born December 20, 1959) is an American former professional basketball player who played eleven seasons in the National Basketball Association (NBA).
+A 6 ft 5 in (1.96 m) shooting guard, Tucker attended the University of Minnesota from 1978 to 1982, leading them to a Big Ten Conference championship in his senior year. He was then selected by the New York Knicks with the 6th overall pick of the 1982 NBA draft
+Candidate Sentence: The shot counted and the Knicks won. After Bulls' coach Phil Jackson vociferously complained following the game, the NBA immediately established a rule, which states that 0.3 needs to be on the clock in order for a player to get a shot off whether they make it or not. Inside of 0.3 seconds, only a tip-in or a high lob would count.
+This rule is also used in 3x3 basketball.
+Post-playing career After retiring, Tucker worked as a broadcast analyst for Minnesota Timberwolves basketball games
+
+
+team
+Candidate Sentence: Trent Tucker Kelvin Trent Tucker (born December 20, 1959) is an American former professional basketball player who played eleven seasons in the National Basketball Association (NBA).
+A 6 ft 5 in (1.96 m) shooting guard, Tucker attended the University of Minnesota from 1978 to 1982, leading them to a Big Ten Conference championship in his senior year. He was then selected by the New York Knicks with the 6th overall pick of the 1982 NBA draft
+Candidate Sentence: He was then selected by the New York Knicks with the 6th overall pick of the 1982 NBA draft.  On 30 November 1982, in his NBA debut, Tucker outscored the opposing Utah Jazz 17-11 in the third quarter.  One of the earliest three-point specialists, Tucker represented the Knicks in the first ever Three-point Shootout (1986), making it to the semifinals before being outpaced by Craig Hodges and eventual winner Larry Bird
+
+
+draft_year
+Candidate Sentence: He was then selected by the New York Knicks with the 6th overall pick of the 1982 NBA draft.  On 30 November 1982, in his NBA debut, Tucker outscored the opposing Utah Jazz 17-11 in the third quarter.  One of the earliest three-point specialists, Tucker represented the Knicks in the first ever Three-point Shootout (1986), making it to the semifinals before being outpaced by Craig Hodges and eventual winner Larry Bird
+Candidate Sentence: Trent Tucker Kelvin Trent Tucker (born December 20, 1959) is an American former professional basketball player who played eleven seasons in the National Basketball Association (NBA).
+A 6 ft 5 in (1.96 m) shooting guard, Tucker attended the University of Minnesota from 1978 to 1982, leading them to a Big Ten Conference championship in his senior year. He was then selected by the New York Knicks with the 6th overall pick of the 1982 NBA draft
+
+
+draft_pick
+Candidate Sentence: He was then selected by the New York Knicks with the 6th overall pick of the 1982 NBA draft.  On 30 November 1982, in his NBA debut, Tucker outscored the opposing Utah Jazz 17-11 in the third quarter.  One of the earliest three-point specialists, Tucker represented the Knicks in the first ever Three-point Shootout (1986), making it to the semifinals before being outpaced by Craig Hodges and eventual winner Larry Bird
+Candidate Sentence: Trent Tucker Kelvin Trent Tucker (born December 20, 1959) is an American former professional basketball player who played eleven seasons in the National Basketball Association (NBA).
+A 6 ft 5 in (1.96 m) shooting guard, Tucker attended the University of Minnesota from 1978 to 1982, leading them to a Big Ten Conference championship in his senior year. He was then selected by the New York Knicks with the 6th overall pick of the 1982 NBA draft
+
+
+college
+Candidate Sentence: Trent Tucker Kelvin Trent Tucker (born December 20, 1959) is an American former professional basketball player who played eleven seasons in the National Basketball Association (NBA).
+A 6 ft 5 in (1.96 m) shooting guard, Tucker attended the University of Minnesota from 1978 to 1982, leading them to a Big Ten Conference championship in his senior year. He was then selected by the New York Knicks with the 6th overall pick of the 1982 NBA draft
+Candidate Sentence: He currently works for KFAN radio. Tucker has also been an active philanthropist; he founded the Trent Tucker Non-Profit Organization in 1998. On April 15, 2013, Trent began his duties as Director of District Athletics for the Minneapolis, MN Public School District.

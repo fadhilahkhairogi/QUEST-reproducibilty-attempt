@@ -1,0 +1,8 @@
+[name]: Joel Hans Embiid  
+Key sentence 1: "Joel Hans Embiid (/dʒoʊˈɛl ɛmˈbiːd/ joh-EL em-BEED; born 16 March 1994) is a Cameroonian-American professional basketball player for the Philadelphia 76ers of the National Basketball Association (NBA)."
+
+[age]: 29  
+Key sentence 1: "Joel Hans Embiid (/dʒoʊˈɛl ɛmˈbiːd/ joh-EL em-BEED; born 16 March 1994) is a Cameroonian-American professional basketball player for the Philadelphia 76ers of the National Basketball Association (NBA)."
+
+[team]: Philadelphia 76ers  
+Key sentence 1: "Joel Hans Embiid (/dʒoʊˈɛl ɛmˈbiːd/ joh-EL em-BEED; born 16 March 1994) is a Cameroonian-American professional basketball player for the Philadelphia 76ers of the National Basketball Association (NBA)."

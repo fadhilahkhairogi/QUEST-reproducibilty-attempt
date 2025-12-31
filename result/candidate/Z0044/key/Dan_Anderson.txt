@@ -1,0 +1,17 @@
+[name]: Daniel Edward Anderson  
+Key sentnce 1: Daniel Edward Anderson (born January 1, 1951) is an American retired professional basketball player in the National Basketball Association (NBA).
+
+[age]:  
+Key sentnce 1: Daniel Edward Anderson (born January 1, 1951) is an American retired professional basketball player in the National Basketball Association (NBA).
+
+[team]: Portland Trail Blazers  
+Key sentnce 1: Anderson was selected with the 2nd pick of the sixth round of the 1974 NBA draft by the Portland Trail Blazers.
+
+[draft_year]: 1974  
+Key sentnce 1: Anderson was selected with the 2nd pick of the sixth round of the 1974 NBA draft by the Portland Trail Blazers.
+
+[draft_pick]:  
+Key sentnce 1: Anderson was selected with the 2nd pick of the sixth round of the 1974 NBA draft by the Portland Trail Blazers.
+
+[college]:  
+Key sentnce 1: Daniel Edward Anderson (born January 1, 1951) is an American retired professional basketball player in the National Basketball Association (NBA).

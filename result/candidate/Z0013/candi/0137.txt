@@ -1,0 +1,33 @@
+university_name
+Candidate Sentence: 
+
+academic_calendar
+Candidate Sentence: Hastings's ranking in the 2011 edition of Best Colleges is National Liberal Arts Colleges, 174. Its tuition and fees are $22,620.
+Copyright © 2011 U.S. News & World Report, L.P. All rights reserved.
+Use of this Web site constitutes acceptance of our Terms and Conditions of Use and Privacy Policy.
+Candidate Sentence: Hastings College The Basics About Hastings Hastings is a private institution that was founded in 1882. It has a total undergraduate enrollment of 1,104, its setting is suburban, and the campus size is 109 acres. It utilizes a 4-1-4-based academic calendar.  Hastings's ranking in the 2011 edition of Best Colleges is National Liberal Arts Colleges, 174. Its tuition and fees are $22,620.
+Copyright © 2011 U.S. News & World Report, L.P
+
+
+rank
+Candidate Sentence: Hastings's ranking in the 2011 edition of Best Colleges is National Liberal Arts Colleges, 174. Its tuition and fees are $22,620.
+Copyright © 2011 U.S. News & World Report, L.P. All rights reserved.
+Use of this Web site constitutes acceptance of our Terms and Conditions of Use and Privacy Policy.
+Candidate Sentence: Hastings College The Basics About Hastings Hastings is a private institution that was founded in 1882. It has a total undergraduate enrollment of 1,104, its setting is suburban, and the campus size is 109 acres. It utilizes a 4-1-4-based academic calendar.  Hastings's ranking in the 2011 edition of Best Colleges is National Liberal Arts Colleges, 174. Its tuition and fees are $22,620.
+Copyright © 2011 U.S. News & World Report, L.P
+
+
+year_founded
+Candidate Sentence: Hastings College The Basics About Hastings Hastings is a private institution that was founded in 1882. It has a total undergraduate enrollment of 1,104, its setting is suburban, and the campus size is 109 acres. It utilizes a 4-1-4-based academic calendar.  Hastings's ranking in the 2011 edition of Best Colleges is National Liberal Arts Colleges, 174. Its tuition and fees are $22,620.
+Copyright © 2011 U.S. News & World Report, L.P
+Candidate Sentence: Hastings's ranking in the 2011 edition of Best Colleges is National Liberal Arts Colleges, 174. Its tuition and fees are $22,620.
+Copyright © 2011 U.S. News & World Report, L.P. All rights reserved.
+Use of this Web site constitutes acceptance of our Terms and Conditions of Use and Privacy Policy.
+
+
+total_undergraduate_enrollment
+Candidate Sentence: Hastings College The Basics About Hastings Hastings is a private institution that was founded in 1882. It has a total undergraduate enrollment of 1,104, its setting is suburban, and the campus size is 109 acres. It utilizes a 4-1-4-based academic calendar.  Hastings's ranking in the 2011 edition of Best Colleges is National Liberal Arts Colleges, 174. Its tuition and fees are $22,620.
+Copyright © 2011 U.S. News & World Report, L.P
+Candidate Sentence: Hastings's ranking in the 2011 edition of Best Colleges is National Liberal Arts Colleges, 174. Its tuition and fees are $22,620.
+Copyright © 2011 U.S. News & World Report, L.P. All rights reserved.
+Use of this Web site constitutes acceptance of our Terms and Conditions of Use and Privacy Policy.

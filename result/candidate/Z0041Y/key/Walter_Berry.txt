@@ -1,0 +1,17 @@
+[name]: Walter Berry
+Key sentnce 1: Walter Berry (born May 14, 1964) is an American former professional basketball player.
+
+[age]: 
+Key sentnce 1: Walter Berry (born May 14, 1964) is an American former professional basketball player.
+
+[team]: 
+Key sentnce 1: Walter Berry (born May 14, 1964) is an American former professional basketball player.
+
+[draft_year]: 1986
+Key sentnce 1: Berry was selected by the Portland Trail Blazers with the 14th overall pick in the 1986 NBA draft.
+
+[draft_pick]: 14
+Key sentnce 1: Berry was selected by the Portland Trail Blazers with the 14th overall pick in the 1986 NBA draft.
+
+[college]: St. John's University
+Key sentnce 1: Berry played college basketball for his hometown college, St. John's University, with the then called St. John's Redmen.

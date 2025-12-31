@@ -1,0 +1,5 @@
+Anthony_Davis.txt,104
+Devontae_Cacok.txt,68
+Greg_Foster.txt,169
+Jay_Vincent.txt,205
+Kermit_Washington.txt,17

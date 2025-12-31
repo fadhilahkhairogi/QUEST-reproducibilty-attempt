@@ -1,0 +1,17 @@
+name
+Candidate Sentences: 
+
+age
+Candidate Sentences: 
+
+team
+Candidate Sentences: 
+
+draft_year
+Candidate Sentences: 
+
+draft_pick
+Candidate Sentences: 
+
+college
+Candidate Sentences: Chollet served eleven months in the U.S. Navy before being discharged and moving on to college. He attended Loyola University in New Orleans from 1944 to 1945 as a student athlete, during a season that played out against the backdrop of World War II. Loyola alumni followed the team from overseas, writing battlefield letters back to the current players, and the school held Mass in memory of former students who were killed in action

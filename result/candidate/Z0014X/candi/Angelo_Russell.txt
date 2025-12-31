@@ -1,0 +1,10 @@
+name
+Candidate Sentences: 
+
+age
+Candidate Sentences: D'Angelo Russell (born February 23, 1996), nicknamed "DLo", is an American professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA). He was selected as a McDonald's All-American in 2014 and played college basketball for the Ohio State Buckeyes. He was selected second overall in the 2015 NBA draft by the Lakers.
+Playing point guard, Russell was named to the NBA All-Rookie Second Team with the Lakers in 2016
+
+
+team
+Candidate Sentences: 

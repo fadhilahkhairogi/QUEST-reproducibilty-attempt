@@ -1,0 +1,18 @@
+name
+Candidate Sentence: Phil Jackson This is the latest accepted revision, reviewed on 15 August 2024.
+This article is about the basketball coach. For other people with the same name, see Philip Jackson (disambiguation).
+Philip Douglas Jackson (born September 17, 1945) is an American former professional basketball player, coach, and executive. A power forward, Jackson played 12 seasons in the National Basketball Association (NBA), winning championships with the New York Knicks in 1970 and 1973
+Candidate Sentence: On December 27, 2016, they announced the termination of their engagement in a joint statement on Twitter.
+While he was the coach of the Chicago Bulls, he lived in Bannockburn, Illinois. He lived in Playa del Rey, Los Angeles when he was the coach of the Los Angeles Lakers. While he was the president of basketball operations of the New York Knicks, he lived in Midtown Manhattan, New York City
+
+
+draft_pick
+Candidate Sentence: 
+
+draft_year
+Candidate Sentence: 
+
+NBA_championships
+Candidate Sentence: Michael Jordan's first retirement after the 1992–1993 season marked the end of the first "three-peat", and although Jordan returned just before the 1995 playoffs, it was not enough to prevent a playoff elimination by the Orlando Magic.
+Despite the Bulls' success, tension between Jackson and Bulls general manager Jerry Krause grew. Some believed that Krause felt under-recognized for building a championship team and believed that Jackson was indebted to him for giving him his first NBA coaching job
+Candidate Sentence: While he was a good all-around athlete, with unusually long arms, he was limited offensively but compensated with intelligence and hard work on defense. Jackson eventually established himself as a fan favorite and one of the NBA's leading substitutes, although he had very little playing time. He was a top reserve on the Knicks team that won the NBA title in 1973

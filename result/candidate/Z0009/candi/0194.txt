@@ -1,0 +1,15 @@
+university_name
+Candidate Sentence: 
+
+setting
+Candidate Sentence: Kutztown University of Pennsylvania The Basics About Kutztown University Kutztown University is a public institution that was founded in 1866. It has a total undergraduate enrollment of 9,614, its setting is rural, and the campus size is 325 acres. It utilizes a semester-based academic calendar.  Kutztown University's ranking in the 2011 edition of Best Colleges is Regional Universities (North), 117
+Candidate Sentence: Several large cities are easily accessible, including Philadelphia, New York, Baltimore, and Washington, D.C.
+KU has an enrollment of approximately 10,600 full- and part-time undergraduate and graduate students. Most are Pennsylvania residents, but students from 25 states and 50 nations are represented in the student body, which consists of 59% women, and 41% men.
+The academic year at KU consists of two 15-week terms. The university also offers classes during two five-week summer sessions
+
+
+total_undergraduate_enrollment
+Candidate Sentence: Several large cities are easily accessible, including Philadelphia, New York, Baltimore, and Washington, D.C.
+KU has an enrollment of approximately 10,600 full- and part-time undergraduate and graduate students. Most are Pennsylvania residents, but students from 25 states and 50 nations are represented in the student body, which consists of 59% women, and 41% men.
+The academic year at KU consists of two 15-week terms. The university also offers classes during two five-week summer sessions
+Candidate Sentence: Kutztown University of Pennsylvania The Basics About Kutztown University Kutztown University is a public institution that was founded in 1866. It has a total undergraduate enrollment of 9,614, its setting is rural, and the campus size is 325 acres. It utilizes a semester-based academic calendar.  Kutztown University's ranking in the 2011 edition of Best Colleges is Regional Universities (North), 117

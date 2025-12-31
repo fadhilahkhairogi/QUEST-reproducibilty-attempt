@@ -1,0 +1,17 @@
+university_name
+Candidate Sentence: But most of the services on campus are willing to help out, and are understanding of their own shortcomings.  And if there is a real problem at Tulane, the students' voices are actually heard.
+Copyright © 2011 U.S. News & World Report, L.P. All rights reserved.
+Use of this Web site constitutes acceptance of our Terms and Conditions of Use and Privacy Policy.
+Candidate Sentence: And you can always talk about New Orleans (people love asking whether or not there is a city "down there" anymore) to keep the conversation going.    There are going to be issues on any campus, and the case is no different from Tulane.  Sometimes the wireless internet doesn't work.  Sometimes the financial aid system has a glitch and I can't sign up for my classes when I'm supposed to.  But most of the services on campus are willing to help out, and are understanding of their own shortcomings
+
+
+setting
+Candidate Sentence: Tulane University The Basics About Tulane University Tulane University is a private institution that was founded in 1834. It has a total undergraduate enrollment of 7,210, its setting is urban, and the campus size is 110 acres. It utilizes a semester-based academic calendar.  Tulane University's ranking in the 2011 edition of Best Colleges is National Universities, 51. Its tuition and fees are $41,884.
+The best thing about Tulane is the people and the city. The students here are so fun, yet so intelligent
+Candidate Sentence: It has plenty of great comfortable furniture to hang out or study in.    Besides the Greek life issue, Tulane's administration does a great job listening to the students. We wanted a fall break; they gave it to us. They have great emergency plans, and we get biweekly emails from the president himself.    I would say the biggest controversy on campus lately is a website called JuicyCampus. The students are fighting for the administration to ban it. The website is basically a portal for gossiping and bullying
+
+
+total_undergraduate_enrollment
+Candidate Sentence: Tulane University The Basics About Tulane University Tulane University is a private institution that was founded in 1834. It has a total undergraduate enrollment of 7,210, its setting is urban, and the campus size is 110 acres. It utilizes a semester-based academic calendar.  Tulane University's ranking in the 2011 edition of Best Colleges is National Universities, 51. Its tuition and fees are $41,884.
+The best thing about Tulane is the people and the city. The students here are so fun, yet so intelligent
+Candidate Sentence: It has plenty of great comfortable furniture to hang out or study in.    Besides the Greek life issue, Tulane's administration does a great job listening to the students. We wanted a fall break; they gave it to us. They have great emergency plans, and we get biweekly emails from the president himself.    I would say the biggest controversy on campus lately is a website called JuicyCampus. The students are fighting for the administration to ban it. The website is basically a portal for gossiping and bullying

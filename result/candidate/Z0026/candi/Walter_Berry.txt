@@ -1,0 +1,16 @@
+name
+Candidate Sentences: Walter Berry (basketball) Walter Berry (born May 14, 1964) is an American former professional basketball player. After spending three seasons in the National Basketball Association (NBA), he had a very successful career in various leagues around Europe and the EuroLeague. Berry played the power forward position. Berry, who originated from New York City, New York, was nicknamed "The Truth", early in his playing career
+
+
+draft_pick
+Candidate Sentences: Berry, nicknamed, "The Truth", was also the second leading scorer on St. John's 1985 Final Four team.
+Professional career NBA Berry was selected by the Portland Trail Blazers with the 14th overall pick in the 1986 NBA draft. He only played 7 games for the Blazers before he was traded to the San Antonio Spurs in exchange for Kevin Duckworth. He spent three seasons in the NBA, from 1986 to 1989, with the Trail Blazers, Spurs, New Jersey Nets, and Houston Rockets
+
+
+draft_year
+Candidate Sentences: Berry, nicknamed, "The Truth", was also the second leading scorer on St. John's 1985 Final Four team.
+Professional career NBA Berry was selected by the Portland Trail Blazers with the 14th overall pick in the 1986 NBA draft. He only played 7 games for the Blazers before he was traded to the San Antonio Spurs in exchange for Kevin Duckworth. He spent three seasons in the NBA, from 1986 to 1989, with the Trail Blazers, Spurs, New Jersey Nets, and Houston Rockets
+
+
+NBA_championships
+Candidate Sentences: 

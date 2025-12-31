@@ -1,0 +1,18 @@
+[name]: Jordan Crawford  
+Key sentnce 1: Jordan Crawford Jordan Lee Crawford (born October 23, 1988) is an American professional basketball player for the Sichuan Blue Whales of the Chinese Basketball Association (CBA).
+
+[age]:  
+Key sentnce 1: Jordan Crawford Jordan Lee Crawford (born October 23, 1988) is an American professional basketball player for the Sichuan Blue Whales of the Chinese Basketball Association (CBA).
+
+[team]: Sichuan Blue Whales  
+Key sentnce 1: Jordan Crawford Jordan Lee Crawford (born October 23, 1988) is an American professional basketball player for the Sichuan Blue Whales of the Chinese Basketball Association (CBA).
+
+[draft_year]: 2010  
+Key sentnce 1: Crawford was selected by the New Jersey Nets with the 27th overall pick in the 2010 NBA draft.
+
+[draft_pick]: 27  
+Key sentnce 1: Crawford was selected by the New Jersey Nets with the 27th overall pick in the 2010 NBA draft.
+
+[college]: Indiana University; Xavier University  
+Key sentnce 1: Crawford signed a National Letter of Intent to play at Indiana University and enrolled in 2007.  
+Key sentnce 2: After fallout from the Kelvin Sampson controversy, Crawford transferred to Xavier University in 2008.

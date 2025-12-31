@@ -1,0 +1,11 @@
+[name]: Sid Tanenbaum  
+Key sentence 1: Sidney Harold Tanenbaum (October 8, 1925 – September 4, 1986) was an American professional basketball player.
+
+[draft_pick]:  
+Key sentence 1: He played two seasons (1947–49) in the Basketball Association of America as a member of the New York Knicks and Baltimore Bullets.
+
+[draft_year]:  
+Key sentence 1: He played college basketball at New York University, where he was captain of the team in 1947.
+
+[NBA_championships]:  
+Key sentence 1: He was inducted into the New York City Basketball Hall of Fame, and in 1997 into the International Jewish Sports Hall of Fame.

@@ -1,0 +1,34 @@
+university_name
+Candidate Sentence: There isn't much school pride, most likely because we don't have a football team and because we don't know what our mascot actually is. Campus is very pretty though and everything is quite new here so those amentities are very nice. You have to make your own fun and DC is only 25 minutes away. There are a lot of good restaurants in the area. Also all parties are off campus because of strict security on campus with drinking.
+Copyright © 2011 U.S. News & World Report, L.P
+Candidate Sentence: There are a lot of good restaurants in the area. Also all parties are off campus because of strict security on campus with drinking.
+Copyright © 2011 U.S. News & World Report, L.P. All rights reserved.
+Use of this Web site constitutes acceptance of our Terms and Conditions of Use and Privacy Policy.
+
+
+academic_calendar
+Candidate Sentence: There are a lot of good restaurants in the area. Also all parties are off campus because of strict security on campus with drinking.
+Copyright © 2011 U.S. News & World Report, L.P. All rights reserved.
+Use of this Web site constitutes acceptance of our Terms and Conditions of Use and Privacy Policy.
+Candidate Sentence: New facilities on campus include performing arts facilities, from a new opera house to dance, percussion and orchestra practice space; state-of-the-art recreation and exercise centers; and a hotel and conference center ideal for visiting students and families
+
+
+rank
+Candidate Sentence: It utilizes a semester-based academic calendar.  George Mason University's ranking in the 2011 edition of Best Colleges is National Universities, 143. Its in-state tuition and fees are $8,684; out-of-state tuition and fees are $25,448.
+Opportunities to advance your career abound both inside and outside the classroom, including internships at nationally and internationally recognized companies and organizations, ranging from the Smithsonian National Zoo to the White House. Mason alumni dominate the D.C
+Candidate Sentence: There are a lot of good restaurants in the area. Also all parties are off campus because of strict security on campus with drinking.
+Copyright © 2011 U.S. News & World Report, L.P. All rights reserved.
+Use of this Web site constitutes acceptance of our Terms and Conditions of Use and Privacy Policy.
+
+
+year_founded
+Candidate Sentence: Now many of those forests I loved have been chopped down to make room for a lot of new dorms and apartment-style living.    There did not used to be a lot of school pride here, and it's still not the most enthusiastic group of students, although the recent basketball victories helped to change that too.  My freshman year, I thought school pride was a myth.  During our Final Four run, it was amazing how much different the campus dynamic felt
+Candidate Sentence: There are a lot of good restaurants in the area. Also all parties are off campus because of strict security on campus with drinking.
+Copyright © 2011 U.S. News & World Report, L.P. All rights reserved.
+Use of this Web site constitutes acceptance of our Terms and Conditions of Use and Privacy Policy.
+
+
+total_undergraduate_enrollment
+Candidate Sentence: George Mason University The Basics About George Mason University George Mason University is a public institution that was founded in 1972. It has a total undergraduate enrollment of 19,702, its setting is suburban, and the campus size is 806 acres. It utilizes a semester-based academic calendar.  George Mason University's ranking in the 2011 edition of Best Colleges is National Universities, 143
+Candidate Sentence: There isn't much school pride, most likely because we don't have a football team and because we don't know what our mascot actually is. Campus is very pretty though and everything is quite new here so those amentities are very nice. You have to make your own fun and DC is only 25 minutes away. There are a lot of good restaurants in the area. Also all parties are off campus because of strict security on campus with drinking.
+Copyright © 2011 U.S. News & World Report, L.P

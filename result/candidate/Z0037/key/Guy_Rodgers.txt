@@ -1,0 +1,8 @@
+[name]: Guy Rodgers  
+Key sentnce 1: Guy Rodgers Guy William Rodgers (September 1, 1935 – February 19, 2001) was an American professional basketball player born in Philadelphia.
+
+[age]: 65  
+Key sentnce 1: Rodgers died on February 19, 2001, at age 65 after a heart attack.
+
+[team]:  
+Key sentnce 1: Rodgers spent twelve years (1958–1970) in the NBA, and was one of the league's best playmakers in the early to mid-1960s.

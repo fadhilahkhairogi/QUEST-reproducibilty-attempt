@@ -1,0 +1,22 @@
+university_name
+Candidate Sentence: Hollins University The Basics About Hollins University Hollins University is a private institution that was founded in 1842. It has a total undergraduate enrollment of 796, its setting is suburban, and the campus size is 475 acres. It utilizes a 4-1-4-based academic calendar.  Hollins University's ranking in the 2011 edition of Best Colleges is National Liberal Arts Colleges, 105. Its tuition and fees are $29,475.
+Copyright © 2011 U.S. News & World Report, L.P
+Candidate Sentence: Hollins University's ranking in the 2011 edition of Best Colleges is National Liberal Arts Colleges, 105. Its tuition and fees are $29,475.
+Copyright © 2011 U.S. News & World Report, L.P. All rights reserved.
+Use of this Web site constitutes acceptance of our Terms and Conditions of Use and Privacy Policy.
+
+
+year_founded
+Candidate Sentence: Hollins University The Basics About Hollins University Hollins University is a private institution that was founded in 1842. It has a total undergraduate enrollment of 796, its setting is suburban, and the campus size is 475 acres. It utilizes a 4-1-4-based academic calendar.  Hollins University's ranking in the 2011 edition of Best Colleges is National Liberal Arts Colleges, 105. Its tuition and fees are $29,475.
+Copyright © 2011 U.S. News & World Report, L.P
+Candidate Sentence: Hollins University's ranking in the 2011 edition of Best Colleges is National Liberal Arts Colleges, 105. Its tuition and fees are $29,475.
+Copyright © 2011 U.S. News & World Report, L.P. All rights reserved.
+Use of this Web site constitutes acceptance of our Terms and Conditions of Use and Privacy Policy.
+
+
+rank
+Candidate Sentence: Hollins University's ranking in the 2011 edition of Best Colleges is National Liberal Arts Colleges, 105. Its tuition and fees are $29,475.
+Copyright © 2011 U.S. News & World Report, L.P. All rights reserved.
+Use of this Web site constitutes acceptance of our Terms and Conditions of Use and Privacy Policy.
+Candidate Sentence: Hollins University The Basics About Hollins University Hollins University is a private institution that was founded in 1842. It has a total undergraduate enrollment of 796, its setting is suburban, and the campus size is 475 acres. It utilizes a 4-1-4-based academic calendar.  Hollins University's ranking in the 2011 edition of Best Colleges is National Liberal Arts Colleges, 105. Its tuition and fees are $29,475.
+Copyright © 2011 U.S. News & World Report, L.P

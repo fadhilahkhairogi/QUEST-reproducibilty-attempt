@@ -1,0 +1,42 @@
+name
+Candidate Sentence: D. J. White For the football player, see D. J. White (American football).
+Dewayne "D. J." White, Jr. (born August 31, 1986) is the general manager of the Oklahoma City Blue. He was a video analyst for the Oklahoma City Thunder and a former American professional basketball player, who was selected in the first round of the 2008 NBA draft. Standing at 6 ft 9 in (2.06 m), he played the power forward position
+Candidate Sentence: He averaged 9.2 points, 2.8 rebounds and 1.3 assists per game. He re-signed with the team on August 22, 2020.
+On August 15, 2022, he has announced his retirement from professional basketball.
+Career statistics NBA Regular season Playoffs Family White married his wife, Brittany, and has three children, Timiya, Avery, and Olivia.
+
+
+age
+Candidate Sentence: He averaged 9.2 points, 2.8 rebounds and 1.3 assists per game. He re-signed with the team on August 22, 2020.
+On August 15, 2022, he has announced his retirement from professional basketball.
+Career statistics NBA Regular season Playoffs Family White married his wife, Brittany, and has three children, Timiya, Avery, and Olivia.
+Candidate Sentence: On February 24, 2011, White and Morris Peterson were traded to the Charlotte Bobcats for Nazr Mohammed.
+In September 2012, White signed with the Shanghai Sharks of China. On February 28, 2013, White signed a 10-day contract with the Boston Celtics. He signed a second 10-day contract with the Celtics on March 10, 2013
+
+
+team
+Candidate Sentence: D. J. White For the football player, see D. J. White (American football).
+Dewayne "D. J." White, Jr. (born August 31, 1986) is the general manager of the Oklahoma City Blue. He was a video analyst for the Oklahoma City Thunder and a former American professional basketball player, who was selected in the first round of the 2008 NBA draft. Standing at 6 ft 9 in (2.06 m), he played the power forward position
+Candidate Sentence: He averaged 9.2 points, 2.8 rebounds and 1.3 assists per game. He re-signed with the team on August 22, 2020.
+On August 15, 2022, he has announced his retirement from professional basketball.
+Career statistics NBA Regular season Playoffs Family White married his wife, Brittany, and has three children, Timiya, Avery, and Olivia.
+
+
+draft_year
+Candidate Sentence: White's rookie season was delayed when he had to undergo surgery on his jaw to remove a benign growth, causing him to miss the first five months of the season.  He finally made his professional debut for the Tulsa 66ers of the NBA D-League on March 18, 2009. In six games he played with Tulsa, he averaged 18.3 points and 7.2 rebounds per game. After that short stint, he was recalled by the Oklahoma City Thunder and made his NBA debut on April 5, 2009, against the Indiana Pacers
+Candidate Sentence: He was named by Rivals.com as a Freshman All-American, and was named a 5-star recruit by Scout.com. He was also selected as the Big Ten Freshman of the Year. In 2008, he was named Big Ten Player of the Year and to the First Team All-Big Ten. He was also named Second Team All-American in 2008.
+College statistics Professional career White was drafted with the 29th pick of the 2008 NBA draft by the Detroit Pistons and traded the same day to the Seattle SuperSonics, who were relocating to Oklahoma City
+
+
+draft_pick
+Candidate Sentence: White's rookie season was delayed when he had to undergo surgery on his jaw to remove a benign growth, causing him to miss the first five months of the season.  He finally made his professional debut for the Tulsa 66ers of the NBA D-League on March 18, 2009. In six games he played with Tulsa, he averaged 18.3 points and 7.2 rebounds per game. After that short stint, he was recalled by the Oklahoma City Thunder and made his NBA debut on April 5, 2009, against the Indiana Pacers
+Candidate Sentence: He was named by Rivals.com as a Freshman All-American, and was named a 5-star recruit by Scout.com. He was also selected as the Big Ten Freshman of the Year. In 2008, he was named Big Ten Player of the Year and to the First Team All-Big Ten. He was also named Second Team All-American in 2008.
+College statistics Professional career White was drafted with the 29th pick of the 2008 NBA draft by the Detroit Pistons and traded the same day to the Seattle SuperSonics, who were relocating to Oklahoma City
+
+
+college
+Candidate Sentence: Standing at 6 ft 9 in (2.06 m), he played the power forward position. He spent the majority of his career playing overseas.
+High school and college career A Hillcrest High School standout, White led all freshmen in the Big Ten Conference in scoring during his freshman season with the Indiana Hoosiers. He was named by Rivals.com as a Freshman All-American, and was named a 5-star recruit by Scout.com. He was also selected as the Big Ten Freshman of the Year
+Candidate Sentence: On November 25, 2014, he signed with the Fujian Sturgeons of China for the rest of the 2014–15 CBA season.
+On July 7, 2015, White joined the Cleveland Cavaliers for the 2015 NBA Summer League. On August 26, 2015, he signed with Auxilium CUS Torino of Italy for the 2015–16 season. On July 22, 2016, he re-signed with Torino for one more season.
+On July 8, 2017, White signed with the Turkish Basketball Super League club Gaziantep Basketbol

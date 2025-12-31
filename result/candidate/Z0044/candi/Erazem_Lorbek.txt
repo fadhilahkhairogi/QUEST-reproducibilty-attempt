@@ -1,0 +1,36 @@
+name
+Candidate Sentence: Erazem Lorbek Erazem Lorbek	Lorbek with FC Barcelona in 2013.
+Erazem Lorbek (born February 21, 1984) is a Slovenian former professional basketball player. At a height of 6 ft 10+3⁄4 in (2.10 m) tall, he primarily played at the power forward position, but he was also capable of playing at the center position. A three-time All-EuroLeague Team member, he won the EuroLeague title with FC Barcelona in 2010.
+Lorbek was also a regular member of the senior Slovenian national basketball team
+Candidate Sentence: In 2011, Lorbek said that he didn't want to play for the Slovenian national team at EuroBasket 2011, just 15 minutes before Slovenia's training camp started. Two days later, he changed his mind, and decided instead to represent Slovenia at the tournament, which was held in Lithuania.
+Personal life Lorbek is the older brother of Domen Lorbek and Klemen Lorbek, who were also professionals basketball players.
+
+
+age
+Candidate Sentence: In 2011, Lorbek said that he didn't want to play for the Slovenian national team at EuroBasket 2011, just 15 minutes before Slovenia's training camp started. Two days later, he changed his mind, and decided instead to represent Slovenia at the tournament, which was held in Lithuania.
+Personal life Lorbek is the older brother of Domen Lorbek and Klemen Lorbek, who were also professionals basketball players.
+Candidate Sentence: Lorbek then played with Olimpija's B squad, in the minor leagues of Slovenia, from 1999 to 2002.
+College career Lorbek attended Michigan State University in the U.S., where he played college basketball for Tom Izzo and the Spartans
+
+
+team
+Candidate Sentence: Over 21 Euroleague games, he averaged 12 points and 5 rebounds per game.
+FC Barcelona (2009–14) On August 18, 2009, he was transferred to the Spanish club FC Barcelona, for an undisclosed fee. He signed a three-year contract, with the possibility to leave and join the NBA, after the second year of the contract.
+On June 22, 2013, he underwent arthroscopic surgery on his knee, which caused him problems during the 2012–13 season
+Candidate Sentence: On September 11, 2017, he left Sassari, without having played with the team in any games.
+On January 19, 2018, Lorbek signed with the Slovenian club Petrol Olimpija. He played a single game for Olimpija in the Sloveninan League and recorded 12 points and 6 rebounds, only to retire from playing professional basketball shortly after.
+NBA draft rights Lorbek was drafted in the 2nd round of the 2005 NBA draft, by the Indiana Pacers. But the Pacers did not sign him, and Lorbek continued to play in Europe
+
+
+draft_year
+Candidate Sentence: 
+
+draft_pick
+Candidate Sentence: 
+
+college
+Candidate Sentence: Lorbek then played with Olimpija's B squad, in the minor leagues of Slovenia, from 1999 to 2002.
+College career Lorbek attended Michigan State University in the U.S., where he played college basketball for Tom Izzo and the Spartans
+Candidate Sentence: On September 11, 2017, he left Sassari, without having played with the team in any games.
+On January 19, 2018, Lorbek signed with the Slovenian club Petrol Olimpija. He played a single game for Olimpija in the Sloveninan League and recorded 12 points and 6 rebounds, only to retire from playing professional basketball shortly after.
+NBA draft rights Lorbek was drafted in the 2nd round of the 2005 NBA draft, by the Indiana Pacers. But the Pacers did not sign him, and Lorbek continued to play in Europe

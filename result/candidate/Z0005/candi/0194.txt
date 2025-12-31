@@ -1,0 +1,5 @@
+university_name
+Candidate Sentence: Kutztown University of Pennsylvania The Basics About Kutztown University Kutztown University is a public institution that was founded in 1866. It has a total undergraduate enrollment of 9,614, its setting is rural, and the campus size is 325 acres. It utilizes a semester-based academic calendar.  Kutztown University's ranking in the 2011 edition of Best Colleges is Regional Universities (North), 117
+Candidate Sentence: Its in-state tuition and fees are $7,732; out-of-state tuition and fees are $16,438.
+Today, Kutztown University is a modern, comprehensive institution and is accredited by the Middle States Association of Colleges and Secondary Schools, PA Department of Education, NCATE, NLNAC, CSWE, NCACE, NASM and NASAD.
+Kutztown University's picturesque 325-acre campus is located in a Pennsylvania Dutch community midway between Allentown and Reading

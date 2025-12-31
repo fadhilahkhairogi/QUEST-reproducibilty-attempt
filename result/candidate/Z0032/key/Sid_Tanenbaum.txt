@@ -1,0 +1,8 @@
+[name]: Sid Tanenbaum  
+Key sentnce 1: Sid Tanenbaum Sidney Harold Tanenbaum (October 8, 1925 – September 4, 1986) was an American professional basketball player.
+
+[age]:   
+Key sentnce 1: 
+
+[team]:   
+Key sentnce 1:

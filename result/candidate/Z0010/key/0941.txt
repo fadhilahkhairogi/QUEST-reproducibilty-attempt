@@ -1,0 +1,8 @@
+[university_name]: College of Idaho
+Key sentnce 1: College of Idaho The Basics About College of Idaho College of Idaho is a private institution that was founded in 1891.
+
+[year_founded]: 
+Key sentnce 1: College of Idaho The Basics About College of Idaho College of Idaho is a private institution that was founded in 1891.
+
+[setting]: suburban
+Key sentnce 1: It has a total undergraduate enrollment of 1,002, its setting is suburban, and the campus size is 50 acres.

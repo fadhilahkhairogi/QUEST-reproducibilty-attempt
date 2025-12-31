@@ -1,0 +1,41 @@
+name
+Candidate Sentence: Nate Huffman Nate Huffman	Huffman in 2014.
+Nathaniel Thomas Huffman (April 2, 1975 – October 15, 2015) was an American professional basketball player, who played most of his career with Maccabi Tel Aviv
+Candidate Sentence: He was named the FIBA SuproLeague Player of the Year, as well as the "Best American Player in Europe", by Basket News, in 2001.
+After his successes in Israel, he was signed in July 2002, by the Toronto Raptors of the NBA to a 3-year, $5.2 million contract (the third year being a team option), and appeared in 7 games, averaging 3.3 points, 3.3 rebounds and 10.9 minutes
+
+
+age
+Candidate Sentence: Nate Huffman Nate Huffman	Huffman in 2014.
+Nathaniel Thomas Huffman (April 2, 1975 – October 15, 2015) was an American professional basketball player, who played most of his career with Maccabi Tel Aviv
+
+
+team
+Candidate Sentence: He was named the FIBA SuproLeague Player of the Year, as well as the "Best American Player in Europe", by Basket News, in 2001.
+After his successes in Israel, he was signed in July 2002, by the Toronto Raptors of the NBA to a 3-year, $5.2 million contract (the third year being a team option), and appeared in 7 games, averaging 3.3 points, 3.3 rebounds and 10.9 minutes
+Candidate Sentence: He was selected to the CBA All-Rookie Team in 1998.
+He then moved to Europe, and played for Baloncesto Fuenlabrada of the Spanish ACB League.
+In the 1999–00 season, he was signed by Maccabi Tel Aviv. During his time in Israel, he won three Israeli Premier League championships and Israeli State Cups, and one European FIBA SuproLeague title (2001; when he averaged 17.5 points and 9 rebounds, while playing 30 minutes per game, as the team was 21–3)
+
+
+draft_year
+Candidate Sentence: He was named the FIBA SuproLeague Player of the Year, as well as the "Best American Player in Europe", by Basket News, in 2001.
+After his successes in Israel, he was signed in July 2002, by the Toronto Raptors of the NBA to a 3-year, $5.2 million contract (the third year being a team option), and appeared in 7 games, averaging 3.3 points, 3.3 rebounds and 10.9 minutes
+Candidate Sentence: He was selected to the CBA All-Rookie Team in 1998.
+He then moved to Europe, and played for Baloncesto Fuenlabrada of the Spanish ACB League.
+In the 1999–00 season, he was signed by Maccabi Tel Aviv. During his time in Israel, he won three Israeli Premier League championships and Israeli State Cups, and one European FIBA SuproLeague title (2001; when he averaged 17.5 points and 9 rebounds, while playing 30 minutes per game, as the team was 21–3)
+
+
+draft_pick
+Candidate Sentence: He was named the FIBA SuproLeague Player of the Year, as well as the "Best American Player in Europe", by Basket News, in 2001.
+After his successes in Israel, he was signed in July 2002, by the Toronto Raptors of the NBA to a 3-year, $5.2 million contract (the third year being a team option), and appeared in 7 games, averaging 3.3 points, 3.3 rebounds and 10.9 minutes
+Candidate Sentence: He was selected to the CBA All-Rookie Team in 1998.
+He then moved to Europe, and played for Baloncesto Fuenlabrada of the Spanish ACB League.
+In the 1999–00 season, he was signed by Maccabi Tel Aviv. During his time in Israel, he won three Israeli Premier League championships and Israeli State Cups, and one European FIBA SuproLeague title (2001; when he averaged 17.5 points and 9 rebounds, while playing 30 minutes per game, as the team was 21–3)
+
+
+college
+Candidate Sentence: He was the 2001 Israeli Basketball Premier League MVP, as well as the 2001 FIBA SuproLeague Player of the Year.
+High school and college career Huffman played for Lakeview High School and then for Lansing Community College (where in '94–'95 he averaged 29.8 points, 14.5 rebounds, and 6 blocks per game while shooting 66.8% from the field, and was named to the JUCO All America team)
+Candidate Sentence: He was named the FIBA SuproLeague Player of the Year, as well as the "Best American Player in Europe", by Basket News, in 2001.
+After his successes in Israel, he was signed in July 2002, by the Toronto Raptors of the NBA to a 3-year, $5.2 million contract (the third year being a team option), and appeared in 7 games, averaging 3.3 points, 3.3 rebounds and 10.9 minutes

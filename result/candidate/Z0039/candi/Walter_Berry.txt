@@ -1,0 +1,12 @@
+name
+Candidate Sentence: Walter Berry (basketball) Walter Berry (born May 14, 1964) is an American former professional basketball player. After spending three seasons in the National Basketball Association (NBA), he had a very successful career in various leagues around Europe and the EuroLeague. Berry played the power forward position. Berry, who originated from New York City, New York, was nicknamed "The Truth", early in his playing career
+
+
+age
+Candidate Sentence: He spent three seasons in the NBA, from 1986 to 1989, with the Trail Blazers, Spurs, New Jersey Nets, and Houston Rockets. However, he did not get along with some of his coaches, including Mike Schuler while with the Portland Trail Blazers, Larry Brown (San Antonio Spurs) and Willis Reed (Nets). He was released by the New Jersey Nets, after failure to conform to team policy
+Candidate Sentence: 
+
+team
+Candidate Sentence: He was released by the New Jersey Nets, after failure to conform to team policy. He holds NBA career averages of 14.1 points and 4.7 rebounds per game.
+Europe In 1989, Berry went to Italy, where he played for Italian LBA League club Paini Napoli. After that, he spent much of his career playing in Greece, in the Greek Basket League and the EuroLeague, where he forged a reputation as one of the most savvy scorers, with a wide variety of shots and ways of scoring.
+Candidate Sentence: He spent three seasons in the NBA, from 1986 to 1989, with the Trail Blazers, Spurs, New Jersey Nets, and Houston Rockets. However, he did not get along with some of his coaches, including Mike Schuler while with the Portland Trail Blazers, Larry Brown (San Antonio Spurs) and Willis Reed (Nets). He was released by the New Jersey Nets, after failure to conform to team policy

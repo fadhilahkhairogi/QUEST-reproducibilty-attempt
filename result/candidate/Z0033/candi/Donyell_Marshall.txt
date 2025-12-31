@@ -1,0 +1,44 @@
+name
+Candidate Sentence: Donyell Marshall Not to be confused with former basketball player Donny Marshall.
+Donyell Lamar Marshall (born May 18, 1973) is an American basketball coach and former professional player. He is currently an assistant coach for the Greensboro Swarm of the NBA G League. During his National Basketball Association (NBA) career, he played with eight different teams.
+Early career Marshall was born on May 18, 1973, in Reading, Pennsylvania
+
+
+team
+Candidate Sentence: During his National Basketball Association (NBA) career, he played with eight different teams.
+Early career Marshall was born on May 18, 1973, in Reading, Pennsylvania. He graduated from Reading High School.
+He attended the University of Connecticut and was a player in the university's basketball program. Marshall was a unanimous pick as Big East Player of the Year in 1993–94.
+Professional career Marshall left college early to participate in the 1994 NBA draft
+Candidate Sentence: Donyell Marshall Not to be confused with former basketball player Donny Marshall.
+Donyell Lamar Marshall (born May 18, 1973) is an American basketball coach and former professional player. He is currently an assistant coach for the Greensboro Swarm of the NBA G League. During his National Basketball Association (NBA) career, he played with eight different teams.
+Early career Marshall was born on May 18, 1973, in Reading, Pennsylvania
+
+
+draft_pick
+Candidate Sentence: 
+
+draft_year
+Candidate Sentence: He was selected after his junior year at the University of Connecticut by the Minnesota Timberwolves, as the fourth overall pick. He was traded 40 games into his rookie season to the Golden State Warriors in exchange for power forward Tom Gugliotta on February 18, 1995.
+Marshall played with the Warriors until 2000, when he was traded to the Utah Jazz as part of a four-team deal
+Candidate Sentence: During his National Basketball Association (NBA) career, he played with eight different teams.
+Early career Marshall was born on May 18, 1973, in Reading, Pennsylvania. He graduated from Reading High School.
+He attended the University of Connecticut and was a player in the university's basketball program. Marshall was a unanimous pick as Big East Player of the Year in 1993–94.
+Professional career Marshall left college early to participate in the 1994 NBA draft
+
+
+college
+Candidate Sentence: During his National Basketball Association (NBA) career, he played with eight different teams.
+Early career Marshall was born on May 18, 1973, in Reading, Pennsylvania. He graduated from Reading High School.
+He attended the University of Connecticut and was a player in the university's basketball program. Marshall was a unanimous pick as Big East Player of the Year in 1993–94.
+Professional career Marshall left college early to participate in the 1994 NBA draft
+Candidate Sentence: He was selected after his junior year at the University of Connecticut by the Minnesota Timberwolves, as the fourth overall pick. He was traded 40 games into his rookie season to the Golden State Warriors in exchange for power forward Tom Gugliotta on February 18, 1995.
+Marshall played with the Warriors until 2000, when he was traded to the Utah Jazz as part of a four-team deal
+
+
+age
+Candidate Sentence: During his National Basketball Association (NBA) career, he played with eight different teams.
+Early career Marshall was born on May 18, 1973, in Reading, Pennsylvania. He graduated from Reading High School.
+He attended the University of Connecticut and was a player in the university's basketball program. Marshall was a unanimous pick as Big East Player of the Year in 1993–94.
+Professional career Marshall left college early to participate in the 1994 NBA draft
+Candidate Sentence: He was selected after his junior year at the University of Connecticut by the Minnesota Timberwolves, as the fourth overall pick. He was traded 40 games into his rookie season to the Golden State Warriors in exchange for power forward Tom Gugliotta on February 18, 1995.
+Marshall played with the Warriors until 2000, when he was traded to the Utah Jazz as part of a four-team deal

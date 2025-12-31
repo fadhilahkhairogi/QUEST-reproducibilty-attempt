@@ -1,0 +1,31 @@
+name
+Candidate Sentence: I was making a great salary in Europe. The thing about playing in the NBA was that there were so many unknowns. The NBA was more physical because the players were bigger and stronger than in Europe. I also would have had to get used to an entirely different culture.
+1990–91 season Rađa averaged 17.9 points in the Italian League in his first season with Il Messaggero (Virtus Roma enjoyed sponsorship from that popular Roman newspaper at the time)
+
+
+age
+Candidate Sentence: He had a change of heart once Virtus, an ambitious and financially stable club bankrolled by the Gruppo Ferruzzi [it] food company and sponsored by the Il Messaggero daily broadsheet, made him an offer reportedly in the US$15–18 million range for a 5-year contract
+Candidate Sentence: I was making a great salary in Europe. The thing about playing in the NBA was that there were so many unknowns. The NBA was more physical because the players were bigger and stronger than in Europe. I also would have had to get used to an entirely different culture.
+1990–91 season Rađa averaged 17.9 points in the Italian League in his first season with Il Messaggero (Virtus Roma enjoyed sponsorship from that popular Roman newspaper at the time)
+
+
+team
+Candidate Sentence: I was making a great salary in Europe. The thing about playing in the NBA was that there were so many unknowns. The NBA was more physical because the players were bigger and stronger than in Europe. I also would have had to get used to an entirely different culture.
+1990–91 season Rađa averaged 17.9 points in the Italian League in his first season with Il Messaggero (Virtus Roma enjoyed sponsorship from that popular Roman newspaper at the time)
+Candidate Sentence: He had a change of heart once Virtus, an ambitious and financially stable club bankrolled by the Gruppo Ferruzzi [it] food company and sponsored by the Il Messaggero daily broadsheet, made him an offer reportedly in the US$15–18 million range for a 5-year contract
+
+
+draft_year
+Candidate Sentence: Rađa was reportedly on a vacation in Bologna, Italy with his girlfriend while the Celtics were drafting him in New York City's Felt Forum
+Candidate Sentence: He had a change of heart once Virtus, an ambitious and financially stable club bankrolled by the Gruppo Ferruzzi [it] food company and sponsored by the Il Messaggero daily broadsheet, made him an offer reportedly in the US$15–18 million range for a 5-year contract
+
+
+draft_pick
+Candidate Sentence: Rađa was reportedly on a vacation in Bologna, Italy with his girlfriend while the Celtics were drafting him in New York City's Felt Forum
+Candidate Sentence: He had a change of heart once Virtus, an ambitious and financially stable club bankrolled by the Gruppo Ferruzzi [it] food company and sponsored by the Il Messaggero daily broadsheet, made him an offer reportedly in the US$15–18 million range for a 5-year contract
+
+
+college
+Candidate Sentence: I was making a great salary in Europe. The thing about playing in the NBA was that there were so many unknowns. The NBA was more physical because the players were bigger and stronger than in Europe. I also would have had to get used to an entirely different culture.
+1990–91 season Rađa averaged 17.9 points in the Italian League in his first season with Il Messaggero (Virtus Roma enjoyed sponsorship from that popular Roman newspaper at the time)
+Candidate Sentence: Rađa was reportedly on a vacation in Bologna, Italy with his girlfriend while the Celtics were drafting him in New York City's Felt Forum

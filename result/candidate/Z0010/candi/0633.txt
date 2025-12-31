@@ -1,0 +1,17 @@
+university_name
+Candidate Sentence: 
+
+year_founded
+Candidate Sentence: United States Merchant Marine Academy The Basics About US Merchant Marine US Merchant Marine is a public institution that was founded in 1943. It has a total undergraduate enrollment of 964, its setting is suburban, and the campus size is 82 acres. It utilizes a trimester-based academic calendar.  US Merchant Marine's ranking in the 2011 edition of Best Colleges is Regional Colleges (North), 3.
+As one of the five federal academies, the route to Kings Point is challenging, and will not be easy
+Candidate Sentence: But the most important element in a productive merchant fleet and a strong transportation industry is people - men and women who are intelligent, dedicated, well-educated and competent.
+The purpose of the U.S. Merchant Marine Academy is to ensure that such people are available to the nation as shipboard officers and as leaders in the transportation field who will meet the challenges of the present and the future.
+Copyright © 2011 U.S. News & World Report, L.P
+
+
+setting
+Candidate Sentence: United States Merchant Marine Academy The Basics About US Merchant Marine US Merchant Marine is a public institution that was founded in 1943. It has a total undergraduate enrollment of 964, its setting is suburban, and the campus size is 82 acres. It utilizes a trimester-based academic calendar.  US Merchant Marine's ranking in the 2011 edition of Best Colleges is Regional Colleges (North), 3.
+As one of the five federal academies, the route to Kings Point is challenging, and will not be easy
+Candidate Sentence: But the most important element in a productive merchant fleet and a strong transportation industry is people - men and women who are intelligent, dedicated, well-educated and competent.
+The purpose of the U.S. Merchant Marine Academy is to ensure that such people are available to the nation as shipboard officers and as leaders in the transportation field who will meet the challenges of the present and the future.
+Copyright © 2011 U.S. News & World Report, L.P

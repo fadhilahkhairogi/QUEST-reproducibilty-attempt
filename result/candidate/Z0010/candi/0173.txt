@@ -1,0 +1,10 @@
+university_name
+Candidate Sentences: Jamestown College The Basics About Jamestown College Jamestown College is a private institution that was founded in 1884. It has a total undergraduate enrollment of 1,010, its setting is urban, and the campus size is 110 acres. It utilizes a semester-based academic calendar.  Jamestown College's ranking in the 2011 edition of Best Colleges is Regional Colleges (Midwest), 41. Its tuition and fees are $13,870.
+Copyright © 2011 U.S. News & World Report, L.P
+
+
+year_founded
+Candidate Sentences: 
+
+setting
+Candidate Sentences: 

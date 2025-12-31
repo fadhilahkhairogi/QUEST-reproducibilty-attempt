@@ -1,0 +1,5 @@
+Anthony_Davis.txt,17
+Greg_Foster.txt,169
+Jay_Vincent.txt,243
+Magic_Johnson.txt,17
+Phil_Jackson.txt,17

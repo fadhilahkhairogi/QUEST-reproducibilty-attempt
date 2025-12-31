@@ -1,0 +1,16 @@
+university_name
+Candidate Sentence: Drake University The Basics About Drake University Drake University is a private institution that was founded in 1881. It has a total undergraduate enrollment of 3,548, its setting is urban, and the campus size is 150 acres. It utilizes a semester-based academic calendar.  Drake University's ranking in the 2011 edition of Best Colleges is Regional Universities (Midwest), 3
+Candidate Sentence: The University also hosts the Drake Relays, a storied track and field meet with competitors ranging from elementary school to Olympic champions. Visit www.drakerelays.org to learn more.
+Drake is committed to making sure that the students' investments provide high returns throughout their lives.  Drake is identified by Barron's, Peterson's and Kiplinger's as a best value education
+
+
+rank
+Candidate Sentence: It utilizes a semester-based academic calendar.  Drake University's ranking in the 2011 edition of Best Colleges is Regional Universities (Midwest), 3. Its tuition and fees are $26,960.
+With over 3,500 undergraduate students and a total student body of more than 5,600 Drake offers its students many of the benefits of large state universities with the intimacy and personalization of a private institution.  First and foremost, Drake University offers a quality academic experience
+Candidate Sentence: The University also hosts the Drake Relays, a storied track and field meet with competitors ranging from elementary school to Olympic champions. Visit www.drakerelays.org to learn more.
+Drake is committed to making sure that the students' investments provide high returns throughout their lives.  Drake is identified by Barron's, Peterson's and Kiplinger's as a best value education
+
+
+year_founded
+Candidate Sentence: Drake University The Basics About Drake University Drake University is a private institution that was founded in 1881. It has a total undergraduate enrollment of 3,548, its setting is urban, and the campus size is 150 acres. It utilizes a semester-based academic calendar.  Drake University's ranking in the 2011 edition of Best Colleges is Regional Universities (Midwest), 3
+Candidate Sentence: Drake is identified by Barron's, Peterson's and Kiplinger's as a best value education.  Approximately 98 percent of Drake students receive financial aid making the actual cost of a Drake education competitive with public universities for many of our students. In fact, most students who plan properly complete their degrees in just four years and begin working in their chosen profession after graduation

@@ -1,0 +1,19 @@
+name
+Candidate Sentence: Jabari Walker Jabari Dominic Walker (born July 30, 2002) is an American professional basketball player for the Portland Trail Blazers of the National Basketball Association (NBA). He is the son of Samaki Walker. He played college basketball for the Colorado Buffaloes. He was named first-team All-Pac-12 as a sophomore with Colorado.
+High school career Walker played basketball for Campbell Hall School in Los Angeles, California, for three years
+
+
+draft_pick
+Candidate Sentence: On March 30, 2022, Walker declared for the 2022 NBA draft while maintaining his college eligibility. He later signed with an agent, forgoing his remaining eligibility.
+Professional career Walker was selected with the 57th overall pick in the 2022 NBA draft by the Portland Trail Blazers. He joined the Blazers' 2022 NBA Summer League team. In his Summer League debut, Walker recorded eleven points and seven rebounds in an 81–78 loss to the Detroit Pistons
+Candidate Sentence: As a freshman, he averaged 7.6 points and 4.3 rebounds per game, earning Pac-12 All-Freshman Team honors. On January 25, 2022, Walker tied a career high with 24 points in an 82–78 win over Oregon. As a sophomore, he averaged 14.6 points and 9.4 rebounds per game and was named first-team All-Pac-12. On March 30, 2022, Walker declared for the 2022 NBA draft while maintaining his college eligibility
+
+
+draft_year
+Candidate Sentence: On March 30, 2022, Walker declared for the 2022 NBA draft while maintaining his college eligibility. He later signed with an agent, forgoing his remaining eligibility.
+Professional career Walker was selected with the 57th overall pick in the 2022 NBA draft by the Portland Trail Blazers. He joined the Blazers' 2022 NBA Summer League team. In his Summer League debut, Walker recorded eleven points and seven rebounds in an 81–78 loss to the Detroit Pistons
+Candidate Sentence: As a freshman, he averaged 7.6 points and 4.3 rebounds per game, earning Pac-12 All-Freshman Team honors. On January 25, 2022, Walker tied a career high with 24 points in an 82–78 win over Oregon. As a sophomore, he averaged 14.6 points and 9.4 rebounds per game and was named first-team All-Pac-12. On March 30, 2022, Walker declared for the 2022 NBA draft while maintaining his college eligibility
+
+
+NBA_championships
+Candidate Sentence: 

@@ -1,0 +1,3 @@
+Anthony_Davis.txt,1.063833475112915
+Greg_Foster.txt,1.7621405124664307
+Kermit_Washington.txt,0.8199982643127441

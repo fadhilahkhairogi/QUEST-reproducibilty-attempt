@@ -1,0 +1,8 @@
+[name]: Daniel Edward Anderson  
+Key sentnce 1: Daniel Edward Anderson (born January 1, 1951) is an American retired professional basketball player in the National Basketball Association (NBA).
+
+[age]:   
+Key sentnce 1: 
+
+[team]:   
+Key sentnce 1:

@@ -1,0 +1,13 @@
+university_name
+Candidate Sentence: 
+
+setting
+Candidate Sentence: St. Louis University The Basics About St. Louis University St. Louis University is a private institution that was founded in 1818. It has a total undergraduate enrollment of 8,119, its setting is urban, and the campus size is 235 acres. It utilizes a semester-based academic calendar.  St. Louis University's ranking in the 2011 edition of Best Colleges is National Universities, 86
+Candidate Sentence: The University also completed a major overhaul of its communication program, including a new state-of-the-art, 8,500-square-foot digital media center.
+While new academic programs were getting under way, others were being planned. Starting in fall 2010, SLU will offer a master's degree in sustainability-the first of its kind in the Midwest
+
+
+total_undergraduate_enrollment
+Candidate Sentence: St. Louis University The Basics About St. Louis University St. Louis University is a private institution that was founded in 1818. It has a total undergraduate enrollment of 8,119, its setting is urban, and the campus size is 235 acres. It utilizes a semester-based academic calendar.  St. Louis University's ranking in the 2011 edition of Best Colleges is National Universities, 86
+Candidate Sentence: The University also completed a major overhaul of its communication program, including a new state-of-the-art, 8,500-square-foot digital media center.
+While new academic programs were getting under way, others were being planned. Starting in fall 2010, SLU will offer a master's degree in sustainability-the first of its kind in the Midwest

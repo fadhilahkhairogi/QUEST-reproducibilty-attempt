@@ -1,0 +1,8 @@
+[name]: Michael Carter-Williams  
+Key sentnce 1: Michael Carter-Williams Michael Carter-Williams (born October 10, 1991) is an American professional basketball player who last played for the Capitanes de Ciudad de México of the NBA G League.  
+
+[age]:   
+Key sentnce 1:   
+
+[team]:   
+Key sentnce 1: Michael Carter-Williams Michael Carter-Williams (born October 10, 1991) is an American professional basketball player who last played for the Capitanes de Ciudad de México of the NBA G League.

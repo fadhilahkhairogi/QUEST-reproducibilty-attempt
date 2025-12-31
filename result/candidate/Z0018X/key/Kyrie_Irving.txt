@@ -1,0 +1,8 @@
+[name]: Kyrie Andrew Irving  
+Key sentence 1: "Kyrie Andrew Irving (/ˈkaɪri/ KY-ree; Lakota: Ȟéla, lit. 'Little Mountain'; born March 23, 1992) is an American professional basketball player for the Dallas Mavericks of the National Basketball Association (NBA)."
+
+[age]: 31  
+Key sentence 1: "Irving was born in Melbourne, Australia, on March 23, 1992; the son of Drederick Irving and Elizabeth (née Larson) Irving, American expatriates."
+
+[team]:  
+Key sentence 1: "Kyrie Andrew Irving (/ˈkaɪri/ KY-ree; Lakota: Ȟéla, lit. 'Little Mountain'; born March 23, 1992) is an American professional basketball player for the Dallas Mavericks of the National Basketball Association (NBA)."

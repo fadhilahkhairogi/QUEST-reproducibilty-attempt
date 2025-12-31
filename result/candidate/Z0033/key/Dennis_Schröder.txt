@@ -1,0 +1,14 @@
+name: 
+Key sentnce 1: 
+
+team: 
+Key sentnce 1: 
+
+draft_year: 
+Key sentnce 1: 
+
+draft_pick: 
+Key sentnce 1: 
+
+college: 
+Key sentnce 1:

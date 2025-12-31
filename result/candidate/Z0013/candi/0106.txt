@@ -1,0 +1,23 @@
+university_name
+Candidate Sentence: There is a controversy that takes over campus for about a week a year.  We have a "free speech" area on campus, where any student or person can proclaim or share any information they wish.  For a few days a year, a group of people from the community come to this area and preach that "Homosex is Sin."  This gets most people on campus very agitated and excited for about one week every year.      Most Georgia Tech students do not graduate in four years.  That is just a fact
+
+
+academic_calendar
+Candidate Sentence: There is a controversy that takes over campus for about a week a year.  We have a "free speech" area on campus, where any student or person can proclaim or share any information they wish.  For a few days a year, a group of people from the community come to this area and preach that "Homosex is Sin."  This gets most people on campus very agitated and excited for about one week every year.      Most Georgia Tech students do not graduate in four years.  That is just a fact
+Candidate Sentence: I wish every student at Georgia Tech loved, more importantly, KNEW every Tech tradition.  Sometimes I think it's amazing that our athletic department is as strong as it is, based on the small percentage of fan base.    There is a controversy that takes over campus for about a week a year.  We have a "free speech" area on campus, where any student or person can proclaim or share any information they wish
+
+
+rank
+Candidate Sentence: You really couldn't ask for a better location!  There is always something to do in Atlanta and it is a great place to live and work after you graduate!      There is a ton of school pride!  I feel like one of the qualifications for getting accepted is knowing the Ramblin' Wreck song, or at least "I'm a Ramblin' Wreck from Georgia Tech and a helluva engineer"!      One experience I will always remember was meeting Red Jesus!  Unfortunately he graduated this semester but is an icon on Tech's campus! Copyright © 2011 U.S
+Candidate Sentence: There is a controversy that takes over campus for about a week a year.  We have a "free speech" area on campus, where any student or person can proclaim or share any information they wish.  For a few days a year, a group of people from the community come to this area and preach that "Homosex is Sin."  This gets most people on campus very agitated and excited for about one week every year.      Most Georgia Tech students do not graduate in four years.  That is just a fact
+
+
+year_founded
+Candidate Sentence: There is a controversy that takes over campus for about a week a year.  We have a "free speech" area on campus, where any student or person can proclaim or share any information they wish.  For a few days a year, a group of people from the community come to this area and preach that "Homosex is Sin."  This gets most people on campus very agitated and excited for about one week every year.      Most Georgia Tech students do not graduate in four years.  That is just a fact
+Candidate Sentence: I wish every student at Georgia Tech loved, more importantly, KNEW every Tech tradition.  Sometimes I think it's amazing that our athletic department is as strong as it is, based on the small percentage of fan base.    There is a controversy that takes over campus for about a week a year.  We have a "free speech" area on campus, where any student or person can proclaim or share any information they wish
+
+
+total_undergraduate_enrollment
+Candidate Sentence: Georgia Institute of Technology The Basics About Georgia Tech Georgia Tech is a public institution that was founded in 1885. It has a total undergraduate enrollment of 13,515, its setting is urban, and the campus size is 400 acres. It utilizes a semester-based academic calendar.  Georgia Tech's ranking in the 2011 edition of Best Colleges is National Universities, 35. Its in-state tuition and fees are $8,716; out-of-state tuition and fees are $26,926.
+Georgia Tech has an outstanding reputation
+Candidate Sentence: There is a controversy that takes over campus for about a week a year.  We have a "free speech" area on campus, where any student or person can proclaim or share any information they wish.  For a few days a year, a group of people from the community come to this area and preach that "Homosex is Sin."  This gets most people on campus very agitated and excited for about one week every year.      Most Georgia Tech students do not graduate in four years.  That is just a fact

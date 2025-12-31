@@ -1,0 +1,29 @@
+name
+Candidate Sentence: 
+
+age
+Candidate Sentence: His father, Mychal Thompson, was the first overall pick in the 1978 NBA draft and spent his 14-year career playing for the Portland Trail Blazers, Los Angeles Lakers and San Antonio Spurs in the NBA and Juvecaserta Basket in Italy.
+Thompson has a younger brother, Klay, who played college basketball at Washington State University before being drafted in the first round of the 2011 NBA draft by the Golden State Warriors
+Candidate Sentence: For the third straight season, he led the team in three-pointers made with 48. He tied his career-high of 25 points against the Utah Utes on December 23, 2009, and was later named the Co–West Coast Conference Player of the Week for his performance against Loyola Marymount, a game in which he scored 22 points and made six of his seven three-point attempts.
+In his final season at Pepperdine, he averaged 14.6 points per game and 5.9 rebounds per game, both of which led the team
+
+
+team
+Candidate Sentence: For the third straight season, he led the team in three-pointers made with 48. He tied his career-high of 25 points against the Utah Utes on December 23, 2009, and was later named the Co–West Coast Conference Player of the Week for his performance against Loyola Marymount, a game in which he scored 22 points and made six of his seven three-point attempts.
+In his final season at Pepperdine, he averaged 14.6 points per game and 5.9 rebounds per game, both of which led the team
+Candidate Sentence: On September 11, 2012, he signed with the Knicks. However, he was later waived by the Knicks on October 27, 2012. On November 1, 2012, he was re-acquired by the Erie BayHawks.
+Sioux Falls Skyforce (2013) On January 3, 2013, Thompson was traded to the Sioux Falls Skyforce in a three-way trade involving the Rio Grande Valley Vipers and the Erie BayHawks.
+Santa Cruz Warriors (2013–2015) In July 2013, Thompson joined the Minnesota Timberwolves for the 2013 NBA Summer League
+
+
+draft_year
+Candidate Sentence: 
+
+draft_pick
+Candidate Sentence: 
+
+college
+Candidate Sentence: His father, Mychal Thompson, was the first overall pick in the 1978 NBA draft and spent his 14-year career playing for the Portland Trail Blazers, Los Angeles Lakers and San Antonio Spurs in the NBA and Juvecaserta Basket in Italy.
+Thompson has a younger brother, Klay, who played college basketball at Washington State University before being drafted in the first round of the 2011 NBA draft by the Golden State Warriors
+Candidate Sentence: After high school, he played one year at Stoneridge Prep, located in Simi Valley, California. He averaged 4.9 points and 3.1 rebounds per game that season.
+College career Heading into college, Thompson was rated as a two-star recruit by Rivals.com and the 91st-best fifth year player by Hoop Scoop Online. On November 9, 2006, he committed to playing for Pepperdine University. In his freshman season at Pepperdine, he started 24 of 32 games and averaged 8.1 points and 2.7 rebounds per game

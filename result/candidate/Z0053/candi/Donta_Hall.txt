@@ -1,0 +1,17 @@
+name
+Candidate Sentence: 
+
+team
+Candidate Sentence: He entered the starting lineup for the Crimson Tide in December of his sophomore season, averaging six points, 5.5 rebounds and 1.4 blocks over 34 games (20 starts)
+Candidate Sentence: Hall finished his collegiate career with 1,014 points, 850 rebounds, and 228 blocked shots (seventh-most in Alabama history) in 135 games played with 85 starts.
+Professional career Grand Rapids Drive (2019–2020) Hall played in the 2019 NBA Summer League as a member of the Detroit Pistons roster and averaged 16.8 minutes, 6.0 points, 5.4 rebounds, 1.6 assists, 1.0 steal and 2.2 blocks per game. Hall signed an Exhibit 10 contract with the Detroit Pistons on July 23, 2019
+
+
+draft_year
+Candidate Sentence: 
+
+draft_pick
+Candidate Sentence: 
+
+college
+Candidate Sentence: He entered the starting lineup for the Crimson Tide in December of his sophomore season, averaging six points, 5.5 rebounds and 1.4 blocks over 34 games (20 starts)

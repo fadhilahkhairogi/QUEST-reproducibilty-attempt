@@ -1,0 +1,11 @@
+name
+Candidate Sentence: After a collegiate career with Michigan State, he played with several teams in his 14-season National Basketball Association career, including the Miami Heat, the Portland Trail Blazers and the San Antonio Spurs, but is perhaps best known for his five-year stint with the Atlanta Hawks which included an All-Star Game appearance in 1998. He won a championship with the Spurs in 2003
+
+
+age
+Candidate Sentence: Candidate Sentence: After a collegiate career with Michigan State, he played with several teams in his 14-season National Basketball Association career, including the Miami Heat, the Portland Trail Blazers and the San Antonio Spurs, but is perhaps best known for his five-year stint with the Atlanta Hawks which included an All-Star Game appearance in 1998. He won a championship with the Spurs in 2003
+
+
+team
+Candidate Sentence: As a result, Smith averaged 6.8 points a game, and would be used sparingly in the Spurs' playoff run, in which the team eliminated the Phoenix Suns, the three-time champion Lakers and the Dallas Mavericks before defeating the New Jersey Nets in six games to win the NBA title, Smith's first and only championship
+Candidate Sentence: He ranks fourth on the school's all-time assists list (with 453) and fifth in rebounds (with 704). For his college career Smith averaged 18.5 points, 6.1 rebounds and 3.7 assists per contest in 122 games. He was named to the NABC All-American First Team as a senior. Smith led the Spartans to a Big Ten Championship and Sweet Sixteen appearance in 1990 and hit a game-winning, last-second three-pointer to beat Wisconsin–Green Bay in the first round of the 1991 NCAA Tournament

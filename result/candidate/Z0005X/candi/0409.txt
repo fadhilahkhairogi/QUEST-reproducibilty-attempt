@@ -1,0 +1,14 @@
+university_name
+Candidate Sentence: Piedmont College The Basics About Piedmont College Piedmont College is a private institution that was founded in 1897. It has a total undergraduate enrollment of 1,268, its setting is rural, and the campus size is 300 acres. It utilizes a semester-based academic calendar.  Piedmont College's ranking in the 2011 edition of Best Colleges is Regional Universities (South), 69. Its tuition and fees are $18,000.
+Copyright © 2011 U.S. News & World Report, L.P
+Candidate Sentence: Piedmont College's ranking in the 2011 edition of Best Colleges is Regional Universities (South), 69. Its tuition and fees are $18,000.
+Copyright © 2011 U.S. News & World Report, L.P. All rights reserved.
+Use of this Web site constitutes acceptance of our Terms and Conditions of Use and Privacy Policy.
+
+
+rank
+Candidate Sentence: Piedmont College's ranking in the 2011 edition of Best Colleges is Regional Universities (South), 69. Its tuition and fees are $18,000.
+Copyright © 2011 U.S. News & World Report, L.P. All rights reserved.
+Use of this Web site constitutes acceptance of our Terms and Conditions of Use and Privacy Policy.
+Candidate Sentence: Piedmont College The Basics About Piedmont College Piedmont College is a private institution that was founded in 1897. It has a total undergraduate enrollment of 1,268, its setting is rural, and the campus size is 300 acres. It utilizes a semester-based academic calendar.  Piedmont College's ranking in the 2011 edition of Best Colleges is Regional Universities (South), 69. Its tuition and fees are $18,000.
+Copyright © 2011 U.S. News & World Report, L.P

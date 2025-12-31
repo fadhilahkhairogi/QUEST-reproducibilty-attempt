@@ -1,0 +1,20 @@
+name
+Candidate Sentence: Steve Kerr This is the latest accepted revision, reviewed on 11 August 2024.
+For the Scottish footballer, see Steven Kerr. For the Scottish politician, see Stephen Kerr.
+Stephen Douglas Kerr (born September 27, 1965) is an American professional basketball coach and former player who is the head coach for the Golden State Warriors of the National Basketball Association (NBA) and the U.S. national team
+Candidate Sentence: During his NBA career, Kerr won five NBA championships. He retired as the league's all-time leader in single-season three-point shooting percentage (.524 in 1994–95) and career three-point shooting percentage (.454). As of 2024, Kerr is the only NBA player to win four straight NBA titles after 1969.
+Broadcaster and commentator In 2003, Kerr became a broadcast analyst for Turner Network Television (TNT), offering commentary alongside analyst Marv Albert
+
+
+draft_pick
+Candidate Sentence: Kerr coached in the 2014 Summer League for the Warriors
+
+
+draft_year
+Candidate Sentence: Kerr coached in the 2014 Summer League for the Warriors
+
+
+NBA_championships
+Candidate Sentence: Jordan made a crucial three-point play, putting the Bulls in the lead for good and helping the team tie the series at one game apiece.[citation needed] The Bulls went on to win the series in six games.
+Kerr set the Bulls' franchise single-season (.524, 1994–95) and career three-point field goal percentage (.479) records
+Candidate Sentence: In 2011, he also called the NCAA Men's Division I Basketball Championship on Turner Sports and CBS, teaming up with lead broadcasters Jim Nantz and Clark Kellogg for the First Four and Final Four games, and with Albert in other rounds

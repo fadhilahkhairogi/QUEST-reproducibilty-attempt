@@ -1,0 +1,17 @@
+university_name
+Candidate Sentence: Hampshire College The Basics About Hampshire College Hampshire College is a private institution that was founded in 1965. It has a total undergraduate enrollment of 1,463, its setting is rural, and the campus size is 800 acres. It utilizes a 4-1-4-based academic calendar.  Hampshire College's ranking in the 2011 edition of Best Colleges is National Liberal Arts Colleges, 119. Its tuition and fees are $41,604.
+Hampshire College is an "alternative" school
+Candidate Sentence: Hampshire College was designed to be a school where things were taught differently. It has become a place where different things are taught. These "different subjects" occasionally turn out to be taught and executed exceptionally well. Often, though, they are unbacked, subjective nonsense that students take to be 100% true.    Some basics:    Hampshire College exists on a good amount of land, most of which is undeveloped
+
+
+year_founded
+Candidate Sentence: Hampshire College The Basics About Hampshire College Hampshire College is a private institution that was founded in 1965. It has a total undergraduate enrollment of 1,463, its setting is rural, and the campus size is 800 acres. It utilizes a 4-1-4-based academic calendar.  Hampshire College's ranking in the 2011 edition of Best Colleges is National Liberal Arts Colleges, 119. Its tuition and fees are $41,604.
+Hampshire College is an "alternative" school
+Candidate Sentence: Hampshire College was designed to be a school where things were taught differently. It has become a place where different things are taught. These "different subjects" occasionally turn out to be taught and executed exceptionally well. Often, though, they are unbacked, subjective nonsense that students take to be 100% true.    Some basics:    Hampshire College exists on a good amount of land, most of which is undeveloped
+
+
+rank
+Candidate Sentence: Hampshire College's ranking in the 2011 edition of Best Colleges is National Liberal Arts Colleges, 119. Its tuition and fees are $41,604.
+Hampshire College is an "alternative" school. Unfortunately, most of the student body seems to think that this means the Hampshire College is politically or socially "alternative." With that said, the school is often the home of loud political/social "protests" (which are rarely well thought out, almost always rash and reactionary and often leave as soon as they come)
+Candidate Sentence: Hampshire College The Basics About Hampshire College Hampshire College is a private institution that was founded in 1965. It has a total undergraduate enrollment of 1,463, its setting is rural, and the campus size is 800 acres. It utilizes a 4-1-4-based academic calendar.  Hampshire College's ranking in the 2011 edition of Best Colleges is National Liberal Arts Colleges, 119. Its tuition and fees are $41,604.
+Hampshire College is an "alternative" school

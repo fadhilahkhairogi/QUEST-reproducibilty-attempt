@@ -1,0 +1,13 @@
+university_name
+Candidate Sentence: Crown College The Basics About Crown College Crown College is a private institution that was founded in 1916. It has a total undergraduate enrollment of 1,061, its setting is rural, and the campus size is 215 acres. It utilizes a semester-based academic calendar.  Crown College's ranking in the 2011 edition of Best Colleges is Regional Colleges (Midwest), 46. Its tuition and fees are $20,870.
+One of the things that makes Crown special are the deeply committed faculty and staff
+Candidate Sentence: The nursing program has become top-notch, with state-of-the-art facilities and a rigorous study load. Social Entrepreneurship was a new major this fall, and programs for Graduate students are flexible, both online and in-the-classroom.
+Copyright © 2011 U.S. News & World Report, L.P. All rights reserved.
+Use of this Web site constitutes acceptance of our Terms and Conditions of Use and Privacy Policy.
+
+
+total_undergraduate_enrollment
+Candidate Sentence: Crown College The Basics About Crown College Crown College is a private institution that was founded in 1916. It has a total undergraduate enrollment of 1,061, its setting is rural, and the campus size is 215 acres. It utilizes a semester-based academic calendar.  Crown College's ranking in the 2011 edition of Best Colleges is Regional Colleges (Midwest), 46. Its tuition and fees are $20,870.
+One of the things that makes Crown special are the deeply committed faculty and staff
+Candidate Sentence: With a 14:1 student to faculty ratio, our customers are given top-priority and meaningful attention.
+The College offers nearly 40 majors from across the spectrum. There is a growing and intense nursing program, while on a regular basis the College seeks to expand the fields of study offered. The nursing program has become top-notch, with state-of-the-art facilities and a rigorous study load

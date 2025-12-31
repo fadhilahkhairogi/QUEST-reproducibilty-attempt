@@ -1,0 +1,8 @@
+[university_name]: California State University--Fresno
+Key sentnce 1: California State University--Fresno California State University--Fresno The Basics About CSU Fresno CSU Fresno is a public institution that was founded in 1911.
+
+[setting]: urban
+Key sentnce 1: It has a total undergraduate enrollment of 18,216, its setting is urban, and the campus size is 327 acres.
+
+[total_undergraduate_enrollment]: 
+Key sentnce 1:

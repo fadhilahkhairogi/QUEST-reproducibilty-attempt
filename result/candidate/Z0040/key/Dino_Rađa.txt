@@ -1,0 +1,17 @@
+[name]: Dino Rađa  
+Key sentnce 1: Dino Rađa (Anglicized: Dino Radja, Croatian pronunciation: [ˌdǐːno ˈrâd͜ʑa]; born 24 April 1967) is a Croatian former professional basketball player.
+
+[age]:  
+Key sentnce 1: Dino Rađa (Anglicized: Dino Radja, Croatian pronunciation: [ˌdǐːno ˈrâd͜ʑa]; born 24 April 1967) is a Croatian former professional basketball player.
+
+[team]:  
+Key sentnce 1: Dino Rađa (Anglicized: Dino Radja, Croatian pronunciation: [ˌdǐːno ˈrâd͜ʑa]; born 24 April 1967) is a Croatian former professional basketball player.
+
+[draft_year]: 1989  
+Key sentnce 1: On 27 June 1989, two days after winning the EuroBasket 1989 championship with Yugoslavia and making the All-Tournament Team, the 22-year-old center got drafted by the Boston Celtics in the second round as the 40th pick.
+
+[draft_pick]: 40th  
+Key sentnce 1: On 27 June 1989, two days after winning the EuroBasket 1989 championship with Yugoslavia and making the All-Tournament Team, the 22-year-old center got drafted by the Boston Celtics in the second round as the 40th pick.
+
+[college]:  
+Key sentnce 1: Club career Split Rađa began his basketball life in his native town, as a junior at KK Dalvin.

@@ -1,0 +1,14 @@
+university_name
+Candidate Sentence: North Carolina Wesleyan College The Basics About North Carolina Wesleyan North Carolina Wesleyan is a private institution that was founded in 1956. It has a total undergraduate enrollment of 1,449, its setting is suburban, and the campus size is 200 acres. It utilizes a semester-based academic calendar.  North Carolina Wesleyan's ranking in the 2011 edition of Best Colleges is Regional Colleges (South), 49
+Candidate Sentence: The College provides degree programs and other educational opportunities for residential, commuting, and adult students. Instruction emphasizes critical thinking, analytical reasoning, reading, writing, speaking, making informed ethical decisions, and using the new information technologies. It understands the increasing importance of a global perspective and of helping students learn to function in a complex society
+
+
+year_founded
+Candidate Sentence: North Carolina Wesleyan College The Basics About North Carolina Wesleyan North Carolina Wesleyan is a private institution that was founded in 1956. It has a total undergraduate enrollment of 1,449, its setting is suburban, and the campus size is 200 acres. It utilizes a semester-based academic calendar.  North Carolina Wesleyan's ranking in the 2011 edition of Best Colleges is Regional Colleges (South), 49
+Candidate Sentence: The College provides degree programs and other educational opportunities for residential, commuting, and adult students. Instruction emphasizes critical thinking, analytical reasoning, reading, writing, speaking, making informed ethical decisions, and using the new information technologies. It understands the increasing importance of a global perspective and of helping students learn to function in a complex society
+
+
+rank
+Candidate Sentence: It utilizes a semester-based academic calendar.  North Carolina Wesleyan's ranking in the 2011 edition of Best Colleges is Regional Colleges (South), 49. Its tuition and fees are $23,050.
+The liberal arts are the foundation of Wesleyan???s curriculum for all undergraduate degree programs. Students choose from a variety of majors, all of which help prepare students for rewarding personal lives, good citizenship, and productive careers
+Candidate Sentence: It is tailored to the learning styles and schedules of working adults. While its curriculum and programs do not reflect a sectarian perspective, the College affirms the values of the Judeo-Christian tradition.   The College has a special commitment to the Rocky Mount area and to eastern North Carolina. Through individual faculty, staff, and alumni activity, and through its educational and cultural programs, the College promotes the development of the region

@@ -1,0 +1,5 @@
+[university_name]: 
+Key sentnce 1: 
+
+[rank]: 
+Key sentnce 1:

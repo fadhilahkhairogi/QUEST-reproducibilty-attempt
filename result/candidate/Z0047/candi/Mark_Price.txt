@@ -1,0 +1,36 @@
+name
+Candidate Sentence: Mark Price William Mark Price (born February 15, 1964) is an American former basketball player and coach. He was most recently the head coach of the Charlotte 49ers. As a player, he played for 12 seasons in the National Basketball Association (NBA), from 1986 to 1998
+Candidate Sentence: He was most recently the head coach of the Charlotte 49ers. As a player, he played for 12 seasons in the National Basketball Association (NBA), from 1986 to 1998. Spending the majority of his career with the Cleveland Cavaliers, his last three years consisted of one season each with the Washington Bullets, Golden State Warriors, and Orlando Magic.
+College career Standing at 6 feet (183 cm) tall, Price played college basketball at Georgia Tech
+
+
+age
+Candidate Sentence: He was most recently the head coach of the Charlotte 49ers. As a player, he played for 12 seasons in the National Basketball Association (NBA), from 1986 to 1998. Spending the majority of his career with the Cleveland Cavaliers, his last three years consisted of one season each with the Washington Bullets, Golden State Warriors, and Orlando Magic.
+College career Standing at 6 feet (183 cm) tall, Price played college basketball at Georgia Tech
+Candidate Sentence: He replaced Coach Alan Major, who parted ways with Charlotte after two medical leaves during the past season. On December 14, 2017, it was announced that Mark Price was relieved of his duties as head coach of the Charlotte 49ers basketball program.
+In September 2018, he joined the Denver Nuggets coaching staff as a shooting consultant for the 2018-19 season.
+
+
+team
+Candidate Sentence: Mark Price William Mark Price (born February 15, 1964) is an American former basketball player and coach. He was most recently the head coach of the Charlotte 49ers. As a player, he played for 12 seasons in the National Basketball Association (NBA), from 1986 to 1998
+Candidate Sentence: He was most recently the head coach of the Charlotte 49ers. As a player, he played for 12 seasons in the National Basketball Association (NBA), from 1986 to 1998. Spending the majority of his career with the Cleveland Cavaliers, his last three years consisted of one season each with the Washington Bullets, Golden State Warriors, and Orlando Magic.
+College career Standing at 6 feet (183 cm) tall, Price played college basketball at Georgia Tech
+
+
+draft_year
+Candidate Sentence: Selected first in the second round (25th overall) by the Dallas Mavericks in the 1986 NBA draft, he was acquired by the Cleveland Cavaliers in a draft day trade that helped turn the team into an Eastern Conference powerhouse.
+Cleveland Cavaliers Price was known as one of the league's most consistent shooters. He finished his career with a 90.4% free throw shooting percentage and a 40% three-point field goal shooting percentage
+Candidate Sentence: He was most recently the head coach of the Charlotte 49ers. As a player, he played for 12 seasons in the National Basketball Association (NBA), from 1986 to 1998. Spending the majority of his career with the Cleveland Cavaliers, his last three years consisted of one season each with the Washington Bullets, Golden State Warriors, and Orlando Magic.
+College career Standing at 6 feet (183 cm) tall, Price played college basketball at Georgia Tech
+
+
+draft_pick
+Candidate Sentence: Selected first in the second round (25th overall) by the Dallas Mavericks in the 1986 NBA draft, he was acquired by the Cleveland Cavaliers in a draft day trade that helped turn the team into an Eastern Conference powerhouse.
+Cleveland Cavaliers Price was known as one of the league's most consistent shooters. He finished his career with a 90.4% free throw shooting percentage and a 40% three-point field goal shooting percentage
+Candidate Sentence: He was most recently the head coach of the Charlotte 49ers. As a player, he played for 12 seasons in the National Basketball Association (NBA), from 1986 to 1998. Spending the majority of his career with the Cleveland Cavaliers, his last three years consisted of one season each with the Washington Bullets, Golden State Warriors, and Orlando Magic.
+College career Standing at 6 feet (183 cm) tall, Price played college basketball at Georgia Tech
+
+
+college
+Candidate Sentence: During his time playing on the Georgia Tech Yellow Jackets men's basketball team, he was a three-time All American and four-time All ACC basketball player who helped lead the Yellow Jackets to an ACC Championship his junior year by defeating North Carolina in the ACC Tournament championship game. He was named the ACC Player of the Year for the 1984–85 season and his jersey was retired. He was inducted into the school's Hall of Fame in 1991 and into the Georgia Sports Hall of Fame in 2005
+Candidate Sentence: His younger brother Brent played ten seasons in the NBA. His daughter Caroline had a short stint in professional tennis after playing for the North Carolina Tar Heels. His son Josh plays college basketball for Trevecca (2021-2022), after attending and playing two years for Liberty Flames

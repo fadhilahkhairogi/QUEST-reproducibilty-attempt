@@ -1,0 +1,37 @@
+name
+Candidate Sentence: Kevin Durant Not to be confused with Kevin Durand.
+Washington, D.C., U.S. (Fort Washington, Maryland) (Mouth of Wilson, Virginia) (Rockville, Maryland) Kevin Wayne Durant (born September 29, 1988), also known by his initials KD, is an American professional basketball player for the Phoenix Suns of the National Basketball Association (NBA)
+Candidate Sentence: After sustaining an Achilles injury in the 2019 NBA Finals, Durant joined the Brooklyn Nets as a free agent that summer. Following disagreements with the Nets' front office, he requested a trade during the 2022 offseason and was traded to the Suns the following year.
+Off the court, Durant is one of the highest-earning basketball players in the world, due in part to endorsement deals with companies such as Foot Locker and Nike
+
+
+age
+Candidate Sentence: In February, Durant suffered a hamstring injury, which forced him to miss 23 games. On April 2, the NBA fined Durant $50,000 for private messages he sent through social media to actor Michael Rapaport in a feud. Durant made his return on April 7, 2021, scoring 17 points off the bench in a 139–119 win over the New Orleans Pelicans
+Candidate Sentence: In Game 6, he set a new playoff career high with 50 points in a 129–110 win to close out the series
+
+
+team
+Candidate Sentence: After sustaining an Achilles injury in the 2019 NBA Finals, Durant joined the Brooklyn Nets as a free agent that summer. Following disagreements with the Nets' front office, he requested a trade during the 2022 offseason and was traded to the Suns the following year.
+Off the court, Durant is one of the highest-earning basketball players in the world, due in part to endorsement deals with companies such as Foot Locker and Nike
+Candidate Sentence: Kevin Durant Not to be confused with Kevin Durand.
+Washington, D.C., U.S. (Fort Washington, Maryland) (Mouth of Wilson, Virginia) (Rockville, Maryland) Kevin Wayne Durant (born September 29, 1988), also known by his initials KD, is an American professional basketball player for the Phoenix Suns of the National Basketball Association (NBA)
+
+
+draft_year
+Candidate Sentence: Durant was selected as the second overall pick by the Seattle SuperSonics in the 2007 NBA draft. He played nine seasons with the franchise (which became the Oklahoma City Thunder in 2008) and led them to a Finals appearance in 2012. He later signed with the Golden State Warriors in 2016, who won a record 73 regular season games the previous year. Durant won consecutive NBA championships and NBA Finals MVP Awards in 2017 and 2018
+Candidate Sentence: Durant continued to grow during his first few years in the NBA, finally reaching a height of 6 ft 11 in (2.11 m).
+During the 2009–10 season, Durant was selected to his first NBA All-Star Game. Behind his play, the Thunder improved their record by 27 wins from the previous year and defied expectations to make the playoffs. With a scoring average of 30.1 points per game, Durant became the youngest NBA scoring champion and was selected to his first All-NBA team
+
+
+draft_pick
+Candidate Sentence: Durant was selected as the second overall pick by the Seattle SuperSonics in the 2007 NBA draft. He played nine seasons with the franchise (which became the Oklahoma City Thunder in 2008) and led them to a Finals appearance in 2012. He later signed with the Golden State Warriors in 2016, who won a record 73 regular season games the previous year. Durant won consecutive NBA championships and NBA Finals MVP Awards in 2017 and 2018
+Candidate Sentence: Durant continued to grow during his first few years in the NBA, finally reaching a height of 6 ft 11 in (2.11 m).
+During the 2009–10 season, Durant was selected to his first NBA All-Star Game. Behind his play, the Thunder improved their record by 27 wins from the previous year and defied expectations to make the playoffs. With a scoring average of 30.1 points per game, Durant became the youngest NBA scoring champion and was selected to his first All-NBA team
+
+
+college
+Candidate Sentence: He also won gold at the 2010 FIBA World Championship.
+Durant was a heavily recruited high school prospect widely regarded as the second-best player in his class. He played one season of college basketball for the Texas Longhorns, where he won numerous year-end awards and became the first freshman to be named Naismith College Player of the Year. Durant was selected as the second overall pick by the Seattle SuperSonics in the 2007 NBA draft
+Candidate Sentence: During this time, he began wearing #35 as his jersey number in honor of his AAU coach, Charles Craig, who was murdered at the age of 35.
+After playing two years of high school basketball at National Christian Academy and one year at Oak Hill Academy, Durant transferred to Montrose Christian School for his senior year, growing 5 inches (13 cm) before the start of the season and beginning the year at 6 ft 7 in (2.01 m).
+Prior to the start of the season, Durant committed to the University of Texas at Austin

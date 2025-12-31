@@ -1,0 +1,17 @@
+[name]: Phil Jackson  
+Key sentnce 1: Philip Douglas Jackson (born September 17, 1945) is an American former professional basketball player, coach, and executive.
+
+[age]:  
+Key sentnce 1: Philip Douglas Jackson (born September 17, 1945) is an American former professional basketball player, coach, and executive.
+
+[team]:  
+Key sentnce 1: Jackson retired from coaching in 2011 and joined the Knicks as an executive in March 2014.
+
+[draft_year]:  
+Key sentnce 1: In 1967, Jackson was drafted in the second round by the New York Knicks.
+
+[draft_pick]:  
+Key sentnce 1: In 1967, Jackson was drafted in the second round by the New York Knicks.
+
+[college]: University of North Dakota  
+Key sentnce 1: Bill Fitch successfully recruited Jackson to the University of North Dakota, where he was a member of the Sigma Alpha Epsilon fraternity.

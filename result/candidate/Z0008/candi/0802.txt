@@ -1,0 +1,14 @@
+university_name
+Candidate Sentence: Virginia Tech The Basics About Virginia Tech Virginia Tech is a public institution that was founded in 1872. It has a total undergraduate enrollment of 23,558, its setting is rural, and the campus size is 2,600 acres. It utilizes a semester-based academic calendar.  Virginia Tech's ranking in the 2011 edition of Best Colleges is National Universities, 69
+Candidate Sentence: There is MORE SCHOOL PRIDE HERE THAN ANYWHERE ELSE! I have yet to visit another university in my 4 years of college that is bursting with pride like we are.  Everyone is so happy to be here, and so proud to be a hokie.      The experience I'll remember most during my time here took place during the Concert for Virginia Tech, during the fall semester following April 16th
+
+
+year_founded
+Candidate Sentence: Virginia Tech The Basics About Virginia Tech Virginia Tech is a public institution that was founded in 1872. It has a total undergraduate enrollment of 23,558, its setting is rural, and the campus size is 2,600 acres. It utilizes a semester-based academic calendar.  Virginia Tech's ranking in the 2011 edition of Best Colleges is National Universities, 69
+Candidate Sentence: There is MORE SCHOOL PRIDE HERE THAN ANYWHERE ELSE! I have yet to visit another university in my 4 years of college that is bursting with pride like we are.  Everyone is so happy to be here, and so proud to be a hokie.      The experience I'll remember most during my time here took place during the Concert for Virginia Tech, during the fall semester following April 16th
+
+
+rank
+Candidate Sentence: It utilizes a semester-based academic calendar.  Virginia Tech's ranking in the 2011 edition of Best Colleges is National Universities, 69. Its in-state tuition and fees are $9,954; out-of-state tuition and fees are $26,404.
+Located in a sylvan mountain setting away from city life, the university has a well developed tradition of student involvement in almost 600 clubs, organizations, and social groups each offering leadership, service, and recreation opportunities
+Candidate Sentence: He acted courageously and the best that he could under such difficult cir***stances.  While the media and other outsiders tried to put him down and blame him for certain things, I do not know a single student that didn't give him a standing ovation any time he spoke after the events took place.     There is MORE SCHOOL PRIDE HERE THAN ANYWHERE ELSE! I have yet to visit another university in my 4 years of college that is bursting with pride like we are

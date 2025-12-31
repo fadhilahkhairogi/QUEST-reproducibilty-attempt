@@ -1,0 +1,10 @@
+name
+Candidate Sentence: Anthony Davis For other people with the same name, see Anthony Davis (disambiguation).
+Anthony Marshon Davis Jr. (born March 11, 1993), nicknamed "AD", is an American professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA). He previously played for the New Orleans Pelicans. He plays the power forward and center positions. Davis is a nine-time NBA All-Star and has been named to four All-NBA First Teams and five NBA All-Defensive Teams
+Candidate Sentence: He was a first team USA Today All-USA high school basketball team selection. He was a first-team Parade All-American. He was also a first team All-American selection by SLAM Magazine (along with Gilchrist, Rivers, Beal, Quincy Miller and Marquis Teague) and Dime Magazine (along with Gilchrist, Rivers, Beal and Myles Mack). He was a first team selection to the ESPN Rise boys' high school basketball All-American team. In the statewide voting for Illinois Mr. Basketball by coaches and media, he placed fourth
+
+
+team
+Candidate Sentence: Anthony Davis For other people with the same name, see Anthony Davis (disambiguation).
+Anthony Marshon Davis Jr. (born March 11, 1993), nicknamed "AD", is an American professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA). He previously played for the New Orleans Pelicans. He plays the power forward and center positions. Davis is a nine-time NBA All-Star and has been named to four All-NBA First Teams and five NBA All-Defensive Teams
+Candidate Sentence: He was a first team selection to the ESPN Rise boys' high school basketball All-American team. In the statewide voting for Illinois Mr. Basketball by coaches and media, he placed fourth. The Chicago Sun-Times selected him as a Class 3A first team All-State selection. The Chicago Sun-Times selected him as an all-Public League selection

@@ -1,0 +1,17 @@
+[name]: Kenneth "Apple" Green
+Key sentnce 1: Kenneth "Apple" Green (born September 19, 1959) is an American former National Basketball Association (NBA) player for the New York Knicks.
+
+[age]: 
+Key sentnce 1: Kenneth "Apple" Green (born September 19, 1959) is an American former National Basketball Association (NBA) player for the New York Knicks.
+
+[team]: New York Knicks
+Key sentnce 1: Kenneth "Apple" Green (born September 19, 1959) is an American former National Basketball Association (NBA) player for the New York Knicks.
+
+[draft_year]: 1981
+Key sentnce 1: Green was drafted with the eleventh pick in the second round of the 1981 NBA draft by the Denver Nuggets; however, the Nuggets waived Green before the start of the 1981-82 NBA season.
+
+[draft_pick]: 11
+Key sentnce 1: Green was drafted with the eleventh pick in the second round of the 1981 NBA draft by the Denver Nuggets; however, the Nuggets waived Green before the start of the 1981-82 NBA season.
+
+[college]: Pan American University
+Key sentnce 1: Green played for Pan American University, where he led the Broncs to the 1981 NIT tournament, the school's only Division I post-season appearance.

@@ -1,0 +1,8 @@
+[name]: Mickey Rottner  
+Key sentnce 1: Mickey Rottner Marvin "Mickey" Rottner (March 23, 1919 – September 21, 2011) was an American professional basketball player.
+
+[age]:   
+Key sentnce 1:  
+
+[team]:   
+Key sentnce 1:

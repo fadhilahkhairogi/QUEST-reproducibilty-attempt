@@ -1,0 +1,17 @@
+[name]: John Lucas II  
+Key sentnce 1: John Lucas II John Harding Lucas II (born October 31, 1953) is an American professional basketball coach and former player who most recently served as an assistant coach for the Houston Rockets of the National Basketball Association (NBA).
+
+[age]:  
+Key sentnce 1: 
+
+[team]: Houston Rockets  
+Key sentnce 1: John Lucas II John Harding Lucas II (born October 31, 1953) is an American professional basketball coach and former player who most recently served as an assistant coach for the Houston Rockets of the National Basketball Association (NBA).
+
+[draft_year]: 1976  
+Key sentnce 1: Professional career Lucas was the first overall pick of the 1976 NBA draft, selected by the Houston Rockets.
+
+[draft_pick]: 1  
+Key sentnce 1: Professional career Lucas was the first overall pick of the 1976 NBA draft, selected by the Houston Rockets.
+
+[college]: University of Maryland, College Park  
+Key sentnce 1: He played basketball and tennis at the University of Maryland, College Park and was an All-American in both.

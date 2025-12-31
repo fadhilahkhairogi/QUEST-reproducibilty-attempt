@@ -1,0 +1,8 @@
+university_name: Lawrence University
+Key sentence 1: Lawrence University is a private institution that was founded in 1847.
+
+rank: 67
+Key sentence 1: Lawrence University's ranking in the 2011 edition of Best Colleges is National Liberal Arts Colleges, 67.
+
+year_founded: 1847
+Key sentence 1: Lawrence University is a private institution that was founded in 1847.

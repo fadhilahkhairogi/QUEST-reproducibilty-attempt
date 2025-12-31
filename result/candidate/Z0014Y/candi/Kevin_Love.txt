@@ -1,0 +1,26 @@
+name
+Candidate Sentence: This article is about the basketball player. For the NASCAR driver, see Kevin Love (racing driver).
+Kevin Wesley Love (born September 7, 1988) is an American professional basketball player for the Miami Heat of the National Basketball Association (NBA). He is a five-time All-Star and a two-time member of the All-NBA Second Team, winning an NBA championship with the Cleveland Cavaliers in 2016
+Candidate Sentence: "Cavaliers Player Kevin Love is the New Face of Banana Republic". GQ.com. Retrieved August 2, 2016.
+"Kevin Love on the cover of NCAA Basketball 09". BruinsNation.com. September 11, 2008. Retrieved April 23, 2012.
+"Dwight, Kevin Love, DWill on 'The Suite Life'". Slamonline.com. January 6, 2011. Retrieved July 26, 2012.
+"Pepsi MAX Uncle Drew - Gold". Chief Marketer. Archived from the original on March 16, 2018. Retrieved June 23, 2020.
+
+
+age
+Candidate Sentence: "Cavaliers Player Kevin Love is the New Face of Banana Republic". GQ.com. Retrieved August 2, 2016.
+"Kevin Love on the cover of NCAA Basketball 09". BruinsNation.com. September 11, 2008. Retrieved April 23, 2012.
+"Dwight, Kevin Love, DWill on 'The Suite Life'". Slamonline.com. January 6, 2011. Retrieved July 26, 2012.
+"Pepsi MAX Uncle Drew - Gold". Chief Marketer. Archived from the original on March 16, 2018. Retrieved June 23, 2020.
+Candidate Sentence: Archived from the original on January 21, 2012.
+Yahoo! Sports 7 hours, 48 minutes ago. "Timberwolves Team Report – NBA – Yahoo! Sports". Sports.yahoo.com. Archived from the original on July 14, 2012. Retrieved July 26, 2012.{{cite web}}:  CS1 maint: numeric names: authors list (link) "Minnesota Timberwolves vs. Portland Trail Blazers – Box Score – March 03, 2012". Rose Garden, Portland, Oregon: ESPN. March 3, 2012. Retrieved July 26, 2012.
+"Minnesota Timberwolves vs. Phoenix Suns – Recap – March 12, 2012"
+
+
+team
+Candidate Sentence: This article is about the basketball player. For the NASCAR driver, see Kevin Love (racing driver).
+Kevin Wesley Love (born September 7, 1988) is an American professional basketball player for the Miami Heat of the National Basketball Association (NBA). He is a five-time All-Star and a two-time member of the All-NBA Second Team, winning an NBA championship with the Cleveland Cavaliers in 2016
+Candidate Sentence: "Cavaliers Player Kevin Love is the New Face of Banana Republic". GQ.com. Retrieved August 2, 2016.
+"Kevin Love on the cover of NCAA Basketball 09". BruinsNation.com. September 11, 2008. Retrieved April 23, 2012.
+"Dwight, Kevin Love, DWill on 'The Suite Life'". Slamonline.com. January 6, 2011. Retrieved July 26, 2012.
+"Pepsi MAX Uncle Drew - Gold". Chief Marketer. Archived from the original on March 16, 2018. Retrieved June 23, 2020.

@@ -1,0 +1,21 @@
+name
+Candidate Sentence: Jrue Randall Holiday (/druː/ DROO; born June 12, 1990) is an American professional basketball player for the Boston Celtics of the National Basketball Association (NBA). He played college basketball for one season with the UCLA Bruins before being selected by the Philadelphia 76ers in the first round of the 2009 NBA draft with the 17th overall pick.
+Holiday played four seasons with Philadelphia before being traded to the New Orleans Pelicans in 2013
+Candidate Sentence: "New Orleans was home: Jrue and Lauren Holiday discuss hardship of leaving but are excited to team with Giannis and Bucks". thebirdwrites. Archived from the original on November 14, 2021. Retrieved February 25, 2021.
+
+
+team
+Candidate Sentence: Jrue Randall Holiday (/druː/ DROO; born June 12, 1990) is an American professional basketball player for the Boston Celtics of the National Basketball Association (NBA). He played college basketball for one season with the UCLA Bruins before being selected by the Philadelphia 76ers in the first round of the 2009 NBA draft with the 17th overall pick.
+Holiday played four seasons with Philadelphia before being traded to the New Orleans Pelicans in 2013
+Candidate Sentence: "New Orleans was home: Jrue and Lauren Holiday discuss hardship of leaving but are excited to team with Giannis and Bucks". thebirdwrites. Archived from the original on November 14, 2021. Retrieved February 25, 2021.
+
+
+NBA_championships
+Candidate Sentence: Archived from the original on April 8, 2023. Retrieved April 8, 2023.
+"Heat rip Bucks 130-117 in Game 1; Giannis, Herro injured". ESPN.com. April 16, 2023. Archived from the original on April 17, 2023. Retrieved April 16, 2023.
+"Bucks make 25 3s, beat Heat 138-122 without Antetokounmpo". ESPN.com. April 19, 2023. Archived from the original on April 23, 2023. Retrieved April 23, 2023.
+"Heat rally again to win in OT, eliminate top-seeded Bucks". ESPN.com. April 27, 2023
+Candidate Sentence: NBA.com. November 24, 2020. Archived from the original on January 4, 2021. Retrieved November 24, 2020.
+"A late run. A last-minute shot. How the Bucks pulled off victory in the final 90 seconds". MSN. Archived from the original on June 24, 2021. Retrieved June 22, 2021.
+"Milwaukee's Jrue Holiday and Giannis Antetokounmpo Named to 2020-21 All-Defensive First Team". NBA.com. Archived from the original on June 24, 2021. Retrieved June 22, 2021.
+"Miami Heat at Milwaukee Bucks Box Score, May 24, 2021"

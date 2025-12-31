@@ -1,0 +1,31 @@
+university_name
+Candidate Sentence: 
+
+academic_calendar
+Candidate Sentence: Lewis University's ranking in the 2011 edition of Best Colleges is Regional Universities (Midwest), 43. Its tuition and fees are $23,780.
+Copyright © 2011 U.S. News & World Report, L.P. All rights reserved.
+Use of this Web site constitutes acceptance of our Terms and Conditions of Use and Privacy Policy.
+Candidate Sentence: 
+
+rank
+Candidate Sentence: Lewis University's ranking in the 2011 edition of Best Colleges is Regional Universities (Midwest), 43. Its tuition and fees are $23,780.
+Copyright © 2011 U.S. News & World Report, L.P. All rights reserved.
+Use of this Web site constitutes acceptance of our Terms and Conditions of Use and Privacy Policy.
+Candidate Sentence: Lewis University The Basics About Lewis University Lewis University is a private institution that was founded in 1932. It has a total undergraduate enrollment of 4,079, its setting is suburban, and the campus size is 135 acres. It utilizes a semester-based academic calendar.  Lewis University's ranking in the 2011 edition of Best Colleges is Regional Universities (Midwest), 43. Its tuition and fees are $23,780.
+Copyright © 2011 U.S. News & World Report, L.P
+
+
+year_founded
+Candidate Sentence: Lewis University The Basics About Lewis University Lewis University is a private institution that was founded in 1932. It has a total undergraduate enrollment of 4,079, its setting is suburban, and the campus size is 135 acres. It utilizes a semester-based academic calendar.  Lewis University's ranking in the 2011 edition of Best Colleges is Regional Universities (Midwest), 43. Its tuition and fees are $23,780.
+Copyright © 2011 U.S. News & World Report, L.P
+Candidate Sentence: Lewis University's ranking in the 2011 edition of Best Colleges is Regional Universities (Midwest), 43. Its tuition and fees are $23,780.
+Copyright © 2011 U.S. News & World Report, L.P. All rights reserved.
+Use of this Web site constitutes acceptance of our Terms and Conditions of Use and Privacy Policy.
+
+
+total_undergraduate_enrollment
+Candidate Sentence: Lewis University The Basics About Lewis University Lewis University is a private institution that was founded in 1932. It has a total undergraduate enrollment of 4,079, its setting is suburban, and the campus size is 135 acres. It utilizes a semester-based academic calendar.  Lewis University's ranking in the 2011 edition of Best Colleges is Regional Universities (Midwest), 43. Its tuition and fees are $23,780.
+Copyright © 2011 U.S. News & World Report, L.P
+Candidate Sentence: Lewis University's ranking in the 2011 edition of Best Colleges is Regional Universities (Midwest), 43. Its tuition and fees are $23,780.
+Copyright © 2011 U.S. News & World Report, L.P. All rights reserved.
+Use of this Web site constitutes acceptance of our Terms and Conditions of Use and Privacy Policy.

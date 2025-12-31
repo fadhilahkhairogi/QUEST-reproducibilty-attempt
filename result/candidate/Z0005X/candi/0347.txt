@@ -1,0 +1,12 @@
+university_name
+Candidate Sentence: New York University The Basics About NYU NYU is a private institution that was founded in 1831. It has a total undergraduate enrollment of 21,638 and its setting is urban. It utilizes a semester-based academic calendar.  NYU's ranking in the 2011 edition of Best Colleges is National Universities, 33. Its tuition and fees are $38,765.
+There is no school spirit at NYU.  There is no sense of community
+Candidate Sentence: We're not really known for our sports, but we do all right.    Administration I am skeptical of, since some people are friendly but many are not. Also, they don't like it when you point out their mistakes- especially financial aid!     The biggest recent controversy? Well, there was the time that the politics department caught all these students cheating on a midterm, resulting in the "destruction" of over 250 student's tests. I don't know if there were other controversies, though. Maybe
+
+
+rank
+Candidate Sentence: NYU's ranking in the 2011 edition of Best Colleges is National Universities, 33. Its tuition and fees are $38,765.
+There is no school spirit at NYU.  There is no sense of community.  It is incredibly easy to become detached from NYU, since no effort is made to integrate students into the City
+Candidate Sentence: I don't know if there were other controversies, though. Maybe.    There isn't much NYU pride as a whole, but that is because most people are busy cheering for their own "schools" within NYU. The business school is the most fanatic, but that is because they are all competing for jobs and such.
+Copyright © 2011 U.S. News & World Report, L.P. All rights reserved.
+Use of this Web site constitutes acceptance of our Terms and Conditions of Use and Privacy Policy.

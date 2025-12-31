@@ -1,0 +1,17 @@
+[name]: Anthony Edwards
+Key sentnce 1: Anthony Edwards (born August 5, 2001), nicknamed "Ant-Man" or simply "Ant", is an American professional basketball player for the Minnesota Timberwolves of the National Basketball Association (NBA).
+
+[age]: 
+Key sentnce 1: 
+
+[team]: Minnesota Timberwolves
+Key sentnce 1: Anthony Edwards (born August 5, 2001), nicknamed "Ant-Man" or simply "Ant", is an American professional basketball player for the Minnesota Timberwolves of the National Basketball Association (NBA).
+
+[draft_year]: 2020
+Key sentnce 1: A shooting guard, he played college basketball for the Georgia Bulldogs and was selected with the first overall pick by the Timberwolves in the 2020 NBA draft.
+
+[draft_pick]: 1
+Key sentnce 1: A shooting guard, he played college basketball for the Georgia Bulldogs and was selected with the first overall pick by the Timberwolves in the 2020 NBA draft.
+
+[college]: University of Georgia
+Key sentnce 1: He intended to major in marketing while attending the University of Georgia.

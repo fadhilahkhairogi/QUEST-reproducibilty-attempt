@@ -1,0 +1,5 @@
+Brandan_Wright.txt,0.000006700
+D_J_White.txt,0.000020100
+Jahlil_Okafor.txt,0.000009100
+Mychel_Thompson_.txt,0.000008500
+Nikola_Radi.txt,0.000005300

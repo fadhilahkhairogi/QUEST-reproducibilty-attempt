@@ -1,0 +1,5 @@
+name
+Candidate Sentence: He was subsequently named the Player of the Week in only his first week in the NBA, a feat last achieved by Shaquille O'Neal in 1992. On November 9, 2013, Carter-Williams recorded a career-high 13 assists to go with 21 points in a 127–125 double overtime loss to Cleveland.
+On December 3, 2013, he recorded his first triple-double with 27 points, 12 rebounds, and 10 assists in 47 minutes in a 126–125 double-overtime victory over the Orlando Magic
+Candidate Sentence: The last time that two players had recorded their first career triple-doubles in the same game was when Detroit Pistons Donnie Butcher and Ray Scott did it on March 14, 1964 (they were not rookies). It was also the first time that two opponents had recorded triple-doubles in the same game since Caron Butler and Baron Davis had done so on November 23, 2007.
+Carter-Williams was named the Eastern Conference Rookie of the Month for games played in October and November 2013

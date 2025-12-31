@@ -1,0 +1,21 @@
+name
+Candidate Sentences: Elmer Behnke Elmer H. Behnke (February 3, 1929 – May 25, 2018) was an American basketball player.  Born in Rockford, Illinois, he played collegiately for Bradley University. He was selected by the Rochester Royals in the 4th round (35th pick overall) of the 1951 NBA draft.  He played for the Milwaukee Hawks (1951–52) in the NBA for four games.
+
+
+age
+Candidate Sentences: 
+
+team
+Candidate Sentences: Elmer Behnke Elmer H. Behnke (February 3, 1929 – May 25, 2018) was an American basketball player.  Born in Rockford, Illinois, he played collegiately for Bradley University. He was selected by the Rochester Royals in the 4th round (35th pick overall) of the 1951 NBA draft.  He played for the Milwaukee Hawks (1951–52) in the NBA for four games.
+
+
+draft_year
+Candidate Sentences: Elmer Behnke Elmer H. Behnke (February 3, 1929 – May 25, 2018) was an American basketball player.  Born in Rockford, Illinois, he played collegiately for Bradley University. He was selected by the Rochester Royals in the 4th round (35th pick overall) of the 1951 NBA draft.  He played for the Milwaukee Hawks (1951–52) in the NBA for four games.
+
+
+draft_pick
+Candidate Sentences: Elmer Behnke Elmer H. Behnke (February 3, 1929 – May 25, 2018) was an American basketball player.  Born in Rockford, Illinois, he played collegiately for Bradley University. He was selected by the Rochester Royals in the 4th round (35th pick overall) of the 1951 NBA draft.  He played for the Milwaukee Hawks (1951–52) in the NBA for four games.
+
+
+college
+Candidate Sentences: Elmer Behnke Elmer H. Behnke (February 3, 1929 – May 25, 2018) was an American basketball player.  Born in Rockford, Illinois, he played collegiately for Bradley University. He was selected by the Rochester Royals in the 4th round (35th pick overall) of the 1951 NBA draft.  He played for the Milwaukee Hawks (1951–52) in the NBA for four games.

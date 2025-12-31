@@ -1,0 +1,20 @@
+name
+Candidate Sentence: NBA.com. March 11, 2019. Retrieved March 11, 2019.
+"Nets rout Pistons 103–75 to move into No. 6 spot in East". ESPN.com. March 11, 2019. Retrieved March 12, 2019.
+"Heat start 2nd half on 21–0 run, top Pistons 108–74". ESPN.com. March 13, 2019. Retrieved March 14, 2019.
+Villanueva, Virgil (March 17, 2019). "Pistons' Andre Drummond sets record for most seasons with 1K points and rebounds, 100 blocks and steals". clutchpoints.com
+Candidate Sentence: Andre Jamal Drummond (born August 10, 1993) is an American professional basketball player for the Philadelphia 76ers the National Basketball Association (NBA). A center, he was selected by the Detroit Pistons in the first round of the 2012 NBA draft with the ninth overall pick.
+Drummond was one of the top-rated basketball players in the high school class of 2011 and played one season of college basketball with the Connecticut Huskies before declaring for the draft
+
+
+age
+Candidate Sentence: At 23 years and 101 days, he became the second-youngest player to reach the milestone, trailing only Dwight Howard (22 years, 129 days). On December 7, he recorded a season-high 26 points and 20 rebounds in an 87–77 loss to the Charlotte Hornets. On March 17, 2017, he grabbed 22 rebounds in an 87–75 loss to the Toronto Raptors
+Candidate Sentence: At 24 years, 76 days, he became the second-youngest player to reach the milestone, trailing only Dwight Howard (23 years, 112 days). On November 10, he recorded 16 points, 20 rebounds and a then career-high seven assists in a 111–104 win over the Atlanta Hawks, moving the Pistons to a 9–3 record—their best start to a season since the 2005–06 season
+
+
+team
+Candidate Sentence: NBA.com. March 11, 2019. Retrieved March 11, 2019.
+"Nets rout Pistons 103–75 to move into No. 6 spot in East". ESPN.com. March 11, 2019. Retrieved March 12, 2019.
+"Heat start 2nd half on 21–0 run, top Pistons 108–74". ESPN.com. March 13, 2019. Retrieved March 14, 2019.
+Villanueva, Virgil (March 17, 2019). "Pistons' Andre Drummond sets record for most seasons with 1K points and rebounds, 100 blocks and steals". clutchpoints.com
+Candidate Sentence: At 23 years and 101 days, he became the second-youngest player to reach the milestone, trailing only Dwight Howard (22 years, 129 days). On December 7, he recorded a season-high 26 points and 20 rebounds in an 87–77 loss to the Charlotte Hornets. On March 17, 2017, he grabbed 22 rebounds in an 87–75 loss to the Toronto Raptors

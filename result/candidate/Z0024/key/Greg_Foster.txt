@@ -1,0 +1,11 @@
+[name]: Greg Foster  
+Key sentence 1: "Gregory Clinton Foster (born October 3, 1968) is an American professional basketball coach and former player..."
+
+[draft_pick]: 35  
+Key sentence 1: "Foster was selected by the Washington Bullets in the second round (35th overall pick) of the 1990 NBA draft."
+
+[draft_year]: 1990  
+Key sentence 1: "Foster was selected by the Washington Bullets in the second round (35th overall pick) of the 1990 NBA draft."
+
+[NBA_championships]: 1  
+Key sentence 1: "he reached the NBA Finals three times (twice with the Jazz and once with the Lakers) and won a championship ring with the Lakers in 2001."

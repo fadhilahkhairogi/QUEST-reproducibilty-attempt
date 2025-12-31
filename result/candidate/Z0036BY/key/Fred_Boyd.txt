@@ -1,0 +1,8 @@
+[name]: Fred Boyd
+Key sentnce 1: Fred Boyd (basketball) For persons of a similar name, see Fred Boyd (disambiguation).
+
+[age]: 73
+Key sentnce 1: Boyd died in Bakersfield, California on October 8, 2023, at the age of 73.
+
+[team]: 
+Key sentnce 1:

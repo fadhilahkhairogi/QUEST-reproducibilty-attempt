@@ -1,0 +1,11 @@
+name
+Candidate Sentence: After a collegiate career with Michigan State, he played with several teams in his 14-season National Basketball Association career, including the Miami Heat, the Portland Trail Blazers and the San Antonio Spurs, but is perhaps best known for his five-year stint with the Atlanta Hawks which included an All-Star Game appearance in 1998. He won a championship with the Spurs in 2003
+
+
+age
+Candidate Sentence: After a collegiate career with Michigan State, he played with several teams in his 14-season National Basketball Association career, including the Miami Heat, the Portland Trail Blazers and the San Antonio Spurs, but is perhaps best known for his five-year stint with the Atlanta Hawks which included an All-Star Game appearance in 1998. He won a championship with the Spurs in 2003
+Candidate Sentence: The same was the case for guard Stephen Jackson who consequently came to serve as the team's main starting shooting guard, with Smith starting in just 18 games for the season as a result of injuries limiting him to just 58 total games
+
+
+team
+Candidate Sentence: After a collegiate career with Michigan State, he played with several teams in his 14-season National Basketball Association career, including the Miami Heat, the Portland Trail Blazers and the San Antonio Spurs, but is perhaps best known for his five-year stint with the Atlanta Hawks which included an All-Star Game appearance in 1998. He won a championship with the Spurs in 2003

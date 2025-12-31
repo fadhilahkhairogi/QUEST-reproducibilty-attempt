@@ -1,0 +1,15 @@
+name
+Candidate Sentences: Nick Calathes Calathes with Panathinaikos BC 2016 Nicholas William Calathes (Greek: Νικόλαος Γουίλιαμ "Νικ" Καλάθης, born February 7, 1989) is a Greek-American professional basketball player for AS Monaco of the French LNB Pro A and the EuroLeague. He is widely considered as one of the best point guards in EuroLeague history.
+After playing college basketball for the Florida Gators, Calathes won the EuroLeague title with Panathinaikos in 2011, and reached another final in 2021 with FC Barcelona
+
+
+draft_pick
+Candidate Sentences: He agreed to terms with the elite EuroLeague club Panathinaikos Athens. The three-year deal paid Calathes around €2.4 million net income, in addition to providing him with a home, car, and endorsements, making for a total package commensurate with what the NBA rookie salary scale provided an early lottery selection. Despite his commitment to play in Greece, he was still selected in the second round of the 2009 NBA draft by the Minnesota Timberwolves
+
+
+draft_year
+Candidate Sentences: He agreed to terms with the elite EuroLeague club Panathinaikos Athens. The three-year deal paid Calathes around €2.4 million net income, in addition to providing him with a home, car, and endorsements, making for a total package commensurate with what the NBA rookie salary scale provided an early lottery selection. Despite his commitment to play in Greece, he was still selected in the second round of the 2009 NBA draft by the Minnesota Timberwolves
+
+
+NBA_championships
+Candidate Sentences: He scored 17 points, dished two assists to his teammates, and grabbed six rebounds. At the 2011 EuroLeague Final against Maccabi Tel Aviv, Calathes helped Panathinaikos, by scoring four points, recording six assists, and making two steals. Finally, Calathes won his first EuroLeague title. In the 2010–11 Greek League playoffs, Calathes had an average of 8.8 points, 3.0 rebounds, and 3.8 assists per game, in 23 minutes per game. He helped Panathinaikos to reach the Greek League Finals

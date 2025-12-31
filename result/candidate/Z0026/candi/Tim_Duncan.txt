@@ -1,0 +1,22 @@
+name
+Candidate Sentence: Tim Duncan This is the latest accepted revision, reviewed on 8 August 2024.
+For other people named Tim Duncan, see Tim Duncan (disambiguation).
+Timothy Theodore Duncan (born April 25, 1976) is an American former professional basketball player. He spent his entire 19-year career with the San Antonio Spurs in the National Basketball Association (NBA)
+Candidate Sentence: He spent his entire 19-year career with the San Antonio Spurs in the National Basketball Association (NBA). Nicknamed "the Big Fundamental", he is widely regarded as the greatest power forward of all time and one of the greatest players in NBA history, and was a central contributor to the franchise's success during the 2000s and 2010s. He was inducted into the Naismith Memorial Basketball Hall of Fame in 2020 and named to the NBA 75th Anniversary Team in 2021.
+Born and raised on Saint Croix in the U.S
+
+
+draft_pick
+Candidate Sentence: He earned first-team All-American honors for the second time and was a unanimous pick for both the Oscar Robertson Trophy and Naismith College Player of the Year. Duncan was first in the 1996–97 NCAA Division I in rebounding, tenth in blocked shots (3.3 bpg), and 28th in scoring (20.8 ppg)
+Candidate Sentence: Duncan was voted to the 1998 NBA All-Star Game by coaches. Later, when Duncan played against Houston Rockets Hall-of-Fame power forward Charles Barkley, Barkley was so impressed he said, "I have seen the future and he wears number 21." In his rookie season, Duncan lived up to expectations of being the first draft pick, starting in all 82 regular season games, averaging 21.1 points, 11.9 rebounds, 2.7 assists and 2.5 blocks per game, and earning All-NBA First Team honors
+
+
+draft_year
+Candidate Sentence: He earned first-team All-American honors for the second time and was a unanimous pick for both the Oscar Robertson Trophy and Naismith College Player of the Year. Duncan was first in the 1996–97 NCAA Division I in rebounding, tenth in blocked shots (3.3 bpg), and 28th in scoring (20.8 ppg)
+Candidate Sentence: Duncan was voted to the 1998 NBA All-Star Game by coaches. Later, when Duncan played against Houston Rockets Hall-of-Fame power forward Charles Barkley, Barkley was so impressed he said, "I have seen the future and he wears number 21." In his rookie season, Duncan lived up to expectations of being the first draft pick, starting in all 82 regular season games, averaging 21.1 points, 11.9 rebounds, 2.7 assists and 2.5 blocks per game, and earning All-NBA First Team honors
+
+
+NBA_championships
+Candidate Sentence: During that period, he was a two-time ACC Player of the Year and a three-time NABC Defensive Player of the Year. The center also made the All-ACC Tournament between 1995 and 1997 and the All-ACC First Team between 1995 and 1997. In 1996, he led the ACC in scoring, rebounding, field goal percentage, and blocked shots, becoming the first player in conference history to lead all four of those categories. That same year, he was also named Most Valuable Player of the ACC Tournament
+Candidate Sentence: He spent his entire 19-year career with the San Antonio Spurs in the National Basketball Association (NBA). Nicknamed "the Big Fundamental", he is widely regarded as the greatest power forward of all time and one of the greatest players in NBA history, and was a central contributor to the franchise's success during the 2000s and 2010s. He was inducted into the Naismith Memorial Basketball Hall of Fame in 2020 and named to the NBA 75th Anniversary Team in 2021.
+Born and raised on Saint Croix in the U.S

@@ -1,0 +1,13 @@
+university_name
+Candidate Sentence: Virginia Tech The Basics About Virginia Tech Virginia Tech is a public institution that was founded in 1872. It has a total undergraduate enrollment of 23,558, its setting is rural, and the campus size is 2,600 acres. It utilizes a semester-based academic calendar.  Virginia Tech's ranking in the 2011 edition of Best Colleges is National Universities, 69
+Candidate Sentence: There is MORE SCHOOL PRIDE HERE THAN ANYWHERE ELSE! I have yet to visit another university in my 4 years of college that is bursting with pride like we are.  Everyone is so happy to be here, and so proud to be a hokie.      The experience I'll remember most during my time here took place during the Concert for Virginia Tech, during the fall semester following April 16th
+
+
+setting
+Candidate Sentence: Virginia Tech The Basics About Virginia Tech Virginia Tech is a public institution that was founded in 1872. It has a total undergraduate enrollment of 23,558, its setting is rural, and the campus size is 2,600 acres. It utilizes a semester-based academic calendar.  Virginia Tech's ranking in the 2011 edition of Best Colleges is National Universities, 69
+Candidate Sentence: There is nothing better than walking accross the drillfield on a beautiful day.  I am in love with hokie stone and all of the beautiful buildings made from it.  Our duckpond is gorgeous, and there is so much to do on campus.  But even better than the physical surroundings is the atmosphere.  There is just something in the air on our campus.  Everyone is so happy and proud to be a hokie.     Some people will try to say that VT is too large.  I disagree
+
+
+total_undergraduate_enrollment
+Candidate Sentence: Virginia Tech The Basics About Virginia Tech Virginia Tech is a public institution that was founded in 1872. It has a total undergraduate enrollment of 23,558, its setting is rural, and the campus size is 2,600 acres. It utilizes a semester-based academic calendar.  Virginia Tech's ranking in the 2011 edition of Best Colleges is National Universities, 69
+Candidate Sentence: There is nothing better than walking accross the drillfield on a beautiful day.  I am in love with hokie stone and all of the beautiful buildings made from it.  Our duckpond is gorgeous, and there is so much to do on campus.  But even better than the physical surroundings is the atmosphere.  There is just something in the air on our campus.  Everyone is so happy and proud to be a hokie.     Some people will try to say that VT is too large.  I disagree

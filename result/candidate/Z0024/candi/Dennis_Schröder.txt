@@ -1,0 +1,20 @@
+name
+Candidate Sentence: He averaged 11.0 points and 4.4 assists in 20.3 minutes per game, shooting 42% from the field and 32% from 3-point range, leading to defenders often daring him to shoot the three. On 20 February 2016, he recorded 25 points and 10 assists in a 117–109 overtime loss to the Milwaukee Bucks
+Candidate Sentence: It came at the suggestion of his mother who thought it would help people to recognize him in public.
+Schröder is a devout Muslim. He prays before games and before going to sleep. Schröder is a teetotaler and has never consumed alcohol in his life.
+Schröder missed games on two different occasions due to COVID-19 protocols in place
+
+
+draft_pick
+Candidate Sentence: He averaged 11.0 points and 4.4 assists in 20.3 minutes per game, shooting 42% from the field and 32% from 3-point range, leading to defenders often daring him to shoot the three. On 20 February 2016, he recorded 25 points and 10 assists in a 117–109 overtime loss to the Milwaukee Bucks
+Candidate Sentence: In his first season with SUM Baskets Braunschweig, he averaged 7.8 points, 2.1 assists and 1.6 rebounds per game in a 2nd-tier German League. In the 2011–12 season he made a breakthrough, averaging 17.8 points and 6.7 assists over 23 regular season games. His team went in the playoffs where he averaged 18.8 points and 5.1 assists over 4 games
+
+
+draft_year
+Candidate Sentence: He averaged 11.0 points and 4.4 assists in 20.3 minutes per game, shooting 42% from the field and 32% from 3-point range, leading to defenders often daring him to shoot the three. On 20 February 2016, he recorded 25 points and 10 assists in a 117–109 overtime loss to the Milwaukee Bucks
+Candidate Sentence: In his first season with SUM Baskets Braunschweig, he averaged 7.8 points, 2.1 assists and 1.6 rebounds per game in a 2nd-tier German League. In the 2011–12 season he made a breakthrough, averaging 17.8 points and 6.7 assists over 23 regular season games. His team went in the playoffs where he averaged 18.8 points and 5.1 assists over 4 games
+
+
+NBA_championships
+Candidate Sentence: He almost had a game-winner and the Lakers were up by three. However, his other superstar teammate Anthony Davis fouled Minnesota's veteran point guard Mike Conley Jr. on a catch-and-shoot corner three-point game-tying attempt with 0.1 seconds remaining. Conley Jr. made all of the free throws to tie the game and send it to overtime
+Candidate Sentence: He averaged 11.0 points and 4.4 assists in 20.3 minutes per game, shooting 42% from the field and 32% from 3-point range, leading to defenders often daring him to shoot the three. On 20 February 2016, he recorded 25 points and 10 assists in a 117–109 overtime loss to the Milwaukee Bucks

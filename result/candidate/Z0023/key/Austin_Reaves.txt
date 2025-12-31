@@ -1,0 +1,8 @@
+[name]: Austin Tyler Reaves  
+Key sentence 1: Austin Tyler Reaves (born May 29, 1998) is an American professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA).
+
+[team]: Los Angeles Lakers  
+Key sentence 1: Austin Tyler Reaves (born May 29, 1998) is an American professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA).
+
+[NBA_championships]: 0  
+Key sentence 1: On December 9, 2023, Reaves and the Lakers won the inaugural season of the NBA In-Season Tournament.

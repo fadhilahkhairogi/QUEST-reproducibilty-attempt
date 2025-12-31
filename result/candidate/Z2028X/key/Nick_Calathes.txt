@@ -1,0 +1,11 @@
+[name]: Nick Calathes  
+Key sentence 1: Nicholas William Calathes (Greek: Νικόλαος Γουίλιαμ "Νικ" Καλάθης, born February 7, 1989) is a Greek-American professional basketball player for AS Monaco of the French LNB Pro A and the EuroLeague.
+
+[draft_pick]: 35  
+Key sentence 1: Despite his commitment to play in Greece, he was still selected in the second round of the 2009 NBA draft by the Minnesota Timberwolves.
+
+[draft_year]: 2009  
+Key sentence 1: Despite his commitment to play in Greece, he was still selected in the second round of the 2009 NBA draft by the Minnesota Timberwolves.
+
+[NBA_championships]: 1  
+Key sentence 1: Finally, Calathes won his first EuroLeague title.

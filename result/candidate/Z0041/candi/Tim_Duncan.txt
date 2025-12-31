@@ -1,0 +1,33 @@
+name
+Candidate Sentence: Tim Duncan This is the latest accepted revision, reviewed on 8 August 2024.
+For other people named Tim Duncan, see Tim Duncan (disambiguation).
+Timothy Theodore Duncan (born April 25, 1976) is an American former professional basketball player. He spent his entire 19-year career with the San Antonio Spurs in the National Basketball Association (NBA)
+Candidate Sentence: He spent his entire 19-year career with the San Antonio Spurs in the National Basketball Association (NBA). Nicknamed "the Big Fundamental", he is widely regarded as the greatest power forward of all time and one of the greatest players in NBA history, and was a central contributor to the franchise's success during the 2000s and 2010s. He was inducted into the Naismith Memorial Basketball Hall of Fame in 2020 and named to the NBA 75th Anniversary Team in 2021.
+Born and raised on Saint Croix in the U.S
+
+
+age
+Candidate Sentence: He spent his entire 19-year career with the San Antonio Spurs in the National Basketball Association (NBA). Nicknamed "the Big Fundamental", he is widely regarded as the greatest power forward of all time and one of the greatest players in NBA history, and was a central contributor to the franchise's success during the 2000s and 2010s. He was inducted into the Naismith Memorial Basketball Hall of Fame in 2020 and named to the NBA 75th Anniversary Team in 2021.
+Born and raised on Saint Croix in the U.S
+Candidate Sentence: He was dealt another emotional blow when his mother died of breast cancer on April 24, 1990, the day before his 14th birthday. On her deathbed, she made Duncan and his sisters promise that they would graduate from college, going a long way in explaining Duncan's later refusal to leave college early for the NBA.
+Duncan never swam competitively again, but his brother-in-law inspired him to turn to basketball
+
+
+team
+Candidate Sentence: He averaged career highs in scoring (25.5 points per game, including a league-leading 764 field goals and 560 attempted free throws) and rebounding (12.7 boards per game, and his accumulated 1,042 boards again led the league), and also averaged 3.7 assists and 2.5 blocks per game, both career highs
+Candidate Sentence: Later, during the NCAA tournament, Stanford University, led by future NBA point guard Brevin Knight, eliminated Wake Forest with a 72–66 win. Duncan finished his senior season with career high averages of 20.8 points, 14.7 rebounds and 3.2 assists per game while shooting .606 from the field and winning the Defensive Player of the Year for a third straight season
+
+
+draft_year
+Candidate Sentence: In 2002, Duncan was named to the ACC 50th Anniversary men's basketball team honoring the 50 greatest players in ACC history. In his debut year in the NBA (1998), he was voted Rookie of the Year and elected into the All-Rookie Team. He has been named to 15 NBA All-Star teams (1997–98; 1999–2000 to 2010–11; 2012–13 and 2014–15), 15 All-NBA Teams (1997–98 to 2009–10, 2012–13, 2014–15; ten First Team nominations), and 15 All-Defensive Teams (1997–98 to 2009–10; 2012–13, 2014–15; eight First Team nominations)
+Candidate Sentence: He earned first-team All-American honors for the second time and was a unanimous pick for both the Oscar Robertson Trophy and Naismith College Player of the Year. Duncan was first in the 1996–97 NCAA Division I in rebounding, tenth in blocked shots (3.3 bpg), and 28th in scoring (20.8 ppg)
+
+
+draft_pick
+Candidate Sentence: In 2002, Duncan was named to the ACC 50th Anniversary men's basketball team honoring the 50 greatest players in ACC history. In his debut year in the NBA (1998), he was voted Rookie of the Year and elected into the All-Rookie Team. He has been named to 15 NBA All-Star teams (1997–98; 1999–2000 to 2010–11; 2012–13 and 2014–15), 15 All-NBA Teams (1997–98 to 2009–10, 2012–13, 2014–15; ten First Team nominations), and 15 All-Defensive Teams (1997–98 to 2009–10; 2012–13, 2014–15; eight First Team nominations)
+Candidate Sentence: He earned first-team All-American honors for the second time and was a unanimous pick for both the Oscar Robertson Trophy and Naismith College Player of the Year. Duncan was first in the 1996–97 NCAA Division I in rebounding, tenth in blocked shots (3.3 bpg), and 28th in scoring (20.8 ppg)
+
+
+college
+Candidate Sentence: Later, during the NCAA tournament, Stanford University, led by future NBA point guard Brevin Knight, eliminated Wake Forest with a 72–66 win. Duncan finished his senior season with career high averages of 20.8 points, 14.7 rebounds and 3.2 assists per game while shooting .606 from the field and winning the Defensive Player of the Year for a third straight season
+Candidate Sentence: He earned first-team All-American honors for the second time and was a unanimous pick for both the Oscar Robertson Trophy and Naismith College Player of the Year. Duncan was first in the 1996–97 NCAA Division I in rebounding, tenth in blocked shots (3.3 bpg), and 28th in scoring (20.8 ppg)

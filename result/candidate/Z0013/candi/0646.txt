@@ -1,0 +1,25 @@
+university_name
+Candidate Sentence: University of California--Davis The Basics About UC Davis UC Davis is a public institution that was founded in 1905. It has a total undergraduate enrollment of 24,655, its setting is urban, and the campus size is 5,200 acres. It utilizes a quarter-based academic calendar.  UC Davis's ranking in the 2011 edition of Best Colleges is National Universities, 39
+
+
+academic_calendar
+Candidate Sentence: Students and student groups are cosntantly hosting workshops, teach ins, teach outs, campaigns, lectures, mobilizations, etc. Our students are highly motivated and determined to be heard. Whether it's Students for Justice in Palestine holding a Die In on campus, or MEChA working to organize the annual May 1st International Workers Solidarity Day events, to lectures on what it's like to be a Jew in America today, to addressing the growing self-identifying Mixed ethnicity group, our students are on it
+Candidate Sentence: It utilizes a quarter-based academic calendar.  UC Davis's ranking in the 2011 edition of Best Colleges is National Universities, 39. Its in-state tuition and fees are $11,984; out-of-state tuition and fees are $34,863.
+Davis is a world unto itself, and being here is like being in a microcosm of the world, with a bit less diversity. Students and student groups are cosntantly hosting workshops, teach ins, teach outs, campaigns, lectures, mobilizations, etc
+
+
+rank
+Candidate Sentence: It utilizes a quarter-based academic calendar.  UC Davis's ranking in the 2011 edition of Best Colleges is National Universities, 39. Its in-state tuition and fees are $11,984; out-of-state tuition and fees are $34,863.
+Davis is a world unto itself, and being here is like being in a microcosm of the world, with a bit less diversity. Students and student groups are cosntantly hosting workshops, teach ins, teach outs, campaigns, lectures, mobilizations, etc
+Candidate Sentence: The student run aggie pack is top ranked in the nation for providing school spirit. The school has a spirit of their own as well. It's a laid back town with huge ambitions. Student play Frisbee and party on the weekends but hit the books on the weekdays. The fun never stops on Greek row and spring quarter provides the perfect party months. Classes are intense though. UCD is all about the students, from the town to the classes, Davis is the epitome of what everyones college experience should be like
+
+
+year_founded
+Candidate Sentence: University of California--Davis The Basics About UC Davis UC Davis is a public institution that was founded in 1905. It has a total undergraduate enrollment of 24,655, its setting is urban, and the campus size is 5,200 acres. It utilizes a quarter-based academic calendar.  UC Davis's ranking in the 2011 edition of Best Colleges is National Universities, 39
+Candidate Sentence: Students and student groups are cosntantly hosting workshops, teach ins, teach outs, campaigns, lectures, mobilizations, etc. Our students are highly motivated and determined to be heard. Whether it's Students for Justice in Palestine holding a Die In on campus, or MEChA working to organize the annual May 1st International Workers Solidarity Day events, to lectures on what it's like to be a Jew in America today, to addressing the growing self-identifying Mixed ethnicity group, our students are on it
+
+
+total_undergraduate_enrollment
+Candidate Sentence: University of California--Davis The Basics About UC Davis UC Davis is a public institution that was founded in 1905. It has a total undergraduate enrollment of 24,655, its setting is urban, and the campus size is 5,200 acres. It utilizes a quarter-based academic calendar.  UC Davis's ranking in the 2011 edition of Best Colleges is National Universities, 39
+Candidate Sentence: Plus, with the loci of power for the state of California situated 30 minutes away from us, our students always have a chance to address concerns to our state leadership, as well as participate in statewide mobilization efforts.
+UCD is the ultimate school for a passionate student. The student run aggie pack is top ranked in the nation for providing school spirit. The school has a spirit of their own as well. It's a laid back town with huge ambitions

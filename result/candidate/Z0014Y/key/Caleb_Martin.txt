@@ -1,0 +1,8 @@
+[name]: Caleb Martin  
+Key sentence 1: "Caleb Martin (born September 28, 1995) is an American professional basketball player for the Philadelphia 76ers of the National Basketball Association (NBA)."
+
+[age]: 28  
+Key sentence 1: "Caleb Martin (born September 28, 1995) is an American professional basketball player for the Philadelphia 76ers of the National Basketball Association (NBA)."
+
+[team]: Philadelphia 76ers  
+Key sentence 1: "Caleb Martin (born September 28, 1995) is an American professional basketball player for the Philadelphia 76ers of the National Basketball Association (NBA)."

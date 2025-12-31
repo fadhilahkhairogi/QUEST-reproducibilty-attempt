@@ -1,0 +1,31 @@
+name
+Candidate Sentence: Kurt Thomas (basketball) Kurt Vincent Thomas (born October 4, 1972) is an American former professional basketball player. A 6'9", 230 lb. power forward-center, Thomas was known for his hard-nosed playing style and tough defense during his eight year tenure with the New York Knicks
+Candidate Sentence: In his rookie season, he started 42 of his 74 games played. On December 10, 1995, he set a then career high with 29 points, along with grabbing 15 rebounds, in a loss to the Sacramento Kings. The following season, he only played 18 games before suffering a stress fracture in his right ankle, which required surgery. He would miss the rest of the season
+
+
+age
+Candidate Sentence: Kurt Thomas (basketball) Kurt Vincent Thomas (born October 4, 1972) is an American former professional basketball player. A 6'9", 230 lb. power forward-center, Thomas was known for his hard-nosed playing style and tough defense during his eight year tenure with the New York Knicks
+Candidate Sentence: Thomas grew up in Dallas, and after graduating from Dallas's Hillcrest High School, he attended Texas Christian University, where he led the NCAA Division I in scoring and rebounding in the 1994–95 season with 28.9 PPG and 14.6 RPG, becoming only the third player in history to accomplish this feat (the other two being Hank Gathers and Xavier McDaniel).
+NBA career Miami Heat (1995–1997) Thomas began his NBA career with the Miami Heat from 1995 to 1997
+
+
+team
+Candidate Sentence: 
+
+draft_year
+Candidate Sentence: In his rookie season, he started 42 of his 74 games played. On December 10, 1995, he set a then career high with 29 points, along with grabbing 15 rebounds, in a loss to the Sacramento Kings. The following season, he only played 18 games before suffering a stress fracture in his right ankle, which required surgery. He would miss the rest of the season
+Candidate Sentence: A 6'9", 230 lb. power forward-center, Thomas was known for his hard-nosed playing style and tough defense during his eight year tenure with the New York Knicks. Having played college basketball at Texas Christian University, he was drafted by the Miami Heat in 1995 and went on to play parts of 18 seasons in the NBA.
+High school and college Kurt began his basketball career on the playgrounds at Dallas Birdie Alexander Elementary, D.A
+
+
+draft_pick
+Candidate Sentence: In his rookie season, he started 42 of his 74 games played. On December 10, 1995, he set a then career high with 29 points, along with grabbing 15 rebounds, in a loss to the Sacramento Kings. The following season, he only played 18 games before suffering a stress fracture in his right ankle, which required surgery. He would miss the rest of the season
+Candidate Sentence: A 6'9", 230 lb. power forward-center, Thomas was known for his hard-nosed playing style and tough defense during his eight year tenure with the New York Knicks. Having played college basketball at Texas Christian University, he was drafted by the Miami Heat in 1995 and went on to play parts of 18 seasons in the NBA.
+High school and college Kurt began his basketball career on the playgrounds at Dallas Birdie Alexander Elementary, D.A
+
+
+college
+Candidate Sentence: Thomas grew up in Dallas, and after graduating from Dallas's Hillcrest High School, he attended Texas Christian University, where he led the NCAA Division I in scoring and rebounding in the 1994–95 season with 28.9 PPG and 14.6 RPG, becoming only the third player in history to accomplish this feat (the other two being Hank Gathers and Xavier McDaniel).
+NBA career Miami Heat (1995–1997) Thomas began his NBA career with the Miami Heat from 1995 to 1997
+Candidate Sentence: A 6'9", 230 lb. power forward-center, Thomas was known for his hard-nosed playing style and tough defense during his eight year tenure with the New York Knicks. Having played college basketball at Texas Christian University, he was drafted by the Miami Heat in 1995 and went on to play parts of 18 seasons in the NBA.
+High school and college Kurt began his basketball career on the playgrounds at Dallas Birdie Alexander Elementary, D.A

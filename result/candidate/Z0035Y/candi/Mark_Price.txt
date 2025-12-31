@@ -1,0 +1,4 @@
+name
+Candidate Sentence: Mark Price William Mark Price (born February 15, 1964) is an American former basketball player and coach. He was most recently the head coach of the Charlotte 49ers. As a player, he played for 12 seasons in the National Basketball Association (NBA), from 1986 to 1998
+Candidate Sentence: He was most recently the head coach of the Charlotte 49ers. As a player, he played for 12 seasons in the National Basketball Association (NBA), from 1986 to 1998. Spending the majority of his career with the Cleveland Cavaliers, his last three years consisted of one season each with the Washington Bullets, Golden State Warriors, and Orlando Magic.
+College career Standing at 6 feet (183 cm) tall, Price played college basketball at Georgia Tech

@@ -1,0 +1,17 @@
+[name]: 
+Key sentnce 1: Larry Clark Robinson (born June 2, 1951) is a Canadian former ice hockey coach, executive and player.
+
+[age]: 
+Key sentnce 1: Larry Clark Robinson (born June 2, 1951) is a Canadian former ice hockey coach, executive and player.
+
+[team]: 
+Key sentnce 1: He is currently a Senior Consultant to Hockey Operations for the St. Louis Blues.
+
+[draft_year]: 
+Key sentnce 1: Larry Robinson played Junior 'A' hockey with the Brockville Braves of the CJHL and Major Junior in the Ontario Hockey League with the Kitchener Rangers then turned professional, spending 1971 to 1973 with the Nova Scotia Voyageurs of the American Hockey League before making it to the National Hockey League with the Montreal Canadiens.
+
+[draft_pick]: 
+Key sentnce 1: Larry Robinson played Junior 'A' hockey with the Brockville Braves of the CJHL and Major Junior in the Ontario Hockey League with the Kitchener Rangers then turned professional, spending 1971 to 1973 with the Nova Scotia Voyageurs of the American Hockey League before making it to the National Hockey League with the Montreal Canadiens.
+
+[college]: 
+Key sentnce 1: Larry Robinson played Junior 'A' hockey with the Brockville Braves of the CJHL and Major Junior in the Ontario Hockey League with the Kitchener Rangers then turned professional, spending 1971 to 1973 with the Nova Scotia Voyageurs of the American Hockey League before making it to the National Hockey League with the Montreal Canadiens.

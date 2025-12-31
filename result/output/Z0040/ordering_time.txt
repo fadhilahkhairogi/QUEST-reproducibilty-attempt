@@ -1,0 +1,5 @@
+Dick_Rosenthal.txt,0.000394600
+Dino_Rađa.txt,0.000063400
+Jamal_Crawford.txt,0.000205300
+Kostas_Papanikolaou.txt,0.000058200
+Trent_Tucker.txt,0.000119300

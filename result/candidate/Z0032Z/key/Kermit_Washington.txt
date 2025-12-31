@@ -1,0 +1,8 @@
+[name]: Kermit Washington  
+Key sentnce 1: Kermit Washington Kermit Alan Washington (born September 17, 1951) is an American former professional basketball player.
+
+[age]:   
+Key sentnce 1: 
+
+[team]: Los Angeles Lakers  
+Key sentnce 1: Washington was drafted by the Los Angeles Lakers with the fifth overall pick in the 1973 NBA draft.

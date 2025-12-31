@@ -1,0 +1,11 @@
+[name]: Erazem Lorbek  
+Key sentence 1: Erazem Lorbek (born February 21, 1984) is a Slovenian former professional basketball player.
+
+[draft_pick]:  [value2]:  [value2]  
+Key sentence 1: Lorbek was drafted in the 2nd round of the 2005 NBA draft, by the Indiana Pacers.
+
+[draft_year]: 2005  
+Key sentence 1: Lorbek was drafted in the 2nd round of the 2005 NBA draft, by the Indiana Pacers.
+
+[NBA_championships]: 0  
+Key sentence 1: Lorbek won the EuroLeague title with FC Barcelona in 2010.

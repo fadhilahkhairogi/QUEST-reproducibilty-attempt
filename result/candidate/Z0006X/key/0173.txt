@@ -1,0 +1,8 @@
+university_name: Jamestown College
+Key sentence 1: Jamestown College is a private institution that was founded in 1884.
+
+rank: 41
+Key sentence 1: Jamestown College's ranking in the 2011 edition of Best Colleges is Regional Colleges (Midwest), 41.
+
+year_founded: 
+Key sentence 1: Jamestown College is a private institution that was founded in 1884.

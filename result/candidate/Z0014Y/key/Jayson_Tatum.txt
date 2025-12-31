@@ -1,0 +1,8 @@
+[name]: Jayson Tatum  
+Key sentence 1: Jayson Christopher Tatum (/ˈteɪtəm/ TAY-təm; born March 3, 1998) is an American professional basketball player for the Boston Celtics of the National Basketball Association (NBA).  
+
+[age]: 25  
+Key sentence 1: Jayson Christopher Tatum (/ˈteɪtəm/ TAY-təm; born March 3, 1998) is an American professional basketball player for the Boston Celtics of the National Basketball Association (NBA).  
+
+[team]: Boston Celtics  
+Key sentence 1: Jayson Christopher Tatum (/ˈteɪtəm/ TAY-təm; born March 3, 1998) is an American professional basketball player for the Boston Celtics of the National Basketball Association (NBA).

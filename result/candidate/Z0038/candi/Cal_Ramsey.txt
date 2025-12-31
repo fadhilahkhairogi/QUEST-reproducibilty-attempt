@@ -1,0 +1,14 @@
+name
+Candidate Sentence: 
+
+age
+Candidate Sentence: He continued attending Knicks games until his health began to fail in 2018.
+On March 25, 2019, Ramsey died from cardiac arrest at a rehabilitation facility. Ramsey had suffered from diabetes for a number of years.
+Ramsey was inducted into the NYU Athletics Hall of Fame in 1978 and the New York City Basketball Hall of Fame in 1994.
+Candidate Sentence: His former teammate at NYU, Mike Muzio, was appointed as the head coach. He continued in that role for the remainder of his life.
+Later life In 1991, the Knicks hired him as a community ambassador where he worked with schools and youth programs. He continued attending Knicks games until his health began to fail in 2018.
+On March 25, 2019, Ramsey died from cardiac arrest at a rehabilitation facility
+
+
+team
+Candidate Sentence: 

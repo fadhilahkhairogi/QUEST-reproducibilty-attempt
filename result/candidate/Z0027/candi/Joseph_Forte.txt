@@ -1,0 +1,26 @@
+name
+Candidate Sentence: Joseph Forte For the person accused of running a Ponzi scheme, see Joseph S. Forte.
+Joseph Xavier Forte (born March 23, 1981) is an American former professional basketball player. He played two seasons in the National Basketball Association (NBA) and was an All-American player at North Carolina.
+Beginnings Forte got his start at DeMatha Catholic High School in Hyattsville, Maryland. There, Forte played under the instruction of legendary high school prep coach Morgan Wootten
+
+
+draft_pick
+Candidate Sentence: However, Forte ultimately ended up signing with Iranian Basketball Super League team Petrochimi Bandar Imam BC for 2012.  Through his first two games in league play, Forte averaged 9.1 points, 3.0 assists, and 2.5 rebounds per game.
+Family Forte's younger brother, Jason, played college basketball for Brown University and was named Ivy League player of the year in 2004.
+Candidate Sentence: Forte was named Washington Post All Met Basketball Player of the Year in his senior year, during which he averaged 22.1 points, 7.2 rebounds and 2.7 assists.
+Career highlights After a 2-year college career at University of North Carolina at Chapel Hill (highlights of which included winning the 2000 Atlantic Coast Conference Rookie of the Year as well as 2001 ACC Men's Basketball Player of the Year) that was marked by flashes of brilliant play, he was selected by the Boston Celtics with the 21st pick in the 2001 NBA draft (at a time when later star players Tony Parker and Gilbert Arenas were still available at the guard position).
+Forte would only play in the NBA for 2 seasons for a total of 25 games (8 games for Boston in his rookie season, and 17 games for the Seattle SuperSonics in his sophomore season)
+
+
+draft_year
+Candidate Sentence: However, Forte ultimately ended up signing with Iranian Basketball Super League team Petrochimi Bandar Imam BC for 2012.  Through his first two games in league play, Forte averaged 9.1 points, 3.0 assists, and 2.5 rebounds per game.
+Family Forte's younger brother, Jason, played college basketball for Brown University and was named Ivy League player of the year in 2004.
+Candidate Sentence: Forte was named Washington Post All Met Basketball Player of the Year in his senior year, during which he averaged 22.1 points, 7.2 rebounds and 2.7 assists.
+Career highlights After a 2-year college career at University of North Carolina at Chapel Hill (highlights of which included winning the 2000 Atlantic Coast Conference Rookie of the Year as well as 2001 ACC Men's Basketball Player of the Year) that was marked by flashes of brilliant play, he was selected by the Boston Celtics with the 21st pick in the 2001 NBA draft (at a time when later star players Tony Parker and Gilbert Arenas were still available at the guard position).
+Forte would only play in the NBA for 2 seasons for a total of 25 games (8 games for Boston in his rookie season, and 17 games for the Seattle SuperSonics in his sophomore season)
+
+
+NBA_championships
+Candidate Sentence: However, Forte ultimately ended up signing with Iranian Basketball Super League team Petrochimi Bandar Imam BC for 2012.  Through his first two games in league play, Forte averaged 9.1 points, 3.0 assists, and 2.5 rebounds per game.
+Family Forte's younger brother, Jason, played college basketball for Brown University and was named Ivy League player of the year in 2004.
+Candidate Sentence: There, Forte played under the instruction of legendary high school prep coach Morgan Wootten. Forte's teammate at DeMatha, Keith Bogans, has played for several teams in the NBA

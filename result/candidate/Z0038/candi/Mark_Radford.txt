@@ -1,0 +1,9 @@
+name
+Candidate Sentence: 
+
+age
+Candidate Sentence: Candidate Sentence: He played in 97 career games over two seasons for the SuperSonics. He has a career high 22 points, 5 rebounds, 7 assists, 4 steals and 2 blocks. he had a career average of 3.6 points, 0.8 rebounds, 1.7 assists, 0.5 steals, 0.1 blocks and 1.2 turnovers.  Mark Radford has two children, Armin and Nina, the latter of which went on to play collegiate basketball for Northern Arizona University.
+
+
+team
+Candidate Sentence: 

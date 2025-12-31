@@ -1,0 +1,18 @@
+[name]: Carrick Felix  
+Key sentnce 1: Carrick Felix Carrick Felix (born August 17, 1990) is an American former professional basketball player.
+
+[age]:  
+Key sentnce 1: Carrick Felix Carrick Felix (born August 17, 1990) is an American former professional basketball player.
+
+[team]:  
+Key sentnce 1: Carrick Felix Carrick Felix (born August 17, 1990) is an American former professional basketball player.
+
+[draft_year]: 2013  
+Key sentnce 1: He played three years of college basketball for Arizona State before being drafted by the Cleveland Cavaliers with the 33rd overall pick in the 2013 NBA draft.
+
+[draft_pick]: 33  
+Key sentnce 1: He played three years of college basketball for Arizona State before being drafted by the Cleveland Cavaliers with the 33rd overall pick in the 2013 NBA draft.
+
+[college]: Arizona State; College of Southern Idaho  
+Key sentnce 1: He played three years of college basketball for Arizona State before being drafted by the Cleveland Cavaliers with the 33rd overall pick in the 2013 NBA draft.  
+Key sentnce 2: After redshirting the 2008–09 season for medical reasons, Felix averaged 14.8 points and 4.7 rebounds in 2009–10 at College of Southern Idaho.

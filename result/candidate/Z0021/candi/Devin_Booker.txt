@@ -1,0 +1,37 @@
+name
+Candidate Sentence: This article is about the NBA basketball player. For the basketball player in Europe, see Devin Booker (basketball, born 1991).
+Devin Armani Booker (born October 30, 1996) is an American professional basketball player for the Phoenix Suns of the National Basketball Association (NBA). He played one season of college basketball for the Kentucky Wildcats, helping lead the team to a 38–1 record and winning SEC Sixth Man of the Year
+Candidate Sentence: NBA.com. Retrieved March 25, 2017.
+Feldman, Dan (February 5, 2016). "Suns' Devin Booker – by far – youngest player in NBA 3-point contest history". Retrieved March 25, 2017.
+"Phoenix Suns' Devin Booker headed to 3-point contest". Retrieved March 25, 2017.
+"Klay Thompson downs Stephen Curry to win the Three-Point Shootout". Retrieved March 25, 2017.
+"Suns vs Heat". NBA.com. Archived from the original on July 2, 2016. Retrieved March 25, 2017.
+"Suns vs Nuggets". NBA.com
+
+
+age
+Candidate Sentence: NBA.com. Retrieved March 25, 2017.
+"Suns vs Kings". NBA.com. Archived from the original on January 24, 2016. Retrieved March 25, 2017.
+"USA vs World". NBA.com. February 12, 2016. Archived from the original on February 9, 2016. Retrieved February 12, 2016.
+"Booker Soaks in All-Star Weekend – Phoenix Suns". NBA.com. Retrieved March 25, 2017.
+Feldman, Dan (February 5, 2016). "Suns' Devin Booker – by far – youngest player in NBA 3-point contest history"
+Candidate Sentence: NBA.com. Retrieved March 25, 2017.
+Feldman, Dan (February 5, 2016). "Suns' Devin Booker – by far – youngest player in NBA 3-point contest history". Retrieved March 25, 2017.
+"Phoenix Suns' Devin Booker headed to 3-point contest". Retrieved March 25, 2017.
+"Klay Thompson downs Stephen Curry to win the Three-Point Shootout". Retrieved March 25, 2017.
+"Suns vs Heat". NBA.com. Archived from the original on July 2, 2016. Retrieved March 25, 2017.
+"Suns vs Nuggets". NBA.com
+
+
+mvp_awards
+Candidate Sentence: NBA.com. July 7, 2022. Retrieved July 10, 2022.
+"Michael Jordan, Devin Booker among cover athletes for NBA 2K23". NBA.com. Retrieved July 14, 2022.
+"Markkanen scores career-high 38 points, Jazz edge Suns". ESPN.com. November 18, 2022. Retrieved November 19, 2022.
+"Devin Booker scores 51 points in 3 quarters, Suns rout Bulls". ESPN.com. November 30, 2022. Retrieved December 2, 2022.
+"Devin Booker, Jayson Tatum named Kia Players of the Month". NBA.com
+Candidate Sentence: Retrieved February 18, 2018.
+"Westbrook's 43 points lead Thunder past Suns, 124–116". ESPN.com. March 2, 2018. Retrieved March 2, 2018.
+"Suns top Mavs 124–97 as reserves rule for lottery teams". ESPN.com. April 10, 2018. Retrieved April 10, 2018.
+"Suns' Devin Booker: Ruled out for finale". cbssports.com. April 10, 2018. Retrieved April 10, 2018.
+"Suns Sign Devin Booker to Max Contract Extension". NBA.com. July 7, 2018. Retrieved July 7, 2018.
+"Devin Booker signs 5-year, $158M max extension with Suns"

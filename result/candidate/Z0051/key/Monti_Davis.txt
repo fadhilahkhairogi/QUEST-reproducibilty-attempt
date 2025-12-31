@@ -1,0 +1,17 @@
+[name]: Monti Davis
+Key sentnce 1: Monti Davis DaMon William "Monti" Davis (born July 26, 1958 – June 4, 2013) was an American professional basketball player.
+
+[age]: 
+Key sentnce 1: Monti Davis DaMon William "Monti" Davis (born July 26, 1958 – June 4, 2013) was an American professional basketball player.
+
+[team]: 
+Key sentnce 1: In his only NBA season (1980–81), he played one game each for the Sixers and the Dallas Mavericks, tallying a total of 3 points and 4 rebounds.
+
+[draft_year]: 1980
+Key sentnce 1: Davis was selected with the 21st pick of the first round of the 1980 NBA draft by the Philadelphia 76ers.
+
+[draft_pick]: 21
+Key sentnce 1: Davis was selected with the 21st pick of the first round of the 1980 NBA draft by the Philadelphia 76ers.
+
+[college]: Tennessee State University
+Key sentnce 1: He was a 6'7" (201 cm) 205 lb (93 kg) forward and played collegiately at Tennessee State University.

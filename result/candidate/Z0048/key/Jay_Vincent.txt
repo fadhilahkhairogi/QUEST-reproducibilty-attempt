@@ -1,0 +1,17 @@
+[name]: Jay Vincent  
+Key sentnce 1: Jay Vincent Jay Fletcher Vincent (born June 10, 1959) is an American former professional basketball player.
+
+[age]:  
+Key sentnce 1: Jay Vincent Jay Fletcher Vincent (born June 10, 1959) is an American former professional basketball player.
+
+[team]: Los Angeles Lakers  
+Key sentnce 1: He played for several NBA teams, including the Dallas Mavericks, Washington Bullets, Denver Nuggets, San Antonio Spurs, Philadelphia 76ers, and Los Angeles Lakers.
+
+[draft_year]: 1981  
+Key sentnce 1: Vincent was selected 24th overall by the Dallas Mavericks in the 1981 NBA draft.
+
+[draft_pick]: 24  
+Key sentnce 1: Vincent was selected 24th overall by the Dallas Mavericks in the 1981 NBA draft.
+
+[college]: Michigan State Spartans  
+Key sentnce 1: He played college basketball for the Michigan State Spartans.

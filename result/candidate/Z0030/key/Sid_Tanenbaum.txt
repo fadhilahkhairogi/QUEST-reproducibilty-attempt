@@ -1,0 +1,8 @@
+[name]: Sidney Harold Tanenbaum  
+Key sentnce 1: Sidney Harold Tanenbaum (October 8, 1925 – September 4, 1986) was an American professional basketball player.
+
+[age]: 60  
+Key sentnce 1: Tanenbaum was murdered on September 4, 1986, aged 60, when he was stabbed to death by a local 37-year-old woman in his shop.
+
+[team]:   
+Key sentnce 1: He went on to play professionally for the New York Knicks and the Baltimore Bullets.

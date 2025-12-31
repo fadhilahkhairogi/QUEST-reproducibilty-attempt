@@ -1,0 +1,8 @@
+[name]: James Patrick Walsh  
+Key sentnce 1: James Patrick Walsh (August 29, 1930 – March 4, 1976) was an American basketball player.
+
+[age]:   
+Key sentnce 1: 
+
+[team]:   
+Key sentnce 1:

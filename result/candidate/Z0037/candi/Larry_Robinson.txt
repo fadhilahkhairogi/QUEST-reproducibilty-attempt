@@ -1,0 +1,15 @@
+name
+Candidate Sentence: He was named to the league's first and second all-star teams three times each.  His peak years were 1976–77 to 1980–81, although he had a strong comeback season at age 34 in 1985–86 when he was again named to the second all-star team and scored 82 points, just three shy of his career high of 85 (1976–77)
+
+
+age
+Candidate Sentence: Robinson recounted to journalist Scott Morrison:  Considering how long I played hockey and how many Cups I got to win as a defenseman with Montreal, it was my first Stanley Cup win as a head coach that is actually my greatest day in hockey.
+He stayed on as head coach for the next year and again guided the Devils to the Stanley Cup finals, where they lost against the Colorado Avalanche in seven games.
+Robinson was fired during the 2001–02 season, but returned as an assistant coach in February 2002 and just before the 2002–03 season to win his ninth Stanley Cup in 2003.
+When Pat Burns suffered a recurrence of cancer, Robinson again assumed the mantle of head coach on July 14, 2005
+Candidate Sentence: For his play in the National Hockey League (NHL) with the Montreal Canadiens and Los Angeles Kings, Robinson was inducted into the Hockey Hall of Fame in 1995. He was also inducted into the Ontario Sports Hall of Fame in 2014. In 2017, Robinson was named one of the "100 Greatest NHL Players"
+
+
+team
+Candidate Sentence: He played 17 seasons for the Montreal Canadiens and another three seasons for the Los Angeles Kings, until his retirement after the 1991–92 season. He won the James Norris Memorial Trophy twice (1976–77 and 1979–80) as the league's most outstanding defenceman and won the Conn Smythe Trophy as the most valuable player of the 1978 playoffs. He was named to the league's first and second all-star teams three times each
+Candidate Sentence: He was named to the league's first and second all-star teams three times each.  His peak years were 1976–77 to 1980–81, although he had a strong comeback season at age 34 in 1985–86 when he was again named to the second all-star team and scored 82 points, just three shy of his career high of 85 (1976–77)

@@ -1,0 +1,5 @@
+university_name: Cornell College
+Key sentence 1: Cornell College's ranking in the 2011 edition of Best Colleges is National Liberal Arts Colleges, 81.
+
+rank: 
+Key sentence 1: Cornell College's ranking in the 2011 edition of Best Colleges is National Liberal Arts Colleges, 81.

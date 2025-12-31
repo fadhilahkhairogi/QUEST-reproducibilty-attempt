@@ -1,0 +1,37 @@
+name
+Candidate Sentence: NBA.com. Archived from the original on May 29, 2015. Retrieved May 28, 2015.
+"Hornets vs Warriors". NBA.com. Archived from the original on January 27, 2017. Retrieved January 5, 2016.
+"Spurs vs Warriors". NBA.com. Archived from the original on April 8, 2016. Retrieved April 8, 2016.
+"Cavaliers vs Warriors". NBA.com. Archived from the original on June 3, 2016.
+"Mavericks sign forward Harrison Barnes". mavs.com. July 9, 2016
+Candidate Sentence: National Basketball Association. Retrieved May 29, 2018.
+"Lowry has 20 as Raptors win 6th straight, beat Mavs 116–107". ESPN. October 26, 2018. Retrieved October 27, 2018.
+"Barnes, Jordan star in Mavericks' 114–110 win over Clippers". ESPN. December 2, 2018. Retrieved December 3, 2018.
+"Westbrook rebounds with triple-double as Thunder beat Mavs". ESPN. December 31, 2018. Retrieved January 1, 2019.
+"Mavericks top Hornets 99–93 as Dallas deals Barnes to Kings". ESPN. February 6, 2019
+
+
+age
+Candidate Sentence: NBA.com. Archived from the original on May 29, 2015. Retrieved May 28, 2015.
+"Hornets vs Warriors". NBA.com. Archived from the original on January 27, 2017. Retrieved January 5, 2016.
+"Spurs vs Warriors". NBA.com. Archived from the original on April 8, 2016. Retrieved April 8, 2016.
+"Cavaliers vs Warriors". NBA.com. Archived from the original on June 3, 2016.
+"Mavericks sign forward Harrison Barnes". mavs.com. July 9, 2016
+Candidate Sentence: NBA.com. Archived from the original on January 18, 2018. Retrieved July 28, 2013.
+"Lillard, Carter-Williams headline 2014 Rising Stars Challenge". National Basketball Association. January 29, 2014. Retrieved April 17, 2014.
+"Team Hill at Team Webber". National Basketball Association. February 14, 2014. Archived from the original on February 15, 2014. Retrieved April 17, 2014.
+"Hawks at Warriors". NBA.com. Archived from the original on September 25, 2017. Retrieved April 3, 2015.
+"Suns at Warriors". NBA.com
+
+
+mvp_awards
+Candidate Sentence: National Basketball Association. Retrieved May 29, 2018.
+"Lowry has 20 as Raptors win 6th straight, beat Mavs 116–107". ESPN. October 26, 2018. Retrieved October 27, 2018.
+"Barnes, Jordan star in Mavericks' 114–110 win over Clippers". ESPN. December 2, 2018. Retrieved December 3, 2018.
+"Westbrook rebounds with triple-double as Thunder beat Mavs". ESPN. December 31, 2018. Retrieved January 1, 2019.
+"Mavericks top Hornets 99–93 as Dallas deals Barnes to Kings". ESPN. February 6, 2019
+Candidate Sentence: NBA.com. Archived from the original on January 18, 2018. Retrieved July 28, 2013.
+"Lillard, Carter-Williams headline 2014 Rising Stars Challenge". National Basketball Association. January 29, 2014. Retrieved April 17, 2014.
+"Team Hill at Team Webber". National Basketball Association. February 14, 2014. Archived from the original on February 15, 2014. Retrieved April 17, 2014.
+"Hawks at Warriors". NBA.com. Archived from the original on September 25, 2017. Retrieved April 3, 2015.
+"Suns at Warriors". NBA.com

@@ -1,0 +1,25 @@
+name
+Candidate Sentence: Guy Rodgers Guy William Rodgers (September 1, 1935 – February 19, 2001) was an American professional basketball player born in Philadelphia. He spent twelve years (1958–1970) in the NBA, and was one of the league's best playmakers in the early to mid-1960s.  Rodgers led the NBA in assists twice, and placed second six times. Rodgers was inducted into Naismith Memorial Basketball Hall of Fame in 2014.
+Amateur career Rodgers attended Northeast High School in Philadelphia, Pennsylvania, graduating in 1954
+
+
+draft_pick
+Candidate Sentence: He barely missed out on winning a title, however: before the following season, Rodgers retired, yet the Bucks would acquire his former teammate Oscar Robertson, and win their first NBA Championship. Rodgers remains one of the few players in NBA history to have played for at least two expansion teams during their inaugural season.
+NBA career statistics Regular season Playoffs Personal life Rodgers died on February 19, 2001, at age 65 after a heart attack
+Candidate Sentence: Rodgers was inducted into Naismith Memorial Basketball Hall of Fame in 2014.
+Amateur career Rodgers attended Northeast High School in Philadelphia, Pennsylvania, graduating in 1954. He played collegiately at Temple University from 1955 to 1958 for Hall of Fame Coach Harry Litwack.
+Rodgers led Temple to a 74–16 record and third-place finishes in the 1956 NCAA basketball tournament, 1957 National Invitation Tournament and the 1958 NCAA basketball tournament
+
+
+draft_year
+Candidate Sentence: He barely missed out on winning a title, however: before the following season, Rodgers retired, yet the Bucks would acquire his former teammate Oscar Robertson, and win their first NBA Championship. Rodgers remains one of the few players in NBA history to have played for at least two expansion teams during their inaugural season.
+NBA career statistics Regular season Playoffs Personal life Rodgers died on February 19, 2001, at age 65 after a heart attack
+Candidate Sentence: Rodgers was inducted into Naismith Memorial Basketball Hall of Fame in 2014.
+Amateur career Rodgers attended Northeast High School in Philadelphia, Pennsylvania, graduating in 1954. He played collegiately at Temple University from 1955 to 1958 for Hall of Fame Coach Harry Litwack.
+Rodgers led Temple to a 74–16 record and third-place finishes in the 1956 NCAA basketball tournament, 1957 National Invitation Tournament and the 1958 NCAA basketball tournament
+
+
+NBA_championships
+Candidate Sentence: Rodgers joined the Bucks for his two final NBA seasons, playing alongside rookie Kareem Abdul-Jabbar and helping the Bucks to their first playoff berth and first playoff series victory during the 1970 NBA playoffs. He barely missed out on winning a title, however: before the following season, Rodgers retired, yet the Bucks would acquire his former teammate Oscar Robertson, and win their first NBA Championship
+Candidate Sentence: He barely missed out on winning a title, however: before the following season, Rodgers retired, yet the Bucks would acquire his former teammate Oscar Robertson, and win their first NBA Championship. Rodgers remains one of the few players in NBA history to have played for at least two expansion teams during their inaugural season.
+NBA career statistics Regular season Playoffs Personal life Rodgers died on February 19, 2001, at age 65 after a heart attack

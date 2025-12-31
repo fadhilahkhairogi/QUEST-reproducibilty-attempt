@@ -1,0 +1,21 @@
+university_name
+Candidate Sentence: Kutztown University of Pennsylvania The Basics About Kutztown University Kutztown University is a public institution that was founded in 1866. It has a total undergraduate enrollment of 9,614, its setting is rural, and the campus size is 325 acres. It utilizes a semester-based academic calendar.  Kutztown University's ranking in the 2011 edition of Best Colleges is Regional Universities (North), 117
+Candidate Sentence: Its in-state tuition and fees are $7,732; out-of-state tuition and fees are $16,438.
+Today, Kutztown University is a modern, comprehensive institution and is accredited by the Middle States Association of Colleges and Secondary Schools, PA Department of Education, NCATE, NLNAC, CSWE, NCACE, NASM and NASAD.
+Kutztown University's picturesque 325-acre campus is located in a Pennsylvania Dutch community midway between Allentown and Reading
+
+
+rank
+Candidate Sentence: Its in-state tuition and fees are $7,732; out-of-state tuition and fees are $16,438.
+Today, Kutztown University is a modern, comprehensive institution and is accredited by the Middle States Association of Colleges and Secondary Schools, PA Department of Education, NCATE, NLNAC, CSWE, NCACE, NASM and NASAD.
+Kutztown University's picturesque 325-acre campus is located in a Pennsylvania Dutch community midway between Allentown and Reading
+Candidate Sentence: The university also offers classes during two five-week summer sessions.  The faculty is teaching-focused with scholarly expertise.  Many are engaged in research, student/faculty research, writing and consulting. There is a 19:1 student/faculty ratio.
+Kutztown has nearly 60 undergraduate majors in the Colleges of Liberal Arts and Sciences, Visual and Performing Arts, Business, and Education. There are also 19 graduate degree programs within the College of Graduate Studies and Extended Learning
+
+
+year_founded
+Candidate Sentence: Several large cities are easily accessible, including Philadelphia, New York, Baltimore, and Washington, D.C.
+KU has an enrollment of approximately 10,600 full- and part-time undergraduate and graduate students. Most are Pennsylvania residents, but students from 25 states and 50 nations are represented in the student body, which consists of 59% women, and 41% men.
+The academic year at KU consists of two 15-week terms. The university also offers classes during two five-week summer sessions
+Candidate Sentence: The library also has an endeavor integrated library system; numerous Web databases; Internet; and electronic full-text periodical databases.
+Other special facilities at KU include a gallery, planetarium, observatory, 60 student accessible computer labs containing more than 1,400 PCs/Macs, cartography lab, early learning center, smart classrooms, curriculum materials center and the Pennsylvania German Heritage Center

@@ -1,0 +1,8 @@
+[university_name]: Freed Hardeman University
+Key sentnce 1: Freed Hardeman University The Basics About Freed Hardeman University Freed Hardeman University is a private institution that was founded in 1869.
+
+[year_founded]: 1869
+Key sentnce 1: Freed Hardeman University The Basics About Freed Hardeman University Freed Hardeman University is a private institution that was founded in 1869.
+
+[rank]: 
+Key sentnce 1: Freed Hardeman University's ranking in the 2011 edition of Best Colleges is Regional Universities (South), 39.

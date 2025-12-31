@@ -1,0 +1,17 @@
+[name]: Dewayne "D. J." White, Jr.
+Key sentnce 1: Dewayne "D. J." White, Jr. (born August 31, 1986) is the general manager of the Oklahoma City Blue.
+
+[age]: 
+Key sentnce 1: Dewayne "D. J." White, Jr. (born August 31, 1986) is the general manager of the Oklahoma City Blue.
+
+[team]: 
+Key sentnce 1: Dewayne "D. J." White, Jr. (born August 31, 1986) is the general manager of the Oklahoma City Blue.
+
+[draft_year]: 2008
+Key sentnce 1: Dewayne "D. J." White, Jr. (born August 31, 1986) is the general manager of the Oklahoma City Blue.
+
+[draft_pick]: 29th
+Key sentnce 1: White was drafted with the 29th pick of the 2008 NBA draft by the Detroit Pistons and traded the same day to the Seattle SuperSonics, who were relocating to Oklahoma City.
+
+[college]: Indiana Hoosiers
+Key sentnce 1: A Hillcrest High School standout, White led all freshmen in the Big Ten Conference in scoring during his freshman season with the Indiana Hoosiers.

@@ -1,0 +1,5 @@
+Dick_Rosenthal.txt,1.5299545000000307
+Dino_Rađa.txt,2.33454549999999
+Jamal_Crawford.txt,1.7691565999999739
+Kostas_Papanikolaou.txt,0.947593999999981
+Trent_Tucker.txt,1.1572847999999567

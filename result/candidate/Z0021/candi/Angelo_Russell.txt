@@ -1,0 +1,29 @@
+name
+Candidate Sentence: D'Angelo Russell (born February 23, 1996), nicknamed "DLo", is an American professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA). He was selected as a McDonald's All-American in 2014 and played college basketball for the Ohio State Buckeyes. He was selected second overall in the 2015 NBA draft by the Lakers.
+Playing point guard, Russell was named to the NBA All-Rookie Second Team with the Lakers in 2016
+Candidate Sentence: ESPN.com. February 23, 2018. Retrieved February 24, 2018.
+"Nets, down 25 in 4th, storm back to shock Kings". ESPN.com. March 19, 2019. Retrieved March 20, 2019.
+"NBA scores, highlights, results: D'Angelo Russell scores 27 in fourth to lead Nets' comeback win; Warriors beat Wolves". CBSSports.com. Retrieved March 20, 2019.
+"Blazers lose Nurkic to severe leg injury, edge Nets in 2 OTs". ESPN.com. March 25, 2019. Retrieved March 26, 2019.
+"Russell, LeVert leads Nets to Game 1 stunner over 76ers". ESPN.com
+
+
+age
+Candidate Sentence: NBA.com. May 19, 2016. Archived from the original on May 22, 2016. Retrieved May 19, 2016.
+"Young Lakers roar past Rockets 120-114 to win Walton's debut". ESPN.com. October 26, 2016. Retrieved October 27, 2016.
+"Russell, Randle push surging Lakers past Nets, 125-118". ESPN.com. November 15, 2016. Retrieved November 16, 2016.
+"D'Angelo Russell Has PRP Injection On Left Knee". NBA.com. November 23, 2016. Retrieved November 23, 2016.
+"D'Angelo Russell Injury Update". NBA.com. January 21, 2017
+Candidate Sentence: ESPN.com. February 23, 2018. Retrieved February 24, 2018.
+"Nets, down 25 in 4th, storm back to shock Kings". ESPN.com. March 19, 2019. Retrieved March 20, 2019.
+"NBA scores, highlights, results: D'Angelo Russell scores 27 in fourth to lead Nets' comeback win; Warriors beat Wolves". CBSSports.com. Retrieved March 20, 2019.
+"Blazers lose Nurkic to severe leg injury, edge Nets in 2 OTs". ESPN.com. March 25, 2019. Retrieved March 26, 2019.
+"Russell, LeVert leads Nets to Game 1 stunner over 76ers". ESPN.com
+
+
+mvp_awards
+Candidate Sentence: He was subsequently named Eastern Conference Player of the Week for games played from Monday, January 14, through Sunday, January 20. It was his first career Player of the Week award. On February 1, 2019, he received his first All-Star selection as a replacement for the injured All-Star Victor Oladipo in the 2019 game. On February 11, he recorded 28 points and a career-high 14 assists in a 127–125 loss to the Raptors
+Candidate Sentence: ESPN.com. December 10, 2023. Retrieved December 10, 2023.
+"Jazz rally past Lakers 132-123, extending winning streak to five". ESPN.com. January 13, 2024. Retrieved January 14, 2024.
+"Lakers' D'Angelo Russell fined". nba.com. Archived from the original on January 30, 2024. Retrieved January 29, 2023.
+Bhagavatula, Martand (March 8, 2024). "Lakers Highlights: D'Angelo Russell's Game Winner Lifts LeBron-Less LA Past Bucks". Sports Illustrated. Retrieved March 9, 2024.
